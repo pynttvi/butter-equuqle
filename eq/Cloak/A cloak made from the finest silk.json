@@ -1,0 +1,12 @@
+{
+  "name": "A cloak made from the finest silk",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence pathetically.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the spell 'darkness'."
+  ],
+  "type": "Cloak"
+}

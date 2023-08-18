@@ -1,0 +1,17 @@
+{
+  "name": "The prismatic belt of rainbow colors",
+  "data": [
+    "It has magnificent armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The prismatic belt allows the wearer to 'allocate' stat points.",
+    "The wearer can use 'allocate <stat> <#> to shift the stat",
+    "bonuses of the belt around.  If the wearer wishes to reset the",
+    "maximum stats of the belt, he can grant negative stats.  The belt",
+    "never grants more than 20 in any given stat except strength,",
+    "which has a much lower statmax.   The wearer can 'belt_display'",
+    "to show how many stats the belt is currently granting."
+  ],
+  "type": "Belt"
+}

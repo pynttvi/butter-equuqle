@@ -1,0 +1,13 @@
+{
+  "name": "A long shockburned quarterstaff (2h)",
+  "data": [
+    "It has magnificent weapon class for its type (decent in general).",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases damage adequately.",
+    "It does electric damage immensely.",
+    "",
+    "- Extra -",
+    "The wielder becomes more attuned to the elemental forces."
+  ],
+  "type": "2h staff"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Red Shield of the Demon",
+  "data": [
+    "It increases the users wisdom pathetically.",
+    "It increases the users intelligence poorly.",
+    "It has weak armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Shield"
+}

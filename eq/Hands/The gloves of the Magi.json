@@ -1,0 +1,16 @@
+{
+  "name": "The gloves of the Magi",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It decreases the users dexterity poorly.",
+    "It increases the users wisdom noticably.",
+    "It increases the users intelligence noticably.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'damage analysis'.",
+    "",
+    "*----------------------------------------------------------------------*"
+  ],
+  "type": "Hands"
+}

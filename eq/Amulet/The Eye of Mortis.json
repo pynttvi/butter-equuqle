@@ -1,0 +1,15 @@
+{
+  "name": "The Eye of Mortis",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It decreases the users charisma unbelievably much.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration magnificently.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'willpower'.",
+    "It gives small bonus to the skill 'dark ritual'."
+  ],
+  "type": "Amulet"
+}

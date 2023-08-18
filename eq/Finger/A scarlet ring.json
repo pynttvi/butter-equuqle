@@ -1,0 +1,11 @@
+{
+  "name": "A scarlet ring",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

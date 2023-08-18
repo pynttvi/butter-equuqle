@@ -1,0 +1,10 @@
+{
+  "name": "A frail old breastplate",
+  "data": [
+    "It increases the users intelligence impressively.",
+    "It has feeble armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

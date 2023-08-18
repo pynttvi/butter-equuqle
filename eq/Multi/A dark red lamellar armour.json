@@ -1,0 +1,11 @@
+{
+  "name": "A dark red lamellar armour",
+  "data": [
+    "It increases the users strength pathetically.",
+    "It increases the users dexterity unnoticably.",
+    "It has superb armour class for its type (magnificent in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance a bit."
+  ],
+  "type": "Multi"
+}

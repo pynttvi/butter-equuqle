@@ -1,0 +1,11 @@
+{
+  "name": "Dragonskin leggings",
+  "data": [
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers very fast.",
+    "It increases the users cold resistance a bit.",
+    "It increases the users fire resistance a bit."
+  ],
+  "type": "Legs"
+}

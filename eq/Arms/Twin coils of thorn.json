@@ -1,0 +1,13 @@
+{
+  "name": "Twin coils of thorn",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users constitution adequately.",
+    "It has magnificent armour class for its type (little in general).",
+    "It decreases the users hitpoint regeneration adequately.",
+    "It gives great bonus to the skill 'system shock'.",
+    "This item loses its magical powers extremely fast.",
+    "It gives great bonus to the skill 'ignore pain'."
+  ],
+  "type": "Arms"
+}

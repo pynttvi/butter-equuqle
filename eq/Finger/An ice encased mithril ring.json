@@ -1,0 +1,17 @@
+{
+  "name": "An ice encased mithril ring",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users constitution somewhat.",
+    "It increases the users wisdom poorly.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "It increases the users hitpoint regeneration an average amount.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users cold resistance strongly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Finger"
+}

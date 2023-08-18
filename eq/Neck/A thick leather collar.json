@@ -1,0 +1,11 @@
+{
+  "name": "A thick leather collar",
+  "data": [
+    "It increases the users strength poorly.",
+    "It decreases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom poorly.",
+    "It decreases"
+  ],
+  "type": "Neck"
+}

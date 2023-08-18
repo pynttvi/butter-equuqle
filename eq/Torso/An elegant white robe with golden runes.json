@@ -1,0 +1,16 @@
+{
+  "name": "An elegant white robe with golden runes",
+  "data": [
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It increases the users charisma poorly.",
+    "It has tiny armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration tremendously.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users psionic resistance a bit.",
+    "It increases the users cold resistance a bit.",
+    "It increases the users fire resistance a bit.",
+    "It increases the users asphyxiation resistance a bit."
+  ],
+  "type": "Torso"
+}

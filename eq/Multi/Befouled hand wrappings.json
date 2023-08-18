@@ -1,0 +1,28 @@
+{
+  "name": "Befouled hand wrappings",
+  "data": [
+    "It increases the users strength unbelievably much.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom adequately.",
+    "It decreases the users charisma impossibly much.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration an average amount.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers very slowly.",
+    "It gives small bonus to the skill 'call for ice'.",
+    "It gives small bonus to the skill 'advanced martial arts'.",
+    "It decreases the users magical resistance somewhat.",
+    "It gives decent bonus to the skill 'martial arts'.",
+    "It gives small bonus to the skill 'call for fire'.",
+    "It gives small bonus to the skill 'call for thunder'.",
+    "It decreases the users fire resistance somewhat.",
+    "",
+    "- Extra -",
+    "Stolen from the hands of a mummy these wrappings were then enchanted with dark",
+    "magics to create an artifact that infuses the hands of a monk with elemental",
+    "powers."
+  ],
+  "type": "Multi"
+}

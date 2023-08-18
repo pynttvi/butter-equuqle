@@ -1,0 +1,9 @@
+{
+  "name": "Old looking bone (2h)",
+  "data": [
+    "It decreases hit chance adequately.",
+    "It has feeble weapon class for its type (feeble in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h bludgeon"
+}

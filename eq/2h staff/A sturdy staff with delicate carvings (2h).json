@@ -1,0 +1,10 @@
+{
+  "name": "A sturdy staff with delicate carvings (2h)",
+  "data": [
+    "It increases hit chance pathetically.",
+    "It has incredible weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage pathetically."
+  ],
+  "type": "2h staff"
+}

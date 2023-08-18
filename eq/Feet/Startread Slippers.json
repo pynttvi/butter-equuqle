@@ -1,0 +1,23 @@
+{
+  "name": "Startread Slippers",
+  "data": [
+    "It increases the users wisdom superbly.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers slowly.",
+    "It gives small bonus to the skill 'mercury lore'.",
+    "It gives small bonus to the skill 'jupiter lore'.",
+    "It gives small bonus to the skill 'neptune lore'.",
+    "It gives small bonus to the skill 'venus lore'.",
+    "It gives small bonus to the skill 'sun lore'.",
+    "It gives small bonus to the skill 'saturn lore'.",
+    "It gives small bonus to the skill 'uranus lore'.",
+    "It gives small bonus to the skill 'mars lore'.",
+    "It gives small bonus to the skill 'pluto lore'.",
+    "",
+    "- Extra -",
+    "The slippers attune the wearer to the cosmos, enhancing the effects",
+    "of celestial conjunctions."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Amulet of the Wolf <tm> (dusty)",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity somewhat.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers fast."
+  ],
+  "type": "Amulet"
+}

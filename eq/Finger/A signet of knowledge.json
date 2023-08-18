@@ -1,0 +1,14 @@
+{
+  "name": "A signet of knowledge",
+  "data": [
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration strongly.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "The wearer of the signet learns more from his experiences."
+  ],
+  "type": "Finger"
+}

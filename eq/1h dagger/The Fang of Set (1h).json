@@ -1,0 +1,15 @@
+{
+  "name": "The Fang of Set (1h)",
+  "data": [
+    "It increases hit chance adequately.",
+    "It has good weapon class for its type (feeble in general).",
+    "It does poison damage strongly.",
+    "It increases the users poison resistance strongly.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It modifies the user's resistance to poison damage.",
+    "It modifies the user's ability to hit."
+  ],
+  "type": "1h dagger"
+}

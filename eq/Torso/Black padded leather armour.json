@@ -1,0 +1,15 @@
+{
+  "name": "Black padded leather armour",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity impressively.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has great armour class for its type (adequate in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers extremely fast.",
+    "It gives decent bonus to the skill 'hiding'."
+  ],
+  "type": "Torso"
+}

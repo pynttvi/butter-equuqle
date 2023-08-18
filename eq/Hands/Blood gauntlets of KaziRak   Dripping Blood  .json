@@ -1,0 +1,12 @@
+{
+  "name": "Blood gauntlets of KaziRak < Dripping Blood >",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity somewhat.",
+    "It increases the users constitution pathetically.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Hands"
+}

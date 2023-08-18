@@ -1,0 +1,10 @@
+{
+  "name": "A black and red cloak",
+  "data": [
+    "It decreases the users wisdom pathetically.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Cloak"
+}

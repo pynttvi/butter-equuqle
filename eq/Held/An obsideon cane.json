@@ -1,0 +1,15 @@
+{
+  "name": "An obsideon cane",
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It decreases the users wisdom a good amount.",
+    "It increases the users intelligence adequately.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance strongly.",
+    "",
+    "- Extra -",
+    "This object has hidden magical properties."
+  ],
+  "type": "Held"
+}

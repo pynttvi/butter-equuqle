@@ -1,0 +1,16 @@
+{
+  "name": "The Mantle of the Rising Sun",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution impressively.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers very slowly.",
+    "",
+    "- Extra -",
+    "The Mantle of the Rising Sun affects its user's physical resistance."
+  ],
+  "type": "Cloak"
+}

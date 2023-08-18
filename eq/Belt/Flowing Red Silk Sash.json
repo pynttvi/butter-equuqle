@@ -1,0 +1,19 @@
+{
+  "name": "Flowing Red Silk Sash",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers very slowly.",
+    "",
+    "- Extra -",
+    "The Flowing Red Silk Sash speeds its user's combat.",
+    "The Flowing Red Silk Sash is an artifact of Kirvana."
+  ],
+  "type": "Belt"
+}

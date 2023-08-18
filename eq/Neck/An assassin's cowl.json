@@ -1,0 +1,14 @@
+{
+  "name": "An assassin's cowl",
+  "data": [
+    "It increases the users dexterity a good amount.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "It increases the users hitpoints pathetically.",
+    "It gives nice bonus to the skill 'master tumbler'.",
+    "This item loses its magical powers with average speed.",
+    "It gives nice bonus to the skill 'tumble'.",
+    "It gives nice bonus to the skill 'dodge'."
+  ],
+  "type": "Neck"
+}

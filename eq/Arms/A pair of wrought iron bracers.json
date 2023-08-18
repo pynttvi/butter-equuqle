@@ -1,0 +1,14 @@
+{
+  "name": "A pair of wrought iron bracers",
+  "data": [
+    "It decreases the users strength pitifully.",
+    "It increases the users dexterity poorly.",
+    "It increases the users wisdom adequately.",
+    "It decreases the users intelligence a bit.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It gives small bonus to the skill 'greater vulnerability'.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Arms"
+}

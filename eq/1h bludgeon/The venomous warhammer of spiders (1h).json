@@ -1,0 +1,17 @@
+{
+  "name": "The venomous warhammer of spiders (1h)",
+  "data": [
+    "It decreases hit chance somewhat.",
+    "It has magnificent weapon class for its type (nice in general).",
+    "It increases the users strength slightly.",
+    "It increases the users constitution slightly.",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage incredibly.",
+    "It does poison damage incredibly.",
+    "",
+    "- Extra -",
+    "Its hits can cause nasty bites like spiders."
+  ],
+  "type": "1h bludgeon"
+}

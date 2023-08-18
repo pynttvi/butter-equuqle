@@ -1,0 +1,11 @@
+{
+  "name": "A black shield",
+  "data": [
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution pitifully.",
+    "It has adequate armour class for its type (little in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance strongly."
+  ],
+  "type": "Shield"
+}

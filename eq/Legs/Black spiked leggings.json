@@ -1,0 +1,13 @@
+{
+  "name": "Black spiked leggings",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It decreases the users constitution unnoticably.",
+    "It increases the users wisdom pathetically.",
+    "It increases the users intelligence somewhat.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

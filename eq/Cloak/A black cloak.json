@@ -1,0 +1,15 @@
+{
+  "name": "A black cloak",
+  "data": [
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It will affect the user's concentration.",
+    "",
+    "",
+    "*----------------------------------------------------------------------*"
+  ],
+  "type": "Cloak"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "A purple mushroom ring <glittering>",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users wisdom a good amount.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

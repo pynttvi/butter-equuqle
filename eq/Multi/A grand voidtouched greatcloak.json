@@ -1,0 +1,20 @@
+{
+  "name": "A grand voidtouched greatcloak",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users dexterity impressively.",
+    "It increases the users constitution impressively.",
+    "It increases the users wisdom impressively.",
+    "It increases the users intelligence impressively.",
+    "It decreases the users charisma colossally.",
+    "It has low armour class for its type (average in general).",
+    "It increases the users spellpoint regeneration unbelievably much.",
+    "It increases the users hitpoint regeneration unbelievably much.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users asphyxiation resistance superbly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Multi"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Old cloth work gloves",
+  "data": [
+    "It decreases the users strength pitifully.",
+    "It decreases the users dexterity pitifully.",
+    "It increases the users constitution pitifully.",
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence pitifully.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It gives small bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers with average speed.",
+    "It decreases the users fire resistance strongly."
+  ],
+  "type": "Hands"
+}

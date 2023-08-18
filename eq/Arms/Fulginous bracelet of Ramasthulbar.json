@@ -1,0 +1,13 @@
+{
+  "name": "Fulginous bracelet of Ramasthulbar",
+  "data": [
+    "It increases the users wisdom somewhat.",
+    "It decreases the users intelligence somewhat.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'earth lore'.",
+    "It gives small bonus to the skill 'air lore'."
+  ],
+  "type": "Arms"
+}

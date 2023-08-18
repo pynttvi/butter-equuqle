@@ -1,0 +1,15 @@
+{
+  "name": "A tarnished brass compass",
+  "data": [
+    "It increases the users wisdom a good amount.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration a bit.",
+    "This item loses its magical powers very fast.",
+    "It gives awesome bonus to the skill 'navigators way'.",
+    "",
+    "- Extra -",
+    "The compass allows the user to maintain directional orientation,",
+    "even when cloud cover prevents celestial navigation."
+  ],
+  "type": "Held"
+}

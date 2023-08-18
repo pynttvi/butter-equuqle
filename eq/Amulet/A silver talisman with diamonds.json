@@ -1,0 +1,13 @@
+{
+  "name": "A silver talisman with diamonds",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users intelligence adequately.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users acid resistance somewhat."
+  ],
+  "type": "Amulet"
+}

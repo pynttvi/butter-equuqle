@@ -1,0 +1,15 @@
+{
+  "name": "Tungsten bracers",
+  "data": [
+    "It decreases the users dexterity pathetically.",
+    "It increases the users constitution a tiny bit.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'.",
+    "",
+    "- Extra -",
+    "It affects the user's skill knowledge."
+  ],
+  "type": "Arms"
+}

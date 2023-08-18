@@ -1,0 +1,9 @@
+{
+  "name": "An ordinary looking stone helmet",
+  "data": [
+    "It increases the users constitution pathetically.",
+    "It has low armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

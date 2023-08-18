@@ -1,0 +1,15 @@
+{
+  "name": "Leprachaun Staff of Aggression (1h)",
+  "data": [
+    "It increases hit chance adequately.",
+    "It has ILLEGAL weapon class for its type (mediocre in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It does poison damage adequately.",
+    "",
+    "- Extra -",
+    "It modifies the user's mana regeneration.",
+    "It has special instrict powers depending on wielders power."
+  ],
+  "type": "1h staff"
+}

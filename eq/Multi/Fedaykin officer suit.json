@@ -1,0 +1,17 @@
+{
+  "name": "Fedaykin officer suit",
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution pathetically.",
+    "It has low armour class for its type (average in general).",
+    "It decreases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration nicely.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance strongly.",
+    "",
+    "- Extra -",
+    "It emits darkness.",
+    "It modifies the user's resistance to acid damage."
+  ],
+  "type": "Multi"
+}

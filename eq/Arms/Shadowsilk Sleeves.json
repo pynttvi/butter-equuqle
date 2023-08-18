@@ -1,0 +1,15 @@
+{
+  "name": "Shadowsilk Sleeves",
+  "data": [
+    "It increases the users dexterity incredibly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'hiding'.",
+    "It gives decent bonus to the skill 'doublehit'.",
+    "",
+    "- Extra -",
+    "The sleeves are tipped with gnarled spinnerets that can 'enmesh'",
+    "opponents in shadowsilk webs."
+  ],
+  "type": "Arms"
+}

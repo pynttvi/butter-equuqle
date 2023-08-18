@@ -1,0 +1,19 @@
+{
+  "name": "A shining silvery eyeball of the Lavaworm",
+  "data": [
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution adequately.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance a bit.",
+    "It increases the users magical resistance a bit.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users electric resistance a bit.",
+    "",
+    "- Extra -",
+    "It can create magical fields which will disrupt all spellcasting in its vicinity."
+  ],
+  "type": "Held"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Speed shoes of Karbitsch",
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It increases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration pathetically.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "The Sceptre of Spells",
+  "data": [
+    "It increases the users intelligence somewhat.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It gives decent bonus to the spell 'magic missile'.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Held"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Demon skin boots",
+  "data": [
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

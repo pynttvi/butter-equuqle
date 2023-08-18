@@ -1,0 +1,14 @@
+{
+  "name": "Headdress of Darkness [Pulsating]",
+  "data": [
+    "It increases the users strength pathetically.",
+    "It increases the users wisdom pitifully.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users electric resistance a bit.",
+    "It increases the users acid resistance a bit.",
+    "It increases the users asphyxiation resistance a bit."
+  ],
+  "type": "Head"
+}

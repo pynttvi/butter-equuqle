@@ -1,0 +1,19 @@
+{
+  "name": "A light green toxin infused leather hood",
+  "data": [
+    "It decreases the users strength adequately.",
+    "It increases the users dexterity monumentally.",
+    "It decreases the users wisdom adequately.",
+    "It increases the users intelligence unbelievably much.",
+    "It increases the users charisma impossibly much.",
+    "It has excellent armour class for its type (adequate in general).",
+    "It increases the users spellpoint regeneration phenomenally.",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance superbly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Multi"
+}

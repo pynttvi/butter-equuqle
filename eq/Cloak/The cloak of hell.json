@@ -1,0 +1,13 @@
+{
+  "name": "The cloak of hell",
+  "data": [
+    "It decreases the users strength a tiny bit.",
+    "It increases the users constitution pathetically.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence pathetically.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers very fast."
+  ],
+  "type": "Cloak"
+}

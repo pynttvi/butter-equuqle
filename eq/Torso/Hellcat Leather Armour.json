@@ -1,0 +1,15 @@
+{
+  "name": "Hellcat Leather Armour",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution pitifully.",
+    "It decreases the users wisdom pitifully.",
+    "It decreases the users intelligence pitifully.",
+    "It has great armour class for its type (adequate in general).",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat."
+  ],
+  "type": "Torso"
+}

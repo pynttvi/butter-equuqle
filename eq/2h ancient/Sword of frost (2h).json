@@ -1,0 +1,9 @@
+{
+  "name": "Sword of frost (2h)",
+  "data": [
+    "It has low weapon class for its type (weak in general).",
+    "This item loses its magical powers with average speed.",
+    "It does cold damage a tiny bit."
+  ],
+  "type": "2h ancient"
+}

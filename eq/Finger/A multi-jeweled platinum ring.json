@@ -1,0 +1,10 @@
+{
+  "name": "A multi-jeweled platinum ring",
+  "data": [
+    "It increases the users intelligence somewhat.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Charon's pair of pitch black boots",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution somewhat.",
+    "It decreases the users wisdom a tiny bit.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "The boots of the miles walked",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence poorly.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'razor edge'.",
+    "It gives small bonus to the spell 'lightsword'."
+  ],
+  "type": "Feet"
+}

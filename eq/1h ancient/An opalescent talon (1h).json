@@ -1,0 +1,18 @@
+{
+  "name": "An opalescent talon (1h)",
+  "data": [
+    "It has good weapon class for its type (low in general).",
+    "It increases the users constitution poorly.",
+    "It increases the users wisdom impressively.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers very slowly.",
+    "It gives decent bonus to the skill 'channel life'.",
+    "It increases the users magical resistance somewhat.",
+    "It does magical damage a good amount.",
+    "",
+    "- Extra -",
+    "The hollow shaft of the talon is an ideal conduit for channeling energy."
+  ],
+  "type": "1h ancient"
+}

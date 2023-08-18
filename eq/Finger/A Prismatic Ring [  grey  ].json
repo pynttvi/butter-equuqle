@@ -1,0 +1,18 @@
+{
+  "name": "A Prismatic Ring [<*grey*>]",
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It decreases the users dexterity pathetically.",
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence pitifully.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users acid resistance adequately.",
+    "",
+    "- Extra -",
+    "The Prismatic ring alters the wearer's resistances.",
+    "The Prismatic ring will change from resistance to resistance."
+  ],
+  "type": "Finger"
+}

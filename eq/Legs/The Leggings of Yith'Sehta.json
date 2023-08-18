@@ -1,0 +1,15 @@
+{
+  "name": "The Leggings of Yith'Sehta",
+  "data": [
+    "It decreases the users strength somewhat.",
+    "It increases the users constitution superbly.",
+    "It has excellent armour class for its type (feeble in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'inner strength'.",
+    "",
+    "- Extra -",
+    "The leggings of Yith'Sehta lends superior healing to the wearer.",
+    "The leggings of Yith'Sehta add stability to the wearer."
+  ],
+  "type": "Legs"
+}

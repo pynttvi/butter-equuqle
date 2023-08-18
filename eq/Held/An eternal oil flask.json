@@ -1,0 +1,9 @@
+{
+  "name": "An eternal oil flask",
+  "data": [
+    "It has decent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Held"
+}

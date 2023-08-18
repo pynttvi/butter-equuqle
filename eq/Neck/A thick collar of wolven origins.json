@@ -1,0 +1,18 @@
+{
+  "name": "A thick collar of wolven origins",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom adequately.",
+    "It decreases the users intelligence poorly.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The wolven collar can sometimes protect its wearer from werecurses."
+  ],
+  "type": "Neck"
+}

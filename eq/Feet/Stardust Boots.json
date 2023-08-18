@@ -1,0 +1,21 @@
+{
+  "name": "Stardust Boots",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom pathetically.",
+    "It decreases the users intelligence poorly.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers very slowly.",
+    "It gives small bonus to the skill 'stun'.",
+    "",
+    "- Extra -",
+    "Stardust boots are a holy artifact of the goddess Kirvana.",
+    "Stardust boots cause the wearer to randomly kick in combat.",
+    "Stardust boots allow the wearer to 'warp'"
+  ],
+  "type": "Feet"
+}

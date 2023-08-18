@@ -1,0 +1,10 @@
+{
+  "name": "The amulet of stone to flesh",
+  "data": [
+    "It increases the users intelligence poorly.",
+    "It has low armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Amulet"
+}

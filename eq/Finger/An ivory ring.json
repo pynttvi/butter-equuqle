@@ -1,0 +1,11 @@
+{
+  "name": "An ivory ring",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'harm body'."
+  ],
+  "type": "Finger"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Scab-encrusted talons",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity impressively.",
+    "It decreases the users constitution poorly.",
+    "It decreases the users charisma adequately.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives nice bonus to the skill 'advanced martial arts'.",
+    "It gives nice bonus to the skill 'critical'.",
+    "",
+    "- Extra -",
+    "Wounds made by the talons can easily become infected."
+  ],
+  "type": "Feet"
+}

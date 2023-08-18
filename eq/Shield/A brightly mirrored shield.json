@@ -1,0 +1,13 @@
+{
+  "name": "A brightly mirrored shield",
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It increases the users dexterity pathetically.",
+    "It decreases the users constitution unnoticably.",
+    "It increases the users wisdom unnoticably.",
+    "It has little armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Shield"
+}

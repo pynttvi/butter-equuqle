@@ -1,0 +1,12 @@
+{
+  "name": "A heavy ring made out of gold",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution pathetically.",
+    "It decreases the users wisdom a tiny bit.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

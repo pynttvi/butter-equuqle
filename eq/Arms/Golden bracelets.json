@@ -1,0 +1,11 @@
+{
+  "name": "Golden bracelets",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users intelligence pitifully.",
+    "It has low armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Arms"
+}

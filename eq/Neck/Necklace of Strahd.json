@@ -1,0 +1,11 @@
+{
+  "name": "Necklace of Strahd",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution nicely.",
+    "It decreases the users wisdom poorly.",
+    "It decreases"
+  ],
+  "type": "Neck"
+}

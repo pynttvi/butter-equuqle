@@ -1,0 +1,20 @@
+{
+  "name": "Robes of Jaundice",
+  "data": [
+    "It increases the users wisdom impressively.",
+    "It increases the users intelligence ILLEGALLY.",
+    "It decreases the users charisma ILLEGALLY.",
+    "It has excellent armour class for its type (magnificent in general).",
+    "It increases the users spellpoint regeneration ILLEGALLY.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users psionic resistance somewhat.",
+    "It increases the users physical resistance adequately.",
+    "It increases the users acid resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat.",
+    "",
+    "- Extra -",
+    "The ample folds of the robes provide room to embed additional shards."
+  ],
+  "type": "Multi"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "The black boots of thievery",
+  "data": [
+    "It increases the users dexterity slightly.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

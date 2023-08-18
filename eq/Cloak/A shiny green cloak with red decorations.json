@@ -1,0 +1,12 @@
+{
+  "name": "A shiny green cloak with red decorations",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users intelligence adequately.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Cloak"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "A small hammer (2h)",
+  "data": [
+    "It has feeble weapon class for its type (feeble in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage a tiny bit."
+  ],
+  "type": "2h bludgeon"
+}

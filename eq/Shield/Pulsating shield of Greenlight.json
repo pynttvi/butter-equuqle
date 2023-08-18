@@ -1,0 +1,14 @@
+{
+  "name": "Pulsating shield of Greenlight",
+  "data": [
+    "It decreases the users wisdom adequately.",
+    "It decreases the users intelligence adequately.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It modifies it's user's physical resistance."
+  ],
+  "type": "Shield"
+}

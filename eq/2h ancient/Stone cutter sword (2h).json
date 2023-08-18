@@ -1,0 +1,9 @@
+{
+  "name": "Stone cutter sword (2h)",
+  "data": [
+    "It has low weapon class for its type (weak in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage somewhat."
+  ],
+  "type": "2h ancient"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "An adamant maul called 'Skullsmasher' (2h)",
+  "data": [
+    "It decreases hit chance somewhat.",
+    "It has impressive weapon class for its type (impressive in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage a good amount.",
+    "It does asphyxiation damage a good amount."
+  ],
+  "type": "2h bludgeon"
+}

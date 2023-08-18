@@ -1,0 +1,16 @@
+{
+  "name": "A magical wand of glow restoration <5>",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "-------------------------------------------------------------------",
+    "This wand can be used to restore an item to brilliant glow. Yet due",
+    "to the chaotic nature of the restore spell you might not always get",
+    "what you wish for, if the item in question happens to have random",
+    "stats.",
+    "-------------------------------------------------------------------"
+  ],
+  "type": "Held"
+}

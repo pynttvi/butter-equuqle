@@ -1,0 +1,13 @@
+{
+  "name": "Death Scythe (2h)",
+  "data": [
+    "It has impressive weapon class for its type (great in general).",
+    "This item loses its magical powers with average speed.",
+    "It does cold damage somewhat.",
+    "",
+    "- Extra -",
+    "User must be evil aligned.",
+    "It emits darkness."
+  ],
+  "type": "2h ancient"
+}

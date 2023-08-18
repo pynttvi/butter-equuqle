@@ -1,0 +1,16 @@
+{
+  "name": "A large granite shield surrounded by darkness",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users constitution a good amount.",
+    "It has excellent armour class for its type (feeble in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance somewhat.",
+    "It gives small bonus to the skill 'parry'.",
+    "It gives small bonus to the skill 'dodge'.",
+    "",
+    "- Extra -",
+    "This shield is empowered with raging energies."
+  ],
+  "type": "Shield"
+}

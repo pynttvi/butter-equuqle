@@ -1,0 +1,11 @@
+{
+  "name": "Ancient wyvernscale belt",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity slightly.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'spot weakness'."
+  ],
+  "type": "Belt"
+}

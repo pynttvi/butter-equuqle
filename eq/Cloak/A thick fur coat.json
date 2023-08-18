@@ -1,0 +1,18 @@
+{
+  "name": "A thick fur coat",
+  "data": [
+    "It decreases the users dexterity pitifully.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users hitpoints pathetically.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance strongly.",
+    "It gives tiny bonus to the skill 'ignore pain'.",
+    "",
+    "- Extra -",
+    "Thick fur coat affects its user's resistance against cold.",
+    "Thick fur coat affects its user's hit points.",
+    "Thick fur coat affects its user's skills."
+  ],
+  "type": "Cloak"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "A round wooden shield, reinforced with steel bands",
+  "data": [
+    "It has weak armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Shield"
+}

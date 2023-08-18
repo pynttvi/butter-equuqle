@@ -1,0 +1,14 @@
+{
+  "name": "A thick mithril band",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity a bit.",
+    "It increases the users constitution a good amount.",
+    "It decreases the users wisdom pathetically.",
+    "It decreases the users intelligence pathetically.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers somewhat faster than avarage."
+  ],
+  "type": "Belt"
+}

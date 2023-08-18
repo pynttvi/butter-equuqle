@@ -1,0 +1,11 @@
+{
+  "name": "A simple looking brown robes",
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It increases the users constitution unnoticably.",
+    "It increases the users wisdom pitifully.",
+    "It has pathetic armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Multi"
+}

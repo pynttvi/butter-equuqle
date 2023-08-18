@@ -1,0 +1,17 @@
+{
+  "name": "Oaken staff (2h)",
+  "data": [
+    "It has little weapon class for its type (pathetic in general).",
+    "It decreases the users strength a tiny bit.",
+    "It decreases the users dexterity a tiny bit.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'mastery of shielding'.",
+    "",
+    "- Extra -",
+    "It affects the skill mastery of shielding."
+  ],
+  "type": "2h staff"
+}

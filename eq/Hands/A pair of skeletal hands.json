@@ -1,0 +1,21 @@
+{
+  "name": "A pair of skeletal hands",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users dexterity impressively.",
+    "It increases the users constitution adequately.",
+    "It decreases the users charisma adequately.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoints adequately.",
+    "It increases the users spellpoint regeneration poorly.",
+    "It gives small bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives small bonus to the skill 'throw'.",
+    "It gives small bonus to the skill 'acrobatics'.",
+    "It gives small bonus to the skill 'juggling'.",
+    "",
+    "- Extra -",
+    "The hands assist in the conjuring and handling of magical projectiles."
+  ],
+  "type": "Hands"
+}

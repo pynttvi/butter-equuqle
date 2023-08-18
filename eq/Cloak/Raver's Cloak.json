@@ -1,0 +1,13 @@
+{
+  "name": "Raver's Cloak",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It decreases the users dexterity unnoticably.",
+    "It increases the users constitution pitifully.",
+    "It decreases the users wisdom unnoticably.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Cloak"
+}

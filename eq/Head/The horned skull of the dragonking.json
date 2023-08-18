@@ -1,0 +1,15 @@
+{
+  "name": "The horned skull of the dragonking",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance adequately.",
+    "It increases the users magical resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Head"
+}

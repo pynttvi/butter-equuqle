@@ -1,0 +1,14 @@
+{
+  "name": "The cloak of dark powers",
+  "data": [
+    "It decreases the users constitution pitifully.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has superb armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'demon and devil lore'.",
+    "It gives tiny bonus to the skill 'soul manipulation'."
+  ],
+  "type": "Cloak"
+}

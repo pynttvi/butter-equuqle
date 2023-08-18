@@ -1,0 +1,16 @@
+{
+  "name": "A set of tattooed trollskin armbands",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The wearer of the trollskin bracers can 'regenerate'."
+  ],
+  "type": "Arms"
+}

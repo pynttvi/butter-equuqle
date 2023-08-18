@@ -1,0 +1,12 @@
+{
+  "name": "A black leather cloak adorned with silver runes",
+  "data": [
+    "It increases the users wisdom like a god.",
+    "It decreases the users intelligence poorly.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance somewhat."
+  ],
+  "type": "Cloak"
+}

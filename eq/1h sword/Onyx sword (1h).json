@@ -1,0 +1,11 @@
+{
+  "name": "Onyx sword (1h)",
+  "data": [
+    "It increases hit chance tremendously.",
+    "It has magnificent weapon class for its type (good in general).",
+    "It does electric damage adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage somewhat."
+  ],
+  "type": "1h sword"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "The bloodred armplates of Hell",
+  "data": [
+    "It increases the users strength noticably.",
+    "It increases the users dexterity slightly.",
+    "It decreases the users intelligence adequately.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly."
+  ],
+  "type": "Arms"
+}

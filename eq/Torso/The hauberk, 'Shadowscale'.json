@@ -1,0 +1,16 @@
+{
+  "name": "The hauberk, 'Shadowscale'",
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It increases the users intelligence adequately.",
+    "It has great armour class for its type (adequate in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives decent bonus to the skill 'sneak'.",
+    "It increases the users shadow resistance somewhat.",
+    "It decreases the users fire resistance strongly.",
+    "It gives decent bonus to the skill 'hiding'.",
+    "It increases the users magical resistance somewhat."
+  ],
+  "type": "Torso"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "A shard of the Illearth Stone",
+  "data": [
+    "It increases the users intelligence poorly.",
+    "It has little armour class for its type (pathetic in general).",
+    "It gives small bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'quick chant'."
+  ],
+  "type": "Held"
+}

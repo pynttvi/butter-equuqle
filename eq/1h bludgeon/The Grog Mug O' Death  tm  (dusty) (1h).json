@@ -1,0 +1,19 @@
+{
+  "name": "The Grog Mug O' Death <tm> (dusty) (1h)",
+  "data": [
+    "It decreases hit chance adequately.",
+    "It has great weapon class for its type (average in general).",
+    "It increases the users strength pathetically.",
+    "It increases the users constitution pathetically.",
+    "This item loses its magical powers fast.",
+    "It increases damage a good amount.",
+    "It does poison damage adequately.",
+    "",
+    "- Extra -",
+    "This weapon will affect the users constitution.",
+    "This weapon will affect the users strength.",
+    "This weapon does much more damage than normal weapons.",
+    "This weapon will increase the users overall power."
+  ],
+  "type": "1h bludgeon"
+}

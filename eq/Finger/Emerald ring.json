@@ -1,0 +1,13 @@
+{
+  "name": "Emerald ring",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users electric resistance somewhat.",
+    "",
+    "- Extra -",
+    "This object has hidden magical properties."
+  ],
+  "type": "Finger"
+}

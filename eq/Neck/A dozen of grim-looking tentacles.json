@@ -1,0 +1,27 @@
+{
+  "name": "A dozen of grim-looking tentacles",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity slightly.",
+    "It increases the users constitution impossibly much.",
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence slightly.",
+    "It decreases the users charisma unbelievably much.",
+    "It has awesome armour class for its type (little in general).",
+    "It increases the users hitpoints unbelievably much.",
+    "It increases the users spellpoint regeneration impressively.",
+    "It increases the users hitpoint regeneration poorly.",
+    "It gives great bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives small bonus to the skill 'parry'.",
+    "It increases the users fire resistance adequately.",
+    "It increases the users shadow resistance adequately.",
+    "It gives great bonus to the skill 'pick locks'.",
+    "It gives small bonus to the skill 'dodge'.",
+    "It increases the users asphyxiation resistance adequately.",
+    "",
+    "- Extra -",
+    "It's OUT of TUNE and that's BAD for you!"
+  ],
+  "type": "Neck"
+}

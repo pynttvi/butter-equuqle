@@ -1,0 +1,10 @@
+{
+  "name": "Black thrull armour",
+  "data": [
+    "It increases the users strength adequately.",
+    "It has nice armour class for its type (adequate in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "A dark shield",
+  "data": [
+    "It decreases the users strength pitifully.",
+    "It decreases the users constitution pitifully.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence nicely.",
+    "It has nice armour class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Shield"
+}

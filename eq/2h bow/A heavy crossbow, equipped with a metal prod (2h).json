@@ -1,0 +1,8 @@
+{
+  "name": "A heavy crossbow, equipped with a metal prod (2h)",
+  "data": [
+    "It has ILLEGAL weapon class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h bow"
+}

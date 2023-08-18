@@ -1,0 +1,12 @@
+{
+  "name": "A long golden robe",
+  "data": [
+    "It has little armour class for its type (little in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance somewhat.",
+    "",
+    "- Extra -",
+    "It has been enchanted to provide strong magical resistance to its wearer."
+  ],
+  "type": "Torso"
+}

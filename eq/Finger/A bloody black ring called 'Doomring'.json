@@ -1,0 +1,11 @@
+{
+  "name": "A bloody black ring called 'Doomring'",
+  "data": [
+    "It increases the users constitution a tiny bit.",
+    "It increases the users intelligence strongly.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

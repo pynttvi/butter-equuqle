@@ -1,0 +1,11 @@
+{
+  "name": "The Sceptre of the Prodigy (1h)",
+  "data": [
+    "It has decent weapon class for its type (little in general).",
+    "It increases the users intelligence adequately.",
+    "It increases the users spellpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It does poison damage a bit."
+  ],
+  "type": "1h staff"
+}

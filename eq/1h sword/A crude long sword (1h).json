@@ -1,0 +1,8 @@
+{
+  "name": "A crude long sword (1h)",
+  "data": [
+    "It has average weapon class for its type (weak in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "1h sword"
+}

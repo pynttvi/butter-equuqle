@@ -1,0 +1,14 @@
+{
+  "name": "A blue field plate",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity pathetically.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has superb armour class for its type (superb in general).",
+    "It decreases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'inner strength'."
+  ],
+  "type": "Multi"
+}

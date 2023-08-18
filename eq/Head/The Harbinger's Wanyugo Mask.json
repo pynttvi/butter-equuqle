@@ -1,0 +1,13 @@
+{
+  "name": "The Harbinger's Wanyugo Mask",
+  "data": [
+    "It increases the users wisdom magnificently.",
+    "It decreases the users intelligence somewhat.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives nice bonus to the skill 'arcane lore'."
+  ],
+  "type": "Head"
+}

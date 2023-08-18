@@ -1,0 +1,17 @@
+{
+  "name": "A creepy necklace with a green eyeball",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution a good amount.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence pathetically.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'nerve mastery'.",
+    "It gives decent bonus to the spell 'iron will'."
+  ],
+  "type": "Neck"
+}

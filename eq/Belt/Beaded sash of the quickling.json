@@ -1,0 +1,14 @@
+{
+  "name": "Beaded sash of the quickling",
+  "data": [
+    "It increases the users dexterity strongly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers somewhat faster than average.",
+    "It gives nice bonus to the skill 'doublehit'.",
+    "It gives nice bonus to the skill 'whirlwind attack'.",
+    "",
+    "- Extra -",
+    "The sash occasionally quickens the attacks of the wearer."
+  ],
+  "type": "Belt"
+}

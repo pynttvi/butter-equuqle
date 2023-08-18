@@ -1,0 +1,16 @@
+{
+  "name": "Jet black scythe (1h)",
+  "data": [
+    "It increases hit chance impressively.",
+    "It has adequate weapon class for its type (weak in general).",
+    "It increases the users wisdom impressively.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage poorly.",
+    "It does acid damage a bit.",
+    "",
+    "- Extra -",
+    "It emits darkness.",
+    "It modifies the user's wisdom."
+  ],
+  "type": "1h polearm"
+}

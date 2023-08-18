@@ -1,0 +1,11 @@
+{
+  "name": "A curly white wig",
+  "data": [
+    "It increases the users wisdom unnoticably.",
+    "It increases the users intelligence unnoticably.",
+    "It has little armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

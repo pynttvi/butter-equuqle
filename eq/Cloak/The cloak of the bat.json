@@ -1,0 +1,18 @@
+{
+  "name": "The cloak of the bat",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It increases the users dexterity pitifully.",
+    "It increases the users constitution pitifully.",
+    "It increases the users wisdom a tiny bit.",
+    "It increases the users intelligence a tiny bit.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It allows polymorphing."
+  ],
+  "type": "Cloak"
+}

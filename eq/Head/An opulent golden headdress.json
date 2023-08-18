@@ -1,0 +1,19 @@
+{
+  "name": "An opulent golden headdress",
+  "data": [
+    "It decreases the users strength pitifully.",
+    "It increases the users constitution pitifully.",
+    "It increases the users wisdom a good amount.",
+    "It increases the users charisma a bit.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance adequately.",
+    "It gives decent bonus to the skill 'flow of life'.",
+    "It gives decent bonus to the skill 'healing efficiency'.",
+    "",
+    "- Extra -",
+    "The headdress quickens and sharpens the mind of the wearer."
+  ],
+  "type": "Head"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "The Gleeman's Cloak",
+  "data": [
+    "It increases the users dexterity poorly.",
+    "It has adequate armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'juggling'."
+  ],
+  "type": "Cloak"
+}

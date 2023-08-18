@@ -1,0 +1,15 @@
+{
+  "name": "The damned leggings of Lucifer",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users dexterity poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has superb armour class for its type (poor in general).",
+    "It gives small bonus to the skill 'strike mighty blow'.",
+    "It decreases the users spellpoint regeneration pathetically.",
+    "It increases the users hitpoint regeneration nicely.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'overhead swing'."
+  ],
+  "type": "Legs"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ring of the Tower",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence poorly.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'essence eye'."
+  ],
+  "type": "Finger"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "A black breasplate with a white skull on it",
+  "data": [
+    "It increases the users constitution impressively.",
+    "It has magnificent armour class for its type (excellent in general).",
+    "It increases the users hitpoint regeneration impressively.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Torso"
+}

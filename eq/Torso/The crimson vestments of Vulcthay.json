@@ -1,0 +1,16 @@
+{
+  "name": "The crimson vestments of Vulcthay",
+  "data": [
+    "It decreases the users wisdom adequately.",
+    "It increases the users intelligence unbelievably much.",
+    "It decreases the users charisma unbelievably much.",
+    "It has feeble armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration unbelievably much.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives small bonus to the skill 'stunning blow'.",
+    "It gives small bonus to the skill 'channel power'.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Torso"
+}

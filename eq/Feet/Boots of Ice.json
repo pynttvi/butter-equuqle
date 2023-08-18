@@ -1,0 +1,14 @@
+{
+  "name": "Boots of Ice",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution a tiny bit.",
+    "It decreases the users intelligence adequately.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It allows the user to see in darkness.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers very fast."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Staff of Gondor (1h)",
+  "data": [
+    "It increases hit chance pathetically.",
+    "It has awesome weapon class for its type (low in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage pathetically.",
+    "",
+    "- Extra -",
+    "It emits light."
+  ],
+  "type": "1h staff"
+}

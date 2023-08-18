@@ -1,0 +1,19 @@
+{
+  "name": "Voidspawn Vambraces",
+  "data": [
+    "It increases the users intelligence superbly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers slowly.",
+    "It increases the users fire resistance somewhat.",
+    "It gives decent bonus to the skill 'mastery of psychokinetics'.",
+    "It gives decent bonus to the spell 'cryokinesis'.",
+    "It gives decent bonus to the spell 'choke'.",
+    "It increases the users cold resistance somewhat.",
+    "",
+    "- Extra -",
+    "The vambraces help their wearer conjure the cold vacuum of the void.",
+    "They also draw light from their surroundings."
+  ],
+  "type": "Arms"
+}

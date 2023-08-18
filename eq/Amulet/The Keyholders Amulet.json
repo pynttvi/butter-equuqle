@@ -1,0 +1,11 @@
+{
+  "name": "The Keyholders Amulet",
+  "data": [
+    "It increases the users wisdom unnoticably.",
+    "It increases the users intelligence unnoticably.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Amulet"
+}

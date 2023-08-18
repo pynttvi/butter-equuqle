@@ -1,0 +1,15 @@
+{
+  "name": "Battered Straw Hat",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom an average amount.",
+    "It decreases the users intelligence noticably.",
+    "It has excellent armour class for its type (feeble in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It decreases the users fire resistance strongly."
+  ],
+  "type": "Head"
+}

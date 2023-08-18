@@ -1,0 +1,15 @@
+{
+  "name": "A crimson red helmet with a horn",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users constitution somewhat.",
+    "It decreases the users intelligence like a god.",
+    "It has decent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers very fast.",
+    "",
+    "- Extra -",
+    "The past of this helmet has strong bonds with the devils."
+  ],
+  "type": "Head"
+}

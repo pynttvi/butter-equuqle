@@ -1,0 +1,13 @@
+{
+  "name": "Shield of silver dragon scales",
+  "data": [
+    "It increases the users constitution poorly.",
+    "It increases the users wisdom poorly.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'healing efficiency'.",
+    "It gives small bonus to the skill 'mastery of medicine'."
+  ],
+  "type": "Shield"
+}

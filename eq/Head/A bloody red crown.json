@@ -1,0 +1,10 @@
+{
+  "name": "A bloody red crown",
+  "data": [
+    "It increases the users constitution impressively.",
+    "It has little armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

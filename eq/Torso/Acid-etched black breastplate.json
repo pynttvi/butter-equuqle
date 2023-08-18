@@ -1,0 +1,12 @@
+{
+  "name": "Acid-etched black breastplate",
+  "data": [
+    "It increases the users constitution somewhat.",
+    "It has magnificent armour class for its type (excellent in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users fire resistance somewhat."
+  ],
+  "type": "Torso"
+}

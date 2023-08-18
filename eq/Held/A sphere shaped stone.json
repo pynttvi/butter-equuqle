@@ -1,0 +1,15 @@
+{
+  "name": "A sphere shaped stone",
+  "data": [
+    "It increases the users intelligence somewhat.",
+    "It has decent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users electric resistance adequately.",
+    "",
+    "- Extra -",
+    "It will protect the user from electricity.",
+    "It will protect the user with electricity."
+  ],
+  "type": "Held"
+}

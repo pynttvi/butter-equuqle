@@ -1,0 +1,18 @@
+{
+  "name": "Mace of the ancient dragon (2h)",
+  "data": [
+    "It decreases hit chance unnoticably.",
+    "It has magnificent weapon class for its type (magnificent in general).",
+    "This item loses its magical powers a bit slower than avarage.",
+    "It increases damage like a god.",
+    "It does asphyxiation damage like a god.",
+    "",
+    "- Extra -",
+    "This weapon has been saturated by evil through the ages it",
+    "lied next to the great dragon. A part of the chaos known as",
+    "Tiamat still reflects on the weapon as it constantly changes",
+    "between states of flashing with electricity, corroding flesh",
+    "and burning oxygen."
+  ],
+  "type": "2h bludgeon"
+}

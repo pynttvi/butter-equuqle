@@ -1,0 +1,10 @@
+{
+  "name": "Gauntlets of the Guardian",
+  "data": [
+    "It increases the users dexterity slightly.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users electric resistance adequately."
+  ],
+  "type": "Hands"
+}

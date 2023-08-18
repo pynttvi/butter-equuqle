@@ -1,0 +1,12 @@
+{
+  "name": "A glimmering opal rapier with serrated edges (1h)",
+  "data": [
+    "It has decent weapon class for its type (little in general).",
+    "It decreases the users constitution poorly.",
+    "It increases the users intelligence impressively.",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It does magical damage strongly."
+  ],
+  "type": "1h dagger"
+}

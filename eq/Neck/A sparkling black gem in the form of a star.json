@@ -1,0 +1,13 @@
+{
+  "name": "A sparkling black gem in the form of a star",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers very slowly.",
+    "It gives decent bonus to the skill 'dodge'."
+  ],
+  "type": "Neck"
+}

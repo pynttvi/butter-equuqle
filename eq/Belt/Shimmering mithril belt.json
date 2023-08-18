@@ -1,0 +1,11 @@
+{
+  "name": "Shimmering mithril belt",
+  "data": [
+    "It increases the users dexterity unnoticably.",
+    "It increases the users wisdom poorly.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Belt"
+}

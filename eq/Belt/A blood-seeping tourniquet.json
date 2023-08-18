@@ -1,0 +1,13 @@
+{
+  "name": "A blood-seeping tourniquet",
+  "data": [
+    "It increases the users constitution a good amount.",
+    "It increases the users wisdom a tiny bit.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'mastery of medicine'."
+  ],
+  "type": "Belt"
+}

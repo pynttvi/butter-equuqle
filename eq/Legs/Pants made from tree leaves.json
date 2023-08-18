@@ -1,0 +1,13 @@
+{
+  "name": "Pants made from tree leaves",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It increases the users dexterity pitifully.",
+    "It increases the users constitution pitifully.",
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence pitifully.",
+    "It has adequate armour class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

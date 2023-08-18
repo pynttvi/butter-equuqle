@@ -1,0 +1,12 @@
+{
+  "name": "Bone helmet",
+  "data": [
+    "It decreases the users strength adequately.",
+    "It decreases the users constitution slightly.",
+    "It increases the users intelligence strongly.",
+    "It has low armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

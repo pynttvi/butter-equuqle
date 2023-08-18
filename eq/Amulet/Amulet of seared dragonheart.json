@@ -1,0 +1,11 @@
+{
+  "name": "Amulet of seared dragonheart",
+  "data": [
+    "It increases the users wisdom noticably.",
+    "It increases the users intelligence noticably.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration incredibly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Amulet"
+}

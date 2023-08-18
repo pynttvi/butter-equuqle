@@ -1,0 +1,17 @@
+{
+  "name": "Cincture of the Cosmic Deeps",
+  "data": [
+    "It increases the users intelligence a bit.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The cincture stores a portion of certain offensive energies channeled",
+    "by the wearer. Looking at the cincture will show its current reserves.",
+    "The wearer can 'shoot' energy of a desired color at a target.",
+    "The cincture's reserves leak away over time."
+  ],
+  "type": "Belt"
+}

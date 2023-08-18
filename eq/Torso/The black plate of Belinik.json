@@ -1,0 +1,15 @@
+{
+  "name": "The black plate of Belinik",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution pathetically.",
+    "It has awesome armour class for its type (excellent in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'rage'.",
+    "",
+    "- Extra -",
+    "It gives the user supernatural courage."
+  ],
+  "type": "Torso"
+}

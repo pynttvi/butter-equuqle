@@ -1,0 +1,16 @@
+{
+  "name": "An exquisite whitewood staff (2h)",
+  "data": [
+    "It increases hit chance pitifully.",
+    "It has average weapon class for its type (feeble in general).",
+    "It increases the users wisdom a bit.",
+    "It increases the users intelligence a good amount.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It gives small bonus to the skill 'order from chaos'.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives small bonus to the skill 'ordered mind'.",
+    "It gives small bonus to the skill 'transmutation'.",
+    "It does magical damage adequately."
+  ],
+  "type": "2h staff"
+}

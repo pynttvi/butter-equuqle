@@ -1,0 +1,18 @@
+{
+  "name": "Bloody Armguards",
+  "data": [
+    "It decreases the users strength a tiny bit.",
+    "It decreases the users dexterity pitifully.",
+    "It increases the users constitution poorly.",
+    "It increases the users wisdom a good amount.",
+    "It increases the users intelligence noticably.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers very slowly.",
+    "",
+    "- Extra -",
+    "Bloody armguards are an artifact of the goddess Kirvana.",
+    "Bloody armguards allow you to 'raise' a fallen comrade."
+  ],
+  "type": "Arms"
+}

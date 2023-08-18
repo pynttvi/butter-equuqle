@@ -1,0 +1,14 @@
+{
+  "name": "Crystal Amulet",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "*----------------------------------------------------------------------*"
+  ],
+  "type": "Amulet"
+}

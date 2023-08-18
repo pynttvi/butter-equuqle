@@ -1,0 +1,15 @@
+{
+  "name": "War mask of the Devils",
+  "data": [
+    "It increases the users constitution a tiny bit.",
+    "It increases the users intelligence slightly.",
+    "It has little armour class for its type (pathetic in general).",
+    "It decreases the users hitpoint regeneration unnoticably.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'brainstorm'.",
+    "",
+    "- Extra -",
+    "It affects the user's spell knowledge."
+  ],
+  "type": "Head"
+}

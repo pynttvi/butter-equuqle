@@ -1,0 +1,13 @@
+{
+  "name": "Amulet of the Underworld",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers slowly.",
+    "It increases the users poison resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Amulet"
+}

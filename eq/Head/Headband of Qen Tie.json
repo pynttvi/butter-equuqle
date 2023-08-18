@@ -1,0 +1,16 @@
+{
+  "name": "Headband of Qen Tie",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "It increases the users constitution a tiny bit.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "It gives small bonus to the skill 'focus kungfu attacks'.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "It modifies users skills."
+  ],
+  "type": "Head"
+}

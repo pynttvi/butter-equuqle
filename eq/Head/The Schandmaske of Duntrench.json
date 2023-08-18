@@ -1,0 +1,19 @@
+{
+  "name": "The Schandmaske of Duntrench",
+  "data": [
+    "It decreases the users wisdom adequately.",
+    "It increases the users intelligence impressively.",
+    "It increases the users charisma impressively.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It gives decent bonus to the spell 'leomund's lament'.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'impart knowledge'.",
+    "It gives decent bonus to the spell 'dirge of despair'.",
+    "It gives decent bonus to the skill 'impart lore'.",
+    "",
+    "- Extra -",
+    "The Schandmaske remembers and recalls malicious songs."
+  ],
+  "type": "Head"
+}

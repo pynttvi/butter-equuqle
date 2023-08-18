@@ -1,0 +1,16 @@
+{
+  "name": "A pulsing mystic stone rod (1h)",
+  "data": [
+    "It decreases hit chance somewhat.",
+    "It has magnificent weapon class for its type (adequate in general).",
+    "This item loses its magical powers very fast.",
+    "",
+    "- Extra -",
+    "This is one of the few artifacts, which can alter the",
+    "time itself. These artifacts are guarded by order of",
+    "the time lore. This rod has slow person spell stored",
+    "within. To fully master the spell, you need the skill",
+    "mastery of time."
+  ],
+  "type": "1h ancient"
+}

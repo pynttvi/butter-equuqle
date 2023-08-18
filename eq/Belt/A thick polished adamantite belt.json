@@ -1,0 +1,17 @@
+{
+  "name": "A thick polished adamantite belt",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity somewhat.",
+    "It increases the users constitution a bit.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "It increases the users hitpoint regeneration poorly.",
+    "It increases the users physical resistance strongly.",
+    "This item loses its magical powers slowly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Belt"
+}

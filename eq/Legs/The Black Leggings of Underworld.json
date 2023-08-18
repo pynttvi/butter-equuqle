@@ -1,0 +1,12 @@
+{
+  "name": "The Black Leggings of Underworld",
+  "data": [
+    "It increases the users wisdom noticably.",
+    "It increases the users intelligence somewhat.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It gives decent bonus to the skill 'greater vulnerability'.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

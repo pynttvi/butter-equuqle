@@ -1,0 +1,19 @@
+{
+  "name": "A grand polished adamantite cuirass",
+  "data": [
+    "It increases the users strength superbly.",
+    "It decreases the users dexterity adequately.",
+    "It increases the users constitution a good amount.",
+    "It increases the users wisdom ILLEGALLY.",
+    "It decreases the users intelligence adequately.",
+    "It has excellent armour class for its type (superb in general).",
+    "It increases the users spellpoint regeneration phenomenally.",
+    "It increases the users hitpoint regeneration adequately.",
+    "It increases the users physical resistance superbly.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Multi"
+}

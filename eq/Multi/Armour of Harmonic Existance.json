@@ -1,0 +1,17 @@
+{
+  "name": "Armour of Harmonic Existance",
+  "data": [
+    "It decreases the users strength adequately.",
+    "It decreases the users constitution poorly.",
+    "It increases the users wisdom magnificently.",
+    "It increases the users intelligence adequately.",
+    "It has average armour class for its type (good in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "It gives decent bonus to the spell 'harmony armour'.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It affects the user's spell knowledge."
+  ],
+  "type": "Multi"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Tyririan short sword (1h)",
+  "data": [
+    "It has feeble weapon class for its type (tiny in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "1h sword"
+}

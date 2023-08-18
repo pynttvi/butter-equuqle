@@ -1,0 +1,10 @@
+{
+  "name": "The Golem Cuirass",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom adequately.",
+    "It decreases the users charisma unbelievably"
+  ],
+  "type": "Torso"
+}

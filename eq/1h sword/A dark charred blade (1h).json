@@ -1,0 +1,18 @@
+{
+  "name": "A dark charred blade (1h)",
+  "data": [
+    "It increases hit chance adequately.",
+    "It has awesome weapon class for its type (nice in general).",
+    "It increases the users constitution adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance strongly.",
+    "It increases damage poorly.",
+    "It does fire damage magnificently.",
+    "",
+    "- Extra -",
+    "It emits darkness.",
+    "It modifies resistance to magical damage.",
+    "It modifies the wielders constitution."
+  ],
+  "type": "1h sword"
+}

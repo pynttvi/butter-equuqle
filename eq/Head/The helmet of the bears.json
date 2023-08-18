@@ -1,0 +1,11 @@
+{
+  "name": "The helmet of the bears",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom pitifully.",
+    "It has nice armour class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

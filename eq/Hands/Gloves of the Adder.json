@@ -1,0 +1,20 @@
+{
+  "name": "Gloves of the Adder",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users wisdom adequately.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users acid resistance somewhat.",
+    "It gives small bonus to the skill 'parry'.",
+    "It gives small bonus to the skill 'quick chant'.",
+    "It increases the users fire resistance somewhat.",
+    "",
+    "- Extra -",
+    "Gloves of the Adder are a holy artifact of the goddess Kirvana.",
+    "The wearer of the gloves could 'grab' another player."
+  ],
+  "type": "Hands"
+}

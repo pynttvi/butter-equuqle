@@ -1,0 +1,14 @@
+{
+  "name": "A cloak of tongues",
+  "data": [
+    "It increases the users charisma impressively.",
+    "It has low armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers somewhat slower than avarage.",
+    "It gives decent bonus to the skill 'tonal control'.",
+    "It gives small bonus to the skill 'vocal training'.",
+    "It gives small bonus to the skill 'tonal projection'.",
+    "It increases the users fire resistance somewhat."
+  ],
+  "type": "Cloak"
+}

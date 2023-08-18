@@ -1,0 +1,11 @@
+{
+  "name": "Black deerhide gloves",
+  "data": [
+    "It increases the users dexterity nicely.",
+    "It increases the users constitution pitifully.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'steady aim'."
+  ],
+  "type": "Hands"
+}

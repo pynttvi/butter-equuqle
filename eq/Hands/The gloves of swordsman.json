@@ -1,0 +1,16 @@
+{
+  "name": "The gloves of swordsman",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "It decreases the users constitution a tiny bit.",
+    "It increases the users wisdom somewhat.",
+    "It decreases the users intelligence a tiny bit.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'slash'."
+  ],
+  "type": "Hands"
+}

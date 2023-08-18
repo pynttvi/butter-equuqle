@@ -1,0 +1,15 @@
+{
+  "name": "The mithril leggings of Essence",
+  "data": [
+    "It decreases the users strength slightly.",
+    "It increases the users dexterity a tiny bit.",
+    "It decreases the users constitution pitifully.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence adequately.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

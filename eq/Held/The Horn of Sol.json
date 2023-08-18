@@ -1,0 +1,14 @@
+{
+  "name": "The Horn of Sol",
+  "data": [
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "The horn is a fount of knowledge and learning. It facilitates the",
+    "acquisition of experience."
+  ],
+  "type": "Held"
+}

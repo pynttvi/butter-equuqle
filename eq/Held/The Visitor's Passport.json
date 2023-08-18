@@ -1,0 +1,10 @@
+{
+  "name": "The Visitor's Passport",
+  "data": [
+    "It increases the users dexterity a good amount.",
+    "It increases the users constitution impressively.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly."
+  ],
+  "type": "Held"
+}

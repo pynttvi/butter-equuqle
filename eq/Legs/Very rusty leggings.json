@@ -1,0 +1,15 @@
+{
+  "name": "Very rusty leggings",
+  "data": [
+    "It increases the users strength a good amount.",
+    "It increases the users dexterity unnoticably.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom pathetically.",
+    "It decreases the users intelligence poorly.",
+    "It has awesome armour class for its type (poor in general).",
+    "It decreases the users spellpoint regeneration a bit.",
+    "It decreases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

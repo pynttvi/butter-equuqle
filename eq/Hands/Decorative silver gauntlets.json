@@ -1,0 +1,16 @@
+{
+  "name": "Decorative silver gauntlets",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom a tiny bit.",
+    "It increases the users intelligence somewhat.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "They might help protect you from the were-curse."
+  ],
+  "type": "Hands"
+}

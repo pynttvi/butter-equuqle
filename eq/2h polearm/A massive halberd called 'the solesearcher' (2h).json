@@ -1,0 +1,19 @@
+{
+  "name": "A massive halberd called 'the solesearcher' (2h)",
+  "data": [
+    "It increases hit chance slightly.",
+    "It has nice weapon class for its type (good in general).",
+    "It increases the users strength a bit.",
+    "It increases the users constitution pitifully.",
+    "This item loses its magical powers very fast.",
+    "It gives tiny bonus to the skill 'balanced form'.",
+    "It gives tiny bonus to the skill 'edged polearms'.",
+    "It gives tiny bonus to the skill 'blood harvest'.",
+    "It increases damage slightly.",
+    "It does asphyxiation damage a good amount.",
+    "",
+    "- Extra -",
+    "An imprint on the underside of the haft reads 'Gekko Ind.'"
+  ],
+  "type": "2h polearm"
+}

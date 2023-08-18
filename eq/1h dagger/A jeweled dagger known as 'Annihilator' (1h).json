@@ -1,0 +1,13 @@
+{
+  "name": "A jeweled dagger known as 'Annihilator' (1h)",
+  "data": [
+    "It has ILLEGAL weapon class for its type (adequate in general).",
+    "It increases the users strength pitifully.",
+    "It increases the users dexterity a bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'anatomy'.",
+    "It gives tiny bonus to the skill 'triple thrust'.",
+    "It gives tiny bonus to the skill 'triple backstab'."
+  ],
+  "type": "1h dagger"
+}

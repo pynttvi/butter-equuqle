@@ -1,0 +1,12 @@
+{
+  "name": "PK Crystal",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence poorly.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance strongly."
+  ],
+  "type": "Held"
+}

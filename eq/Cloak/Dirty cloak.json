@@ -1,0 +1,12 @@
+{
+  "name": "Dirty cloak",
+  "data": [
+    "It decreases the users dexterity poorly.",
+    "It increases the users constitution poorly.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Cloak"
+}

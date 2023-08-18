@@ -1,0 +1,20 @@
+{
+  "name": "The celestial flail, 'Dawnstar' (1h)",
+  "data": [
+    "It increases hit chance a tiny bit.",
+    "It has tremendous weapon class for its type (decent in general).",
+    "It increases the users strength adequately.",
+    "It increases the users wisdom adequately.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users magical resistance somewhat.",
+    "It increases damage adequately.",
+    "It does fire damage unbelievably much.",
+    "It increases the users fire resistance strongly.",
+    "It gives decent bonus to the skill 'holy might'.",
+    "",
+    "- Extra -",
+    "The flail, Dawnstar, is a bane of the undead.",
+    "If used to smite the undead with skills, its divine power will leap forth to burn them."
+  ],
+  "type": "1h ancient"
+}

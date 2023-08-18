@@ -1,0 +1,17 @@
+{
+  "name": "Ancient Staff of wonder (2h)",
+  "data": [
+    "It increases hit chance unnoticably.",
+    "It has awesome weapon class for its type (average in general).",
+    "It increases the users intelligence adequately.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage pathetically.",
+    "It does magical damage a tiny bit.",
+    "It increases the users poison resistance somewhat.",
+    "",
+    "- Extra -",
+    "It may be set to emit light or dark."
+  ],
+  "type": "2h staff"
+}

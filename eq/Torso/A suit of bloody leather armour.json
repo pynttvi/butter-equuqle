@@ -1,0 +1,10 @@
+{
+  "name": "A suit of bloody leather armour",
+  "data": [
+    "It increases the users dexterity poorly.",
+    "It has mediocre armour class for its type (low in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

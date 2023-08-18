@@ -1,0 +1,13 @@
+{
+  "name": "A small dark grey band",
+  "data": [
+    "It increases the users strength unnoticably.",
+    "It increases the users dexterity poorly.",
+    "It decreases the users constitution unnoticably.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users hitpoint regeneration unnoticably.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'doublehit'."
+  ],
+  "type": "Finger"
+}

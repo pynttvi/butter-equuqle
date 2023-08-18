@@ -1,0 +1,8 @@
+{
+  "name": "Ebon shield",
+  "data": [
+    "It has decent armour class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Shield"
+}

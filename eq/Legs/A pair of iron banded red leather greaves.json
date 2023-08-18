@@ -1,0 +1,12 @@
+{
+  "name": "A pair of iron banded red leather greaves",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity impressively.",
+    "It has great armour class for its type (feeble in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers a bit slower than avarage."
+  ],
+  "type": "Legs"
+}

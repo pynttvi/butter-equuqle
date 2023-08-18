@@ -1,0 +1,17 @@
+{
+  "name": "A Black Ankheg Shell",
+  "data": [
+    "It increases the users strength poorly.",
+    "It decreases the users dexterity poorly.",
+    "It increases the users constitution slightly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has weak armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance somewhat.",
+    "It gives small bonus to the skill 'berserk'.",
+    "It increases the users poison resistance somewhat."
+  ],
+  "type": "Shield"
+}

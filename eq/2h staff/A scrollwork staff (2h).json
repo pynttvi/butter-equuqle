@@ -1,0 +1,17 @@
+{
+  "name": "A scrollwork staff (2h)",
+  "data": [
+    "It has low weapon class for its type (little in general).",
+    "It increases the users wisdom a good amount.",
+    "It increases the users intelligence immensely.",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives great bonus to the skill 'channel power'.",
+    "It gives great bonus to the skill 'intentionality'.",
+    "It gives great bonus to the skill 'gestalt conjuration'.",
+    "It does magical damage superbly.",
+    "It gives great bonus to the skill 'microclasm'.",
+    "It gives great bonus to the spell 'power blast'."
+  ],
+  "type": "2h staff"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "An antique plate armour",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution pitifully.",
+    "It has tremendous armour class for its type (unbelievable in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance a bit."
+  ],
+  "type": "Multi"
+}

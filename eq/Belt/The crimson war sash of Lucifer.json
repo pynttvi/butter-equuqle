@@ -1,0 +1,16 @@
+{
+  "name": "The crimson war sash of Lucifer",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity adequately.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'inner strength'.",
+    "",
+    "- Extra -",
+    "It affects the skill inner strength."
+  ],
+  "type": "Belt"
+}

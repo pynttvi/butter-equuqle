@@ -1,0 +1,10 @@
+{
+  "name": "Boots of Fire",
+  "data": [
+    "It increases the users dexterity a tiny bit.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance a bit."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "A green squid-like tentacle",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users constitution somewhat.",
+    "It increases the users wisdom a tiny bit.",
+    "It increases the users intelligence somewhat.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance somewhat.",
+    "",
+    "- Extra -",
+    "A death in the realm causes changes in its effects."
+  ],
+  "type": "Belt"
+}

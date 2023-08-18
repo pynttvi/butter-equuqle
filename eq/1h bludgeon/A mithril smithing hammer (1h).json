@@ -1,0 +1,9 @@
+{
+  "name": "A mithril smithing hammer (1h)",
+  "data": [
+    "It has impressive weapon class for its type (decent in general).",
+    "This item loses its magical powers with average speed.",
+    "It does fire damage a tiny bit."
+  ],
+  "type": "1h bludgeon"
+}

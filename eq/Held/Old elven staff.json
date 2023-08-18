@@ -1,0 +1,11 @@
+{
+  "name": "Old elven staff",
+  "data": [
+    "It decreases the users strength somewhat.",
+    "It decreases the users dexterity slightly.",
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom impressively.",
+    "It"
+  ],
+  "type": "Held"
+}

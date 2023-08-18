@@ -1,0 +1,9 @@
+{
+  "name": "A wickedly curved assassin's dagger (1h)",
+  "data": [
+    "It has awesome weapon class for its type (weak in general).",
+    "This item loses its magical powers with average speed.",
+    "It does poison damage adequately."
+  ],
+  "type": "1h dagger"
+}

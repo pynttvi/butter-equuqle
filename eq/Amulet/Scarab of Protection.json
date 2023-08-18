@@ -1,0 +1,25 @@
+{
+  "name": "Scarab of Protection",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution adequately.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance a bit.",
+    "It increases the users magical resistance a bit.",
+    "It increases the users acid resistance a bit.",
+    "It increases the users cold resistance a bit.",
+    "It increases the users fire resistance a bit.",
+    "It increases the users poison resistance a bit.",
+    "It increases the users electric resistance a bit.",
+    "It increases the users asphyxiation resistance a bit.",
+    "",
+    "- Extra -",
+    "It modifies all the user's resistances.",
+    "",
+    "",
+    "*----------------------------------------------------------------------*"
+  ],
+  "type": "Amulet"
+}

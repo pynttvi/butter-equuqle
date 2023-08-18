@@ -1,0 +1,13 @@
+{
+  "name": "The ring of concealment",
+  "data": [
+    "It increases the users dexterity impressively.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users hitpoint regeneration slightly.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "This ring can conceal some of the users magical actions."
+  ],
+  "type": "Finger"
+}

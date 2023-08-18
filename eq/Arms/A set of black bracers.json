@@ -1,0 +1,9 @@
+{
+  "name": "A set of black bracers",
+  "data": [
+    "It increases the users intelligence poorly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Arms"
+}

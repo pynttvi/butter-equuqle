@@ -1,0 +1,17 @@
+{
+  "name": "The boots of warping",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity impressively.",
+    "It decreases the users constitution poorly.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "These boots can memorize locations.",
+    "These boots can transport the user."
+  ],
+  "type": "Feet"
+}

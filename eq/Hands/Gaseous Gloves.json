@@ -1,0 +1,16 @@
+{
+  "name": "Gaseous Gloves",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity pathetically.",
+    "It increases the users constitution pathetically.",
+    "It decreases the users wisdom poorly.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It modifies the user's healing rate."
+  ],
+  "type": "Hands"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Black dagger (1h)",
+  "data": [
+    "It decreases hit chance pitifully.",
+    "It has adequate weapon class for its type (feeble in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage unnoticably."
+  ],
+  "type": "1h dagger"
+}

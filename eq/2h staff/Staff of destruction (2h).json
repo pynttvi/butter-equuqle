@@ -1,0 +1,11 @@
+{
+  "name": "Staff of destruction (2h)",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has awesome weapon class for its type (average in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage somewhat.",
+    "It does electric damage somewhat."
+  ],
+  "type": "2h staff"
+}

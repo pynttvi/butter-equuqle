@@ -1,0 +1,16 @@
+{
+  "name": "A mask of the witch goddess, Rangda",
+  "data": [
+    "It increases the users wisdom a tiny bit.",
+    "It increases the users intelligence a tiny bit.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'nerve mastery'.",
+    "",
+    "- Extra -",
+    "The mask strikes terror in the hearts of onlookers, making them",
+    "more susceptible to psionic forces."
+  ],
+  "type": "Head"
+}

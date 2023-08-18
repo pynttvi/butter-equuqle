@@ -1,0 +1,11 @@
+{
+  "name": "Golden ring with a blue gem",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It increases the users intelligence a tiny bit.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

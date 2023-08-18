@@ -1,0 +1,15 @@
+{
+  "name": "An inscripted orb with prickly surface",
+  "data": [
+    "It increases the users dexterity magnificently.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance strongly.",
+    "",
+    "- Extra -",
+    "A person can 'rub' this orb to reveal important information about",
+    "the direction the person chooses."
+  ],
+  "type": "Held"
+}

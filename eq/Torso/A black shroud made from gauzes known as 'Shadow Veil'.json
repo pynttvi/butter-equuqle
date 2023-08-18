@@ -1,0 +1,16 @@
+{
+  "name": "A black shroud made from gauzes known as 'Shadow Veil'",
+  "data": [
+    "It increases the users dexterity ILLEGALLY.",
+    "It decreases the users constitution poorly.",
+    "It has feeble armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration adequately.",
+    "It decreases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "It gives decent bonus to the skill 'dodge'.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Torso"
+}

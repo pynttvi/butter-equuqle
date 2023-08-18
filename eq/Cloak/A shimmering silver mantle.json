@@ -1,0 +1,14 @@
+{
+  "name": "A shimmering silver mantle",
+  "data": [
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It gives decent bonus to the skill 'greater vulnerability'.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives decent bonus to the skill 'mastery of shielding'.",
+    "It increases the users electric resistance somewhat."
+  ],
+  "type": "Cloak"
+}

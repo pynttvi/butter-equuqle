@@ -1,0 +1,13 @@
+{
+  "name": "Gargoyle ring < battered >",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It modifies the users resistance against physical damage."
+  ],
+  "type": "Finger"
+}

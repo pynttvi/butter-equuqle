@@ -1,0 +1,14 @@
+{
+  "name": "Ring of Devils",
+  "data": [
+    "It increases the users intelligence poorly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat.",
+    "",
+    "- Extra -",
+    "It is one of the legendary Zi'taq rings."
+  ],
+  "type": "Finger"
+}

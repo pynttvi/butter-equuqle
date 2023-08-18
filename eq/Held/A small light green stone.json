@@ -1,0 +1,11 @@
+{
+  "name": "A small light green stone",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity pitifully.",
+    "It increases the users wisdom pitifully.",
+    "It has poor armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Held"
+}

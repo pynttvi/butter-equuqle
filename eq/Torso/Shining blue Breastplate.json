@@ -1,0 +1,11 @@
+{
+  "name": "Shining blue Breastplate",
+  "data": [
+    "It decreases the users constitution unnoticably.",
+    "It increases the users wisdom pathetically.",
+    "It has average armour class for its type (low in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

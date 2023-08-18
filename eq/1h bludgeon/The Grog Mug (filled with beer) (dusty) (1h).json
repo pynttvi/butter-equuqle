@@ -1,0 +1,14 @@
+{
+  "name": "The Grog Mug (filled with beer) (dusty) (1h)",
+  "data": [
+    "It decreases hit chance adequately.",
+    "It has great weapon class for its type (average in general).",
+    "It increases the users strength pitifully.",
+    "It increases the users constitution pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers fast.",
+    "It increases damage adequately.",
+    "It does poison damage adequately."
+  ],
+  "type": "1h bludgeon"
+}

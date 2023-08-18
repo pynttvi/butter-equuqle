@@ -1,0 +1,16 @@
+{
+  "name": "Gravitational Gauntlets",
+  "data": [
+    "It increases the users intelligence magnificently.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "It gives nice bonus to the skill 'spacial manipulation'.",
+    "This item loses its magical powers slowly.",
+    "",
+    "- Extra -",
+    "The gauntlets convert gravitational force into magical energy.",
+    "The gauntlets' power increases in proportion to the wearer's burden."
+  ],
+  "type": "Hands"
+}

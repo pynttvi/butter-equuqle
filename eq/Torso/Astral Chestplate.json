@@ -1,0 +1,18 @@
+{
+  "name": "Astral Chestplate",
+  "data": [
+    "It increases the users constitution a good amount.",
+    "It decreases the users wisdom a bit.",
+    "It increases the users intelligence a good amount.",
+    "It has superb armour class for its type (nice in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance somewhat.",
+    "It increases the users acid resistance somewhat.",
+    "It gives small bonus to the skill 'dodge'.",
+    "It gives decent bonus to the skill 'parry'.",
+    "It increases the users cold resistance somewhat."
+  ],
+  "type": "Torso"
+}

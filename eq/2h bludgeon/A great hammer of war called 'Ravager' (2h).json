@@ -1,0 +1,16 @@
+{
+  "name": "A great hammer of war called 'Ravager' (2h)",
+  "data": [
+    "It decreases hit chance somewhat.",
+    "It has superb weapon class for its type (superb in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance strongly.",
+    "It increases damage like a god.",
+    "It does electric damage somewhat.",
+    "",
+    "- Extra -",
+    "It is magically so powerful that you need the wisdom",
+    "of an old age to control it."
+  ],
+  "type": "2h bludgeon"
+}

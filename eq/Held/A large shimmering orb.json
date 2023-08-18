@@ -1,0 +1,21 @@
+{
+  "name": "A large shimmering orb",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution impressively.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users acid resistance somewhat.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "It increases the users electric resistance somewhat.",
+    "",
+    "- Extra -",
+    "This artifact bestows its bearer some of the vitality of the dragonkind, from",
+    "whose essence it was born, increasing his health and stamina in addition of",
+    "granting some resistance against most elements."
+  ],
+  "type": "Held"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "The skull of the Berserker-King",
+  "data": [
+    "It increases the users strength phenomenally.",
+    "It decreases the users dexterity impressively.",
+    "It decreases the users intelligence unbelievably much.",
+    "It has excellent armour class for its type (feeble in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers extremely slowly.",
+    "It decreases the users fire resistance somewhat.",
+    "It gives decent bonus to the skill 'rage'.",
+    "It gives decent bonus to the skill 'berserk'.",
+    "It gives decent bonus to the skill 'ignore pain'.",
+    "",
+    "- Extra -",
+    "The skull of the Berserker-King makes its wearer more vulnerable to backstabs."
+  ],
+  "type": "Held"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "A sparkling bronze crown",
+  "data": [
+    "It decreases the users strength slightly.",
+    "It decreases the users dexterity poorly.",
+    "It decreases the users constitution poorly.",
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence slightly.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "It decreases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

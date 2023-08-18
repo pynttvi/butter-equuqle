@@ -1,0 +1,19 @@
+{
+  "name": "A serpentine staff of bone (2h)",
+  "data": [
+    "It has weak weapon class for its type (little in general).",
+    "It decreases the users strength pitifully.",
+    "It decreases the users constitution adequately.",
+    "It increases the users intelligence a good amount.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers somewhat slower than avarage.",
+    "It does psionic damage slightly.",
+    "",
+    "- Extra -",
+    "This staff is occasionally able to 'drain' a magical field.",
+    "All the leeched power can then be 'salvaged' to replenish one's own",
+    "magical power, or it can also be 'discharged' at someone in a burst",
+    "of psionic force."
+  ],
+  "type": "2h staff"
+}

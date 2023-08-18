@@ -1,0 +1,21 @@
+{
+  "name": "Handwraps of nebular vapor",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity noticably.",
+    "It increases the users constitution slightly.",
+    "It decreases the users wisdom pitifully.",
+    "It decreases the users intelligence pitifully.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It decreases the users spellpoint regeneration poorly.",
+    "It gives small bonus to the skill 'mastery of kungfu'.",
+    "This item loses its magical powers slowly.",
+    "It gives decent bonus to the skill 'call for thunder'.",
+    "It gives small bonus to the skill 'ambidextrous attack'.",
+    "",
+    "- Extra -",
+    "The handwraps reveal new properties when charged with electricity.",
+    "The handwraps' wearer tires less easily."
+  ],
+  "type": "Hands"
+}

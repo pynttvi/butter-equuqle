@@ -1,0 +1,14 @@
+{
+  "name": "A censer of shadows",
+  "data": [
+    "It increases the users wisdom somewhat.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The censer is meant to be spun, permeating the air with the fragrant",
+    "fumes of shadow. The intoxicating vapor seems to alter your perception."
+  ],
+  "type": "Held"
+}

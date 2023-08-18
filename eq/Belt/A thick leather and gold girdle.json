@@ -1,0 +1,19 @@
+{
+  "name": "A thick leather and gold girdle",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity a tiny bit.",
+    "It decreases the users constitution pathetically.",
+    "It decreases the users wisdom pathetically.",
+    "It increases the users intelligence a tiny bit.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'kick'.",
+    "",
+    "- Extra -",
+    "The Golden Girdle modifies its user's skills."
+  ],
+  "type": "Belt"
+}

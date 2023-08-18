@@ -1,0 +1,24 @@
+{
+  "name": "A desiccated hand",
+  "data": [
+    "It decreases the users constitution adequately.",
+    "It decreases the users wisdom adequately.",
+    "It increases the users intelligence impressively.",
+    "It decreases the users charisma impressively.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers slowly.",
+    "It decreases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'channel power'.",
+    "It decreases the users magical resistance somewhat.",
+    "It increases the users cold resistance somewhat.",
+    "It gives small bonus to the skill 'quick chant'.",
+    "It decreases the users poison resistance somewhat.",
+    "",
+    "- Extra -",
+    "This foul talisman will assist its owner in the channeling of their magical",
+    "energies, increasing their magical regeneration during combat."
+  ],
+  "type": "Held"
+}

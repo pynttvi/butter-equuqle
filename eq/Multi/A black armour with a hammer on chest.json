@@ -1,0 +1,9 @@
+{
+  "name": "A black armour with a hammer on chest",
+  "data": [
+    "It decreases the users dexterity unbelievably much.",
+    "It has excellent armour class for its type (awesome in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Multi"
+}

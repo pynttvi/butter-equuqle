@@ -1,0 +1,14 @@
+{
+  "name": "Sigil Covered Gloves",
+  "data": [
+    "It decreases the users strength poorly.",
+    "It decreases the users dexterity poorly.",
+    "It decreases the users constitution poorly.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "This item loses its magical powers extremely fast."
+  ],
+  "type": "Hands"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Cloak of Strahd",
+  "data": [
+    "It decreases the users strength unnoticably.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom somewhat.",
+    "It increases the users intelligence strongly.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance somewhat."
+  ],
+  "type": "Cloak"
+}

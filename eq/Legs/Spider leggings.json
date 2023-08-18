@@ -1,0 +1,12 @@
+{
+  "name": "Spider leggings",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity adequately.",
+    "It increases the users intelligence poorly.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

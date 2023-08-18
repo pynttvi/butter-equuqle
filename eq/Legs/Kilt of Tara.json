@@ -1,0 +1,11 @@
+{
+  "name": "Kilt of Tara",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users constitution slightly.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

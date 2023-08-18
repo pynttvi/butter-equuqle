@@ -1,0 +1,14 @@
+{
+  "name": "A blue steel long sword (1h)",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has magnificent weapon class for its type (nice in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage adequately.",
+    "It does electric damage like a god.",
+    "",
+    "- Extra -",
+    "It is especially useful against spellcasters."
+  ],
+  "type": "1h sword"
+}

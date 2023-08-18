@@ -1,0 +1,13 @@
+{
+  "name": "Moccasins of Whispering",
+  "data": [
+    "It increases the users dexterity somewhat.",
+    "It has poor armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'sneak'.",
+    "",
+    "- Extra -",
+    "It affects the user's skill knowledge."
+  ],
+  "type": "Feet"
+}

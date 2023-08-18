@@ -1,0 +1,18 @@
+{
+  "name": "An exquisite stave of a recurve bow (2h)",
+  "data": [
+    "It has magnificent weapon class for its type (almost non-existent in general).",
+    "This item loses its magical powers fast.",
+    "",
+    "- Extra -",
+    "This is a divine artifact--known as Atrakis, the Everlasting Wind--graced",
+    "by the touch of Xellios himself.",
+    "As a god-blessed weapon this bow can be used only by those who have accepted",
+    "Xellios as their deity.",
+    "If the archer is seen worthy the bow will manifest a string, and its own",
+    "arrows but their power is always subjective to the piety and the skill of",
+    "the archer. Each manifested arrow will drain a very small amount of magical",
+    "energy from the archer."
+  ],
+  "type": "2h bow"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "An ancient, engraved stone hanging on a chain",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users constitution somewhat.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "It decreases the users physical resistance a bit.",
+    "This item loses its magical powers a bit slower than avarage."
+  ],
+  "type": "Amulet"
+}

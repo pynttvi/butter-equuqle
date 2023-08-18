@@ -1,0 +1,11 @@
+{
+  "name": "Druids hat",
+  "data": [
+    "It increases the users wisdom poorly.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "It gives decent bonus to the spell 'teleport without error'.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

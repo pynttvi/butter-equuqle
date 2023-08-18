@@ -1,0 +1,15 @@
+{
+  "name": "Gloomy Gloves",
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It decreases the users dexterity pitifully.",
+    "It decreases the users constitution unnoticably.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence slightly.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "It decreases the users hitpoint regeneration pathetically.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Hands"
+}

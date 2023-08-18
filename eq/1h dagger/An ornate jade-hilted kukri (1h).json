@@ -1,0 +1,14 @@
+{
+  "name": "An ornate jade-hilted kukri (1h)",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has impressive weapon class for its type (poor in general).",
+    "This item loses its magical powers somewhat slower than average.",
+    "It decreases the users psionic resistance a bit.",
+    "It increases the users acid resistance somewhat.",
+    "It increases damage pathetically.",
+    "It does acid damage incredibly.",
+    "It increases the users poison resistance somewhat."
+  ],
+  "type": "1h dagger"
+}

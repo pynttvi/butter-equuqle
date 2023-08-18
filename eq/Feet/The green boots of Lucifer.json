@@ -1,0 +1,19 @@
+{
+  "name": "The green boots of Lucifer",
+  "data": [
+    "It increases the users strength adequately.",
+    "It decreases the users constitution pathetically.",
+    "It decreases the users wisdom pathetically.",
+    "It increases the users intelligence adequately.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'tonal control'.",
+    "",
+    "- Extra -",
+    "It affects the skill tonal control.",
+    "They seem to be hot to touch."
+  ],
+  "type": "Feet"
+}

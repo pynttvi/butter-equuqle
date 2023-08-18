@@ -1,0 +1,20 @@
+{
+  "name": "The gloves of the Magi *dark aura*",
+  "data": [
+    "It decreases the users strength a tiny bit.",
+    "It decreases the users dexterity a tiny bit.",
+    "It increases the users constitution unnoticably.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It gives decent bonus to the spell 'summon'.",
+    "It gives small bonus to the skill 'channel power'.",
+    "It gives small bonus to the skill 'damage analysis'.",
+    "",
+    "- Extra -",
+    "They glow with dark aura."
+  ],
+  "type": "Hands"
+}

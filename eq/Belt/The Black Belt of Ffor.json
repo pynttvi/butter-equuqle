@@ -1,0 +1,13 @@
+{
+  "name": "The Black Belt of Ffor",
+  "data": [
+    "It increases the users strength pathetically.",
+    "It decreases the users wisdom pathetically.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pathetically.",
+    "It increases the users hitpoint regeneration pathetically.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat."
+  ],
+  "type": "Belt"
+}

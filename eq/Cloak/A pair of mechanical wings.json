@@ -1,0 +1,19 @@
+{
+  "name": "A pair of mechanical wings",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity slightly.",
+    "It increases the users constitution slightly.",
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence slightly.",
+    "It increases the users charisma slightly.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration nicely.",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "The wings actually work. Really!"
+  ],
+  "type": "Cloak"
+}

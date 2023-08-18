@@ -1,0 +1,10 @@
+{
+  "name": "A pair of sturdy leather boots",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution pitifully.",
+    "It has nice armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

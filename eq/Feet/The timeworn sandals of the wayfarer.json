@@ -1,0 +1,14 @@
+{
+  "name": "The timeworn sandals of the wayfarer",
+  "data": [
+    "It increases the users dexterity noticably.",
+    "It increases the users constitution noticably.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'tumble'.",
+    "It gives nice bonus to the skill 'power kick'.",
+    "It gives small bonus to the skill 'dodge'."
+  ],
+  "type": "Feet"
+}

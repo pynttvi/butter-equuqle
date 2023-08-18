@@ -1,0 +1,12 @@
+{
+  "name": "An elvish war bow (2h)",
+  "data": [
+    "It has magnificent weapon class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The elven war bow is more effective in he hands of an elf.",
+    "The elven war bow is less powerful in the hands of a dwarf."
+  ],
+  "type": "2h bow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "A small silver ring",
+  "data": [
+    "It increases the users constitution unnoticably.",
+    "It increases the users wisdom unnoticably.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

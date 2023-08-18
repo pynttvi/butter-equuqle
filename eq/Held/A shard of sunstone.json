@@ -1,0 +1,11 @@
+{
+  "name": "A shard of sunstone",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with incredible haste.",
+    "",
+    "- Extra -",
+    "It functions as a magical timepiece, unless broken."
+  ],
+  "type": "Held"
+}

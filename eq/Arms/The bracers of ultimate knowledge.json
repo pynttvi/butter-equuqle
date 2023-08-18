@@ -1,0 +1,15 @@
+{
+  "name": "The bracers of ultimate knowledge",
+  "data": [
+    "It increases the users strength adequately.",
+    "It decreases the users dexterity adequately.",
+    "It increases the users constitution like a god.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "These bracers can provide information to the user.",
+    "The closer inspection reveals a word on the bracers 'knowledge'."
+  ],
+  "type": "Arms"
+}

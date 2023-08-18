@@ -1,0 +1,10 @@
+{
+  "name": "A rotted oak staff (2h)",
+  "data": [
+    "It has impressive weapon class for its type (mediocre in general).",
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h staff"
+}

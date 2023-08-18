@@ -1,0 +1,17 @@
+{
+  "name": "The Graven Icon of Vingt Cinq",
+  "data": [
+    "It increases the users constitution phenomenally.",
+    "It has awesome armour class for its type (poor in general).",
+    "It increases the users hitpoint regeneration unbelievably much.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users shadow resistance tremendously.",
+    "It increases the users physical resistance tremendously.",
+    "",
+    "- Extra -",
+    "The icon can be inlaid with up to three shards.",
+    "The icon is the bane of all undeads.",
+    "The icon imbues its owner with great stamina."
+  ],
+  "type": "Held"
+}

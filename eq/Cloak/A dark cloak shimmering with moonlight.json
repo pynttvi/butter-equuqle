@@ -1,0 +1,13 @@
+{
+  "name": "A dark cloak shimmering with moonlight",
+  "data": [
+    "It decreases the users constitution unnoticably.",
+    "It increases the users wisdom a good amount.",
+    "It increases the users intelligence a tiny bit.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users asphyxiation resistance somewhat."
+  ],
+  "type": "Cloak"
+}

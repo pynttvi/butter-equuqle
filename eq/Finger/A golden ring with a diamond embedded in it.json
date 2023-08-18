@@ -1,0 +1,9 @@
+{
+  "name": "A golden ring with a diamond embedded in it",
+  "data": [
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

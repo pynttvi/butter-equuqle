@@ -1,0 +1,15 @@
+{
+  "name": "A holy symbol of the ancient god of battle",
+  "data": [
+    "It increases the users constitution pitifully.",
+    "It increases the users wisdom poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed.",
+    "It gives great bonus to the spell 'cure light wounds'.",
+    "",
+    "- Extra -",
+    "It modifies user's healing abilities."
+  ],
+  "type": "Neck"
+}

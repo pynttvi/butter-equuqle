@@ -1,0 +1,17 @@
+{
+  "name": "An elegant whitewood staff (2h)",
+  "data": [
+    "It increases hit chance pitifully.",
+    "It has average weapon class for its type (feeble in general).",
+    "It increases the users wisdom impressively.",
+    "It increases the users charisma adequately.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It gives small bonus to the skill 'optimize transfer'.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives small bonus to the skill 'healing resonance'.",
+    "It gives small bonus to the skill 'healing efficiency'.",
+    "It does magical damage adequately.",
+    "It gives small bonus to the skill 'mastery of medicine'."
+  ],
+  "type": "2h staff"
+}

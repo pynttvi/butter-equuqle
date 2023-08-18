@@ -1,0 +1,13 @@
+{
+  "name": "A dark cloak with a red symbol on the back",
+  "data": [
+    "It increases the users dexterity unnoticably.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'hiding'.",
+    "",
+    "- Extra -",
+    "It helps the user to hide by increasing the hiding skill for a tiny bit."
+  ],
+  "type": "Cloak"
+}

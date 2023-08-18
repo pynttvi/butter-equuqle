@@ -1,0 +1,11 @@
+{
+  "name": "A timeworn sapphire ring <pitted>",
+  "data": [
+    "It increases the users strength unnoticably.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution unnoticably.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers fast."
+  ],
+  "type": "Finger"
+}

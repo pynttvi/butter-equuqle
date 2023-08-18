@@ -1,0 +1,15 @@
+{
+  "name": "Drow cloak",
+  "data": [
+    "It increases the users dexterity unnoticably.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users intelligence unnoticably.",
+    "It has adequate armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat.",
+    "",
+    "- Extra -",
+    "It protects the user against fire."
+  ],
+  "type": "Cloak"
+}

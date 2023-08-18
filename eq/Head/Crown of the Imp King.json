@@ -1,0 +1,15 @@
+{
+  "name": "Crown of the Imp King",
+  "data": [
+    "It decreases the users wisdom poorly.",
+    "It decreases the users charisma adequately.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It decreases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the spell 'cure undead'.",
+    "",
+    "- Extra -",
+    "It is an artifact of imps."
+  ],
+  "type": "Head"
+}

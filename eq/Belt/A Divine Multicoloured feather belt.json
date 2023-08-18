@@ -1,0 +1,11 @@
+{
+  "name": "A Divine Multicoloured feather belt",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity a bit.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Belt"
+}

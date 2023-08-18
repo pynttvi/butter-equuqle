@@ -1,0 +1,16 @@
+{
+  "name": "A pair of mephitic gloves",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution pathetically.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'herb mixing'.",
+    "",
+    "- Extra -",
+    "The gloves exude a catalytic vapor that potentiates toxins."
+  ],
+  "type": "Hands"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cloak of Spiders",
+  "data": [
+    "It decreases the users strength unnoticably.",
+    "It increases the users dexterity adequately.",
+    "It decreases the users constitution unnoticably.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration slightly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance somewhat.",
+    "",
+    "- Extra -",
+    "It modifies the user's resistance against poison."
+  ],
+  "type": "Cloak"
+}

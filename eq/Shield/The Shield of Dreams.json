@@ -1,0 +1,16 @@
+{
+  "name": "The Shield of Dreams",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It has decent armour class for its type (little in general).",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'.",
+    "It increases the users cold resistance somewhat.",
+    "",
+    "- Extra -",
+    "Usage: storehp, storesp, healsp, healhp.",
+    "Min/max amount of stored hps/sps is 400/500."
+  ],
+  "type": "Shield"
+}

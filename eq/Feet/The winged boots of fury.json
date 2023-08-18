@@ -1,0 +1,14 @@
+{
+  "name": "The winged boots of fury",
+  "data": [
+    "It increases the users dexterity strongly.",
+    "It increases the users constitution pitifully.",
+    "It has low armour class for its type (pathetic in general).",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users electric resistance a bit.",
+    "",
+    "- Extra -",
+    "These boots can take you to the sky."
+  ],
+  "type": "Feet"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "The skeletal flail called 'The dead man's hand' (1h)",
+  "data": [
+    "It increases hit chance adequately.",
+    "It has awesome weapon class for its type (adequate in general).",
+    "It increases the users strength a bit.",
+    "It increases the users constitution a good amount.",
+    "It decreases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users psionic resistance somewhat.",
+    "It increases the users magical resistance somewhat.",
+    "It increases damage adequately.",
+    "It does psionic damage unbelievably much."
+  ],
+  "type": "1h ancient"
+}

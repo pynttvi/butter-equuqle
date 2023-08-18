@@ -1,0 +1,11 @@
+{
+  "name": "Stained Black Robes",
+  "data": [
+    "It increases the users wisdom unnoticably.",
+    "It increases the users intelligence unnoticably.",
+    "It has feeble armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

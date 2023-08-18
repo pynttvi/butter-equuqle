@@ -1,0 +1,14 @@
+{
+  "name": "Spider Fur Slippers",
+  "data": [
+    "It decreases the users strength a bit.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence adequately.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers a bit slower than avarage.",
+    "It gives decent bonus to the skill 'focus power'."
+  ],
+  "type": "Feet"
+}

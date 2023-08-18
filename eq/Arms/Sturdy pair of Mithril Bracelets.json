@@ -1,0 +1,13 @@
+{
+  "name": "Sturdy pair of Mithril Bracelets",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'ignore pain'."
+  ],
+  "type": "Arms"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "A good spyglass",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "While worn, increases the maximum radius of the outworld map by 10.",
+    "",
+    "Can be used to find living beings within a radius of 15 rooms with great accuracy.",
+    "Syntax: find <(optional)name>"
+  ],
+  "type": "Telescope"
+}

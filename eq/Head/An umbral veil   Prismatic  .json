@@ -1,0 +1,22 @@
+{
+  "name": "An umbral veil < Prismatic >",
+  "data": [
+    "It increases the users dexterity a good amount.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It allows the user to see in darkness.",
+    "It allows the user to see magical auras.",
+    "It allows the user to see invisible.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance adequately.",
+    "It gives decent bonus to the skill 'hiding'.",
+    "It increases the users cold resistance adequately.",
+    "It gives nice bonus to the skill 'dodge'.",
+    "",
+    "- Extra -",
+    "The thin tissue of shadow allows the wearer to safely look through",
+    "the prismatic lens, revealing previously unseen dimensions of the",
+    "physical world."
+  ],
+  "type": "Head"
+}

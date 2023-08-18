@@ -1,0 +1,17 @@
+{
+  "name": "Red Chain Leggings",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom adequately.",
+    "It has awesome armour class for its type (poor in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly.",
+    "",
+    "- Extra -",
+    "Red Chain leggings are an artifact of the goddess Kirvana.",
+    "Red Chain leggings can sometimes prevent relocations when 'activate'ed.",
+    "Red Chain leggings can be 'deactivate'd to allow relocations."
+  ],
+  "type": "Legs"
+}

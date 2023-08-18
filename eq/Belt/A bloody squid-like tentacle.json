@@ -1,0 +1,18 @@
+{
+  "name": "A bloody squid-like tentacle",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution slightly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It decreases the users hitpoint regeneration nicely.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance somewhat.",
+    "",
+    "- Extra -",
+    "A death in the realm causes changes in its effects."
+  ],
+  "type": "Belt"
+}

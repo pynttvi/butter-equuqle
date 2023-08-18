@@ -1,0 +1,15 @@
+{
+  "name": "A reaver's mandibles",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity nicely.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'critical'.",
+    "",
+    "- Extra -",
+    "When threatened, the mandibles respond by spraying a numbing toxin."
+  ],
+  "type": "Head"
+}

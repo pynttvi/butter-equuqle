@@ -1,0 +1,32 @@
+{
+  "name": "Phoenix Spine Ring",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom a bit.",
+    "It increases the users intelligence adequately.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers very slowly.",
+    "It decreases the users cold resistance strongly.",
+    "It gives small penalty to the spell 'icebolt'.",
+    "It gives small bonus to the spell 'fire blade'.",
+    "It gives small bonus to the spell 'fire breathing act'.",
+    "It gives small penalty to the spell 'cold vulnerability'.",
+    "It gives small bonus to the spell 'fire vulnerability'.",
+    "It increases the users fire resistance strongly.",
+    "It gives small penalty to the spell 'ice blade'.",
+    "It gives small penalty to the spell 'cold ray'.",
+    "It gives small penalty to the spell 'greater cold invulnerability'.",
+    "It gives small bonus to the spell 'flamestrike'.",
+    "It gives small bonus to the spell 'firebolt'.",
+    "",
+    "- Extra -",
+    "This is a blessed artifact of Kirvana.",
+    "This artifact will help protect you from the effects of fire.",
+    "However, due to the fickle nature of the goddess of destruction",
+    "and fire, the protection will sometimes falter, harming those",
+    "around you."
+  ],
+  "type": "Finger"
+}

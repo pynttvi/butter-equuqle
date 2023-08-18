@@ -1,0 +1,13 @@
+{
+  "name": "A leather belt with a solid mythril buckle",
+  "data": [
+    "It decreases the users constitution pitifully.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence slightly.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'power blast'."
+  ],
+  "type": "Belt"
+}

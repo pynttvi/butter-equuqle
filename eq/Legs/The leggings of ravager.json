@@ -1,0 +1,13 @@
+{
+  "name": "The leggings of ravager",
+  "data": [
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has excellent armour class for its type (feeble in general).",
+    "It decreases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'mastery of death protection'."
+  ],
+  "type": "Legs"
+}

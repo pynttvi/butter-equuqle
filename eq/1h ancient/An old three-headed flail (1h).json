@@ -1,0 +1,14 @@
+{
+  "name": "An old three-headed flail (1h)",
+  "data": [
+    "It increases hit chance a tiny bit.",
+    "It has impressive weapon class for its type (average in general).",
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity pathetically.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It increases the users magical resistance a bit.",
+    "It increases damage adequately.",
+    "It does psionic damage magnificently."
+  ],
+  "type": "1h ancient"
+}

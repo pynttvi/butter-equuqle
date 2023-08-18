@@ -1,0 +1,10 @@
+{
+  "name": "A pair of fluffy bunny slippers",
+  "data": [
+    "It increases the users constitution unnoticably.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration pathetically.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

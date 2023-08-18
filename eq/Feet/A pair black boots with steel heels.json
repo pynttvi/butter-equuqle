@@ -1,0 +1,9 @@
+{
+  "name": "A pair black boots with steel heels",
+  "data": [
+    "It has nice armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'horsemanship'."
+  ],
+  "type": "Feet"
+}

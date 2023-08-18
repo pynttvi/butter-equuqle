@@ -1,0 +1,17 @@
+{
+  "name": "A wicked looking crimson hood",
+  "data": [
+    "It increases the users dexterity impressively.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance strongly.",
+    "It gives decent bonus to the skill 'dodge'.",
+    "",
+    "- Extra -",
+    "This hood is rumoured to be able to clear persons mind if they happen to be",
+    "stunned. It is also said that this hood can strengthen one's mind to be more",
+    "resistant to such occurrences."
+  ],
+  "type": "Head"
+}

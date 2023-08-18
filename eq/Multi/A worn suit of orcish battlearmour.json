@@ -1,0 +1,15 @@
+{
+  "name": "A worn suit of orcish battlearmour",
+  "data": [
+    "It increases the users strength like a god.",
+    "It increases the users dexterity like a god.",
+    "It increases the users constitution impressively.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has excellent armour class for its type (magnificent in general).",
+    "It decreases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration like a god.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Multi"
+}

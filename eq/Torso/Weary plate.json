@@ -1,0 +1,10 @@
+{
+  "name": "Weary plate",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It has low armour class for its type (weak in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Torso"
+}

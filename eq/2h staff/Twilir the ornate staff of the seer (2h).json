@@ -1,0 +1,13 @@
+{
+  "name": "Twilir the ornate staff of the seer (2h)",
+  "data": [
+    "It increases hit chance pathetically.",
+    "It has adequate weapon class for its type (poor in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It decreases damage a bit.",
+    "It does fire damage poorly.",
+    "It gives great bonus to the skill 'essence eye'."
+  ],
+  "type": "2h staff"
+}

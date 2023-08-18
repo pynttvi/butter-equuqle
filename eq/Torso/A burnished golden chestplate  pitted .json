@@ -1,0 +1,11 @@
+{
+  "name": "A burnished golden chestplate <pitted>",
+  "data": [
+    "It increases the users dexterity poorly.",
+    "It increases the users intelligence poorly.",
+    "It has average armour class for its type (low in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers fast."
+  ],
+  "type": "Torso"
+}

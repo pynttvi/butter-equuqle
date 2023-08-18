@@ -1,0 +1,11 @@
+{
+  "name": "The belt of Gondor",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity pitifully.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Belt"
+}

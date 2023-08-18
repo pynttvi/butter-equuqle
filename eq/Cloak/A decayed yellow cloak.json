@@ -1,0 +1,17 @@
+{
+  "name": "A decayed yellow cloak",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution pathetically.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has excellent armour class for its type (little in general).",
+    "It decreases the users spellpoint regeneration nicely.",
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance somewhat.",
+    "It gives small bonus to the skill 'tumble'."
+  ],
+  "type": "Cloak"
+}

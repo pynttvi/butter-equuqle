@@ -1,0 +1,19 @@
+{
+  "name": "A hideous looking golden mask",
+  "data": [
+    "It decreases the users strength somewhat.",
+    "It decreases the users constitution somewhat.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has magnificent armour class for its type (poor in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users electric resistance somewhat.",
+    "",
+    "- Extra -",
+    "",
+    "It allows the user to sometimes 'disrupt' nearby magical fields."
+  ],
+  "type": "Head"
+}

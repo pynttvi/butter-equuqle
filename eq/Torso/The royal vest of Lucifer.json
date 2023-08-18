@@ -1,0 +1,19 @@
+{
+  "name": "The royal vest of Lucifer",
+  "data": [
+    "It decreases the users strength adequately.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom phenomenally.",
+    "It has great armour class for its type (adequate in general).",
+    "It increases the users spellpoint regeneration unbelievably much.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "It gives small bonus to the skill 'mastery of shielding'.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'greater vulnerability'.",
+    "",
+    "- Extra -",
+    "It affects the skill mastery of shielding.",
+    "It affects the skill greater vulnerability."
+  ],
+  "type": "Torso"
+}

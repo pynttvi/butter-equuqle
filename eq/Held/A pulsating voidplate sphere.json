@@ -1,0 +1,19 @@
+{
+  "name": "A pulsating voidplate sphere",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution a tiny bit.",
+    "It increases the users intelligence a tiny bit.",
+    "It has awesome armour class for its type (poor in general).",
+    "It increases the users hitpoints poorly.",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers slowly.",
+    "It increases the users asphyxiation resistance strongly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Held"
+}

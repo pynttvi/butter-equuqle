@@ -1,0 +1,12 @@
+{
+  "name": "Black dragonskin bracelets",
+  "data": [
+    "It increases the users intelligence poorly.",
+    "It has low armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'psychic crush'.",
+    "It gives small bonus to the skill 'mastery of psychokinetics'."
+  ],
+  "type": "Arms"
+}

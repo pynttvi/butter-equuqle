@@ -1,0 +1,20 @@
+{
+  "name": "The Warbanner of Clan Guzan",
+  "data": [
+    "It increases the users strength poorly.",
+    "It decreases the users dexterity poorly.",
+    "It increases the users constitution like a god.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers very fast.",
+    "It increases the users psionic resistance strongly.",
+    "",
+    "- Extra -",
+    "",
+    "'Confront thy enemy with the gaze of a male lion,",
+    "Command thy soldiers with a gloved fist of iron,",
+    "March through their shattered gates,",
+    "Wave thy banner, for Glory awaits!'"
+  ],
+  "type": "Held"
+}

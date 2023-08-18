@@ -1,0 +1,17 @@
+{
+  "name": "A large metal shield named \"Tal Larnin\" [fading]",
+  "data": [
+    "It decreases the users dexterity adequately.",
+    "It increases the users intelligence pitifully.",
+    "It has magnificent armour class for its type (poor in general).",
+    "It increases the users spellpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'inner strength'.",
+    "It increases the users electric resistance strongly.",
+    "",
+    "- Extra -",
+    "Tal Larnin modifies the user's resistance to electricity.",
+    "Tal Larnin modifies the user's skills."
+  ],
+  "type": "Shield"
+}

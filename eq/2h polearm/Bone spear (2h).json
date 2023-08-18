@@ -1,0 +1,8 @@
+{
+  "name": "Bone spear (2h)",
+  "data": [
+    "It has average weapon class for its type (mediocre in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h polearm"
+}

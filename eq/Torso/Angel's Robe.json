@@ -1,0 +1,19 @@
+{
+  "name": "Angel's Robe",
+  "data": [
+    "It decreases the users strength a tiny bit.",
+    "It decreases the users dexterity poorly.",
+    "It increases the users intelligence nicely.",
+    "It increases the users charisma impressively.",
+    "It has low armour class for its type (poor in general).",
+    "It increases the users spellpoint regeneration incredibly.",
+    "It increases the users hitpoint regeneration nicely.",
+    "This item loses its magical powers very slowly.",
+    "It gives small bonus to the skill 'vocal training'.",
+    "",
+    "- Extra -",
+    "Angel's Robe is an artifact of the goddess Kirvana.",
+    "Angel's Robe allows the wearer to gain an extra tick every so often."
+  ],
+  "type": "Torso"
+}

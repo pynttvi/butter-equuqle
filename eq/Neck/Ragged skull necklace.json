@@ -1,0 +1,11 @@
+{
+  "name": "Ragged skull necklace",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It increases the users intelligence poorly.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Neck"
+}

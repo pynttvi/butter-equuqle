@@ -1,0 +1,10 @@
+{
+  "name": "Bagpipes",
+  "data": [
+    "It decreases hit chance poorly.",
+    "It has weak weapon class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It decreases damage poorly."
+  ],
+  "type": "1h instrument"
+}

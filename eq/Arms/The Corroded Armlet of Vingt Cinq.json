@@ -1,0 +1,16 @@
+{
+  "name": "The Corroded Armlet of Vingt Cinq",
+  "data": [
+    "It increases the users strength impressively.",
+    "It increases the users dexterity impressively.",
+    "It increases the users constitution impressively.",
+    "It has awesome armour class for its type (little in general).",
+    "This item loses its magical powers incredibly slowly.",
+    "",
+    "- Extra -",
+    "The armlet can be inlaid with up to three shards.",
+    "The armlet helps its wearer land more, and more devastating, critical blows.",
+    "The armlet increases its wearer's stamina reserves."
+  ],
+  "type": "Arms"
+}

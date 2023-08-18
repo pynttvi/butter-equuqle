@@ -1,0 +1,18 @@
+{
+  "name": "A flamehardened greatcloak",
+  "data": [
+    "It decreases the users strength adequately.",
+    "It decreases the users dexterity adequately.",
+    "It increases the users wisdom divinely.",
+    "It increases the users intelligence divinely.",
+    "It has low armour class for its type (decent in general).",
+    "It increases the users spellpoint regeneration divinely.",
+    "It decreases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance superbly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Multi"
+}

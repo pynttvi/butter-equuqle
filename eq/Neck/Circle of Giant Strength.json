@@ -1,0 +1,11 @@
+{
+  "name": "Circle of Giant Strength",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users constitution pitifully.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Neck"
+}

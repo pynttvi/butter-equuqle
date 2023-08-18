@@ -1,0 +1,16 @@
+{
+  "name": "The black cloak of vampiric wizardy",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity poorly.",
+    "It decreases the users constitution unnoticably.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'attack'.",
+    "",
+    "- Extra -",
+    "It affects the users knowledge of the skill attack."
+  ],
+  "type": "Cloak"
+}

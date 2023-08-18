@@ -1,0 +1,9 @@
+{
+  "name": "A thorn studded bullwhip (1h)",
+  "data": [
+    "It has average weapon class for its type (poor in general).",
+    "This item loses its magical powers with average speed.",
+    "It does poison damage a tiny bit."
+  ],
+  "type": "1h ancient"
+}

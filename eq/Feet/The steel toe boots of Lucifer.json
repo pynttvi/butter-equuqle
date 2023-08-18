@@ -1,0 +1,19 @@
+{
+  "name": "The steel toe boots of Lucifer",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity adequately.",
+    "It decreases the users constitution pathetically.",
+    "It decreases the users wisdom pathetically.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'attack'.",
+    "It gives decent bonus to the skill 'critical'.",
+    "",
+    "- Extra -",
+    "It affects the skill attack.",
+    "It affects the skill critical."
+  ],
+  "type": "Feet"
+}

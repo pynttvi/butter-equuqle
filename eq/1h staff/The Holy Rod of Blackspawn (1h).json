@@ -1,0 +1,17 @@
+{
+  "name": "The Holy Rod of Blackspawn (1h)",
+  "data": [
+    "It decreases hit chance poorly.",
+    "It has superb weapon class for its type (weak in general).",
+    "It increases the users wisdom a bit.",
+    "It decreases the users intelligence a bit.",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'smash'.",
+    "It gives small bonus to the skill 'bless'.",
+    "It increases damage a bit.",
+    "It does asphyxiation damage strongly.",
+    "It gives small bonus to the skill 'arcane lore'."
+  ],
+  "type": "1h staff"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "The gift of shadow",
+  "data": [
+    "It increases the users intelligence incredibly.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "It gives small bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'psionic efficiency'.",
+    "It increases the users magical resistance somewhat.",
+    "",
+    "- Extra -",
+    "When flipped, the coin always lands face-side up."
+  ],
+  "type": "Held"
+}

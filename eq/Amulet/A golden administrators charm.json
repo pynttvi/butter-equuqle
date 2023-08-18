@@ -1,0 +1,10 @@
+{
+  "name": "A golden administrators charm",
+  "data": [
+    "It increases the users charisma poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'leadership'."
+  ],
+  "type": "Amulet"
+}

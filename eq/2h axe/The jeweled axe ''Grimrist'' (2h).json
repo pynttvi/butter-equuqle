@@ -1,0 +1,17 @@
+{
+  "name": "The jeweled axe ''Grimrist'' (2h)",
+  "data": [
+    "It increases hit chance impressively.",
+    "It has superb weapon class for its type (impressive in general).",
+    "This item loses its magical powers very slowly.",
+    "It increases damage impressively.",
+    "It does fire damage unbelievably much.",
+    "",
+    "- Extra -",
+    "Grimrist's rubies can drink blood.",
+    "Grimrist's sapphires can drink magical energy.",
+    "Grimrist's emeralds can deliver a massive poison blow.",
+    "Grimrist's topazes can grant the wielder berserker strength."
+  ],
+  "type": "2h axe"
+}

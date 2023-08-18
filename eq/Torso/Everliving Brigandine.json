@@ -1,0 +1,14 @@
+{
+  "name": "Everliving Brigandine",
+  "data": [
+    "It has superb armour class for its type (nice in general).",
+    "It increases the users hitpoint regeneration nicely.",
+    "It increases the users hitpoints impossibly much.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users physical resistance strongly.",
+    "",
+    "- Extra -",
+    "The brigandine recirculates the wearer's blood, infusing it with new life."
+  ],
+  "type": "Torso"
+}

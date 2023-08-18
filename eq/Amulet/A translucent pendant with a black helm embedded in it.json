@@ -1,0 +1,11 @@
+{
+  "name": "A translucent pendant with a black helm embedded in it",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration incredibly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Amulet"
+}

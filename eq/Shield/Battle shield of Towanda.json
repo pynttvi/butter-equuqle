@@ -1,0 +1,9 @@
+{
+  "name": "Battle shield of Towanda",
+  "data": [
+    "It has adequate armour class for its type (little in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'."
+  ],
+  "type": "Shield"
+}

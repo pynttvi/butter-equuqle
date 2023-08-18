@@ -1,0 +1,12 @@
+{
+  "name": "A puppet made of twigs and mud",
+  "data": [
+    "It increases the users wisdom like a god.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers extremely fast.",
+    "It gives great bonus to the skill 'earth lore'.",
+    "It gives great bonus to the skill 'water lore'."
+  ],
+  "type": "Held"
+}

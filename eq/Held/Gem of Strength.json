@@ -1,0 +1,12 @@
+{
+  "name": "Gem of Strength",
+  "data": [
+    "It increases the users strength poorly.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "",
+    "|hp:1610("
+  ],
+  "type": "Held"
+}

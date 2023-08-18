@@ -1,0 +1,13 @@
+{
+  "name": "The crysknife of Fremens (1h)",
+  "data": [
+    "It has incredible weapon class for its type (mediocre in general).",
+    "It does electric damage a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It emits light.",
+    "A players under level 25 are forbidden to use this weapon."
+  ],
+  "type": "1h dagger"
+}

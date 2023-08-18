@@ -1,0 +1,12 @@
+{
+  "name": "Bloodred Leggings of Underworld",
+  "data": [
+    "It increases the users constitution poorly.",
+    "It increases the users wisdom adequately.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'mastery of medicine'."
+  ],
+  "type": "Legs"
+}

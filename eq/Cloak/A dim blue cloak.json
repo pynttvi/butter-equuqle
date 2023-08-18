@@ -1,0 +1,10 @@
+{
+  "name": "A dim blue cloak",
+  "data": [
+    "It increases the users wisdom poorly.",
+    "It has low armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Cloak"
+}

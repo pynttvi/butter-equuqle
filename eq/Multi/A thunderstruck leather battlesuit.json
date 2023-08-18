@@ -1,0 +1,19 @@
+{
+  "name": "A thunderstruck leather battlesuit",
+  "data": [
+    "It increases the users strength an average amount.",
+    "It increases the users dexterity ILLEGALLY.",
+    "It increases the users constitution an average amount.",
+    "It decreases the users wisdom somewhat.",
+    "It decreases the users intelligence somewhat.",
+    "It decreases the users charisma somewhat.",
+    "It has excellent armour class for its type (magnificent in general).",
+    "It increases the users hitpoint regeneration colossally.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users electric resistance superbly.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Multi"
+}

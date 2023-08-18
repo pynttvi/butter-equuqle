@@ -1,0 +1,14 @@
+{
+  "name": "Blighted Robes",
+  "data": [
+    "It increases the users intelligence impressively.",
+    "It has almost non-existent armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers somewhat slower than avarage.",
+    "",
+    "- Extra -",
+    "Blighted Robes can open portals to various worlds, calling forth",
+    "all manner of demons and mystic energies."
+  ],
+  "type": "Torso"
+}

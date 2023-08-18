@@ -1,0 +1,21 @@
+{
+  "name": "A banded jade coronet",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity adequately.",
+    "It decreases the users constitution a bit.",
+    "It increases the users intelligence noticably.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers very slowly.",
+    "It gives decent bonus to the skill 'headcut'.",
+    "It gives decent bonus to the skill 'tameshivar'.",
+    "It gives decent bonus to the skill 'critical'.",
+    "It gives decent bonus to the skill 'doublehit'.",
+    "",
+    "- Extra -",
+    "The coronet magically refreshes it's wearer's exhaustion."
+  ],
+  "type": "Head"
+}

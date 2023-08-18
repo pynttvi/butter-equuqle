@@ -1,0 +1,16 @@
+{
+  "name": "The silver dagger of rotting (1h)",
+  "data": [
+    "It increases hit chance slightly.",
+    "It has magnificent weapon class for its type (low in general).",
+    "It does magical damage incredibly.",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage slightly.",
+    "",
+    "- Extra -",
+    "Rotting can cause wounds of various types."
+  ],
+  "type": "1h dagger"
+}

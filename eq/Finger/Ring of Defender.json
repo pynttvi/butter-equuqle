@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Defender",
+  "data": [
+    "It increases the users constitution a bit.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

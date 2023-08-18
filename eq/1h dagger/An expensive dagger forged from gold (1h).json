@@ -1,0 +1,27 @@
+{
+  "name": "An expensive dagger forged from gold (1h)",
+  "data": [
+    "It has mediocre weapon class for its type (little in general).",
+    "It gives tiny penalty to the skill 'double backstab'.",
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers very fast.",
+    "It gives tiny bonus to the skill 'triple backstab'.",
+    "It gives tiny bonus to the skill 'attack'.",
+    "It gives tiny bonus to the skill 'sneak'.",
+    "It does asphyxiation damage unnoticably.",
+    "It gives tiny bonus to the skill 'backstab'.",
+    "It gives tiny penalty to the skill 'disguise'.",
+    "",
+    "- Extra -",
+    "It is forged by the Scourge.",
+    "It dissipates light.",
+    "It seeks critical veins of its target.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "*----------------------------------------------------------------------*"
+  ],
+  "type": "1h dagger"
+}

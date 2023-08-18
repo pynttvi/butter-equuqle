@@ -1,0 +1,11 @@
+{
+  "name": "Demon skin leggings",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Legs"
+}

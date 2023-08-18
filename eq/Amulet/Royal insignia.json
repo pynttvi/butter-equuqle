@@ -1,0 +1,11 @@
+{
+  "name": "Royal insignia",
+  "data": [
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence slightly.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration tremendously.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Amulet"
+}

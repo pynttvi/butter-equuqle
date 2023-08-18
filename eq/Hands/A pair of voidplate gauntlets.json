@@ -1,0 +1,16 @@
+{
+  "name": "A pair of voidplate gauntlets",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity a bit.",
+    "It increases the users constitution a bit.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It increases the users asphyxiation resistance adequately.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Hands"
+}

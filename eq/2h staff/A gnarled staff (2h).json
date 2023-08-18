@@ -1,0 +1,14 @@
+{
+  "name": "A gnarled staff (2h)",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has magnificent weapon class for its type (average in general).",
+    "This item loses its magical powers very slowly.",
+    "It increases damage somewhat.",
+    "It does fire damage like a god.",
+    "",
+    "- Extra -",
+    "The gnarled staff can set its opponents on fire."
+  ],
+  "type": "2h staff"
+}

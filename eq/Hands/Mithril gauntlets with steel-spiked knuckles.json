@@ -1,0 +1,11 @@
+{
+  "name": "Mithril gauntlets with steel-spiked knuckles",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity poorly.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'critical'."
+  ],
+  "type": "Hands"
+}

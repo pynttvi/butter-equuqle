@@ -1,0 +1,8 @@
+{
+  "name": "Uruk-Hai sword (1h)",
+  "data": [
+    "It has weak weapon class for its type (feeble in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "1h sword"
+}

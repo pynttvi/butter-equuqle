@@ -1,0 +1,10 @@
+{
+  "name": "A long Katana of Samurai (1h)",
+  "data": [
+    "It increases hit chance pathetically.",
+    "It has good weapon class for its type (mediocre in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage unnoticably."
+  ],
+  "type": "1h sword"
+}

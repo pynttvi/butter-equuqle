@@ -1,0 +1,21 @@
+{
+  "name": "The legendary Tri-Blade known as 'Bloodhunter' <tm> (1h)",
+  "data": [
+    "It increases hit chance slightly.",
+    "It has magnificent weapon class for its type (nice in general).",
+    "It increases the users strength a bit.",
+    "It does magical damage a good amount.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage slightly.",
+    "",
+    "- Extra -",
+    "This weapon will increase the users strength.",
+    "This weapon will increase the ability to hit",
+    "This weapon does more damage than usual",
+    "This weapon will increase the users power.",
+    "",
+    "",
+    "--More-- (10%)"
+  ],
+  "type": "1h sword"
+}

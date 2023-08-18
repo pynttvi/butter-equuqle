@@ -1,0 +1,17 @@
+{
+  "name": "Rosewood Staff [Pulsating]",
+  "data": [
+    "It increases the users strength pathetically.",
+    "It increases the users dexterity pathetically.",
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom pathetically.",
+    "It increases the users intelligence pathetically.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "staff can create a thorny wall around the caster."
+  ],
+  "type": "Held"
+}

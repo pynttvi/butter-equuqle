@@ -1,0 +1,20 @@
+{
+  "name": "An ancient silver longspear called 'Bloodspear' (2h)",
+  "data": [
+    "It decreases hit chance adequately.",
+    "It has magnificent weapon class for its type (superb in general).",
+    "It increases the users strength adequately.",
+    "It increases the users armour class a tiny bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage impressively.",
+    "It does magical damage tremendously.",
+    "",
+    "- Extra -",
+    "It allows the user to walk on water.",
+    "It can perform 'resurrect' once a month.",
+    "It can perform 'cure disease' once a week.",
+    "It can perform 'heal body' once a week.",
+    "Special abilities can used by typing: 'point bloodspear at <target>'."
+  ],
+  "type": "2h polearm"
+}

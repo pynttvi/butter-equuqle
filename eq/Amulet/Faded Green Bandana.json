@@ -1,0 +1,14 @@
+{
+  "name": "Faded Green Bandana",
+  "data": [
+    "It decreases the users dexterity slightly.",
+    "It increases the users wisdom unnoticably.",
+    "It increases the users intelligence somewhat.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'interrupting force'.",
+    "It decreases the users fire resistance strongly."
+  ],
+  "type": "Amulet"
+}

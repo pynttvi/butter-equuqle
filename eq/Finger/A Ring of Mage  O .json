@@ -1,0 +1,10 @@
+{
+  "name": "A Ring of Mage <O>",
+  "data": [
+    "It increases the users intelligence a good amount.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Finger"
+}

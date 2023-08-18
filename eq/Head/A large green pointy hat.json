@@ -1,0 +1,11 @@
+{
+  "name": "A large green pointy hat",
+  "data": [
+    "It increases the users wisdom poorly.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the spell 'skyfire'."
+  ],
+  "type": "Head"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "White boots with golden decorations",
+  "data": [
+    "It increases the users wisdom a bit.",
+    "It increases the users intelligence a bit.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a bit.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Feet"
+}

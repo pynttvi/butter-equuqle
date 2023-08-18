@@ -1,0 +1,12 @@
+{
+  "name": "Silvery bracelets of Mana Channelling",
+  "data": [
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence impressively.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It gives decent bonus to the skill 'offensive efficiency'.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Arms"
+}

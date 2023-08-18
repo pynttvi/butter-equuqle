@@ -1,0 +1,14 @@
+{
+  "name": "A dark shimmering shield.",
+  "data": [
+    "It has magnificent armour class for its type (poor in general).",
+    "It increases the users spellpoint regeneration unnoticably.",
+    "It increases the users hitpoint regeneration pathetically.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It modifies the user's resistance to physical damage."
+  ],
+  "type": "Shield"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Sulfur helmet (anti intelligent)",
+  "data": [
+    "It increases the users strength slightly.",
+    "It decreases the users intelligence poorly.",
+    "It has poor armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "This object effects the users intelligence",
+    "This object effects the users strength",
+    "This object has hidden magical properties."
+  ],
+  "type": "Head"
+}

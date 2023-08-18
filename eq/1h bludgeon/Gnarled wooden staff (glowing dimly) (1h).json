@@ -1,0 +1,11 @@
+{
+  "name": "Gnarled wooden staff (glowing dimly) (1h)",
+  "data": [
+    "It has good weapon class for its type (mediocre in general).",
+    "It increases the users intelligence pathetically.",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance a bit."
+  ],
+  "type": "1h bludgeon"
+}

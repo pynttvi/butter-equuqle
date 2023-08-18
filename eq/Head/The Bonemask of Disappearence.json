@@ -1,0 +1,19 @@
+{
+  "name": "The Bonemask of Disappearence",
+  "data": [
+    "It decreases the users strength slightly.",
+    "It decreases the users constitution slightly.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence poorly.",
+    "It has decent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "It gives small bonus to the spell 'greater invisibility'.",
+    "It gives small bonus to the skill 'spacial manipulation'.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "It affects the user's skill knowledge.",
+    "It affects the user's spell knowledge."
+  ],
+  "type": "Head"
+}

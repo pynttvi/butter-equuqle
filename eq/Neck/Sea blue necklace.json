@@ -1,0 +1,11 @@
+{
+  "name": "Sea blue necklace",
+  "data": [
+    "It decreases the users dexterity poorly.",
+    "It increases the users intelligence adequately.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Neck"
+}

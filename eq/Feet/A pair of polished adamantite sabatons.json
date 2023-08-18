@@ -1,0 +1,16 @@
+{
+  "name": "A pair of polished adamantite sabatons",
+  "data": [
+    "It increases the users strength noticably.",
+    "It increases the users wisdom noticably.",
+    "It has superb armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration slightly.",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "It increases the users physical resistance adequately.",
+    "This item loses its magical powers with average speed.",
+    "",
+    "- Extra -",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Feet"
+}

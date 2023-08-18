@@ -1,0 +1,12 @@
+{
+  "name": "Falcon necklace",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity a bit.",
+    "It increases the users constitution adequately.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration a good amount.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Neck"
+}

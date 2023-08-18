@@ -1,0 +1,19 @@
+{
+  "name": "Glittering Ruby",
+  "data": [
+    "It decreases the users strength somewhat.",
+    "It decreases the users dexterity somewhat.",
+    "It decreases the users constitution somewhat.",
+    "It increases the users wisdom impressively.",
+    "It increases the users intelligence like a god.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users hitpoint regeneration adequately.",
+    "This item loses its magical powers slowly.",
+    "",
+    "- Extra -",
+    "Glittering Ruby is an artifact of the Goddess Kirvana.",
+    "Glittering Ruby can 'rprotect' the wearer from a certain spell."
+  ],
+  "type": "Held"
+}

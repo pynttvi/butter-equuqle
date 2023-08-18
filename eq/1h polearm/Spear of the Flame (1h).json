@@ -1,0 +1,18 @@
+{
+  "name": "Spear of the Flame (1h)",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has impressive weapon class for its type (average in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage poorly.",
+    "It does fire damage a bit.",
+    "",
+    "- Extra -",
+    "It would make a good backstab weapon.",
+    "It has special properties.",
+    "",
+    "The command word to light the spear is: say light please",
+    "The command word to darken the spear is: say flame away"
+  ],
+  "type": "1h polearm"
+}
