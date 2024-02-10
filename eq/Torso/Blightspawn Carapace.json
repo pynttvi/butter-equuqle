@@ -4,7 +4,12 @@
     "It increases the users constitution superbly.",
     "It has awesome armour class for its type (excellent in general).",
     "It increases the users hitpoint regeneration nicely.",
-    "It increases the"
+    "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance somewhat.",
+    "It increases the users acid resistance somewhat.",
+    "- Extra -",
+    "The carapace provides an additional line of defense against caustic",
+    "and toxic substances."
   ],
   "type": "Torso"
 }

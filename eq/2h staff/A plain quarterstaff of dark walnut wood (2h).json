@@ -9,10 +9,10 @@
     "It increases the users spellpoint regeneration poorly.",
     "It gives tiny bonus to the skill 'psionic efficiency'.",
     "This item loses its magical powers a bit slower than avarage.",
-    "It increases the users psionic resistance a bit.",
-    "It gives tiny bonus to the skill 'nerve mastery'.",
     "It increases damage a tiny bit.",
-    "It does psionic damage tremendously."
+    "It gives tiny bonus to the skill 'nerve mastery'.",
+    "It does psionic damage tremendously.",
+    "It increases the users psionic resistance a bit."
   ],
   "type": "2h staff"
 }

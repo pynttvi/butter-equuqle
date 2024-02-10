@@ -2,12 +2,11 @@
   "name": "An abalone-shell circlet called 'The Extender'",
   "data": [
     "It increases the users constitution impressively.",
-    "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users hitpoints poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers incredibly slowly.",
-    "",
     "- Extra -",
     "It is a relic of the First Expedition.",
     "Its power could be greatly enhanced through embedding."

@@ -2,10 +2,7 @@
   "name": "Leather breastplate",
   "data": [
     "It has tiny armour class for its type (pathetic in general).",
-    "This item loses its magical powers with average speed.",
-    "",
-    "",
-    "|hp:1610(1610) sp:2625(2625) (You feel fully rested.) (Not in"
+    "This item loses its magical powers with average speed."
   ],
   "type": "Torso"
 }

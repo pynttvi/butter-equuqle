@@ -6,8 +6,8 @@
     "It has nice armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers extremely slowly.",
-    "It decreases the users fire resistance somewhat.",
-    "It increases the users poison resistance strongly."
+    "It increases the users poison resistance strongly.",
+    "It decreases the users fire resistance somewhat."
   ],
   "type": "Cloak"
 }

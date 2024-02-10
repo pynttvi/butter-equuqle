@@ -9,16 +9,14 @@
     "It decreases the users armour class pathetically.",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the spell 'psychic crush'.",
     "It increases damage unnoticably.",
-    "",
+    "It gives decent bonus to the spell 'psychic crush'.",
     "- Extra -",
     "It modifies your armour class.",
     "It modifies the wielder's constitution.",
     "It modifies the wielder's dexterity.",
     "It modifies the wielder's intelligence.",
-    "It modifies the wielder's mana regeneration.",
-    "--More-- (86%)"
+    "It modifies the wielder's mana regeneration."
   ],
   "type": "1h sword"
 }

@@ -1,5 +1,15 @@
 {
   "name": "Cloak of everlasting darkness",
-  "data": [],
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity a good amount.",
+    "It increases the users hitpoints poorly.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users physical resistance somewhat.",
+    "It gives small bonus to the skill 'spot weakness'.",
+    "It increases the users fire resistance somewhat."
+  ],
   "type": "Cloak"
 }

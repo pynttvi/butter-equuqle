@@ -5,12 +5,10 @@
     "It increases the users constitution adequately.",
     "It has awesome armour class for its type (little in general).",
     "It increases the users hitpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
-    "",
-    "*----------------------------------------------------------------------*"
+    "It increases the users cold resistance somewhat."
   ],
   "type": "Neck"
 }

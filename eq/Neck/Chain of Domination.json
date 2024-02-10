@@ -1,5 +1,14 @@
 {
   "name": "Chain of Domination",
-  "data": [],
+  "data": [
+    "It decreases the users strength like a god.",
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom a good amount.",
+    "It increases the users intelligence a good amount.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration impressively.",
+    "This item loses its magical powers very slowly.",
+    "It gives small bonus to the skill 'quick chant'."
+  ],
   "type": "Neck"
 }

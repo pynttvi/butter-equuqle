@@ -4,9 +4,9 @@
     "It has magnificent weapon class for its type (decent in general).",
     "It increases the users dexterity adequately.",
     "This item loses its magical powers with average speed.",
-    "It decreases the users psionic resistance somewhat.",
     "It increases damage adequately.",
-    "It does electric damage superbly."
+    "It does electric damage superbly.",
+    "It decreases the users psionic resistance somewhat."
   ],
   "type": "2h dagger"
 }

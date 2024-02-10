@@ -4,13 +4,11 @@
     "It increases the users strength a tiny bit.",
     "It increases the users constitution a good amount.",
     "It has magnificent armour class for its type (poor in general).",
-    "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'wall of steel'.",
+    "It increases the users physical resistance somewhat.",
     "It increases the users fire resistance somewhat.",
-    "",
     "- Extra -",
-    "",
     "When worn by a dwarf, this shield is rumoured to augment certain immunities."
   ],
   "type": "Shield"

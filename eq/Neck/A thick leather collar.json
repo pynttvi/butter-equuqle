@@ -5,7 +5,13 @@
     "It decreases the users dexterity poorly.",
     "It increases the users constitution adequately.",
     "It increases the users wisdom poorly.",
-    "It decreases"
+    "It decreases the users intelligence poorly.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance somewhat.",
+    "It gives small bonus to the skill 'parry'.",
+    "It gives small bonus to the skill 'hew'."
   ],
   "type": "Neck"
 }

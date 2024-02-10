@@ -2,10 +2,7 @@
   "name": "White Monk Robes",
   "data": [
     "It has feeble armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "",
-    "",
-    "|hp:1610(1610) sp:2625(2625) (You feel fully rested.) (Not in"
+    "This item loses its magical powers with average speed."
   ],
   "type": "Torso"
 }

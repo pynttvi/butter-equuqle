@@ -1,5 +1,17 @@
 {
   "name": "Rusty Sickle (2h)",
-  "data": [],
+  "data": [
+    "It increases hit chance poorly.",
+    "It has superb weapon class for its type (impressive in general).",
+    "It increases the users strength pathetically.",
+    "It increases the users dexterity pathetically.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage impressively.",
+    "It gives small bonus to the skill 'brawl'.",
+    "It does asphyxiation damage like a god.",
+    "It gives small bonus to the skill 'critical'.",
+    "- Extra -",
+    "This weapon can strangle an opponent."
+  ],
   "type": "2h ancient"
 }

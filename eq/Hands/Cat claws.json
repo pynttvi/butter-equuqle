@@ -1,5 +1,14 @@
 {
   "name": "Cat claws",
-  "data": [],
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'sneak'.",
+    "It gives small bonus to the skill 'dodge'.",
+    "- Extra -",
+    "It lessens the user's chance of dying."
+  ],
   "type": "Hands"
 }

@@ -1,5 +1,14 @@
 {
   "name": "Burning shield of Hell",
-  "data": [],
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users constitution somewhat.",
+    "It decreases the users wisdom adequately.",
+    "It decreases the users intelligence adequately.",
+    "It has nice armour class for its type (little in general).",
+    "It decreases the users spellpoint regeneration pitifully.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers very slowly."
+  ],
   "type": "Shield"
 }

@@ -1,5 +1,15 @@
 {
   "name": "Leprachaun Magical Air Armour <grey>",
-  "data": [],
+  "data": [
+    "It increases the users strength ILLEGALLY.",
+    "It increases the users dexterity like a god.",
+    "It increases the users constitution like a god.",
+    "It has superb armour class for its type (ILLEGAL in general).",
+    "It increases the users hitpoint regeneration nicely.",
+    "It increases the users electric resistance unearthly.",
+    "This item loses its magical powers with average speed.",
+    "- Extra -",
+    "Greatly modifies users resistance to damage."
+  ],
   "type": "Multi"
 }

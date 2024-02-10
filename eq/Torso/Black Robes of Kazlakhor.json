@@ -1,5 +1,12 @@
 {
   "name": "Black Robes of Kazlakhor",
-  "data": [],
+  "data": [
+    "It decreases the users strength pitifully.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users intelligence impressively.",
+    "It has feeble armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration like a god.",
+    "This item loses its magical powers very slowly."
+  ],
   "type": "Torso"
 }

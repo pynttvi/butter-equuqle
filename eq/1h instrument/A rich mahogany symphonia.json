@@ -6,11 +6,11 @@
     "It decreases the users dexterity poorly.",
     "It increases the users intelligence impressively.",
     "It increases the users charisma impressively.",
-    "It gives great bonus to the skill 'instrumentation'.",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers incredibly slowly.",
-    "It gives great bonus to the skill 'tonal control'.",
-    "It decreases damage poorly."
+    "It decreases damage poorly.",
+    "It gives great bonus to the skill 'instrumentation'.",
+    "It gives great bonus to the skill 'tonal control'."
   ],
   "type": "1h instrument"
 }

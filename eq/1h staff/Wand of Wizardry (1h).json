@@ -1,5 +1,20 @@
 {
   "name": "Wand of Wizardry (1h)",
-  "data": [],
+  "data": [
+    "It increases hit chance poorly.",
+    "It has superb weapon class for its type (weak in general).",
+    "It increases the users intelligence impressively.",
+    "It increases the users spellpoint regeneration nicely.",
+    "It gives decent bonus to the skill 'gestalt conjuration'.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases damage poorly.",
+    "It gives decent bonus to the skill 'channel power'.",
+    "It gives nice bonus to the spell 'fire preference'.",
+    "It gives nice bonus to the skill 'cold preference'.",
+    "It gives decent bonus to the skill 'intentionality'.",
+    "It does fire damage astoundingly.",
+    "It gives decent bonus to the skill 'power blast'.",
+    "It gives decent bonus to the skill 'microclasm'."
+  ],
   "type": "1h staff"
 }

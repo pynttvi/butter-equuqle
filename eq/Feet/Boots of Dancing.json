@@ -9,13 +9,9 @@
     "It increases the users magical resistance adequately.",
     "It increases the users acid resistance adequately.",
     "It decreases the users fire resistance adequately.",
-    "",
     "- Extra -",
     "The boots aid in dancing skills.",
-    "The boots alter the user's resistances somehow.",
-    "",
-    "",
-    "*----------------------------------------------------------------------*"
+    "The boots alter the user's resistances somehow."
   ],
   "type": "Feet"
 }

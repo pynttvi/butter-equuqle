@@ -1,5 +1,15 @@
 {
   "name": "Boots of Striding",
-  "data": [],
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users constitution a bit.",
+    "It decreases the users wisdom poorly.",
+    "It increases the users intelligence a bit.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed.",
+    "- Extra -",
+    "It keeps your feet dry.",
+    "It feeds the undead vampire."
+  ],
   "type": "Feet"
 }

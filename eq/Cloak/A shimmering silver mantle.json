@@ -5,10 +5,10 @@
     "It increases the users intelligence adequately.",
     "It has excellent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "It gives decent bonus to the skill 'greater vulnerability'.",
+    "It increases the users electric resistance somewhat.",
     "This item loses its magical powers extremely slowly.",
-    "It gives decent bonus to the skill 'mastery of shielding'.",
-    "It increases the users electric resistance somewhat."
+    "It gives decent bonus to the skill 'greater vulnerability'.",
+    "It gives decent bonus to the skill 'mastery of shielding'."
   ],
   "type": "Cloak"
 }

@@ -3,11 +3,11 @@
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity adequately.",
-    "It has magnificent armour class for its type (poor in general).",
     "It increases the users hitpoints adequately.",
+    "It has magnificent armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration adequately.",
-    "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed.",
+    "It increases the users physical resistance somewhat.",
     "It gives great penalty to the skill 'dodge'."
   ],
   "type": "Head"

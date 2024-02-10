@@ -1,8 +1,8 @@
 {
   "name": "A heavy mythril ring, with carved ivy",
   "data": [
-    "It has low armour class for its type (almost non-existent in general).",
     "It increases the users hitpoints pathetically.",
+    "It has low armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
   ],

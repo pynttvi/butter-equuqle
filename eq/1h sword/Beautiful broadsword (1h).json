@@ -1,5 +1,10 @@
 {
   "name": "Beautiful broadsword (1h)",
-  "data": [],
+  "data": [
+    "It increases hit chance adequately.",
+    "It has superb weapon class for its type (adequate in general).",
+    "It increases the users strength adequately.",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "1h sword"
 }

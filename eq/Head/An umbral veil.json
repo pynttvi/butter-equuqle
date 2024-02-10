@@ -5,17 +5,13 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases the users psionic resistance adequately.",
     "It gives decent bonus to the skill 'hiding'.",
-    "It increases the users cold resistance adequately.",
     "It gives decent bonus to the skill 'dodge'.",
-    "",
+    "It increases the users psionic resistance adequately.",
+    "It increases the users cold resistance adequately.",
     "- Extra -",
     "The thin tissue of shadow makes it possible to view objects that",
-    "might otherwise blind the wearer.",
-    "",
-    "",
-    "*----------------------------------------------------------------------*"
+    "might otherwise blind the wearer."
   ],
   "type": "Head"
 }

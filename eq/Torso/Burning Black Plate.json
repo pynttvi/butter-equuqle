@@ -1,5 +1,14 @@
 {
   "name": "Burning Black Plate",
-  "data": [],
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users constitution somewhat.",
+    "It has magnificent armour class for its type (excellent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'.",
+    "It increases the users physical resistance strongly."
+  ],
   "type": "Torso"
 }

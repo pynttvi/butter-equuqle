@@ -1,5 +1,15 @@
 {
   "name": "A black spiked whip of torment (1h)",
-  "data": [],
+  "data": [
+    "It has almost non-existent weapon class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small penalty to the skill 'parry'.",
+    "It decreases the users physical resistance adequately.",
+    "It gives small penalty to the skill 'dodge'.",
+    "It gives small bonus to the skill 'attack'.",
+    "It does poison damage unnoticably.",
+    "- Extra -",
+    "It seems to have a pitch-black aura surrounding it."
+  ],
   "type": "1h ancient"
 }

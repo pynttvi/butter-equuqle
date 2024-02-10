@@ -8,10 +8,10 @@
     "It increases the users spellpoint regeneration nicely.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'parry'.",
+    "It gives small bonus to the skill 'dodge'.",
     "It increases the users psionic resistance somewhat.",
     "It increases the users acid resistance somewhat.",
-    "It gives small bonus to the skill 'dodge'.",
-    "It gives decent bonus to the skill 'parry'.",
     "It increases the users cold resistance somewhat."
   ],
   "type": "Torso"

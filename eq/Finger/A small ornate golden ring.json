@@ -5,9 +5,9 @@
     "It increases the users intelligence poorly.",
     "It increases the users charisma pathetically.",
     "It has non-existent armour class for its type (non-existent in general).",
-    "It gives small bonus to the spell 'golden arrow'.",
     "It increases the users spellpoint regeneration a tiny bit.",
-    "This item loses its magical powers with average speed."
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'golden arrow'."
   ],
   "type": "Finger"
 }

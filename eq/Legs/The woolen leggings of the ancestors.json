@@ -6,12 +6,12 @@
     "It has magnificent armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
+    "It increases the users electric resistance somewhat.",
     "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'focus kungfu attacks'.",
     "It gives small bonus to the skill 'advanced martial arts'.",
     "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat.",
-    "It increases the users electric resistance somewhat.",
-    "It gives small bonus to the skill 'focus kungfu attacks'."
+    "It increases the users fire resistance somewhat."
   ],
   "type": "Legs"
 }

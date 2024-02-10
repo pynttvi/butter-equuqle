@@ -1,5 +1,11 @@
 {
   "name": "The Black Bracelets of Underworld",
-  "data": [],
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users constitution adequately.",
+    "It has excellent armour class for its type (little in general).",
+    "This item loses its magical powers very slowly.",
+    "It gives decent bonus to the skill 'parry'."
+  ],
   "type": "Arms"
 }

@@ -7,10 +7,10 @@
     "It increases the users intelligence adequately.",
     "It increases the users charisma poorly.",
     "It increases the users spellpoint regeneration somewhat.",
-    "It gives decent bonus to the skill 'greater vulnerability'.",
     "This item loses its magical powers extremely slowly.",
-    "It gives decent bonus to the skill 'mastery of shielding'.",
-    "It does magical damage adequately."
+    "It does magical damage adequately.",
+    "It gives decent bonus to the skill 'greater vulnerability'.",
+    "It gives decent bonus to the skill 'mastery of shielding'."
   ],
   "type": "2h staff"
 }

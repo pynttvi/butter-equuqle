@@ -8,10 +8,10 @@
     "It decreases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers very slowly.",
-    "It increases the users psionic resistance somewhat.",
     "It increases the users magical resistance somewhat.",
     "It increases damage adequately.",
-    "It does psionic damage unbelievably much."
+    "It does psionic damage unbelievably much.",
+    "It increases the users psionic resistance somewhat."
   ],
   "type": "1h ancient"
 }
