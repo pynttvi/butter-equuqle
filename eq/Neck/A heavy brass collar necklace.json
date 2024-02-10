@@ -6,10 +6,10 @@
     "It has excellent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users electric resistance somewhat.",
-    "It increases the users fire resistance somewhat.",
-    "It increases the users cold resistance somewhat."
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users fire resistance somewhat."
   ],
   "type": "Neck"
 }

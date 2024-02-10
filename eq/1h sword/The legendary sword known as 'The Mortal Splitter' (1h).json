@@ -2,8 +2,8 @@
   "name": "The legendary sword known as 'The Mortal Splitter' (1h)",
   "data": [
     "It has great weapon class for its type (average in general).",
-    "It does poison damage a tiny bit.",
-    "This item loses its magical powers with average speed."
+    "This item loses its magical powers with average speed.",
+    "It does poison damage a tiny bit."
   ],
   "type": "1h sword"
 }

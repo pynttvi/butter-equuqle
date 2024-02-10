@@ -5,9 +5,9 @@
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
+    "It increases the users poison resistance somewhat.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users poison resistance somewhat."
+    "It increases the users cold resistance somewhat."
   ],
   "type": "Legs"
 }

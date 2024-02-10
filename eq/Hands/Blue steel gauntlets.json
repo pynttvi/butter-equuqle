@@ -1,5 +1,15 @@
 {
   "name": "Blue steel gauntlets",
-  "data": [],
+  "data": [
+    "It increases the users wisdom a tiny bit.",
+    "It increases the users intelligence superbly.",
+    "It has magnificent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance strongly.",
+    "It gives small bonus to the skill 'nerve mastery'.",
+    "It gives small bonus to the skill 'quick chant'."
+  ],
   "type": "Hands"
 }

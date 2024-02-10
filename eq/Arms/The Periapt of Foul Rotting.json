@@ -1,5 +1,20 @@
 {
   "name": "The Periapt of Foul Rotting",
-  "data": [],
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It decreases the users dexterity pathetically.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom somewhat.",
+    "It increases the users intelligence somewhat.",
+    "It increases the users spellpoints impressively.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users poison resistance somewhat.",
+    "It increases the users cold resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat.",
+    "- Extra -",
+    "The periapt will steal the wearer's health."
+  ],
   "type": "Arms"
 }

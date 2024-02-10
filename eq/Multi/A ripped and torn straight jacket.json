@@ -7,9 +7,9 @@
     "It has average armour class for its type (average in general).",
     "It decreases the users spellpoint regeneration unnoticably.",
     "It increases the users hitpoint regeneration pitifully.",
-    "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed.",
-    "It decreases the users magical resistance strongly."
+    "It decreases the users magical resistance strongly.",
+    "It increases the users physical resistance somewhat."
   ],
   "type": "Multi"
 }

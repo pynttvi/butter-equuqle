@@ -6,10 +6,10 @@
     "It has adequate armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration unbelievably much.",
     "This item loses its magical powers incredibly slowly.",
-    "It increases the users psionic resistance strongly.",
     "It gives decent bonus to the skill 'nerve mastery'.",
-    "It increases the users cold resistance somewhat.",
-    "It gives decent bonus to the skill 'art of telepathy'."
+    "It gives decent bonus to the skill 'art of telepathy'.",
+    "It increases the users psionic resistance strongly.",
+    "It increases the users cold resistance somewhat."
   ],
   "type": "Amulet"
 }

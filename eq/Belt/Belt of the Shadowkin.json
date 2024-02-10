@@ -7,9 +7,9 @@
     "It has adequate armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers very slowly.",
-    "It increases the users psionic resistance strongly.",
     "It decreases the users magical resistance somewhat.",
-    "It increases the users poison resistance strongly."
+    "It increases the users poison resistance strongly.",
+    "It increases the users psionic resistance strongly."
   ],
   "type": "Belt"
 }

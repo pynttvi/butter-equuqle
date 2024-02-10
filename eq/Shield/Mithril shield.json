@@ -1,5 +1,9 @@
 {
   "name": "Mithril shield",
-  "data": [],
+  "data": [
+    "It decreases the users dexterity pathetically.",
+    "It has awesome armour class for its type (poor in general).",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "Shield"
 }

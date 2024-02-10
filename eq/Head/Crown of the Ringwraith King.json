@@ -1,5 +1,11 @@
 {
   "name": "Crown of the Ringwraith King",
-  "data": [],
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence poorly.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "Head"
 }

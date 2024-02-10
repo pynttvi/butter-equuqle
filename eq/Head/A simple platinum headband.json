@@ -7,10 +7,10 @@
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
-    "It increases the users physical resistance somewhat.",
+    "It increases the users electric resistance adequately.",
     "This item loses its magical powers somewhat faster than avarage.",
     "It increases the users magical resistance adequately.",
-    "It increases the users electric resistance adequately."
+    "It increases the users physical resistance somewhat."
   ],
   "type": "Head"
 }

@@ -13,14 +13,9 @@
     "It gives decent bonus to the spell 'fire preference'.",
     "It decreases the users cold resistance strongly.",
     "It increases the users fire resistance strongly.",
-    "",
     "- Extra -",
     "You could 'pull' the cloak around you to escape the heat of flames.",
-    "This cloak is blessed by the goddess Kirvana and is an artifact of hers.",
-    "",
-    "",
-    "",
-    "|hp:1611(1611) sp:2625(2625)"
+    "This cloak is blessed by the goddess Kirvana and is an artifact of hers."
   ],
   "type": "Cloak"
 }

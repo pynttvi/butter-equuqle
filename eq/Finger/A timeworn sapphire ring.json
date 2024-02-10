@@ -1,5 +1,12 @@
 {
   "name": "A timeworn sapphire ring",
-  "data": [],
+  "data": [
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution poorly.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers slowly.",
+    "It increases the users acid resistance somewhat."
+  ],
   "type": "Finger"
 }

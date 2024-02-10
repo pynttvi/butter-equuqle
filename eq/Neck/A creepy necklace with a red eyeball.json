@@ -10,8 +10,8 @@
     "It increases the users spellpoint regeneration a tiny bit.",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'double thrust'.",
     "It gives small bonus to the skill 'thrust'.",
+    "It gives small bonus to the skill 'double thrust'.",
     "It gives small bonus to the skill 'backstab'."
   ],
   "type": "Neck"

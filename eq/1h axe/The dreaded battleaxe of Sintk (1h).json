@@ -4,11 +4,11 @@
     "It increases hit chance pitifully.",
     "It has great weapon class for its type (mediocre in general).",
     "It increases the users strength poorly.",
-    "It increases the users physical resistance a bit.",
     "This item loses its magical powers with average speed.",
     "It increases damage slightly.",
-    "It does psionic damage unnoticably.",
-    "It increases the users poison resistance somewhat."
+    "It increases the users physical resistance a bit.",
+    "It increases the users poison resistance somewhat.",
+    "It does psionic damage unnoticably."
   ],
   "type": "1h axe"
 }

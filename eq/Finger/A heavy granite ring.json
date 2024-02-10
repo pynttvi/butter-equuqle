@@ -1,5 +1,16 @@
 {
   "name": "A heavy granite ring",
-  "data": [],
+  "data": [
+    "It decreases the users dexterity poorly.",
+    "It decreases the users constitution adequately.",
+    "It increases the users wisdom impressively.",
+    "It increases the users intelligence poorly.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'spiritual link'.",
+    "It decreases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'quick chant'."
+  ],
   "type": "Finger"
 }

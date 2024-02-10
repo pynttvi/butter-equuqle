@@ -1,5 +1,10 @@
 {
   "name": "Golden amulet",
-  "data": [],
+  "data": [
+    "It increases the users strength somewhat.",
+    "It has magnificent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration impressively.",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "Amulet"
 }

@@ -8,9 +8,7 @@
     "It has nice armour class for its type (little in general).",
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers with average speed.",
-    "It gives tiny bonus to the skill 'arcane lore'.",
-    "",
-    "*----------------------------------------------------------------------*"
+    "It gives tiny bonus to the skill 'arcane lore'."
   ],
   "type": "Legs"
 }

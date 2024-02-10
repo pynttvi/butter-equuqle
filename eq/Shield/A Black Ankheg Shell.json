@@ -9,9 +9,9 @@
     "It has weak armour class for its type (little in general).",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases the users acid resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
     "It gives small bonus to the skill 'berserk'.",
-    "It increases the users poison resistance somewhat."
+    "It increases the users acid resistance somewhat."
   ],
   "type": "Shield"
 }

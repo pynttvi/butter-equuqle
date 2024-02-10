@@ -1,5 +1,15 @@
 {
   "name": "A black leather battlesuit called 'protector'",
-  "data": [],
+  "data": [
+    "It increases the users strength ILLEGALLY.",
+    "It increases the users dexterity ILLEGALLY.",
+    "It decreases the users wisdom a tiny bit.",
+    "It decreases the users intelligence pathetically.",
+    "It has nice armour class for its type (superb in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'.",
+    "It gives decent bonus to the skill 'dodge'."
+  ],
   "type": "Multi"
 }

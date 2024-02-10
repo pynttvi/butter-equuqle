@@ -6,8 +6,8 @@
     "It has low armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the spell 'mark of zomm'.",
     "It gives small bonus to the skill 'arcane focus'.",
+    "It gives small bonus to the spell 'mark of zomm'.",
     "It gives small bonus to the skill 'arcane lore'."
   ],
   "type": "Belt"

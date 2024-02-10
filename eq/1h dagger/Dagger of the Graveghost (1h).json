@@ -1,5 +1,8 @@
 {
   "name": "Dagger of the Graveghost (1h)",
-  "data": [],
+  "data": [
+    "It has magnificent weapon class for its type (low in general).",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "1h dagger"
 }

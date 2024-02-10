@@ -1,5 +1,10 @@
 {
   "name": "Belt of the Widow",
-  "data": [],
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "Belt"
 }

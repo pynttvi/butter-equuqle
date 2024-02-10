@@ -1,5 +1,10 @@
 {
   "name": "Onyx hatchet (1h)",
-  "data": [],
+  "data": [
+    "It increases hit chance a tiny bit.",
+    "It has awesome weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage a good amount."
+  ],
   "type": "1h axe"
 }

@@ -8,8 +8,8 @@
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration magnificently.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'willpower'.",
-    "It gives small bonus to the skill 'dark ritual'."
+    "It gives small bonus to the skill 'dark ritual'.",
+    "It gives small bonus to the skill 'willpower'."
   ],
   "type": "Amulet"
 }
