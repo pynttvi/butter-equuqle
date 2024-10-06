@@ -8,10 +8,10 @@
     "It decreases the users intelligence poorly.",
     "It has excellent armour class for its type (little in general).",
     "It decreases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users magical resistance somewhat.",
     "It increases the users physical resistance a bit.",
-    "It gives small bonus to the skill 'tumble'."
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'tumble'.",
+    "It increases the users magical resistance somewhat."
   ],
   "type": "Cloak"
 }

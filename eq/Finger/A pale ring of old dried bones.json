@@ -1,13 +1,15 @@
 {
   "name": "A pale ring of old dried bones",
   "data": [
-    "It increases the users wisdom slightly.",
-    "It increases the users intelligence slightly.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'power manipulation'.",
-    "It gives small bonus to the spell 'focus dark energies'."
+    "This item loses its magical powers extremely slowly.",
+    "It gives nice bonus to the skill 'unholy ceremony'.",
+    "It gives small bonus to the spell 'focus dark energies'.",
+    "It gives nice bonus to the skill 'willpower'."
   ],
   "type": "Finger"
 }

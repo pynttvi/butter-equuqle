@@ -1,5 +1,17 @@
 {
   "name": "Scholar's Cap",
-  "data": [],
+  "data": [
+    "It decreases the users strength a tiny bit.",
+    "It decreases the users dexterity a tiny bit.",
+    "It decreases the users constitution a tiny bit.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence impressively.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration a good amount.",
+    "It gives small bonus to the skill 'offensive control'.",
+    "This item loses its magical powers very slowly.",
+    "It gives tiny bonus to the skill 'upper hand'.",
+    "Cap of the Scholar seems to modify the wearer's skills."
+  ],
   "type": "Head"
 }

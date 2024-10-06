@@ -1,0 +1,14 @@
+{
+  "name": "A pair of shockburned plate boots",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users constitution adequately.",
+    "It has awesome armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers slowly.",
+    "It increases the users electric resistance strongly.",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Feet"
+}

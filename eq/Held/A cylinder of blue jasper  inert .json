@@ -3,13 +3,13 @@
   "data": [
     "It increases the users hitpoints poorly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
-    "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration poorly.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the skill 'parry'.",
     "It gives decent bonus to the skill 'inner strength'.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
+    "It gives decent bonus to the skill 'parry'.",
+    "It increases the users cold resistance somewhat."
   ],
   "type": "Held"
 }

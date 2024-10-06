@@ -1,0 +1,14 @@
+{
+  "name": "Eldritch Knight's Gloves, woven with sigil threads",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution somewhat.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Hands"
+}

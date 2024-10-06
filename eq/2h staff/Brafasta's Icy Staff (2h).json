@@ -4,10 +4,9 @@
     "It has nice weapon class for its type (weak in general).",
     "It decreases the users strength poorly.",
     "It increases the users wisdom poorly.",
+    "It increases the users fire resistance somewhat.",
     "This item loses its magical powers with average speed.",
     "It does cold damage somewhat.",
-    "It increases the users fire resistance somewhat.",
-    "- Extra -",
     "It modifies the user's resistance to fire damage."
   ],
   "type": "2h staff"

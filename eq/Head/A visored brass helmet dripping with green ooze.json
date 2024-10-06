@@ -4,16 +4,16 @@
     "It increases the users strength a bit.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution somewhat.",
+    "It allows the user to see in darkness.",
     "It increases the users hitpoints like a god.",
     "It has adequate armour class for its type (little in general).",
-    "It allows the user to see in darkness.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "It increases the users fire resistance somewhat.",
     "It allows the user to see magical auras.",
     "It allows the user to see invisible.",
-    "It decreases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It increases the users poison resistance a bit.",
-    "It increases the users acid resistance a bit.",
-    "It increases the users fire resistance somewhat."
+    "It increases the users acid resistance a bit."
   ],
   "type": "Head"
 }

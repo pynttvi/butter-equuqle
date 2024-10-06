@@ -1,0 +1,15 @@
+{
+  "name": "A pair of supple leather gloves",
+  "data": [
+    "It increases the users strength a good amount.",
+    "It increases the users dexterity impressively.",
+    "It decreases the users constitution poorly.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It gives decent bonus to the skill 'arrow handling'.",
+    "It gives decent bonus to the skill 'marksmanship'.",
+    "It gives decent bonus to the skill 'steady aim'."
+  ],
+  "type": "Hands"
+}

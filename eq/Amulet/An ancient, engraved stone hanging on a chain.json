@@ -4,10 +4,10 @@
     "It increases the users strength somewhat.",
     "It increases the users constitution somewhat.",
     "It has negative armour class for its type (negative in general).",
-    "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers a bit slower than avarage.",
-    "It decreases the users physical resistance a bit."
+    "It increases the users spellpoint regeneration pitifully.",
+    "It decreases the users physical resistance a bit.",
+    "This item loses its magical powers a bit slower than avarage."
   ],
   "type": "Amulet"
 }

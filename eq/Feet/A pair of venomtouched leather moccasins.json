@@ -1,0 +1,15 @@
+{
+  "name": "A pair of venomtouched leather moccasins",
+  "data": [
+    "It increases the users dexterity an average amount.",
+    "It decreases the users wisdom a tiny bit.",
+    "It increases the users charisma an average amount.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "It increases the users spellpoint regeneration noticably.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It increases the users poison resistance strongly.",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Feet"
+}

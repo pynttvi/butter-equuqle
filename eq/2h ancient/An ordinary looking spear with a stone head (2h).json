@@ -2,7 +2,8 @@
   "name": "An ordinary looking spear with a stone head (2h)",
   "data": [
     "It has little weapon class for its type (little in general).",
-    "This item loses its magical powers with average speed."
+    "This item loses its magical powers with average speed.",
+    "|"
   ],
   "type": "2h ancient"
 }

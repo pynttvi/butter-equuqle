@@ -1,0 +1,10 @@
+{
+  "name": "A glossy platinum battleaxe (2h)",
+  "data": [
+    "It has excellent weapon class for its type (nice in general).",
+    "This item loses its magical powers with average speed.",
+    "It does psionic damage a tiny bit.",
+    "This is an illithidwrought weapon and as such has a measure of awareness."
+  ],
+  "type": "2h axe"
+}

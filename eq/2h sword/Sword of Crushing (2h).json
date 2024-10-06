@@ -1,0 +1,10 @@
+{
+  "name": "Sword of Crushing (2h)",
+  "data": [
+    "It has nice weapon class for its type (nice in general).",
+    "It increases the users strength poorly.",
+    "This item loses its magical powers with average speed.",
+    "It does asphyxiation damage a bit."
+  ],
+  "type": "2h sword"
+}

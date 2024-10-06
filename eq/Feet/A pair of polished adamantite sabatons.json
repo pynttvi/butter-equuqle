@@ -4,11 +4,10 @@
     "It increases the users strength noticably.",
     "It increases the users wisdom noticably.",
     "It has superb armour class for its type (little in general).",
-    "It increases the users spellpoint regeneration slightly.",
     "It increases the users hitpoint regeneration a tiny bit.",
-    "This item loses its magical powers with average speed.",
+    "It increases the users spellpoint regeneration slightly.",
     "It increases the users physical resistance adequately.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "The wearer becomes more attuned to the elemental forces."
   ],
   "type": "Feet"

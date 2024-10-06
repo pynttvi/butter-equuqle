@@ -6,13 +6,12 @@
     "It increases the users constitution poorly.",
     "It decreases the users intelligence pitifully.",
     "It has average armour class for its type (pathetic in general).",
-    "It decreases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration pitifully.",
+    "It decreases the users spellpoint regeneration adequately.",
+    "It gives tiny bonus to the skill 'dodge'.",
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'riposte'.",
-    "It gives tiny bonus to the skill 'dodge'.",
     "It gives tiny bonus to the skill 'attack'.",
-    "- Extra -",
     "It makes you feel more skillfully in some skills."
   ],
   "type": "Amulet"

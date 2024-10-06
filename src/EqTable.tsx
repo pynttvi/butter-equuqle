@@ -58,8 +58,11 @@ const getHitDam = (row) => {
 };
 
 const getExtraLines = (row) => {
+  if(!row?.extraLines){
+    return <></>
+  }
   return row.extraLines.map((l) => {
-    return l;
+    return <div key={shortid.generate()}>{l}</div>;
   });
 };
 

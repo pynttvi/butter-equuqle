@@ -4,11 +4,11 @@
     "It increases the users constitution a good amount.",
     "It increases the users wisdom pitifully.",
     "It has magnificent armour class for its type (little in general).",
+    "It increases the users fire resistance somewhat.",
     "It increases the users spellpoint regeneration slightly.",
-    "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the skill 'parry'.",
     "It increases the users physical resistance somewhat.",
-    "It increases the users fire resistance somewhat."
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'parry'."
   ],
   "type": "Arms"
 }

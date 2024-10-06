@@ -6,14 +6,13 @@
     "It decreases the users wisdom poorly.",
     "It decreases the users intelligence poorly.",
     "It has awesome armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pathetically.",
+    "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'throw'.",
     "It gives small bonus to the skill 'slash'.",
+    "It gives small bonus to the skill 'throw'.",
     "It gives small bonus to the skill 'strike'.",
     "It gives tiny bonus to the skill 'zhinakoku'.",
-    "- Extra -",
     "The Bronze Kote modifies the user's skills."
   ],
   "type": "Hands"

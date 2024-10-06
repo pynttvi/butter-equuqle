@@ -7,10 +7,9 @@
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users fire resistance adequately.",
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers somewhat slower than average.",
-    "It increases the users fire resistance adequately.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
   ],
   "type": "Hands"

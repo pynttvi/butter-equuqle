@@ -1,0 +1,17 @@
+{
+  "name": "A black obsidian sword with a spike (2h)",
+  "data": [
+    "It increases hit chance adequately.",
+    "It has impressive weapon class for its type (impressive in general).",
+    "It increases the users constitution poorly.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users magical resistance somewhat.",
+    "It increases damage pitifully.",
+    "It decreases the users cold resistance somewhat.",
+    "It does electric damage a tiny bit.",
+    "It modifies user's constitution.",
+    "It modifies user's resistance against magical damage.",
+    "It modifies user's resistance against cold damage."
+  ],
+  "type": "2h sword"
+}

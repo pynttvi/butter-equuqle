@@ -4,7 +4,11 @@
     "It increases the users intelligence nicely.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "It gives small bonus"
+    "It gives small bonus to the skill 'sense weakness'.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'sensory overload'.",
+    "It gives small bonus to the skill 'stunning force'.",
+    "It gives small bonus to the spell 'death wish'."
   ],
   "type": "Head"
 }

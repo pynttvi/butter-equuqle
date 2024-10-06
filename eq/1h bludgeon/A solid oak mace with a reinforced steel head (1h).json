@@ -1,0 +1,8 @@
+{
+  "name": "A solid oak mace with a reinforced steel head (1h)",
+  "data": [
+    "It has adequate weapon class for its type (low in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "1h bludgeon"
+}

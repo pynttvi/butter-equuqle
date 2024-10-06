@@ -1,0 +1,15 @@
+{
+  "name": "The heavy claymore called 'The Frostbrand' (2h)",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has awesome weapon class for its type (awesome in general).",
+    "It increases the users strength poorly.",
+    "It increases the users dexterity adequately.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases damage impressively.",
+    "It increases the users cold resistance strongly.",
+    "It does cold damage unbelievably much.",
+    "Three Shards of the Gods can be embedded into the mighty blade of this sword."
+  ],
+  "type": "2h sword"
+}
