@@ -5,9 +5,9 @@
     "It increases the users strength pitifully.",
     "It increases the users dexterity a bit.",
     "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'anatomy'.",
     "It gives tiny bonus to the skill 'triple backstab'.",
-    "It gives tiny bonus to the skill 'triple thrust'.",
-    "It gives tiny bonus to the skill 'anatomy'."
+    "It gives tiny bonus to the skill 'triple thrust'."
   ],
   "type": "1h dagger"
 }

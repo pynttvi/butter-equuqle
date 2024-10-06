@@ -1,0 +1,11 @@
+{
+  "name": "Sword of the Elves (2h)",
+  "data": [
+    "It decreases hit chance adequately.",
+    "It has nice weapon class for its type (nice in general).",
+    "It increases the users dexterity pitifully.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage poorly."
+  ],
+  "type": "2h sword"
+}

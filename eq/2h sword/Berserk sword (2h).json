@@ -1,0 +1,11 @@
+{
+  "name": "Berserk sword (2h)",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has adequate weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage poorly.",
+    "It gives small bonus to the skill 'strike'."
+  ],
+  "type": "2h sword"
+}

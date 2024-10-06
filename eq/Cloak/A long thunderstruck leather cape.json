@@ -6,11 +6,10 @@
     "It increases the users constitution poorly.",
     "It decreases the users intelligence poorly.",
     "It has awesome armour class for its type (little in general).",
-    "It increases the users spellpoint regeneration a bit.",
     "It increases the users hitpoint regeneration somewhat.",
-    "It increases the users electric resistance strongly.",
+    "It increases the users spellpoint regeneration a bit.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
+    "It increases the users electric resistance strongly.",
     "The wearer becomes more attuned to the elemental forces."
   ],
   "type": "Cloak"

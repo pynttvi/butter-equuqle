@@ -7,8 +7,8 @@
     "It increases the users wisdom poorly.",
     "It increases the users intelligence slightly.",
     "It has low armour class for its type (almost non-existent in general).",
-    "It increases the users spellpoint regeneration a tiny bit.",
     "It decreases the users hitpoint regeneration pathetically.",
+    "It increases the users spellpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed."
   ],
   "type": "Hands"

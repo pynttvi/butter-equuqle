@@ -8,9 +8,10 @@
     "It decreases the users intelligence poorly.",
     "It has weak armour class for its type (pathetic in general).",
     "It decreases the users hitpoint regeneration pitifully.",
-    "It increases the users poison resistance somewhat.",
     "This item loses its magical powers very fast.",
-    "It increases the users asphyxiation resistance somewhat."
+    "It increases the users poison resistance somewhat.",
+    "It increases the users asphyxiation resistance somewhat.",
+    "(Not in battle) (Extremely evil)|"
   ],
   "type": "Head"
 }

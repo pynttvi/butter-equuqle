@@ -1,0 +1,16 @@
+{
+  "name": "A bloody red sword (2h)",
+  "data": [
+    "It increases hit chance slightly.",
+    "It has magnificent weapon class for its type (magnificent in general).",
+    "It increases the users constitution somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage incredibly.",
+    "It does magical damage superbly.",
+    "It modifies the user's constitution.",
+    "It slays specific opponents.",
+    "It feels very evil.",
+    "It is intelligent."
+  ],
+  "type": "2h sword"
+}

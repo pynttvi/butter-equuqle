@@ -7,11 +7,10 @@
     "It decreases the users wisdom a tiny bit.",
     "It decreases the users intelligence a tiny bit.",
     "It has superb armour class for its type (little in general).",
-    "It decreases the users spellpoint regeneration pathetically.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers somewhat slower than average.",
     "It increases the users fire resistance adequately.",
-    "- Extra -",
+    "It decreases the users spellpoint regeneration pathetically.",
+    "This item loses its magical powers somewhat slower than average.",
     "The wearer becomes more attuned to the elemental forces."
   ],
   "type": "Arms"

@@ -7,10 +7,10 @@
     "It increases the users dexterity poorly.",
     "This item loses its magical powers with incredible haste.",
     "It increases damage somewhat.",
-    "It gives decent bonus to the skill 'brawl'.",
     "It gives small bonus to the skill 'attack'.",
-    "It does acid damage strongly.",
-    "It gives decent bonus to the skill 'dirty blow'."
+    "It gives decent bonus to the skill 'brawl'.",
+    "It gives decent bonus to the skill 'dirty blow'.",
+    "It does acid damage strongly."
   ],
   "type": "2h ancient"
 }

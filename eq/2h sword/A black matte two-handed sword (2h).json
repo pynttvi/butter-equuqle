@@ -1,0 +1,8 @@
+{
+  "name": "A black matte two-handed sword (2h)",
+  "data": [
+    "It has superb weapon class for its type (superb in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h sword"
+}

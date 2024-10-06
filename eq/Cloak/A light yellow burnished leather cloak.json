@@ -1,0 +1,14 @@
+{
+  "name": "A light yellow burnished leather cloak",
+  "data": [
+    "It increases the users wisdom noticably.",
+    "It increases the users intelligence noticably.",
+    "It has superb armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "It increases the users spellpoint regeneration noticably.",
+    "It increases the users physical resistance adequately.",
+    "This item loses its magical powers with average speed.",
+    "The wearer becomes more attuned to the elemental forces."
+  ],
+  "type": "Cloak"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sword of Savin (2h)",
+  "data": [
+    "It has weak weapon class for its type (weak in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h sword"
+}

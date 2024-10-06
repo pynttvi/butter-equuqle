@@ -6,14 +6,13 @@
     "It decreases the users constitution a bit.",
     "It increases the users intelligence noticably.",
     "It has weak armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration noticably.",
     "It increases the users hitpoint regeneration poorly.",
+    "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers very slowly.",
     "It gives decent bonus to the skill 'headcut'.",
-    "It gives decent bonus to the skill 'doublehit'.",
     "It gives decent bonus to the skill 'critical'.",
     "It gives decent bonus to the skill 'tameshivar'.",
-    "- Extra -",
+    "It gives decent bonus to the skill 'doublehit'.",
     "The coronet magically refreshes it's wearer's exhaustion."
   ],
   "type": "Head"

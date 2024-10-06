@@ -1,0 +1,14 @@
+{
+  "name": "A beautiful sword's hilt (2h)",
+  "data": [
+    "It increases hit chance nicely.",
+    "It has awesome weapon class for its type (awesome in general).",
+    "This item loses its magical powers somewhat slower than avarage.",
+    "It increases damage poorly.",
+    "The sword hilt's powers are activated when it is wielded like a sword.",
+    "A magical blade of pure magical force is projected from the slot in",
+    "the hilt, forming a perfectly balanced weapon.",
+    "The damage type of the weapon depends highly on what is needed."
+  ],
+  "type": "2h sword"
+}

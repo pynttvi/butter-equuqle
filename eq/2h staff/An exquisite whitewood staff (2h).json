@@ -7,10 +7,10 @@
     "It increases the users intelligence a good amount.",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers extremely slowly.",
-    "It gives small bonus to the skill 'ordered mind'.",
     "It gives small bonus to the skill 'transmutation'.",
-    "It does magical damage adequately.",
-    "It gives small bonus to the skill 'order from chaos'."
+    "It gives small bonus to the skill 'order from chaos'.",
+    "It gives small bonus to the skill 'ordered mind'.",
+    "It does magical damage adequately."
   ],
   "type": "2h staff"
 }

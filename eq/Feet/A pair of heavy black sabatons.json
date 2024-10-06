@@ -5,14 +5,13 @@
     "It decreases the users dexterity poorly.",
     "It increases the users constitution poorly.",
     "It has awesome armour class for its type (little in general).",
-    "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
+    "It increases the users fire resistance adequately.",
+    "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers extremely slowly.",
     "It gives awesome bonus to the skill 'inner strength'.",
     "It increases the users shadow resistance somewhat.",
     "It increases the users acid resistance adequately.",
-    "It increases the users fire resistance adequately.",
-    "- Extra -",
     "While worn, these sabatons will increase its wearer's stamina considerably."
   ],
   "type": "Feet"

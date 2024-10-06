@@ -1,0 +1,23 @@
+{
+  "name": "A blue lucky charm",
+  "data": [
+    "It increases the users charisma poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'bargain'.",
+    "---------------------------------------*",
+    "It increases the users strength a good amount.",
+    "It increases the users constitution somewhat.",
+    "It increases the users intelligence poorly.",
+    "It has decent armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "It increases the users spellpoint regeneration poorly.",
+    "It gives decent bonus to the skill 'grim resolve'.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users magical resistance somewhat.",
+    "It increases the users electric resistance somewhat.",
+    "It gives small bonus to the skill 'parry'."
+  ],
+  "type": "Held"
+}

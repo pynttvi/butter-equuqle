@@ -1,0 +1,9 @@
+{
+  "name": "Long desert sword (2h)",
+  "data": [
+    "It has little weapon class for its type (little in general).",
+    "This item loses its magical powers with average speed.",
+    "It modifies the user's constitution."
+  ],
+  "type": "2h sword"
+}

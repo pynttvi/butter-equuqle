@@ -1,0 +1,10 @@
+{
+  "name": "The rune blade (2h)",
+  "data": [
+    "It increases hit chance like a god.",
+    "It has awesome weapon class for its type (awesome in general).",
+    "This item loses its magical powers with average speed.",
+    "It does acid damage strongly."
+  ],
+  "type": "2h sword"
+}

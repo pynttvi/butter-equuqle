@@ -1,0 +1,15 @@
+{
+  "name": "A dual-tipped lance called 'Echotwin' (2h)",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has awesome weapon class for its type (tremendous in general).",
+    "It increases the users strength somewhat.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases damage adequately.",
+    "It gives small bonus to the skill 'cavalier's charge'.",
+    "It does electric damage unbelievably much.",
+    "This spear radiates powerful electricity.",
+    "The spear drives true toward its enemy's heart."
+  ],
+  "type": "2h polearm"
+}

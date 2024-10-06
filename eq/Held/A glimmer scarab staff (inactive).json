@@ -1,0 +1,11 @@
+{
+  "name": "A glimmer scarab staff (inactive)",
+  "data": [
+    "It decreases the users constitution impossibly much.",
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers with average speed.",
+    "The staff acts as a divining rod for secrets.",
+    "The staff severely weakens the body while worn."
+  ],
+  "type": "Held"
+}

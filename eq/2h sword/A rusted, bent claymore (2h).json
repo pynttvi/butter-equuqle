@@ -1,0 +1,8 @@
+{
+  "name": "A rusted, bent claymore (2h)",
+  "data": [
+    "It has adequate weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "2h sword"
+}

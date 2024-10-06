@@ -1,0 +1,22 @@
+{
+  "name": "A finely-crafted dagger, humming with latent energy (1h)",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has immense weapon class for its type (average in general).",
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It gives small bonus to the skill 'anatomy'.",
+    "It gives tiny bonus to the skill 'triple backstab'.",
+    "It gives tiny bonus to the skill 'double backstab'.",
+    "It increases damage somewhat.",
+    "It gives tiny bonus to the skill 'double thrust'.",
+    "It gives small bonus to the skill 'thrust'.",
+    "It gives tiny bonus to the skill 'triple thrust'.",
+    "It does poison damage strongly.",
+    "It gives small bonus to the skill 'backstab'.",
+    "This dagger radiates poison.",
+    "The dagger yearns to plunge itself in an enemy's back."
+  ],
+  "type": "1h dagger"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "A two-handed sword called 'the Sentinel' (2h)",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has superb weapon class for its type (superb in general).",
+    "It decreases the users wisdom impressively.",
+    "It decreases the users intelligence impressively.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage pitifully.",
+    "It gives great penalty to the skill 'parry'.",
+    "It does magical damage somewhat.",
+    "It allows user to parry hits as if it were a shield.",
+    "It drains energy upon impact."
+  ],
+  "type": "2h sword"
+}

@@ -5,10 +5,10 @@
     "This item loses its magical powers with average speed.",
     "It increases damage somewhat.",
     "It does electric damage strongly.",
-    "- Extra -",
     "It modifies the user's constitution.",
     "It modifies the user's Intelligence.",
-    "IT modifies the user's skill knowledge."
+    "IT modifies the user's skill knowledge.",
+    "|"
   ],
   "type": "2h ancient"
 }

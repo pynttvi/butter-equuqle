@@ -4,11 +4,11 @@
     "It increases the users strength slightly.",
     "It increases the users wisdom adequately.",
     "It has weak armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration pitifully.",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'weapon skill 1h bludgeon'.",
-    "It gives decent bonus to the skill 'weapon skill 2h bludgeon'.",
-    "This item loses its magical powers with average speed."
+    "It gives decent bonus to the skill 'weapon skill 2h bludgeon'."
   ],
   "type": "Head"
 }

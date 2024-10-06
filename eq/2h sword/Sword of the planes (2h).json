@@ -1,0 +1,13 @@
+{
+  "name": "Sword of the planes (2h)",
+  "data": [
+    "It increases hit chance pathetically.",
+    "It has awesome weapon class for its type (awesome in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage pitifully.",
+    "It does electric damage adequately.",
+    "It emits light.",
+    "It does more damage to evil."
+  ],
+  "type": "2h sword"
+}

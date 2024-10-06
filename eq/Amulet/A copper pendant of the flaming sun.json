@@ -2,10 +2,9 @@
   "name": "A copper pendant of the flaming sun",
   "data": [
     "It has pathetic armour class for its type (almost non-existent in general).",
-    "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
+    "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "The presence of this pendant repels the supreme beings of the deep."
   ],
   "type": "Amulet"

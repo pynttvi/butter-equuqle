@@ -1,5 +1,8 @@
 {
   "name": "A double-edged dagger (1h)",
-  "data": [],
+  "data": [
+    "It has average weapon class for its type (little in general).",
+    "This item loses its magical powers with average speed."
+  ],
   "type": "1h dagger"
 }

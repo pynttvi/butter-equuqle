@@ -5,7 +5,10 @@
     "It increases the users intelligence pitifully.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed."
+    "This item loses its magical powers with average speed.",
+    "increases the users hitpoint regeneration a tiny bit.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly."
   ],
   "type": "Amulet"
 }

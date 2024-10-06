@@ -1,15 +1,13 @@
 {
   "name": "Scaled helmet of Tiamat",
   "data": [
-    "It has magnificent armour class for its type (poor in general).",
     "It allows the user to see in darkness.",
+    "It has magnificent armour class for its type (poor in general).",
+    "It increases the users hitpoint regeneration poorly.",
     "It allows the user to see magical auras.",
     "It allows the user to see invisible.",
     "It increases the users spellpoint regeneration poorly.",
-    "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers a bit slower than avarage.",
-    "",
-    "- Extra -",
     "It enhances your vision greatly."
   ],
   "type": "Head"

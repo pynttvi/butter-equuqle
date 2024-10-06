@@ -5,8 +5,11 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It gives great bonus to the skill 'whirlwind attack'.",
     "This item loses its magical powers extremely fast.",
+    "It gives great bonus to the skill 'critical'.",
     "It gives great bonus to the skill 'doublehit'.",
-    "It gives great bonus to the skill 'critical'."
+    "increases the users hitpoint regeneration a tiny bit.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly."
   ],
   "type": "Amulet"
 }

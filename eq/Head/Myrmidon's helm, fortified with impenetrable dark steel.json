@@ -1,0 +1,14 @@
+{
+  "name": "Myrmidon's helm, fortified with impenetrable dark steel",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity somewhat.",
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has excellent armour class for its type (feeble in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ],
+  "type": "Head"
+}

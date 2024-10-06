@@ -6,10 +6,13 @@
     "It increases the users constitution a bit.",
     "It decreases the users wisdom poorly.",
     "It has poor armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration pitifully.",
     "It decreases the users hitpoint regeneration pathetically.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers slowly.",
-    "It increases the users fire resistance somewhat."
+    "increases the users hitpoint regeneration a tiny bit.",
+    "It increases the users spellpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly."
   ],
   "type": "Amulet"
 }

@@ -1,0 +1,9 @@
+{
+  "name": "The Greatsword of Drayl Grathar (2h)",
+  "data": [
+    "It has great weapon class for its type (great in general).",
+    "This item loses its magical powers with average speed.",
+    "It does cold damage somewhat."
+  ],
+  "type": "2h sword"
+}

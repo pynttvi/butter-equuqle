@@ -1,0 +1,9 @@
+{
+  "name": "A lightsabre (2h)",
+  "data": [
+    "It has adequate weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It does psionic damage adequately."
+  ],
+  "type": "2h sword"
+}

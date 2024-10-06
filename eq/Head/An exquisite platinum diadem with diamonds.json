@@ -5,9 +5,9 @@
     "It increases the users charisma adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration a good amount.",
-    "It gives small bonus to the skill 'offensive efficiency'.",
     "This item loses its magical powers extremely slowly.",
-    "It increases the users psionic resistance somewhat."
+    "It increases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'offensive efficiency'."
   ],
   "type": "Head"
 }
