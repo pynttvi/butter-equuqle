@@ -1,9 +1,9 @@
 {
   "name": "Kha'dra, the leggings of water",
+  "type": "Legs",
   "data": [
     "It increases the users strength adequately.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

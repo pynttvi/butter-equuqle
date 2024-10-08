@@ -1,20 +1,20 @@
 {
   "name": "A foreboding mask with a sinister, elongated beak",
+  "type": "Head",
   "data": [
     "It decreases the users constitution poorly.",
     "It increases the users wisdom a good amount.",
     "It increases the users intelligence a good amount.",
     "It has awesome armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers very slowly.",
     "It gives small bonus to the skill 'undead surgery'.",
-    "It gives small bonus to the spell 'unholy courage'.",
-    "It gives small bonus to the spell 'greater elemental shield'.",
     "It gives small bonus to the spell 'greater magical shield'.",
+    "This item loses its magical powers very slowly.",
+    "It gives small bonus to the spell 'unholy courage'.",
     "It gives small bonus to the skill 'shielding of death'.",
+    "It gives small bonus to the spell 'greater elemental shield'.",
     "It gives small bonus to the skill 'willpower'.",
     "The macabre mask makes the Necromancer deadlier than ever.",
     "The macabre mask improves the power of the Necromancer's horde."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,15 +1,14 @@
 {
   "name": "The ancient amulet of the druids",
+  "type": "Amulet",
   "data": [
     "It increases the users constitution pitifully.",
     "It increases the users wisdom impressively.",
     "It has low armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration nicely.",
+    "It gives tiny bonus to the skill 'mastery of shielding'.",
     "This item loses its magical powers very fast.",
     "It gives tiny bonus to the skill 'mastery of medicine'.",
-    "It gives tiny bonus to the skill 'mastery of shielding'.",
-    "- Extra -",
     "It affects the user's skill knowledge."
-  ],
-  "type": "Amulet"
+  ]
 }

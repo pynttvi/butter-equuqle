@@ -1,5 +1,6 @@
 {
   "name": "A swirling eyeball of the Lavaworm",
+  "type": "Held",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users dexterity pitifully.",
@@ -11,9 +12,6 @@
     "It decreases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'quick chant'.",
-    "",
-    "- Extra -",
     "The mist inside the eyeball swirls rapidly making it hard to focus at."
-  ],
-  "type": "Held"
+  ]
 }

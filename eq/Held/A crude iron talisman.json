@@ -1,5 +1,6 @@
 {
   "name": "A crude iron talisman",
+  "type": "Held",
   "data": [
     "It increases the users strength a good amount.",
     "It increases the users constitution somewhat.",
@@ -8,11 +9,10 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
     "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers very slowly.",
     "It increases the users magical resistance somewhat.",
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers very slowly.",
     "It gives decent bonus to the skill 'grim resolve'.",
-    "It gives small bonus to the skill 'parry'.",
-    "It increases the users electric resistance somewhat."
-  ],
-  "type": "Held"
+    "It gives small bonus to the skill 'parry'."
+  ]
 }

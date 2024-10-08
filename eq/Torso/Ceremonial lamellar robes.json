@@ -1,5 +1,6 @@
 {
   "name": "Ceremonial lamellar robes",
+  "type": "Torso",
   "data": [
     "It increases the users strength impressively.",
     "It decreases the users dexterity adequately.",
@@ -7,12 +8,11 @@
     "It has awesome armour class for its type (excellent in general).",
     "It increases the users spellpoint regeneration impressively.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers incredibly slowly.",
-    "It increases the users electric resistance a bit.",
     "It increases the users physical resistance somewhat.",
-    "It increases the users fire resistance somewhat.",
     "It increases the users magical resistance somewhat.",
+    "It increases the users electric resistance a bit.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users fire resistance somewhat.",
     "It increases the users cold resistance a bit."
-  ],
-  "type": "Torso"
+  ]
 }

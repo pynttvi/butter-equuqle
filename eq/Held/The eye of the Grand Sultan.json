@@ -1,15 +1,15 @@
 {
   "name": "The eye of the Grand Sultan",
+  "type": "Held",
   "data": [
     "It increases the users strength impressively.",
     "It increases the users intelligence adequately.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration pitifully.",
+    "It increases the users magical resistance somewhat.",
     "This item loses its magical powers incredibly slowly.",
     "It increases the users fire resistance strongly.",
-    "It increases the users magical resistance somewhat.",
     "It decreases the users cold resistance adequately."
-  ],
-  "type": "Held"
+  ]
 }

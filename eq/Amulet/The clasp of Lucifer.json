@@ -1,5 +1,6 @@
 {
   "name": "The clasp of Lucifer",
+  "type": "Amulet",
   "data": [
     "It decreases the users strength pathetically.",
     "It increases the users dexterity ILLEGALLY.",
@@ -9,6 +10,5 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration like a god.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "A rough-shorn waistcloth",
+  "type": "Legs",
   "data": [
     "It has nice armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Legs"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

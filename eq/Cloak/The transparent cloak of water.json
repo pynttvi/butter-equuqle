@@ -1,5 +1,6 @@
 {
   "name": "The transparent cloak of water",
+  "type": "Cloak",
   "data": [
     "It decreases the users strength unnoticably.",
     "It increases the users wisdom unnoticably.",
@@ -7,9 +8,6 @@
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers incredibly slowly.",
-    "",
-    "- Extra -",
     "It makes the user one with water."
-  ],
-  "type": "Cloak"
+  ]
 }

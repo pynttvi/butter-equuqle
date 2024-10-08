@@ -1,5 +1,6 @@
 {
   "name": "Bracers of the four winds",
+  "type": "Arms",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity adequately.",
@@ -9,6 +10,5 @@
     "It has average armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

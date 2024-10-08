@@ -1,13 +1,13 @@
 {
   "name": "Blackened steel bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users intelligence impressively.",
     "It decreases the users charisma unbelievably much.",
     "It has nice armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "It gives decent bonus to the skill 'eternal shielding'.",
     "This item loses its magical powers extremely slowly.",
+    "It gives decent bonus to the skill 'eternal shielding'.",
     "It gives decent bonus to the skill 'shielding of death'."
-  ],
-  "type": "Arms"
+  ]
 }

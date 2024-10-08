@@ -1,13 +1,13 @@
 {
   "name": "Bracers of Qen Tie",
+  "type": "Arms",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users dexterity slightly.",
     "It has excellent armour class for its type (little in general).",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers incredibly slowly.",
     "It gives decent bonus to the skill 'kungfu'.",
+    "This item loses its magical powers incredibly slowly.",
     "It modifies users skills."
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The royal vest of Lucifer",
+  "type": "Torso",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users constitution pathetically.",
@@ -10,10 +11,7 @@
     "It gives small bonus to the skill 'mastery of shielding'.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'greater vulnerability'.",
-    "",
-    "- Extra -",
     "It affects the skill mastery of shielding.",
     "It affects the skill greater vulnerability."
-  ],
-  "type": "Torso"
+  ]
 }

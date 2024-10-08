@@ -1,15 +1,15 @@
 {
   "name": "A copper helmet dripping with green ooze",
+  "type": "Head",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It increases the users hitpoints poorly.",
-    "It has low armour class for its type (tiny in general).",
     "It increases the users spellpoints adequately.",
+    "It has low armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It seems to be missing its visor."
-  ],
-  "type": "Head"
+  ]
 }

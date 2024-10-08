@@ -1,5 +1,6 @@
 {
   "name": "Scholar's Cap [fading]",
+  "type": "Head",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity a bit.",
@@ -11,6 +12,5 @@
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'upper hand'.",
     "Cap of the Scholar seems to modify the wearer's skills."
-  ],
-  "type": "Head"
+  ]
 }

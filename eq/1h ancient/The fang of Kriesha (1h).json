@@ -1,18 +1,17 @@
 {
   "name": "The fang of Kriesha (1h)",
+  "type": "1h ancient",
   "data": [
     "It has magnificent weapon class for its type (adequate in general).",
     "It increases the users dexterity adequately.",
     "It increases the users intelligence adequately.",
     "It increases the users spellpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It increases the users magical resistance somewhat.",
-    "It increases damage adequately.",
     "It does cold damage like a god.",
-    "It increases the users cold resistance strongly.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage adequately.",
     "It decreases the users fire resistance strongly.",
-    "- Extra -",
+    "It increases the users cold resistance strongly.",
     "It carries godly essence inside it."
-  ],
-  "type": "1h ancient"
+  ]
 }

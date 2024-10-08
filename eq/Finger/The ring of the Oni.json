@@ -1,5 +1,6 @@
 {
   "name": "The ring of the Oni",
+  "type": "Finger",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity a bit.",
@@ -9,6 +10,5 @@
     "It has low armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

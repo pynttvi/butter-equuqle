@@ -1,32 +1,19 @@
 {
   "name": "The Bracelets of Eternal Fire",
+  "type": "Arms",
   "data": [
     "It increases the users constitution poorly.",
     "It decreases the users wisdom poorly.",
     "It has excellent armour class for its type (little in general).",
-    "It increases the users electric resistance somewhat.",
-    "This item loses its magical powers very slowly.",
-    "It increases the users magical resistance somewhat.",
     "It increases the users physical resistance somewhat.",
-    "It increases the users poison resistance somewhat.",
+    "It increases the users magical resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
-    "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat.",
-    "It increases the users asphyxiation resistance somewhat.",
-    "It increases the users constitution poorly.",
-    "It decreases the users wisdom poorly.",
-    "It has excellent armour class for its type (little in general).",
+    "It increases the users poison resistance somewhat.",
     "It increases the users electric resistance somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases the users magical resistance somewhat.",
-    "It increases the users physical resistance somewhat.",
-    "It increases the users poison resistance somewhat.",
-    "It increases the users psionic resistance somewhat.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
     "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Arms"
+  ]
 }

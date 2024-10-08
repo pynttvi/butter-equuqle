@@ -1,11 +1,11 @@
 {
   "name": "Red Ribbon",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution adequately.",
     "It decreases the users wisdom a good amount.",
     "It has decent armour class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

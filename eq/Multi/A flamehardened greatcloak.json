@@ -1,5 +1,6 @@
 {
   "name": "A flamehardened greatcloak",
+  "type": "Multi",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users dexterity adequately.",
@@ -10,8 +11,6 @@
     "It decreases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance superbly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+  ]
 }

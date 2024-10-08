@@ -1,16 +1,16 @@
 {
   "name": "An shiny ice encased barbute",
+  "type": "Head",
   "data": [
     "It increases the users strength adequately.",
     "It decreases the users dexterity a good amount.",
     "It increases the users constitution adequately.",
     "It increases the users wisdom adequately.",
     "It has tremendous armour class for its type (poor in general).",
-    "It increases the users hitpoint regeneration noticably.",
     "It increases the users spellpoint regeneration noticably.",
+    "It increases the users hitpoint regeneration noticably.",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance adequately.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Head"
+  ]
 }

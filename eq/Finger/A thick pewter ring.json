@@ -1,5 +1,6 @@
 {
   "name": "A thick pewter ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
@@ -9,12 +10,11 @@
     "It has adequate armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration poorly.",
-    "It gives decent bonus to the skill 'offensive efficiency'.",
-    "It increases the users electric resistance somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users physical resistance somewhat.",
     "It increases the users psionic resistance adequately.",
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives decent bonus to the skill 'offensive efficiency'.",
     "It gives decent bonus to the skill 'quick chant'."
-  ],
-  "type": "Finger"
+  ]
 }

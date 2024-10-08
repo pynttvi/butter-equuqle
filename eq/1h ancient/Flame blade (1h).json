@@ -1,9 +1,9 @@
 {
   "name": "Flame blade (1h)",
+  "type": "1h ancient",
   "data": [
     "It has non-existent weapon class for its type (non-existent in general).",
-    "This item loses its magical powers with average speed.",
-    "It does fire damage unbelievably much."
-  ],
-  "type": "1h ancient"
+    "It does fire damage unbelievably much.",
+    "This item loses its magical powers with average speed."
+  ]
 }

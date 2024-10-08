@@ -1,5 +1,6 @@
 {
   "name": "A burnt necklace with a charred black stone hanging from it",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Neck"
+  ]
 }

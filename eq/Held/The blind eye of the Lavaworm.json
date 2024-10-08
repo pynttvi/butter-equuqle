@@ -1,11 +1,18 @@
 {
   "name": "The blind eye of the Lavaworm",
+  "type": "Held",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
     "It increases the users constitution a bit.",
     "It decreases the users wisdom pitifully.",
-    "It decreases the"
-  ],
-  "type": "Held"
+    "It decreases the users intelligence pitifully.",
+    "It has negative armour class for its type (negative in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "It gives nice bonus to the spell 'light'.",
+    "It gives nice bonus to the spell 'darkness'.",
+    "Blindness has no effect on the wearer of this eyeball."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A sinister-looking black platemail",
+  "type": "Multi",
   "data": [
     "It increases the users strength ILLEGALLY.",
     "It decreases the users dexterity adequately.",
@@ -7,16 +8,14 @@
     "It decreases the users wisdom adequately.",
     "It increases the users intelligence unbelievably much.",
     "It has awesome armour class for its type (immense in general).",
+    "It increases the users physical resistance somewhat.",
+    "It increases the users magical resistance somewhat.",
     "It decreases the users electric resistance somewhat.",
     "This item loses its magical powers incredibly slowly.",
-    "It increases the users magical resistance somewhat.",
-    "It increases the users physical resistance somewhat.",
     "It increases the users acid resistance adequately.",
     "It increases the users fire resistance strongly.",
-    "- Extra -",
     "The enchantment of this platemail is more powerful when it is donned by someone",
     "of evil alignment, and will additionally protect the wearer from the light.",
     "Seven Shards of Gods can be embedded into this dark artifact."
-  ],
-  "type": "Multi"
+  ]
 }

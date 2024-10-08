@@ -1,5 +1,17 @@
 {
   "name": "Gargoyle ring",
-  "data": [],
-  "type": "Finger"
+  "type": "Finger",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It has low armour class for its type (almost non-existent in general).",
+    "It increases the users physical resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It decreases the users acid resistance somewhat.",
+    "It increases the users asphyxiation resistance a bit.",
+    "The bearer of this ring will inherit some of the gargoyles' resistive",
+    "capabilities.",
+    "There is a small amount of gargoyle essence trapped within this ring.",
+    "The wearer of this ring becomes resistant to gargoyle-like abilities."
+  ]
 }

@@ -1,15 +1,15 @@
 {
   "name": "A long leather whip (1h)",
+  "type": "1h ancient",
   "data": [
     "It increases hit chance poorly.",
     "It has impressive weapon class for its type (average in general).",
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution poorly.",
+    "It does magical damage a good amount.",
     "This item loses its magical powers with average speed.",
     "It increases damage adequately.",
-    "It does magical damage a good amount.",
     "This weapon will increase the users power."
-  ],
-  "type": "1h ancient"
+  ]
 }

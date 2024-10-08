@@ -1,11 +1,15 @@
 {
   "name": "Green leggings",
+  "type": "Legs",
   "data": [
-    "It decreases the users dexterity pathetically.",
-    "It increases the users wisdom pitifully.",
-    "It has poor armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+    "It gives small bonus to the skill 'psionic efficiency'.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence impressively.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration strongly.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'nerve mastery'.",
+    "It gives small bonus to the skill 'offensive efficiency'.",
+    "It gives small bonus to the skill 'focus power'."
+  ]
 }

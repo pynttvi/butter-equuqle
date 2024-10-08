@@ -1,5 +1,6 @@
 {
   "name": "A funky-looking mushroom hat",
+  "type": "Head",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity a tiny bit.",
@@ -9,6 +10,5 @@
     "It has little armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "The Serpent Axe (1h)",
+  "type": "1h axe",
   "data": [
     "It increases hit chance impressively.",
     "It has magnificent weapon class for its type (adequate in general).",
+    "It does poison damage incredibly.",
     "This item loses its magical powers with average speed.",
     "It increases damage impressively.",
-    "It does poison damage incredibly.",
     "The serpent axe is able to 'cleave' some types of spacial",
     "barriers, though in doing so it is known to lower the axe's",
     "magical abilities and blade sharpness."
-  ],
-  "type": "1h axe"
+  ]
 }

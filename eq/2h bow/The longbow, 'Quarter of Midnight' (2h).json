@@ -1,5 +1,6 @@
 {
   "name": "The longbow, 'Quarter of Midnight' (2h)",
+  "type": "2h bow",
   "data": [
     "It has magnificent weapon class for its type (almost non-existent in general).",
     "It increases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "The bow loads and fires quickly.",
     "The bow is easy to fire and less tiring to use.",
     "The size of the bow makes it unusable by the weak."
-  ],
-  "type": "2h bow"
+  ]
 }

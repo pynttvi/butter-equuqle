@@ -1,11 +1,11 @@
 {
   "name": "Demon skin armour",
+  "type": "Torso",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence poorly.",
     "It has great armour class for its type (adequate in general).",
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

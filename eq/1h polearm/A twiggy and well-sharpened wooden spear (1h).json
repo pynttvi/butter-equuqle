@@ -1,11 +1,11 @@
 {
   "name": "A twiggy and well-sharpened wooden spear (1h)",
+  "type": "1h polearm",
   "data": [
     "It decreases hit chance adequately.",
     "It has impressive weapon class for its type (average in general).",
+    "It does poison damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage pitifully.",
-    "It does poison damage a tiny bit."
-  ],
-  "type": "1h polearm"
+    "It increases damage pitifully."
+  ]
 }

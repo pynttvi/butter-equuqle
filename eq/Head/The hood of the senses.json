@@ -1,13 +1,13 @@
 {
   "name": "The hood of the senses",
+  "type": "Head",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence poorly.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "It gives decent bonus to the skill 'audience awareness'.",
     "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'audience awareness'.",
     "Feel the magic powers of hood with 'aurah'."
-  ],
-  "type": "Head"
+  ]
 }

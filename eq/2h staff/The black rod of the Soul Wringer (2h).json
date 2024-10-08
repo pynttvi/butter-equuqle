@@ -1,5 +1,6 @@
 {
   "name": "The black rod of the Soul Wringer (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance a bit.",
     "It has low weapon class for its type (little in general).",
@@ -7,11 +8,10 @@
     "It increases the users intelligence phenomenally.",
     "It increases the users spellpoint regeneration adequately.",
     "It gives small bonus to the skill 'fell insights'.",
+    "It does magical damage superbly.",
     "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'eldritch weave'.",
     "It gives small bonus to the skill 'ruinous utterance'.",
-    "It does magical damage superbly.",
     "The black rod of the Soul Wringer emits darkness."
-  ],
-  "type": "2h staff"
+  ]
 }

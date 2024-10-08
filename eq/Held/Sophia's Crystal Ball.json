@@ -1,9 +1,9 @@
 {
   "name": "Sophia's Crystal Ball",
+  "type": "Held",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

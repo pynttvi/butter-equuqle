@@ -1,11 +1,11 @@
 {
   "name": "Maelstrom of ages",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence poorly.",
     "It has magnificent armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

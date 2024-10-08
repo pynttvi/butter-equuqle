@@ -1,11 +1,11 @@
 {
   "name": "The Broadsword, Sunbringer (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance impressively.",
     "It has magnificent weapon class for its type (magnificent in general).",
+    "It does magical damage tremendously.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does magical damage tremendously."
-  ],
-  "type": "2h sword"
+    "It increases damage adequately."
+  ]
 }

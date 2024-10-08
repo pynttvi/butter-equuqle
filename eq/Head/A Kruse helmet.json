@@ -1,9 +1,9 @@
 {
   "name": "A Kruse helmet",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It has nice armour class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

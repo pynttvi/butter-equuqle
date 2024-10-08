@@ -1,11 +1,11 @@
 {
   "name": "A hollow crescent incisor (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance poorly.",
     "It has magnificent weapon class for its type (low in general).",
-    "This item loses its magical powers with average speed.",
     "It does acid damage superbly.",
+    "This item loses its magical powers with average speed.",
     "The incisor sometimes steals blood from its victims."
-  ],
-  "type": "1h dagger"
+  ]
 }

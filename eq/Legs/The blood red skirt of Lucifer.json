@@ -1,5 +1,6 @@
 {
   "name": "The blood red skirt of Lucifer",
+  "type": "Legs",
   "data": [
     "It decreases the users dexterity poorly.",
     "It decreases the users constitution poorly.",
@@ -8,8 +9,6 @@
     "It increases the users spellpoint regeneration impressively.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'mastery of medicine'.",
-    "- Extra -",
     "It affects the skill mastery of medicine."
-  ],
-  "type": "Legs"
+  ]
 }

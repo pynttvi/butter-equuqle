@@ -1,14 +1,12 @@
 {
   "name": "Ring of Demons",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom poorly.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users magical resistance somewhat.",
-    "",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It is one of the legendary Zi'taq rings."
-  ],
-  "type": "Finger"
+  ]
 }

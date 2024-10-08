@@ -1,8 +1,8 @@
 {
   "name": "A massive sword made from reddened steel (2h)",
+  "type": "2h sword",
   "data": [
     "It has impressive weapon class for its type (impressive in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h sword"
+  ]
 }

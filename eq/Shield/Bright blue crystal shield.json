@@ -1,11 +1,11 @@
 {
   "name": "Bright blue crystal shield",
+  "type": "Shield",
   "data": [
     "It increases the users dexterity poorly.",
     "It increases the users constitution pathetically.",
     "It has excellent armour class for its type (feeble in general).",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+  ]
 }

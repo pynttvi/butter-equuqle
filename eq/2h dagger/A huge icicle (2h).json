@@ -1,11 +1,11 @@
 {
   "name": "A huge icicle (2h)",
+  "type": "2h dagger",
   "data": [
     "It decreases hit chance pitifully.",
     "It has magnificent weapon class for its type (decent in general).",
+    "It does cold damage like a god.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does cold damage like a god."
-  ],
-  "type": "2h dagger"
+    "It increases damage poorly."
+  ]
 }

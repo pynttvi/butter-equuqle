@@ -1,12 +1,11 @@
 {
   "name": "Glowing amulet of greenlight",
+  "type": "Amulet",
   "data": [
     "It increases the users dexterity adequately.",
     "It has pathetic armour class for its type (almost non-existent in general).",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance somewhat.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It modifies the user's resistance to physical damage."
-  ],
-  "type": "Amulet"
+  ]
 }

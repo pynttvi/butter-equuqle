@@ -1,13 +1,13 @@
 {
   "name": "A dwarven war axe with a leather bound handle (2h)",
+  "type": "2h axe",
   "data": [
     "It increases hit chance slightly.",
     "It has magnificent weapon class for its type (awesome in general).",
+    "It does psionic damage superbly.",
     "This item loses its magical powers with average speed.",
     "It increases damage a good amount.",
-    "It does psionic damage superbly.",
     "It has been the bane of many orcs and trolls.",
     "It does more damage in dwarven hands."
-  ],
-  "type": "2h axe"
+  ]
 }

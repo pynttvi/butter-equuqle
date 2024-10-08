@@ -1,5 +1,6 @@
 {
   "name": "A pair of obsidian bracers",
+  "type": "Arms",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
@@ -7,11 +8,10 @@
     "It decreases the users wisdom a tiny bit.",
     "It decreases the users intelligence a tiny bit.",
     "It has superb armour class for its type (little in general).",
-    "It increases the users hitpoint regeneration poorly.",
-    "It increases the users fire resistance adequately.",
     "It decreases the users spellpoint regeneration pathetically.",
+    "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers somewhat slower than average.",
+    "It increases the users fire resistance adequately.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Arms"
+  ]
 }

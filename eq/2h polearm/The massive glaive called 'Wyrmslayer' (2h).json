@@ -1,11 +1,11 @@
 {
   "name": "The massive glaive called 'Wyrmslayer' (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance poorly.",
     "It has superb weapon class for its type (impressive in general).",
+    "It does cold damage like a god.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does cold damage like a god."
-  ],
-  "type": "2h polearm"
+    "It increases damage poorly."
+  ]
 }

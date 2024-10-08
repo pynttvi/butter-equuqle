@@ -1,14 +1,14 @@
 {
   "name": "The vermillion robes of Vulcthay",
+  "type": "Torso",
   "data": [
     "It decreases the users wisdom phenomenally.",
     "It increases the users intelligence ILLEGALLY.",
     "It decreases the users charisma phenomenally.",
     "It has feeble armour class for its type (little in general).",
     "It increases the users spellpoint regeneration impressively.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Torso"
+  ]
 }

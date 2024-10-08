@@ -1,5 +1,6 @@
 {
   "name": "A pair of black sandals",
+  "type": "Feet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity impressively.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'headcut'."
-  ],
-  "type": "Feet"
+  ]
 }

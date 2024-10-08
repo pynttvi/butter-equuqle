@@ -1,5 +1,6 @@
 {
   "name": "The heart of Cara'zin Oasis",
+  "type": "Held",
   "data": [
     "It increases the users constitution pitifully.",
     "It increases the users wisdom pitifully.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

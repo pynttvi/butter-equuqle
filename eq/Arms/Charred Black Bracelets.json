@@ -1,12 +1,12 @@
 {
   "name": "Charred Black Bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users intelligence adequately.",
-    "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoints poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers very slowly.",
-    "It gives small bonus to the skill 'channel power'."
-  ],
-  "type": "Arms"
+    "It gives small bonus to the skill 'channel power'.",
+    "This item loses its magical powers very slowly."
+  ]
 }

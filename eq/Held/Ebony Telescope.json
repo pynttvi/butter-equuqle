@@ -1,12 +1,12 @@
 {
   "name": "Ebony Telescope",
+  "type": "Held",
   "data": [
     "It increases the users wisdom unnoticably.",
     "It increases the users intelligence pitifully.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the spell 'ethereal gate'."
-  ],
-  "type": "Held"
+    "It gives decent bonus to the spell 'ethereal gate'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

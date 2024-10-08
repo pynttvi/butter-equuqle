@@ -1,9 +1,9 @@
 {
   "name": "A wolven scimitar (1h)",
+  "type": "1h sword",
   "data": [
     "It has good weapon class for its type (mediocre in general).",
-    "This item loses its magical powers with average speed.",
-    "It does magical damage a tiny bit."
-  ],
-  "type": "1h sword"
+    "It does magical damage a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

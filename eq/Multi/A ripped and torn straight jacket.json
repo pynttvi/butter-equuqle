@@ -1,5 +1,6 @@
 {
   "name": "A ripped and torn straight jacket",
+  "type": "Multi",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution adequately.",
@@ -7,9 +8,8 @@
     "It has average armour class for its type (average in general).",
     "It decreases the users spellpoint regeneration unnoticably.",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
+    "It increases the users physical resistance somewhat.",
     "It decreases the users magical resistance strongly.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Multi"
+    "This item loses its magical powers with average speed."
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Fiery Mace (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance adequately.",
     "It has nice weapon class for its type (nice in general).",
+    "It does fire damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage impressively.",
-    "It does fire damage somewhat."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage impressively."
+  ]
 }

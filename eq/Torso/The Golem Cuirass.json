@@ -1,10 +1,14 @@
 {
   "name": "The Golem Cuirass",
+  "type": "Torso",
   "data": [
     "It increases the users strength impressively.",
     "It increases the users constitution adequately.",
     "It decreases the users wisdom adequately.",
-    "It decreases the users charisma unbelievably"
-  ],
-  "type": "Torso"
+    "It decreases the users charisma unbelievably much.",
+    "It has awesome armour class for its type (excellent in general).",
+    "It increases the users physical resistance strongly.",
+    "This item loses its magical powers extremely slowly.",
+    "The Golem Cuirass grants its wearer immunity to poisons and diseases."
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "An ordinary looking copper armour",
+  "type": "Torso",
   "data": [
     "It increases the users constitution pitifully.",
     "It has feeble armour class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

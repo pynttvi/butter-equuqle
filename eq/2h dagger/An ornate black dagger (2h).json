@@ -1,10 +1,10 @@
 {
   "name": "An ornate black dagger (2h)",
+  "type": "2h dagger",
   "data": [
     "It increases hit chance pathetically.",
     "It has great weapon class for its type (low in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage pitifully."
-  ],
-  "type": "2h dagger"
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "A grey blindfold",
+  "type": "Head",
   "data": [
     "It decreases the users dexterity impressively.",
     "It decreases the users constitution poorly.",
     "It increases the users intelligence adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'harm body'."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "A blue oaken staff (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance poorly.",
     "It has impressive weapon class for its type (mediocre in general).",
-    "This item loses its magical powers with average speed.",
     "It does electric damage a bit.",
+    "This item loses its magical powers with average speed.",
     "This weapon is easy to use."
-  ],
-  "type": "2h staff"
+  ]
 }

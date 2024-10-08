@@ -1,9 +1,9 @@
 {
   "name": "A double-edged bardiche 'Venomtongue' (2h)",
+  "type": "2h polearm",
   "data": [
     "It has awesome weapon class for its type (superb in general).",
-    "This item loses its magical powers with average speed.",
-    "It does poison damage incredibly."
-  ],
-  "type": "2h polearm"
+    "It does poison damage incredibly.",
+    "This item loses its magical powers with average speed."
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "Huge Spiked Club (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It has little weapon class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

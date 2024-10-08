@@ -1,10 +1,25 @@
 {
   "name": "The necrotic raiment of Vulcthay",
+  "type": "Torso",
   "data": [
     "It decreases the users strength impressively.",
     "It decreases the users constitution unbelievably much.",
     "It decreases the users wisdom phenomenally.",
-    "It increases the users intelligence"
-  ],
-  "type": "Torso"
+    "It increases the users intelligence divinely.",
+    "It decreases the users charisma phenomenally.",
+    "It increases the users hitpoints adequately.",
+    "It has low armour class for its type (poor in general).",
+    "It increases the users spellpoint regeneration phenomenally.",
+    "It decreases the users hitpoint regeneration impressively.",
+    "It gives small bonus to the skill 'undead surgery'.",
+    "It decreases the users physical resistance strongly.",
+    "It increases the users magical resistance somewhat.",
+    "It increases the users psionic resistance strongly.",
+    "It gives small bonus to the skill 'unholy ceremony'.",
+    "It decreases the users electric resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives decent bonus to the skill 'rites of the grave'.",
+    "It decreases the users fire resistance somewhat.",
+    "It gives decent bonus to the skill 'profanities'."
+  ]
 }

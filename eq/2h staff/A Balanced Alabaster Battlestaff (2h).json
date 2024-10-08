@@ -1,21 +1,21 @@
 {
   "name": "A Balanced Alabaster Battlestaff (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (average in general).",
     "It increases the users dexterity a tiny bit.",
     "It increases the users wisdom somewhat.",
     "It increases the users intelligence somewhat.",
-    "This item loses its magical powers very slowly.",
     "It gives decent bonus to the skill 'volo'.",
+    "It does cold damage unbelievably much.",
+    "This item loses its magical powers very slowly.",
     "It gives decent bonus to the skill 'magus'.",
     "It increases damage somewhat.",
-    "It does cold damage unbelievably much.",
     "It gives decent bonus to the skill 'pon deila'.",
     "It gives decent bonus to the skill 'pra evaleo'.",
     "The finely balanced staff uses its own momentum to reduce exertion.",
     "The battlestaff has a strong affinity with elven magic.",
     "The battlestaff may be enhanced by certain Spellblade techniques."
-  ],
-  "type": "2h staff"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Black iron helmet of the Balrog",
+  "type": "Head",
   "data": [
     "It increases the users strength a tiny bit.",
     "It decreases the users dexterity pitifully.",
@@ -8,6 +9,5 @@
     "It has magnificent armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

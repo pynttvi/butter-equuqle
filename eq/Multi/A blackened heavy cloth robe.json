@@ -1,11 +1,11 @@
 {
   "name": "A blackened heavy cloth robe",
+  "type": "Multi",
   "data": [
     "It increases the users wisdom pitifully.",
     "It increases the users intelligence pitifully.",
     "It has tiny armour class for its type (little in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Multi"
+  ]
 }

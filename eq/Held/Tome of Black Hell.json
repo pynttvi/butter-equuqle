@@ -1,5 +1,6 @@
 {
   "name": "Tome of Black Hell",
+  "type": "Held",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users dexterity pitifully.",
@@ -9,6 +10,5 @@
     "It has nice armour class for its type (little in general).",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

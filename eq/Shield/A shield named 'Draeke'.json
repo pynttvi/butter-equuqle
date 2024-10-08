@@ -1,11 +1,11 @@
 {
   "name": "A shield named 'Draeke'",
+  "type": "Shield",
   "data": [
     "It increases the users wisdom a tiny bit.",
     "It increases the users intelligence a tiny bit.",
     "It has superb armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration pathetically.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+  ]
 }

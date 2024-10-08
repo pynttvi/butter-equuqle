@@ -1,14 +1,12 @@
 {
   "name": "The skull of the swamp monster",
+  "type": "Held",
   "data": [
     "It increases the users strength pathetically.",
     "It increases the users wisdom pathetically.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "It modifies user's healing rate."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "Smelly leather armour",
+  "type": "Torso",
   "data": [
     "It has feeble armour class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

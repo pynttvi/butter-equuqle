@@ -1,5 +1,6 @@
 {
   "name": "A bloodstained surplice",
+  "type": "Torso",
   "data": [
     "It increases the users strength a bit.",
     "It decreases the users dexterity a tiny bit.",
@@ -7,10 +8,9 @@
     "It increases the users wisdom adequately.",
     "It has average armour class for its type (low in general).",
     "It increases the users spellpoint regeneration strongly.",
-    "This item loses its magical powers somewhat slower than avarage.",
     "It increases the users physical resistance somewhat.",
     "It gives decent bonus to the spell 'mark of zomm'.",
+    "This item loses its magical powers somewhat slower than avarage.",
     "It gives decent bonus to the skill 'holy might'."
-  ],
-  "type": "Torso"
+  ]
 }

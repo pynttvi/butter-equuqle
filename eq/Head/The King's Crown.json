@@ -1,5 +1,6 @@
 {
   "name": "The King's Crown",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -7,6 +8,5 @@
     "It increases the users wisdom poorly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

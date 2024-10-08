@@ -1,14 +1,14 @@
 {
   "name": "A pair of boots made from red dragon scales",
+  "type": "Feet",
   "data": [
     "It decreases the users dexterity poorly.",
     "It increases the users constitution like a god.",
     "It has magnificent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'kick'.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'flip kick'."
-  ],
-  "type": "Feet"
+  ]
 }

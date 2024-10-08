@@ -1,11 +1,11 @@
 {
   "name": "The Shadowblade (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance tremendously.",
     "It has tremendous weapon class for its type (good in general).",
+    "It does shadow damage unbelievably much.",
     "This item loses its magical powers with average speed.",
-    "It increases damage pitifully.",
-    "It does shadow damage unbelievably much."
-  ],
-  "type": "1h sword"
+    "It increases damage pitifully."
+  ]
 }

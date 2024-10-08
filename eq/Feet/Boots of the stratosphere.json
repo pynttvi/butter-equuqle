@@ -1,5 +1,6 @@
 {
   "name": "Boots of the stratosphere",
+  "type": "Feet",
   "data": [
     "It decreases the users wisdom poorly.",
     "It increases the users intelligence slightly.",
@@ -9,11 +10,9 @@
     "This item loses its magical powers slowly.",
     "It gives nice bonus to the skill 'audience awareness'.",
     "It increases the users asphyxiation resistance strongly.",
-    "- Extra -",
     "The wearer of the boots can lift from the ground to 'survey' the",
     "wearer's surroundings once per week.",
     "The boots can also 'elevate' the wearer and his or her companions",
     "once per week."
-  ],
-  "type": "Feet"
+  ]
 }

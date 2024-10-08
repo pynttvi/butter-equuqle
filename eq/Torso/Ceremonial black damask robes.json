@@ -1,17 +1,17 @@
 {
   "name": "Ceremonial black damask robes",
+  "type": "Torso",
   "data": [
     "It increases the users constitution adequately.",
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has excellent armour class for its type (good in general).",
     "It increases the users spellpoint regeneration tremendously.",
-    "It increases the users electric resistance somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users physical resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
-  ],
-  "type": "Torso"
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

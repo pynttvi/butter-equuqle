@@ -1,13 +1,13 @@
 {
   "name": "Gold embroidered black high boots",
+  "type": "Feet",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence impressively.",
     "It has low armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers incredibly slowly.",
+    "It increases the users physical resistance somewhat.",
     "It increases the users magical resistance somewhat.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Feet"
+    "This item loses its magical powers incredibly slowly."
+  ]
 }

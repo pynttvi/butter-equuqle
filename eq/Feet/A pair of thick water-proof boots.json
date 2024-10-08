@@ -1,15 +1,15 @@
 {
   "name": "A pair of thick water-proof boots",
+  "type": "Feet",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
     "It increases the users wisdom somewhat.",
-    "It increases the users intelligence somewhat.",
+    "It increases",
+    "the users intelligence somewhat.",
     "It has low armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers very slowly.",
-    "- Extra -",
     "Water proof boots allows the wearer to walk through large puddles with ease."
-  ],
-  "type": "Feet"
+  ]
 }

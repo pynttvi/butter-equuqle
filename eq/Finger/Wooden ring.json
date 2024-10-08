@@ -1,9 +1,9 @@
 {
   "name": "Wooden ring",
+  "type": "Finger",
   "data": [
     "It increases the users dexterity pitifully.",
     "It has little armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

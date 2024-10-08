@@ -1,11 +1,14 @@
 {
   "name": "The silver necklace of the mentat [fading]",
+  "type": "Neck",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
     "It decreases the users constitution poorly.",
     "It increases the users wisdom adequately.",
-    "It increases"
-  ],
-  "type": "Neck"
+    "It increases the users intelligence adequately.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers with average speed."
+  ]
 }

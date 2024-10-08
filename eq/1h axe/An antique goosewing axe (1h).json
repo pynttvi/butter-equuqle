@@ -1,13 +1,13 @@
 {
   "name": "An antique goosewing axe (1h)",
+  "type": "1h axe",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (decent in general).",
-    "It increases the users fire resistance a bit.",
+    "It does cold damage incredibly.",
     "This item loses its magical powers a bit slower than average.",
     "It increases damage a bit.",
-    "It increases the users cold resistance somewhat.",
-    "It does cold damage incredibly."
-  ],
-  "type": "1h axe"
+    "It increases the users fire resistance a bit.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Crown of the Imp King",
+  "type": "Head",
   "data": [
     "It decreases the users wisdom poorly.",
     "It decreases the users charisma adequately.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the spell 'cure undead'.",
     "It is an artifact of imps."
-  ],
-  "type": "Head"
+  ]
 }

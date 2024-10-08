@@ -1,5 +1,6 @@
 {
   "name": "The Staff of Law (2h)",
+  "type": "2h staff",
   "data": [
     "It has magnificent weapon class for its type (average in general).",
     "It decreases the users strength pitifully.",
@@ -11,6 +12,5 @@
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance somewhat.",
     "It emits light."
-  ],
-  "type": "2h staff"
+  ]
 }

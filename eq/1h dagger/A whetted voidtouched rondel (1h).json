@@ -1,12 +1,12 @@
 {
   "name": "A whetted voidtouched rondel (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance adequately.",
     "It has awesome weapon class for its type (low in general).",
+    "It does asphyxiation damage immensely.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage adequately.",
-    "It does asphyxiation damage immensely.",
     "The wielder becomes more attuned to the elemental forces."
-  ],
-  "type": "1h dagger"
+  ]
 }

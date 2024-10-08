@@ -1,9 +1,9 @@
 {
   "name": "Trollring",
+  "type": "Finger",
   "data": [
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

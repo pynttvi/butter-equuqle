@@ -1,8 +1,9 @@
 {
   "name": "A worn black woolly hat",
+  "type": "Head",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+    "This item loses its magical powers with average speed.",
+    "08.10.2024 15:17"
+  ]
 }

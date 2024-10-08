@@ -1,17 +1,17 @@
 {
   "name": "A visored copper helmet dripping with green ooze",
+  "type": "Head",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
-    "It allows the user to see in darkness.",
     "It increases the users hitpoints poorly.",
-    "It has low armour class for its type (tiny in general).",
     "It increases the users spellpoints adequately.",
+    "It has low armour class for its type (tiny in general).",
+    "It allows the user to see in darkness.",
     "It allows the user to see magical auras.",
     "It allows the user to see invisible.",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users poison resistance somewhat."
-  ],
-  "type": "Head"
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

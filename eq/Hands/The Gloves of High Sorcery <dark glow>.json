@@ -1,0 +1,15 @@
+{
+  "name": "The Gloves of High Sorcery <dark glow>",
+  "type": "Hands",
+  "data": [
+    "It decreases the users strength unnoticably.",
+    "It decreases the users wisdom unnoticably.",
+    "It increases the users intelligence impressively.",
+    "It has adequate armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "It gives tiny bonus to the spell 'daggers of ice'.",
+    "This item loses its magical powers a bit faster than avarage.",
+    "It gives tiny bonus to the skill 'quick chant'."
+  ]
+}

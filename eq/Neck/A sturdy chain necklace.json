@@ -1,5 +1,6 @@
 {
   "name": "A sturdy chain necklace",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -9,9 +10,8 @@
     "It has magnificent armour class for its type (little in general).",
     "It decreases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'brawl'.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'dirty blow'."
-  ],
-  "type": "Neck"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "Mace of Pain (1h)",
+  "type": "1h bludgeon",
   "data": [
     "It has awesome weapon class for its type (good in general).",
-    "This item loses its magical powers with average speed.",
-    "It does psionic damage a tiny bit."
-  ],
-  "type": "1h bludgeon"
+    "It does psionic damage a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

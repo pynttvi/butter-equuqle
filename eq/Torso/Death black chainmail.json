@@ -1,9 +1,9 @@
 {
   "name": "Death black chainmail",
+  "type": "Torso",
   "data": [
     "It increases the users strength poorly.",
     "It has average armour class for its type (low in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

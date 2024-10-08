@@ -1,5 +1,6 @@
 {
   "name": "A set of worm-eaten robes",
+  "type": "Torso",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users constitution a bit.",
@@ -8,6 +9,5 @@
     "It has feeble armour class for its type (little in general).",
     "It increases the users spellpoint regeneration slightly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

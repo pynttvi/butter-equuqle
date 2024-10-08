@@ -1,11 +1,12 @@
 {
   "name": "The belly of the Dragon Lord",
+  "type": "Torso",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity pitifully.",
     "It increases the users constitution poorly.",
     "It has good armour class for its type (average in general).",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+    "This item loses its magical powers with average speed.",
+    "08.10.2024 15:28"
+  ]
 }

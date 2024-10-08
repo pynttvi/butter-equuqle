@@ -1,12 +1,12 @@
 {
   "name": "The shining cloak of Yeao",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution somewhat.",
     "It increases the users wisdom somewhat.",
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers slowly.",
-    "It increases the users magical resistance somewhat."
-  ],
-  "type": "Cloak"
+    "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers slowly."
+  ]
 }

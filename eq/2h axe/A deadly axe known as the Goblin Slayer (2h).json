@@ -1,12 +1,12 @@
 {
   "name": "A deadly axe known as the Goblin Slayer (2h)",
+  "type": "2h axe",
   "data": [
     "It increases hit chance unbelievably much.",
     "It has immense weapon class for its type (unbelievable in general).",
+    "It does cold damage monumentally.",
     "This item loses its magical powers with average speed.",
     "It increases damage unbelievably much.",
-    "It does cold damage monumentally.",
     "It exposes weaknesses in enemies' defenses."
-  ],
-  "type": "2h axe"
+  ]
 }

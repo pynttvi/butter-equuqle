@@ -1,13 +1,13 @@
 {
-  "name": "A dark shimmering shield",
+  "name": "A dark shimmering shield.",
+  "type": "Shield",
   "data": [
-    "It has average armour class for its type (poor in general).",
+    "It has magnificent armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration unnoticably.",
-    "It increases the users hitpoint regeneration unnoticably.",
+    "It increases the users hitpoint regeneration pathetically.",
+    "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance a bit.",
-    "- Extra -",
-    "It modifies the user's resistance to physical damage."
-  ],
-  "type": "Shield"
+    "It modifies the user's resistance to physical damage.",
+    "08.10.2024 15:25"
+  ]
 }

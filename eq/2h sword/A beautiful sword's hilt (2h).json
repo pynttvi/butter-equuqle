@@ -1,5 +1,6 @@
 {
   "name": "A beautiful sword's hilt (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance nicely.",
     "It has awesome weapon class for its type (awesome in general).",
@@ -9,6 +10,5 @@
     "A magical blade of pure magical force is projected from the slot in",
     "the hilt, forming a perfectly balanced weapon.",
     "The damage type of the weapon depends highly on what is needed."
-  ],
-  "type": "2h sword"
+  ]
 }

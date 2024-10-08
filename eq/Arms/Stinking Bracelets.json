@@ -1,5 +1,6 @@
 {
   "name": "Stinking Bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users constitution somewhat.",
@@ -8,6 +9,5 @@
     "It decreases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

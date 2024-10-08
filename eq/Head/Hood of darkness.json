@@ -1,5 +1,6 @@
 {
   "name": "Hood of darkness",
+  "type": "Head",
   "data": [
     "It decreases the users wisdom somewhat.",
     "It increases the users intelligence superbly.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It emits darkness."
-  ],
-  "type": "Head"
+  ]
 }

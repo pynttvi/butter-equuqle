@@ -1,5 +1,6 @@
 {
   "name": "Rauzgnagli, the mighty demonsword (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance pathetically.",
     "It has nice weapon class for its type (nice in general).",
@@ -12,6 +13,5 @@
     "It modifies the user's strength.",
     "It modifies the user's constitution.",
     "It looks pretty sharp."
-  ],
-  "type": "2h sword"
+  ]
 }

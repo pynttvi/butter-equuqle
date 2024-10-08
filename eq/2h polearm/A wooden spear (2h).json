@@ -1,8 +1,8 @@
 {
   "name": "A wooden spear (2h)",
+  "type": "2h polearm",
   "data": [
     "It has superb weapon class for its type (impressive in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h polearm"
+  ]
 }

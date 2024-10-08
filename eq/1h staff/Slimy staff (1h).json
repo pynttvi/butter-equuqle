@@ -1,5 +1,6 @@
 {
   "name": "Slimy staff (1h)",
+  "type": "1h staff",
   "data": [
     "It has mediocre weapon class for its type (little in general).",
     "It decreases the users strength adequately.",
@@ -7,6 +8,5 @@
     "It increases the users intelligence poorly.",
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers fast."
-  ],
-  "type": "1h staff"
+  ]
 }

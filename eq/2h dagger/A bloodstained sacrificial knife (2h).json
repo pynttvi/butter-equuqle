@@ -1,12 +1,12 @@
 {
   "name": "A bloodstained sacrificial knife (2h)",
+  "type": "2h dagger",
   "data": [
     "It has magnificent weapon class for its type (decent in general).",
     "It increases the users dexterity adequately.",
-    "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
     "It decreases the users psionic resistance somewhat.",
-    "It does electric damage superbly."
-  ],
-  "type": "2h dagger"
+    "It does electric damage superbly.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage adequately."
+  ]
 }

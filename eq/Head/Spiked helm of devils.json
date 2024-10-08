@@ -1,8 +1,8 @@
 {
   "name": "Spiked helm of devils",
+  "type": "Head",
   "data": [
     "It has poor armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

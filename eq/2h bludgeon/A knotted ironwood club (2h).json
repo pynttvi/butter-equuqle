@@ -1,8 +1,8 @@
 {
   "name": "A knotted ironwood club (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It has mediocre weapon class for its type (mediocre in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

@@ -1,15 +1,13 @@
 {
   "name": "A sparkling sapphire",
+  "type": "Held",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers extremely slowly.",
-    "",
-    "- Extra -",
     "This otherworldly gemstone will occasionally resonate with magical energy,",
     "lending power to all destructive magics that employ such energy in its",
     "purest form. During this time, however, the wearer is more susceptible",
     "to those same forces."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "A huge two-handed sword (2h)",
+  "type": "2h sword",
   "data": [
     "It has weak weapon class for its type (weak in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h sword"
+  ]
 }

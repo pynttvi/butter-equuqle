@@ -1,5 +1,6 @@
 {
   "name": "A pair of shockburned plate gauntlets",
+  "type": "Hands",
   "data": [
     "It increases the users strength strongly.",
     "It increases the users constitution adequately.",
@@ -7,9 +8,8 @@
     "It decreases the users intelligence pitifully.",
     "It has awesome armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration a tiny bit.",
-    "This item loses its magical powers somewhat slower than average.",
     "It increases the users electric resistance adequately.",
+    "This item loses its magical powers somewhat slower than average.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "A small leather arm wrapping called \"Ember\"",
+  "type": "Arms",
+  "data": [
+    "It increases the users strength a good amount.",
+    "It increases the users dexterity noticably.",
+    "It decreases the users constitution poorly.",
+    "It decreases the users wisdom pitifully.",
+    "It decreases the users intelligence pitifully.",
+    "It has adequate armour class for its type (tiny in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'parry'."
+  ]
+}

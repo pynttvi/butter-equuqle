@@ -1,20 +1,20 @@
 {
   "name": "A worn leather and tooth bracelet",
+  "type": "Arms",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom impressively.",
     "It increases the users intelligence poorly.",
     "It has poor armour class for its type (pathetic in general).",
-    "It increases the users hitpoint regeneration pathetically.",
     "It increases the users spellpoint regeneration noticably.",
+    "It increases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'elemental mastery'.",
     "It gives small bonus to the spell 'conjure greater elemental'.",
-    "It gives small penalty to the skill 'water lore'.",
     "It gives small penalty to the skill 'fire lore'.",
-    "It gives small bonus to the skill 'air lore'.",
     "It gives small bonus to the skill 'earth lore'.",
+    "It gives small bonus to the skill 'air lore'.",
+    "It gives small penalty to the skill 'water lore'.",
     "It can occasionally provide healing to earth and air elementals."
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Hule, the ancient warhammer of ice (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (awesome in general).",
+    "It does cold damage tremendously.",
     "This item loses its magical powers with average speed.",
-    "It increases damage impressively.",
-    "It does cold damage tremendously."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage impressively."
+  ]
 }

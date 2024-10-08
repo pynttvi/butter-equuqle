@@ -1,10 +1,10 @@
 {
   "name": "White Loincloth",
+  "type": "Legs",
   "data": [
     "It increases the users dexterity pitifully.",
     "It increases the users wisdom poorly.",
     "It has low armour class for its type (tiny in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "The veil of true seeing",
+  "type": "Eyes",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers with average speed.",
     "It prevents seeing.",
     "Its wearer may use 'clairvoyance' to get a deeper sense of his surroundings,",
     "as well as 'identify' creatures and items."
-  ],
-  "type": "Eyes"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "A broad bladed longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It has good weapon class for its type (mediocre in general).",
-    "This item loses its magical powers with average speed.",
-    "It does poison damage a bit."
-  ],
-  "type": "1h sword"
+    "It does poison damage a bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

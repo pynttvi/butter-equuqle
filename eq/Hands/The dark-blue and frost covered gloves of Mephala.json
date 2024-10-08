@@ -1,5 +1,6 @@
 {
   "name": "The dark-blue and frost covered gloves of Mephala",
+  "type": "Hands",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users dexterity adequately.",
@@ -7,15 +8,14 @@
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has low armour class for its type (almost non-existent in general).",
-    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'mastery of time'.",
-    "It gives great penalty to the skill 'parry'.",
     "It gives small bonus to the skill 'zapping'.",
+    "This item loses its magical powers with average speed.",
+    "It gives great penalty to the skill 'parry'.",
     "It gives great penalty to the skill 'dodge'.",
-    "It increases the users cold resistance a bit.",
     "It decreases the users fire resistance a bit.",
+    "It increases the users cold resistance a bit.",
     "It gives small bonus to the skill 'earth lore'.",
     "It gives small bonus to the skill 'pluto lore'."
-  ],
-  "type": "Hands"
+  ]
 }

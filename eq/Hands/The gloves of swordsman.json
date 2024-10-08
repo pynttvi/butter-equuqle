@@ -1,5 +1,6 @@
 {
   "name": "The gloves of swordsman",
+  "type": "Hands",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
@@ -11,6 +12,5 @@
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'slash'."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "A formidable helmet, masterfully crafted from the mightiest terracarapid shell",
+  "type": "Head",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity poorly.",
+    "It decreases the users intelligence pitifully.",
+    "It has awesome armour class for its type (poor in general).",
+    "This item loses its magical powers extremely slowly.",
+    "The helmet is made from the shell of the mighty Carapaxus.",
+    "The helmet offers superior defense from stuns."
+  ]
+}

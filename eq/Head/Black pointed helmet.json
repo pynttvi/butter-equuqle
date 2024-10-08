@@ -1,5 +1,6 @@
 {
   "name": "Black pointed helmet",
+  "type": "Head",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users constitution pitifully.",
@@ -7,6 +8,5 @@
     "It decreases the users intelligence pitifully.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

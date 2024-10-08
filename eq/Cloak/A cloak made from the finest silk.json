@@ -1,5 +1,6 @@
 {
   "name": "A cloak made from the finest silk",
+  "type": "Cloak",
   "data": [
     "It increases the users wisdom pitifully.",
     "It increases the users intelligence pathetically.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the spell 'darkness'."
-  ],
-  "type": "Cloak"
+  ]
 }

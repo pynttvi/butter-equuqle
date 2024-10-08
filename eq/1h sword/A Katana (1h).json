@@ -1,9 +1,9 @@
 {
   "name": "A Katana (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance unnoticably.",
     "It has decent weapon class for its type (low in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h sword"
+  ]
 }

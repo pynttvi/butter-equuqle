@@ -1,13 +1,13 @@
 {
   "name": "A petrified heartwood staff named 'Driftwood' (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance somewhat.",
     "It has tremendous weapon class for its type (average in general).",
+    "It does asphyxiation damage monumentally.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage somewhat.",
-    "It does asphyxiation damage monumentally.",
     "The staff's powers flourish in the hands of a Maredien.",
     "Reflecting on the staff through the Loc Turan further hones its abilities."
-  ],
-  "type": "2h staff"
+  ]
 }

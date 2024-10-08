@@ -1,13 +1,13 @@
 {
   "name": "Black Hornet, the assassin's shortbow (2h)",
+  "type": "2h bow",
   "data": [
     "It has awesome weapon class for its type (almost non-existent in general).",
     "It increases the users dexterity impressively.",
-    "It gives great bonus to the skill 'dodge'.",
     "This item loses its magical powers incredibly slowly.",
+    "It gives great bonus to the skill 'dodge'.",
     "It gives awesome bonus to the skill 'steady aim'.",
     "The user of the bow can more easily maintain focus while taking damage.",
     "The size of the bow makes it somewhat quicker to load."
-  ],
-  "type": "2h bow"
+  ]
 }

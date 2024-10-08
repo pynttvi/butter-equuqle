@@ -1,5 +1,6 @@
 {
   "name": "A thick leather collar",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -8,10 +9,9 @@
     "It decreases the users intelligence poorly.",
     "It has nice armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'parry'.",
     "It gives small bonus to the skill 'hew'."
-  ],
-  "type": "Neck"
+  ]
 }

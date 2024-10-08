@@ -1,9 +1,9 @@
 {
   "name": "2nd Circle Belt",
+  "type": "Belt",
   "data": [
     "It increases the users strength unnoticably.",
     "It has adequate armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Belt"
+  ]
 }

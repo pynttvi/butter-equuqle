@@ -1,9 +1,9 @@
 {
   "name": "The fiery whip of the Balrog (2h)",
+  "type": "2h ancient",
   "data": [
     "It has impressive weapon class for its type (great in general).",
-    "This item loses its magical powers with average speed.",
-    "It does fire damage a good amount."
-  ],
-  "type": "2h ancient"
+    "It does fire damage a good amount.",
+    "This item loses its magical powers with average speed."
+  ]
 }

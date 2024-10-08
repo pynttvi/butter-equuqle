@@ -1,10 +1,10 @@
 {
   "name": "An exquisite mithril battlesuit",
+  "type": "Multi",
   "data": [
     "It increases the users dexterity like a god.",
     "It has excellent armour class for its type (ILLEGAL in general).",
     "It increases the users hitpoint regeneration impressively.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Multi"
+  ]
 }

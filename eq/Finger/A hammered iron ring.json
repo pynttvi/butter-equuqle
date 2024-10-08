@@ -1,12 +1,12 @@
 {
   "name": "A hammered iron ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength somewhat.",
     "It has awesome armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users psionic resistance a bit.",
+    "This item loses its magical powers incredibly slowly.",
     "While worn, this ring will increase its wearer's stamina considerably."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A ring of black obsidian",
+  "type": "Finger",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
@@ -9,8 +10,6 @@
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers slowly.",
     "It increases the users fire resistance strongly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Finger"
+  ]
 }

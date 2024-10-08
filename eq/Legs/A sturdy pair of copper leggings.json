@@ -1,11 +1,11 @@
 {
   "name": "A sturdy pair of copper leggings",
+  "type": "Legs",
   "data": [
     "It increases the users strength adequately.",
     "It decreases the users dexterity poorly.",
     "It has great armour class for its type (feeble in general).",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

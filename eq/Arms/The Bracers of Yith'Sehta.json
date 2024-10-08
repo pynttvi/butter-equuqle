@@ -1,5 +1,6 @@
 {
   "name": "The Bracers of Yith'Sehta",
+  "type": "Arms",
   "data": [
     "It increases the users wisdom pitifully.",
     "It increases the users intelligence a tiny bit.",
@@ -7,8 +8,6 @@
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "The Bracers of Yith'Sehta possess the ability to 'allocate'"
-  ],
-  "type": "Arms"
+  ]
 }

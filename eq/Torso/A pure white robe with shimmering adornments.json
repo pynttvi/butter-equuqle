@@ -1,15 +1,15 @@
 {
   "name": "A pure white robe with shimmering adornments",
+  "type": "Torso",
   "data": [
     "It increases the users wisdom impressively.",
     "It increases the users charisma adequately.",
     "It has tiny armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration superbly.",
-    "This item loses its magical powers extremely slowly.",
     "It increases the users physical resistance somewhat.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
     "It increases the users shadow resistance a bit.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Torso"
+  ]
 }

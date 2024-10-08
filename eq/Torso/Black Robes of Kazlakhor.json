@@ -1,12 +1,18 @@
 {
   "name": "Black Robes of Kazlakhor",
+  "type": "Torso",
   "data": [
-    "It decreases the users strength pitifully.",
+    "It decreases the users strength pathetically.",
     "It decreases the users constitution pathetically.",
+    "It increases the users wisdom poorly.",
     "It increases the users intelligence impressively.",
-    "It has feeble armour class for its type (little in general).",
+    "It has average armour class for its type (low in general).",
     "It increases the users spellpoint regeneration like a god.",
-    "This item loses its magical powers very slowly."
-  ],
-  "type": "Torso"
+    "This item loses its magical powers a bit faster than avarage.",
+    "It gives tiny bonus to the skill 'adaption of balance'.",
+    "It gives tiny bonus to the skill 'adaption of chaos'.",
+    "It gives tiny bonus to the skill 'adaption of order'.",
+    "It gives tiny bonus to the skill 'invocation'.",
+    "It gives tiny bonus to the skill 'evocation'."
+  ]
 }

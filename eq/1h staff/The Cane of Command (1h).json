@@ -1,16 +1,16 @@
 {
   "name": "The Cane of Command (1h)",
+  "type": "1h staff",
   "data": [
     "It has mediocre weapon class for its type (little in general).",
     "It increases the users wisdom a bit.",
     "It increases the users intelligence a bit.",
     "It increases the users charisma a good amount.",
     "It increases the users spellpoint regeneration adequately.",
+    "It does psionic damage adequately.",
     "This item loses its magical powers with average speed.",
     "It gives awesome bonus to the skill 'bargain'.",
-    "It does psionic damage adequately.",
     "It gives awesome bonus to the skill 'leadership'.",
     "It gives awesome bonus to the skill 'negotiate'."
-  ],
-  "type": "1h staff"
+  ]
 }

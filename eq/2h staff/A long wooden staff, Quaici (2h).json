@@ -1,11 +1,11 @@
 {
   "name": "A long wooden staff, Quaici (2h)",
+  "type": "2h staff",
   "data": [
     "It has adequate weapon class for its type (poor in general).",
     "It increases the users dexterity pitifully.",
-    "This item loses its magical powers with average speed.",
     "It increases the users magical resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It has a strong sense of power inside it."
-  ],
-  "type": "2h staff"
+  ]
 }

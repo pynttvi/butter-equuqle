@@ -1,5 +1,6 @@
 {
   "name": "A shimmering tail feather",
+  "type": "Held",
   "data": [
     "It increases the users dexterity impressively.",
     "It increases the users constitution poorly.",
@@ -7,9 +8,6 @@
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers slowly.",
     "It gives decent bonus to the skill 'dodge'.",
-    "",
-    "- Extra -",
     "Fanning the feather will activate its magic."
-  ],
-  "type": "Held"
+  ]
 }

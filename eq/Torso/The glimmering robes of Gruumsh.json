@@ -1,5 +1,6 @@
 {
   "name": "The glimmering robes of Gruumsh",
+  "type": "Torso",
   "data": [
     "It increases the users strength somewhat.",
     "It decreases the users dexterity poorly.",
@@ -12,6 +13,5 @@
     "It gives decent bonus to the skill 'smash'.",
     "This item loses its magical powers extremely fast.",
     "It gives decent bonus to the skill 'holy might'."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,18 +1,18 @@
 {
   "name": "A pair of heavy black sabatons",
+  "type": "Feet",
   "data": [
     "It increases the users strength impressively.",
     "It decreases the users dexterity poorly.",
     "It increases the users constitution poorly.",
     "It has awesome armour class for its type (little in general).",
-    "It increases the users hitpoint regeneration poorly.",
-    "It increases the users fire resistance adequately.",
     "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers extremely slowly.",
+    "It increases the users acid resistance adequately.",
     "It gives awesome bonus to the skill 'inner strength'.",
     "It increases the users shadow resistance somewhat.",
-    "It increases the users acid resistance adequately.",
+    "It increases the users fire resistance adequately.",
     "While worn, these sabatons will increase its wearer's stamina considerably."
-  ],
-  "type": "Feet"
+  ]
 }

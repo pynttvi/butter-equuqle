@@ -1,11 +1,11 @@
 {
   "name": "Brown robes",
+  "type": "Multi",
   "data": [
     "It has pathetic armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration pathetically.",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'wilderness survival'."
-  ],
-  "type": "Multi"
+  ]
 }

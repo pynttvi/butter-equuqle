@@ -1,0 +1,21 @@
+{
+  "name": "The Cloak of Flames <*blazing*>",
+  "type": "Cloak",
+  "data": [
+    "It increases the users strength pitifully.",
+    "It decreases the users dexterity somewhat.",
+    "It increases the users constitution poorly.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has adequate armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "It increases the users hitpoint regeneration adequately.",
+    "It gives decent bonus to the spell 'fire preference'.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users fire resistance strongly.",
+    "It decreases the users cold resistance strongly.",
+    "You could 'pull' the cloak around you to escape the heat of flames.",
+    "This cloak is blessed by the goddess Kirvana and is an artifact of hers.",
+    "(You feel fully rested.) (Not in battle) (Demonic)|"
+  ]
+}

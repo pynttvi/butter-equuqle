@@ -1,5 +1,6 @@
 {
   "name": "The Amulet of Yith'Sehta",
+  "type": "Amulet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
@@ -9,9 +10,8 @@
     "It has excellent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It decreases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance somewhat."
-  ],
-  "type": "Amulet"
+  ]
 }

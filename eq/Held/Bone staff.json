@@ -1,11 +1,11 @@
 {
   "name": "Bone staff",
+  "type": "Held",
   "data": [
     "It decreases the users dexterity pitifully.",
     "It increases the users wisdom pathetically.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

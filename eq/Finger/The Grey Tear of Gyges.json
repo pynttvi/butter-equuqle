@@ -1,15 +1,15 @@
 {
   "name": "The Grey Tear of Gyges",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom superbly.",
-    "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users hitpoints pitifully.",
+    "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration a bit.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users psionic resistance a bit.",
     "It increases the users magical resistance somewhat.",
+    "It increases the users psionic resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'parry'."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "HUGE club (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance adequately.",
     "It has great weapon class for its type (great in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Crimson Red Cape",
+  "type": "Cloak",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Cloak"
+  ]
 }

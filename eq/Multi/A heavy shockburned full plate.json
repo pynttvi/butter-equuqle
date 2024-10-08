@@ -1,0 +1,17 @@
+{
+  "name": "A heavy shockburned full plate",
+  "type": "Multi",
+  "data": [
+    "It increases the users strength divinely.",
+    "It increases the users constitution impossibly much.",
+    "It decreases the users wisdom a tiny bit.",
+    "It decreases the users intelligence a tiny bit.",
+    "It decreases the users charisma a tiny bit.",
+    "It has superb armour class for its type (magnificent in general).",
+    "It decreases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration phenomenally.",
+    "It increases the users electric resistance superbly.",
+    "This item loses its magical powers with average speed.",
+    "The wearer becomes more attuned to the elemental forces."
+  ]
+}

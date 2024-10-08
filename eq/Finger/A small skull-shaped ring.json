@@ -1,11 +1,10 @@
 {
   "name": "A small skull-shaped ring",
+  "type": "Finger",
   "data": [
     "It increases the users constitution unnoticably.",
     "It has little armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "It affects death."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "A small ornate golden ring",
+  "type": "Finger",
   "data": [
     "It decreases the users constitution poorly.",
     "It increases the users intelligence poorly.",
     "It increases the users charisma pathetically.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration a tiny bit.",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the spell 'golden arrow'."
-  ],
-  "type": "Finger"
+    "It gives small bonus to the spell 'golden arrow'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

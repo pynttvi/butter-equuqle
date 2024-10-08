@@ -1,5 +1,6 @@
 {
   "name": "The Crystal Amulet of 'Desteros'",
+  "type": "Amulet",
   "data": [
     "It increases the users constitution poorly.",
     "It increases the users wisdom poorly.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration impressively.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Amulet"
+  ]
 }

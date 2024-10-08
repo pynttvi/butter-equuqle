@@ -1,5 +1,6 @@
 {
   "name": "Red Bracers of the Demon",
+  "type": "Arms",
   "data": [
     "It increases the users constitution unnoticably.",
     "It increases the users wisdom poorly.",
@@ -7,8 +8,6 @@
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration slightly.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "The bracers will make you even more powerful."
-  ],
-  "type": "Arms"
+  ]
 }

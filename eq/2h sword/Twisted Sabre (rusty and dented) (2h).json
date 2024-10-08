@@ -1,11 +1,11 @@
 {
   "name": "Twisted Sabre (rusty and dented) (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance poorly.",
     "It has impressive weapon class for its type (impressive in general).",
+    "It does poison damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does poison damage a tiny bit."
-  ],
-  "type": "2h sword"
+    "It increases damage poorly."
+  ]
 }

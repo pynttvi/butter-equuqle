@@ -1,5 +1,6 @@
 {
   "name": "The Pulsing Amulet of 'Zzzzer'",
+  "type": "Amulet",
   "data": [
     "It increases the users strength pathetically.",
     "It increases the users constitution pathetically.",
@@ -7,14 +8,12 @@
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration like a god.",
     "It decreases the users hitpoint regeneration pathetically.",
-    "This item loses its magical powers with average speed.",
     "It decreases the users magical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users cold resistance somewhat.",
     "It gives tiny bonus to the skill 'quick chant'.",
-    "- Extra -",
     "It affects the user's skill knowledge.",
     "It makes the target more susceptable to magic damage.",
     "It modifies the users cold resistance."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "A glossy platinum axe (1h)",
+  "type": "1h axe",
   "data": [
     "It has excellent weapon class for its type (mediocre in general).",
-    "This item loses its magical powers with average speed.",
     "It does psionic damage a tiny bit.",
+    "This item loses its magical powers with average speed.",
     "This is an illithidwrought weapon and as such has a measure of awareness."
-  ],
-  "type": "1h axe"
+  ]
 }

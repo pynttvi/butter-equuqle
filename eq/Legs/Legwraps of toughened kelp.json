@@ -1,14 +1,14 @@
 {
   "name": "Legwraps of toughened kelp",
+  "type": "Legs",
   "data": [
     "It increases the users constitution a good amount.",
     "It has nice armour class for its type (little in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration a bit.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'parry'.",
     "It increases the users acid resistance somewhat.",
+    "It gives small bonus to the skill 'parry'.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Legs"
+  ]
 }

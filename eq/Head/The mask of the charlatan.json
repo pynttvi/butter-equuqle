@@ -1,5 +1,6 @@
 {
   "name": "The mask of the charlatan",
+  "type": "Head",
   "data": [
     "It increases the users dexterity slightly.",
     "It increases the users charisma a good amount.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers somewhat faster than average.",
     "It gives decent bonus to the skill 'bargain'.",
     "It gives decent bonus to the skill 'negotiate'."
-  ],
-  "type": "Head"
+  ]
 }

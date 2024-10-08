@@ -1,5 +1,6 @@
 {
   "name": "Tooth Pendant",
+  "type": "Amulet",
   "data": [
     "It increases the users constitution poorly.",
     "It increases the users wisdom pathetically.",
@@ -7,6 +8,5 @@
     "It has low armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Amulet"
+  ]
 }

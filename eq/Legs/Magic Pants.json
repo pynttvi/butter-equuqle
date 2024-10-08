@@ -1,5 +1,6 @@
 {
   "name": "Magic Pants",
+  "type": "Legs",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration noticably.",
     "It increases the users hitpoint regeneration somewhat.",
     "This item loses its magical powers very fast."
-  ],
-  "type": "Legs"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Sword of Enfall (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance like a god.",
     "It has magnificent weapon class for its type (good in general).",
-    "This item loses its magical powers with average speed.",
-    "It does electric damage somewhat."
-  ],
-  "type": "1h sword"
+    "It does electric damage somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

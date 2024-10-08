@@ -1,5 +1,6 @@
 {
   "name": "Crown of the Elves",
+  "type": "Head",
   "data": [
     "It decreases the users dexterity a bit.",
     "It increases the users constitution pitifully.",
@@ -7,6 +8,5 @@
     "It has low armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration an average amount.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

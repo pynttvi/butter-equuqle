@@ -1,5 +1,6 @@
 {
   "name": "The leather sandals of Lucifer",
+  "type": "Feet",
   "data": [
     "It decreases the users constitution pathetically.",
     "It decreases the users wisdom adequately.",
@@ -7,8 +8,7 @@
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It decreases the users hitpoint regeneration pathetically.",
-    "It gives decent bonus to the skill 'offensive efficiency'.",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Feet"
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'offensive efficiency'."
+  ]
 }

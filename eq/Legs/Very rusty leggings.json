@@ -1,5 +1,6 @@
 {
   "name": "Very rusty leggings",
+  "type": "Legs",
   "data": [
     "It increases the users strength a good amount.",
     "It increases the users dexterity unnoticably.",
@@ -10,6 +11,5 @@
     "It decreases the users spellpoint regeneration a bit.",
     "It decreases the users hitpoint regeneration a bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

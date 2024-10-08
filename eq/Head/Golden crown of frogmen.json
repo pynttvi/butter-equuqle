@@ -1,10 +1,10 @@
 {
   "name": "Golden crown of frogmen",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution poorly.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

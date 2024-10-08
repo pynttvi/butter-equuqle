@@ -1,11 +1,11 @@
 {
   "name": "The coiling axe of deception (2h)",
+  "type": "2h axe",
   "data": [
     "It decreases hit chance pitifully.",
     "It has great weapon class for its type (nice in general).",
+    "It does magical damage a good amount.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does magical damage a good amount."
-  ],
-  "type": "2h axe"
+    "It increases damage poorly."
+  ]
 }

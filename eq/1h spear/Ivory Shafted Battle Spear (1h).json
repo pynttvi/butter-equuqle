@@ -1,9 +1,9 @@
 {
   "name": "Ivory Shafted Battle Spear (1h)",
+  "type": "1h spear",
   "data": [
     "It has ILLEGAL weapon class for its type (average in general).",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'strike'."
-  ],
-  "type": "1h spear"
+    "It gives small bonus to the skill 'strike'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

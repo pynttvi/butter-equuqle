@@ -1,5 +1,6 @@
 {
   "name": "A mask of the witch goddess, Rangda",
+  "type": "Head",
   "data": [
     "It increases the users wisdom a tiny bit.",
     "It increases the users intelligence a tiny bit.",
@@ -9,6 +10,5 @@
     "It gives small bonus to the skill 'nerve mastery'.",
     "The mask strikes terror in the hearts of onlookers, making them",
     "more susceptible to psionic forces."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Belt of Eternal Sands",
+  "type": "Belt",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution adequately.",
+    "It has awesome armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users asphyxiation resistance somewhat."
+  ]
+}

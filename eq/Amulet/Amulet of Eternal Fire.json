@@ -1,18 +1,15 @@
 {
   "name": "Amulet of Eternal Fire",
+  "type": "Amulet",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
     "It increases the users constitution a bit.",
     "It decreases the users wisdom poorly.",
     "It has poor armour class for its type (pathetic in general).",
-    "It decreases the users hitpoint regeneration pathetically.",
-    "It increases the users fire resistance somewhat.",
     "It increases the users spellpoint regeneration pitifully.",
+    "It decreases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers slowly.",
-    "increases the users hitpoint regeneration a tiny bit.",
-    "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers very slowly."
-  ],
-  "type": "Amulet"
+    "It increases the users fire resistance somewhat."
+  ]
 }

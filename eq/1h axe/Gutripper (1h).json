@@ -1,11 +1,11 @@
 {
   "name": "Gutripper (1h)",
+  "type": "1h axe",
   "data": [
     "It increases hit chance adequately.",
     "It has magnificent weapon class for its type (adequate in general).",
+    "It does asphyxiation damage tremendously.",
     "This item loses its magical powers slowly.",
-    "It increases damage adequately.",
-    "It does asphyxiation damage tremendously."
-  ],
-  "type": "1h axe"
+    "It increases damage adequately."
+  ]
 }

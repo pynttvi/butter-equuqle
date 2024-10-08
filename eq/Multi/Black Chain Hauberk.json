@@ -1,9 +1,9 @@
 {
   "name": "Black Chain Hauberk",
+  "type": "Multi",
   "data": [
     "It increases the users constitution pitifully.",
     "It has average armour class for its type (adequate in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Multi"
+  ]
 }

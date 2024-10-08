@@ -1,11 +1,11 @@
 {
   "name": "The Dragons Teeth (2h)",
+  "type": "2h ancient",
   "data": [
     "It decreases hit chance poorly.",
     "It has superb weapon class for its type (impressive in general).",
+    "It does acid damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does acid damage somewhat."
-  ],
-  "type": "2h ancient"
+    "It increases damage adequately."
+  ]
 }

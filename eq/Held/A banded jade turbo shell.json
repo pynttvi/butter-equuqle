@@ -1,16 +1,16 @@
 {
   "name": "A banded jade turbo shell",
+  "type": "Held",
   "data": [
     "It increases the users constitution nicely.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users electric resistance somewhat.",
     "This item loses its magical powers somewhat faster than avarage.",
-    "It gives nice bonus to the skill 'parry'.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance a bit.",
+    "It gives nice bonus to the skill 'parry'.",
     "It increases the users fire resistance a bit.",
+    "It increases the users cold resistance a bit.",
     "It increases the users asphyxiation resistance somewhat.",
     "It gives nice bonus to the skill 'ignore pain'."
-  ],
-  "type": "Held"
+  ]
 }

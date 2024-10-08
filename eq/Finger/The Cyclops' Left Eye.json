@@ -1,5 +1,6 @@
 {
   "name": "The Cyclops' Left Eye",
+  "type": "Finger",
   "data": [
     "It increases the users strength a good amount.",
     "It increases the users constitution somewhat.",
@@ -7,8 +8,7 @@
     "It has excellent armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration somewhat.",
     "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers incredibly slowly.",
-    "It decreases the users psionic resistance somewhat."
-  ],
-  "type": "Finger"
+    "It decreases the users psionic resistance somewhat.",
+    "This item loses its magical powers incredibly slowly."
+  ]
 }

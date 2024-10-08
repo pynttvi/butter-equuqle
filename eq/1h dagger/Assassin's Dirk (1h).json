@@ -1,11 +1,11 @@
 {
   "name": "Assassin's Dirk (1h)",
+  "type": "1h dagger",
   "data": [
     "It decreases hit chance a tiny bit.",
     "It has awesome weapon class for its type (low in general).",
+    "It does cold damage superbly.",
     "This item loses its magical powers very fast.",
-    "It increases damage adequately.",
-    "It does cold damage superbly."
-  ],
-  "type": "1h dagger"
+    "It increases damage adequately."
+  ]
 }

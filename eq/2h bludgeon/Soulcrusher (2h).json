@@ -1,11 +1,11 @@
 {
   "name": "Soulcrusher (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It increases hit chance adequately.",
     "It has magnificent weapon class for its type (magnificent in general).",
+    "It does psionic damage like a god.",
     "This item loses its magical powers with average speed.",
-    "It increases damage incredibly.",
-    "It does psionic damage like a god."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage incredibly."
+  ]
 }

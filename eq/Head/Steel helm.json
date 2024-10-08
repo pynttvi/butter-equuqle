@@ -1,10 +1,10 @@
 {
   "name": "Steel helm",
+  "type": "Head",
   "data": [
     "It increases the users strength pathetically.",
     "It increases the users dexterity unnoticably.",
     "It has little armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

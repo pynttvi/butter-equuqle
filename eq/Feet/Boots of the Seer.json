@@ -1,5 +1,6 @@
 {
   "name": "Boots of the Seer",
+  "type": "Feet",
   "data": [
     "It decreases the users dexterity unnoticably.",
     "It increases the users wisdom unnoticably.",
@@ -7,6 +8,5 @@
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Feet"
+  ]
 }

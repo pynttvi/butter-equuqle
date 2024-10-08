@@ -1,14 +1,14 @@
 {
   "name": "A silver headband",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity adequately.",
     "It increases the users constitution poorly.",
     "It has weak armour class for its type (pathetic in general).",
+    "It gives tiny bonus to the skill 'spot weakness'.",
     "This item loses its magical powers very fast.",
     "It gives tiny bonus to the skill 'slash'.",
-    "It gives tiny bonus to the skill 'spot weakness'.",
     "It emits light."
-  ],
-  "type": "Head"
+  ]
 }

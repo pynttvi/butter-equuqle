@@ -1,18 +1,17 @@
 {
   "name": "Faded Red Bandana",
+  "type": "Amulet",
   "data": [
     "It increases the users dexterity a tiny bit.",
     "It increases the users constitution adequately.",
     "It has excellent armour class for its type (little in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'attack'.",
+    "This item loses its magical powers with average speed.",
     "It decreases the users fire resistance strongly.",
     "It gives small bonus to the skill 'ignore pain'.",
-    "- Extra -",
     "Affects the user's attack skill.",
     "Affects the user's ignore pain skill.",
     "Affects the user's fire resistance."
-  ],
-  "type": "Amulet"
+  ]
 }

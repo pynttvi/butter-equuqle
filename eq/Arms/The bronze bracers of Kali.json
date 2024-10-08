@@ -1,5 +1,6 @@
 {
   "name": "The bronze bracers of Kali",
+  "type": "Arms",
   "data": [
     "It increases the users dexterity poorly.",
     "It increases the users constitution pitifully.",
@@ -7,6 +8,5 @@
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

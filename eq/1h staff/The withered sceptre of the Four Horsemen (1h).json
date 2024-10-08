@@ -1,17 +1,17 @@
 {
   "name": "The withered sceptre of the Four Horsemen (1h)",
+  "type": "1h staff",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (low in general).",
     "It increases the users intelligence phenomenally.",
-    "It increases the users hitpoint regeneration poorly.",
     "It increases the users spellpoint regeneration adequately.",
+    "It increases the users hitpoint regeneration poorly.",
+    "It does asphyxiation damage immensely.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage somewhat.",
-    "It does asphyxiation damage immensely.",
     "The sceptre can 'deploy' a headless horseman to do the wielder's bidding.",
     "The sceptre shrivels the wielder's adversaries with withering rays.",
     "The weapon does more non-physical damage than expected."
-  ],
-  "type": "1h staff"
+  ]
 }

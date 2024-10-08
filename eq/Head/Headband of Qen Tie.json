@@ -1,5 +1,6 @@
 {
   "name": "Headband of Qen Tie",
+  "type": "Head",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
@@ -9,6 +10,5 @@
     "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'focus kungfu attacks'.",
     "It modifies users skills."
-  ],
-  "type": "Head"
+  ]
 }

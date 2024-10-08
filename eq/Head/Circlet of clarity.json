@@ -1,5 +1,6 @@
 {
   "name": "Circlet of clarity",
+  "type": "Head",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom a bit.",
@@ -7,6 +8,5 @@
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers somewhat faster than average."
-  ],
-  "type": "Head"
+  ]
 }

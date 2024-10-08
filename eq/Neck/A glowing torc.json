@@ -1,0 +1,15 @@
+{
+  "name": "A glowing torc",
+  "type": "Neck",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution adequately.",
+    "It decreases the users wisdom adequately.",
+    "It increases the users intelligence poorly.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers very slowly."
+  ]
+}

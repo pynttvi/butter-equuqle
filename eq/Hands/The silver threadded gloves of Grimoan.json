@@ -1,5 +1,6 @@
 {
   "name": "The silver threadded gloves of Grimoan",
+  "type": "Hands",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity a bit.",
@@ -9,8 +10,6 @@
     "It decreases the users spellpoint regeneration pathetically.",
     "It increases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers extremely fast.",
-    "- Extra -",
     "In the heat of battle, the alloy which forms the threads within these gloves reacts violently with the friction of the fight. The newborn lightning created thusly must find its way to the ground via a path formed of metals, or it will painfully find its way through a path formed of you."
-  ],
-  "type": "Hands"
+  ]
 }

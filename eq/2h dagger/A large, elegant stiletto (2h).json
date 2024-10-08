@@ -1,8 +1,8 @@
 {
   "name": "A large, elegant stiletto (2h)",
+  "type": "2h dagger",
   "data": [
     "It has great weapon class for its type (mediocre in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h dagger"
+  ]
 }

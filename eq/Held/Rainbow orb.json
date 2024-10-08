@@ -1,12 +1,15 @@
 {
   "name": "Rainbow orb",
+  "type": "Held",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity a good amount.",
     "It increases the users constitution incredibly.",
     "It increases the users wisdom adequately.",
     "It increases the users intelligence strongly.",
-    "It has weak armour class for its"
-  ],
-  "type": "Held"
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration a bit.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers a bit faster than avarage."
+  ]
 }

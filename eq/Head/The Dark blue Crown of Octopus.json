@@ -1,5 +1,6 @@
 {
   "name": "The Dark blue Crown of Octopus",
+  "type": "Head",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
@@ -8,10 +9,8 @@
     "It decreases the users intelligence poorly.",
     "It has weak armour class for its type (pathetic in general).",
     "It decreases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers very fast.",
     "It increases the users poison resistance somewhat.",
-    "It increases the users asphyxiation resistance somewhat.",
-    "(Not in battle) (Extremely evil)|"
-  ],
-  "type": "Head"
+    "This item loses its magical powers very fast.",
+    "It increases the users asphyxiation resistance somewhat."
+  ]
 }

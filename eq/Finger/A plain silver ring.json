@@ -1,14 +1,14 @@
 {
   "name": "A plain silver ring",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom somewhat.",
     "It increases the users intelligence somewhat.",
     "It has excellent armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers a bit slower than average.",
     "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers a bit slower than average.",
     "It gives small bonus to the skill 'quick chant'.",
     "The ring reacts to the spoken word of the wearer."
-  ],
-  "type": "Finger"
+  ]
 }

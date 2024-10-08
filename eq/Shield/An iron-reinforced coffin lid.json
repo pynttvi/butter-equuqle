@@ -1,16 +1,16 @@
 {
   "name": "An iron-reinforced coffin lid",
+  "type": "Shield",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users constitution a good amount.",
     "It has average armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "It increases the users electric resistance somewhat.",
-    "This item loses its magical powers extremely slowly.",
     "It increases the users magical resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
-  ],
-  "type": "Shield"
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

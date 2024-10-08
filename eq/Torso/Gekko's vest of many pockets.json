@@ -1,5 +1,6 @@
 {
   "name": "Gekko's vest of many pockets",
+  "type": "Torso",
   "data": [
     "It increases the users dexterity somewhat.",
     "It increases the users constitution a tiny bit.",
@@ -7,6 +8,5 @@
     "It increases the users hitpoint regeneration somewhat.",
     "It increases the users poison resistance somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

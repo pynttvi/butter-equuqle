@@ -1,5 +1,6 @@
 {
   "name": "An exquisite platinum ring with sapphires",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom somewhat.",
     "It increases the users intelligence somewhat.",
@@ -10,6 +11,5 @@
     "It gives small bonus to the skill 'adaption of balance'.",
     "It gives small bonus to the skill 'adaption of order'.",
     "It increases the users cold resistance somewhat."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "A massive black mask",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It has little armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

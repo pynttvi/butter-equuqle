@@ -1,5 +1,6 @@
 {
   "name": "Demonscale Leggings",
+  "type": "Legs",
   "data": [
     "It increases the users strength an average amount.",
     "It increases the users dexterity somewhat.",
@@ -8,8 +9,7 @@
     "It decreases the users intelligence slightly.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users hitpoint regeneration somewhat.",
-    "This item loses its magical powers somewhat faster than average.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Legs"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers somewhat faster than average."
+  ]
 }

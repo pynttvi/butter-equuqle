@@ -1,5 +1,6 @@
 {
   "name": "Gimdori's Glorious Crowbar (2h)",
+  "type": "2h ancient",
   "data": [
     "It increases hit chance impressively.",
     "It has magnificent weapon class for its type (awesome in general).",
@@ -10,17 +11,17 @@
     "It increases the users intelligence a bit.",
     "It increases the users charisma a bit.",
     "It increases the users hitpoints unbelievably much.",
-    "It increases the users hitpoint regeneration adequately.",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers incredibly slowly.",
-    "It gives great bonus to the skill 'battle tactics'.",
-    "It increases the users shadow resistance adequately.",
+    "It increases the users hitpoint regeneration adequately.",
     "It increases the users magical resistance adequately.",
-    "It increases the users electric resistance adequately.",
-    "It increases damage impressively.",
     "It gives great bonus to the skill 'brawl'.",
-    "It gives great bonus to the skill 'offensive efficiency'.",
     "It does acid damage monumentally.",
+    "It increases the users electric resistance adequately.",
+    "It gives great bonus to the skill 'battle tactics'.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users shadow resistance adequately.",
+    "It gives great bonus to the skill 'offensive efficiency'.",
+    "It increases damage impressively.",
     "It gives great bonus to the skill 'leadership'.",
     "While wielded, this mythical weapon is a proverbial banner, rallying the",
     "troops with its glorious visage, shimmering across the battlefield. Not",
@@ -32,8 +33,6 @@
     "more fitting on some parade rather than in battle. Then again, this is the",
     "Glorious Crowbar.",
     "It should also be noted that it would be ridiculously easy to open a manhole",
-    "with this particular crowbar since it is, after all, THE Crowbar.",
-    "|"
-  ],
-  "type": "2h ancient"
+    "with this particular crowbar since it is, after all, THE Crowbar."
+  ]
 }

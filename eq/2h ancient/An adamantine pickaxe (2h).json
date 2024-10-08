@@ -1,18 +1,18 @@
 {
   "name": "An adamantine pickaxe (2h)",
+  "type": "2h ancient",
   "data": [
     "It increases hit chance poorly.",
     "It has awesome weapon class for its type (tremendous in general).",
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
-    "This item loses its magical powers incredibly slowly.",
-    "It gives great bonus to the skill 'spot weakness'.",
     "It gives great bonus to the skill 'ferocious swing'.",
-    "It increases damage impressively.",
     "It gives great bonus to the skill 'brawl'.",
-    "It gives great bonus to the skill 'dirty blow'.",
     "It does acid damage monumentally.",
+    "It gives great bonus to the skill 'spot weakness'.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases damage impressively.",
+    "It gives great bonus to the skill 'dirty blow'.",
     "The pickaxe is a favored weapon of elite brawlers."
-  ],
-  "type": "2h ancient"
+  ]
 }

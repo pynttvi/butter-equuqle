@@ -1,5 +1,6 @@
 {
   "name": "An amulet made entirely out of emeralds",
+  "type": "Amulet",
   "data": [
     "It decreases the users constitution poorly.",
     "It increases the users wisdom slightly.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration superbly.",
     "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Amulet"
+  ]
 }

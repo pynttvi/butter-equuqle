@@ -1,5 +1,6 @@
 {
   "name": "An ice encased mithril ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users constitution somewhat.",
@@ -9,8 +10,6 @@
     "It increases the users hitpoint regeneration an average amount.",
     "This item loses its magical powers very slowly.",
     "It increases the users cold resistance strongly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Polished metal shield [Gleaming]",
+  "type": "Shield",
   "data": [
     "It increases the users strength unnoticably.",
     "It increases the users constitution unnoticably.",
     "It has adequate armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance strongly."
-  ],
-  "type": "Shield"
+    "It increases the users physical resistance strongly.",
+    "This item loses its magical powers with average speed."
+  ]
 }

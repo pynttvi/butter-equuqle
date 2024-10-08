@@ -1,5 +1,6 @@
 {
   "name": "A small dark grey band",
+  "type": "Finger",
   "data": [
     "It increases the users strength unnoticably.",
     "It increases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It increases the users hitpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'doublehit'."
-  ],
-  "type": "Finger"
+  ]
 }

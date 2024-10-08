@@ -1,5 +1,6 @@
 {
   "name": "Blood red eye of the Widow Spider",
+  "type": "Held",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

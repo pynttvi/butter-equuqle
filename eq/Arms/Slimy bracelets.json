@@ -1,9 +1,9 @@
 {
   "name": "Slimy bracelets",
+  "type": "Arms",
   "data": [
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,18 +1,15 @@
 {
   "name": "The legendary Tri-Blade known as 'Heartseeker' (1h)",
+  "type": "1h sword",
   "data": [
-    "It has magnificent weapon class for its type (nice in general).",
+    "It has magnificent weapon class for its type (nice in",
+    "general).",
     "It decreases the users strength pathetically.",
-    "It increases the users dexterity pathetically.",
+    "It increases the users dexterity a tiny bit.",
     "It increases the users constitution somewhat.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "It does magical damage adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases damage pitifully.",
-    "It does magical damage a bit.",
-    "- Extra -",
-    "This weapon will increase the users constitution",
-    "This weapon will increase the ability to hit",
-    "This weapon does more damage than usual",
-    "This weapon will increase the users power."
-  ],
-  "type": "1h sword"
+    "It increases damage a tiny bit."
+  ]
 }

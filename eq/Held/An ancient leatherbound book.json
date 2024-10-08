@@ -1,5 +1,15 @@
 {
   "name": "An ancient leatherbound book",
-  "data": [],
-  "type": "Held"
+  "type": "Held",
+  "data": [
+    "It decreases the users constitution adequately.",
+    "It increases the users intelligence adequately.",
+    "It increases the users spellpoints poorly.",
+    "It has tiny armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It decreases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed.",
+    "One who is properly educated can sometimes enhance his abilities",
+    "greatly by reading the ciphers of this book."
+  ]
 }

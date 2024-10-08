@@ -1,11 +1,11 @@
 {
   "name": "Patchwork pants",
+  "type": "Legs",
   "data": [
     "It increases the users dexterity somewhat.",
     "It has little armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

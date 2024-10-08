@@ -1,17 +1,17 @@
 {
   "name": "The bloodstone ring of punishment",
+  "type": "Finger",
   "data": [
     "It increases the users constitution a bit.",
-    "It has excellent armour class for its type (pathetic in general).",
     "It increases the users hitpoints pitifully.",
-    "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users psionic resistance a bit.",
+    "It has excellent armour class for its type (pathetic in general).",
     "It gives decent bonus to the skill 'system shock'.",
-    "It increases the users cold resistance a bit.",
+    "It increases the users physical resistance somewhat.",
+    "It increases the users psionic resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It increases the users fire resistance a bit.",
-    "It gives decent bonus to the skill 'ignore pain'.",
-    "It increases the users asphyxiation resistance a bit."
-  ],
-  "type": "Finger"
+    "It increases the users cold resistance a bit.",
+    "It increases the users asphyxiation resistance a bit.",
+    "It gives decent bonus to the skill 'ignore pain'."
+  ]
 }

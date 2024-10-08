@@ -1,19 +1,19 @@
 {
   "name": "A string of desiccated eyeballs",
+  "type": "Neck",
   "data": [
     "It increases the users wisdom impressively.",
     "It increases the users intelligence adequately.",
     "It decreases the users charisma unbelievably much.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration impressively.",
-    "This item loses its magical powers incredibly slowly.",
-    "It gives decent bonus to the spell 'mental glance'.",
     "It increases the users poison resistance somewhat.",
-    "It increases the users shadow resistance somewhat.",
+    "It gives decent bonus to the spell 'mental glance'.",
+    "This item loses its magical powers incredibly slowly.",
     "It increases the users acid resistance somewhat.",
-    "It gives decent bonus to the spell 'sever link'.",
+    "It increases the users shadow resistance somewhat.",
+    "It gives decent bonus to the spell 'mind link'.",
     "It increases the users asphyxiation resistance somewhat.",
-    "It gives decent bonus to the spell 'mind link'."
-  ],
-  "type": "Neck"
+    "It gives decent bonus to the spell 'sever link'."
+  ]
 }

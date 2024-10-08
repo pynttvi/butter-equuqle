@@ -1,11 +1,11 @@
 {
   "name": "Burnt armplates of Hell",
+  "type": "Arms",
   "data": [
     "It increases the users strength noticably.",
     "It increases the users dexterity slightly.",
     "It has adequate armour class for its type (tiny in general).",
     "It increases the users hitpoint regeneration slightly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

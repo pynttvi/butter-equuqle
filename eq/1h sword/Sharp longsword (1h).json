@@ -1,10 +1,10 @@
 {
   "name": "Sharp longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance unnoticably.",
     "It has average weapon class for its type (weak in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage pathetically."
-  ],
-  "type": "1h sword"
+  ]
 }

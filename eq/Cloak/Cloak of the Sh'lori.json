@@ -1,5 +1,6 @@
 {
   "name": "Cloak of the Sh'lori",
+  "type": "Cloak",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users constitution pitifully.",
@@ -8,9 +9,8 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It decreases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'sense weakness'.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'death wish'."
-  ],
-  "type": "Cloak"
+  ]
 }

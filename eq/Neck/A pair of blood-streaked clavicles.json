@@ -1,5 +1,6 @@
 {
   "name": "A pair of blood-streaked clavicles",
+  "type": "Neck",
   "data": [
     "It decreases the users strength adequately.",
     "It increases the users dexterity adequately.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers extremely fast."
-  ],
-  "type": "Neck"
+  ]
 }

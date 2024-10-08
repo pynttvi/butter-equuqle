@@ -1,10 +1,10 @@
 {
   "name": "A blue belt",
+  "type": "Belt",
   "data": [
     "It has little armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance a bit.",
     "It modifies the user's resistance to cold damage."
-  ],
-  "type": "Belt"
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "Gauntlets of the Titans",
+  "type": "Hands",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity poorly.",
     "It increases the users constitution poorly.",
     "It has awesome armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users poison resistance somewhat."
-  ],
-  "type": "Hands"
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

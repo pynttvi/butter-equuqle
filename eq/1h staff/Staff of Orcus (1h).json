@@ -1,13 +1,14 @@
 {
   "name": "Staff of Orcus (1h)",
+  "type": "1h staff",
   "data": [
     "It increases hit chance somewhat.",
     "It has magnificent weapon class for its type (low in general).",
     "It increases the users intelligence adequately.",
+    "It does asphyxiation damage somewhat.",
     "This item loses its magical powers with average speed.",
     "It increases damage somewhat.",
-    "It does asphyxiation damage somewhat.",
-    "It increases the users asphyxiation resistance strongly."
-  ],
-  "type": "1h staff"
+    "It increases the users asphyxiation resistance strongly.",
+    "08.10.2024 15:03"
+  ]
 }

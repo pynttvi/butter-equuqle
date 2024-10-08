@@ -1,5 +1,6 @@
 {
   "name": "A crystalline memory retainer",
+  "type": "Multi",
   "data": [
     "It decreases the users dexterity adequately.",
     "It increases the users constitution a good amount.",
@@ -8,12 +9,10 @@
     "It increases the users hitpoints somewhat.",
     "It has feeble armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration impossibly much.",
+    "It increases the users psionic resistance tremendously.",
     "This item loses its magical powers slowly.",
     "It gives great bonus to the spell 'restore memory'.",
     "It gives great penalty to the skill 'dodge'.",
-    "It increases the users psionic resistance tremendously.",
-    "- Extra -",
     "It prevents the exfiltration of memories from the mind."
-  ],
-  "type": "Multi"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "An ancient breastplate",
+  "type": "Torso",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users constitution a tiny bit.",
     "It has magnificent armour class for its type (excellent in general).",
     "It increases the users hitpoint regeneration slightly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

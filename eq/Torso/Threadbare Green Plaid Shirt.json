@@ -1,11 +1,15 @@
 {
   "name": "Threadbare Green Plaid Shirt",
+  "type": "Torso",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
     "It increases the users constitution somewhat.",
     "It decreases the users wisdom adequately.",
-    "It decreases"
-  ],
-  "type": "Torso"
+    "It decreases the users intelligence noticably.",
+    "It has great armour class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'dodge'.",
+    "It decreases the users fire resistance unearthly."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The composite bow, 'Rising Sun' (2h)",
+  "type": "2h bow",
   "data": [
     "It has awesome weapon class for its type (almost non-existent in general).",
     "This item loses its magical powers extremely slowly.",
@@ -8,6 +9,5 @@
     "will work in the darkness, it is more powerful if fired in direct sunlight.",
     "Due to the nature of its arrows, it is more lethal against the undead and those",
     "allergic to sunlight."
-  ],
-  "type": "2h bow"
+  ]
 }

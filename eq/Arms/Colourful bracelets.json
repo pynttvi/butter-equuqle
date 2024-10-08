@@ -1,11 +1,11 @@
 {
   "name": "Colourful bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers a bit slower than avarage."
-  ],
-  "type": "Arms"
+  ]
 }

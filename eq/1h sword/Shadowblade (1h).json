@@ -1,11 +1,12 @@
 {
   "name": "Shadowblade (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance tremendously.",
     "It has awesome weapon class for its type (good in general).",
+    "It does asphyxiation damage impossibly much.",
     "This item loses its magical powers with average speed.",
     "It increases damage pitifully.",
-    "It does asphyxiation damage impossibly much."
-  ],
-  "type": "1h sword"
+    "08.10.2024 15:04"
+  ]
 }

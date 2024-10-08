@@ -1,12 +1,11 @@
 {
   "name": "A large gold coin",
+  "type": "Held",
   "data": [
     "It increases the users charisma unbelievably much.",
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers incredibly slowly.",
-    "- Extra -",
     "There is a definite aura of powerful magic around this coin but whatever its",
     "purpose might be, you cannot divine."
-  ],
-  "type": "Held"
+  ]
 }

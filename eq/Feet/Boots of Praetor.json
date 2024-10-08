@@ -1,11 +1,11 @@
 {
   "name": "Boots of Praetor",
+  "type": "Feet",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence a tiny bit.",
     "It has low armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Feet"
+  ]
 }

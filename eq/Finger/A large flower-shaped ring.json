@@ -1,13 +1,13 @@
 {
   "name": "A large flower-shaped ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users constitution pitifully.",
     "It increases the users intelligence slightly.",
     "It has magnificent armour class for its type (pathetic in general).",
-    "It decreases the users hitpoint regeneration poorly.",
     "It increases the users spellpoint regeneration poorly.",
+    "It decreases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

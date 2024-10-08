@@ -1,12 +1,11 @@
 {
   "name": "Remov",
+  "type": "Legs",
   "data": [
     "It increases the users intelligence impressively.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration impressively.",
     "This item loses its magical powers somewhat slower than average.",
-    "- Extra -",
     "The leggings may occasionally mimic the wearer's actions."
-  ],
-  "type": "Legs"
+  ]
 }

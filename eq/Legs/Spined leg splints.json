@@ -1,10 +1,10 @@
 {
   "name": "Spined leg splints",
+  "type": "Legs",
   "data": [
     "It increases the users dexterity adequately.",
     "It has nice armour class for its type (little in general).",
     "It increases the users electric resistance adequately.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

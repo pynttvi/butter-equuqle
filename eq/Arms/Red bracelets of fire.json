@@ -1,16 +1,15 @@
 {
   "name": "Red bracelets of fire",
+  "type": "Arms",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users constitution a tiny bit.",
     "It increases the users intelligence adequately.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'fire preference'.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "A mystical voice fills your mind 'Question us and thou shall get an",
     "answer from us, the spirits inside these bracelets.'"
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Mace of Misfortune < Cursed > (2h)",
+  "type": "2h bludgeon",
+  "data": [
+    "It has average weapon class for its type (average in general).",
+    "It increases the users strength impressively.",
+    "It decreases the users dexterity impressively.",
+    "It increases the users constitution impressively.",
+    "It increases the users wisdom impressively.",
+    "It decreases the users intelligence impressively.",
+    "This item loses its magical powers with average speed."
+  ]
+}

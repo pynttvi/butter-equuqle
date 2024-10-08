@@ -1,16 +1,16 @@
 {
   "name": "An umbral veil",
+  "type": "Head",
   "data": [
     "It increases the users dexterity slightly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration somewhat.",
-    "It gives decent bonus to the skill 'dodge'.",
+    "It increases the users psionic resistance adequately.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'hiding'.",
-    "It increases the users psionic resistance adequately.",
+    "It gives decent bonus to the skill 'dodge'.",
     "It increases the users cold resistance adequately.",
     "The thin tissue of shadow makes it possible to view objects that",
     "might otherwise blind the wearer."
-  ],
-  "type": "Head"
+  ]
 }

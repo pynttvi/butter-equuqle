@@ -1,5 +1,6 @@
 {
   "name": "The Black Belt of Ffor",
+  "type": "Belt",
   "data": [
     "It increases the users strength pathetically.",
     "It decreases the users wisdom pathetically.",
@@ -8,6 +9,5 @@
     "It increases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Belt"
+  ]
 }

@@ -1,10 +1,12 @@
 {
   "name": "An old human skull",
+  "type": "Held",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users intelligence like a god.",
     "It has pathetic armour class for its type (almost non-existent in general).",
-    "It increases the"
-  ],
-  "type": "Held"
+    "It increases the users spellpoint regeneration nicely.",
+    "It gives decent bonus to the spell 'unholy power'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

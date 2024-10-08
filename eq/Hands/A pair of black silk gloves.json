@@ -1,13 +1,13 @@
 {
   "name": "A pair of black silk gloves",
+  "type": "Hands",
   "data": [
     "It increases the users strength unnoticably.",
     "It increases the users dexterity unnoticably.",
     "It increases the users constitution unnoticably.",
     "It has non-existent armour class for its type (non-existent in general).",
-    "It increases the users hitpoint regeneration pathetically.",
     "It increases the users spellpoint regeneration a tiny bit.",
+    "It increases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Hands"
+  ]
 }

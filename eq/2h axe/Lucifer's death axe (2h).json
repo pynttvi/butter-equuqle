@@ -1,11 +1,11 @@
 {
   "name": "Lucifer's death axe (2h)",
+  "type": "2h axe",
   "data": [
     "It increases hit chance noticably.",
     "It has awesome weapon class for its type (tremendous in general).",
+    "It does asphyxiation damage adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases damage tremendously.",
-    "It does asphyxiation damage adequately."
-  ],
-  "type": "2h axe"
+    "It increases damage tremendously."
+  ]
 }

@@ -1,29 +1,26 @@
 {
   "name": "The Fell Prism",
+  "type": "Held",
   "data": [
     "It decreases the users wisdom impressively.",
     "It increases the users intelligence impressively.",
     "It has negative armour class for its type (negative in general).",
     "It increases the users spellpoint regeneration nicely.",
+    "It gives small bonus to the skill 'magical lore'.",
+    "It decreases the users magical resistance somewhat.",
+    "It gives small bonus to the spell 'missile storm'.",
+    "It increases the users psionic resistance somewhat.",
+    "It gives small bonus to the skill 'magical transformation'.",
+    "It gives small bonus to the skill 'chaos theory'.",
     "It gives small bonus to the skill 'alternate magics'.",
     "This item loses its magical powers incredibly slowly.",
-    "It increases the users psionic resistance somewhat.",
-    "It gives small bonus to the skill 'chaos theory'.",
-    "It gives small bonus to the spell 'missile storm'.",
-    "It gives small bonus to the skill 'magical lore'.",
-    "It gives small bonus to the skill 'magical transformation'.",
     "It gives small bonus to the skill 'adaption of chaos'.",
-    "It decreases the users magical resistance somewhat.",
     "It gives small bonus to the skill 'invocation'.",
-    "",
-    "- Extra -",
     "This is a sinister artifact crafted from the eye of a sorcerer, dug out while",
-    "--More-- (71%)",
     "they were alive and conscious, enchanted with profane rituals.",
     "The foul magics permeating this artifact not only bestow immense power to any",
     "sorcerer holding it but will greatly enhance and alter the spell missile storm",
     "by dividing the energy of the missiles, increasing their number while slightly",
     "reducing the power of individual missiles."
-  ],
-  "type": "Held"
+  ]
 }

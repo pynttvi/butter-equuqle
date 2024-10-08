@@ -1,16 +1,14 @@
 {
   "name": "The boots of immeasurable heat",
+  "type": "Feet",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
     "It decreases the users wisdom poorly.",
     "It has average armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "It contains a tale:",
     "These boots will help you through hard times when all is lost. Just",
     "Knock your heels together."
-  ],
-  "type": "Feet"
+  ]
 }

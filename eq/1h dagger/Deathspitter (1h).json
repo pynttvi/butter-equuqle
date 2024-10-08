@@ -1,12 +1,11 @@
 {
   "name": "Deathspitter (1h)",
+  "type": "1h dagger",
   "data": [
     "It decreases hit chance pathetically.",
     "It has nice weapon class for its type (feeble in general).",
-    "This item loses its magical powers with average speed.",
     "It does poison damage a bit.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "This weapon drips with corrossive venom."
-  ],
-  "type": "1h dagger"
+  ]
 }

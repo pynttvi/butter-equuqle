@@ -1,10 +1,10 @@
 {
   "name": "Mixed necklace of the gremlin lord",
+  "type": "Neck",
   "data": [
     "It increases the users constitution poorly.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
-    "This item"
-  ],
-  "type": "Neck"
+    "This item loses its magical powers with average speed."
+  ]
 }

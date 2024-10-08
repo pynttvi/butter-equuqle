@@ -1,11 +1,11 @@
 {
   "name": "A massive rune-etched lochaber axe (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance unnoticably.",
     "It has excellent weapon class for its type (nice in general).",
+    "It does magical damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does magical damage a tiny bit."
-  ],
-  "type": "2h polearm"
+    "It increases damage adequately."
+  ]
 }

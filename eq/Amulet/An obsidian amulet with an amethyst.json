@@ -1,13 +1,13 @@
 {
   "name": "An obsidian amulet with an amethyst",
+  "type": "Amulet",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has low armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration impressively.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users magical resistance somewhat.",
-    "It increases the users psionic resistance somewhat."
-  ],
-  "type": "Amulet"
+    "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers incredibly slowly."
+  ]
 }

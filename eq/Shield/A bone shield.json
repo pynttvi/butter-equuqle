@@ -1,11 +1,11 @@
 {
   "name": "A bone shield",
+  "type": "Shield",
   "data": [
     "It increases the users dexterity pathetically.",
     "It increases the users intelligence pathetically.",
     "It has low armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+  ]
 }

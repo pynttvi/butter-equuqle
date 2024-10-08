@@ -1,12 +1,11 @@
 {
   "name": "Translucent belt (anti chastity)",
+  "type": "Belt",
   "data": [
     "It increases the users hitpoints pitifully.",
     "It has low armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "This object effects the users hit points",
     "This object has hidden magical properties."
-  ],
-  "type": "Belt"
+  ]
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Cube of Eternal Ice <cold>",
+  "type": "Held",
+  "data": [
+    "It increases the users strength a tiny bit.",
+    "It increases the users dexterity a tiny bit.",
+    "It increases the users constitution a tiny bit.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ]
+}

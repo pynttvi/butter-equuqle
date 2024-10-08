@@ -1,5 +1,6 @@
 {
   "name": "Hellcat Leather Armour",
+  "type": "Torso",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity adequately.",
@@ -10,6 +11,5 @@
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Torso"
+  ]
 }

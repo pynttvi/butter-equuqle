@@ -1,0 +1,10 @@
+{
+  "name": "An iron longsword (1h)",
+  "type": "1h sword",
+  "data": [
+    "It increases hit chance poorly.",
+    "It has superb weapon class for its type (adequate in general).",
+    "This item loses its magical powers with average speed.",
+    "It increases damage poorly."
+  ]
+}

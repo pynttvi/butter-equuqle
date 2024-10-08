@@ -1,15 +1,15 @@
 {
   "name": "A burnished length of whalebone (2h)",
+  "type": "2h staff",
   "data": [
     "It has nice weapon class for its type (weak in general).",
     "It decreases the users strength poorly.",
     "It increases the users constitution poorly.",
     "It increases the users wisdom superbly.",
     "It increases the users spellpoint regeneration adequately.",
+    "It does magical damage somewhat.",
     "This item loses its magical powers extremely slowly.",
     "It increases the users cold resistance strongly.",
-    "It does magical damage somewhat.",
     "It gives decent bonus to the skill 'water lore'."
-  ],
-  "type": "2h staff"
+  ]
 }

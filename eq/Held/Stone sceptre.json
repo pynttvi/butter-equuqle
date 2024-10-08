@@ -1,10 +1,10 @@
 {
   "name": "Stone sceptre",
+  "type": "Held",
   "data": [
     "It increases the users constitution adequately.",
     "It has average armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

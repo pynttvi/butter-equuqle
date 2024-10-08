@@ -1,5 +1,6 @@
 {
   "name": "An ancient steel ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength a bit.",
     "It decreases the users dexterity poorly.",
@@ -7,12 +8,11 @@
     "It decreases the users wisdom somewhat.",
     "It decreases the users intelligence a tiny bit.",
     "It has magnificent armour class for its type (pathetic in general).",
-    "This item loses its magical powers somewhat slower than average.",
     "It increases the users physical resistance adequately.",
-    "It gives decent bonus to the skill 'berserk'.",
-    "It gives decent bonus to the skill 'rage'.",
     "It decreases the users psionic resistance adequately.",
+    "It gives decent bonus to the skill 'rage'.",
+    "This item loses its magical powers somewhat slower than average.",
+    "It gives decent bonus to the skill 'berserk'.",
     "It gives small bonus to the skill 'ignore pain'."
-  ],
-  "type": "Finger"
+  ]
 }

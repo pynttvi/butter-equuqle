@@ -1,5 +1,6 @@
 {
   "name": "Staff of Might",
+  "type": "Held",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users intelligence pitifully.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

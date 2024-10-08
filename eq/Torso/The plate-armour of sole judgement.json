@@ -1,16 +1,16 @@
 {
   "name": "The plate-armour of sole judgement",
+  "type": "Torso",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has magnificent armour class for its type (excellent in general).",
-    "This item loses its magical powers with average speed.",
     "It increases the users electric resistance somewhat.",
-    "It increases the users fire resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance somewhat.",
+    "It increases the users fire resistance somewhat.",
     "It increases the users cold resistance somewhat.",
-    "It gives small bonus to the spell 'flesh rot'.",
-    "It gives small bonus to the spell 'suffocation'."
-  ],
-  "type": "Torso"
+    "It gives small bonus to the spell 'suffocation'.",
+    "It gives small bonus to the spell 'flesh rot'."
+  ]
 }

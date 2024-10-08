@@ -1,16 +1,15 @@
 {
   "name": "The large femur of a fire giant (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance like a god.",
     "It has magnificent weapon class for its type (magnificent in general).",
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
     "It decreases the users intelligence like a god.",
+    "It does fire damage like a god.",
     "This item loses its magical powers very slowly.",
     "It increases damage like a god.",
-    "It does fire damage like a god.",
-    "- Extra -",
     "This femur is a holy artifact of the Goddess Kirvana."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

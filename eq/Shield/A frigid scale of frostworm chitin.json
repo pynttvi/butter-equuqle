@@ -1,19 +1,18 @@
 {
   "name": "A frigid scale of frostworm chitin",
+  "type": "Shield",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users dexterity pitifully.",
     "It increases the users constitution a bit.",
     "It has nice armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'parry'.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users cold resistance adequately.",
+    "It gives small bonus to the skill 'parry'.",
     "It decreases the users fire resistance somewhat.",
-    "- Extra -",
+    "It increases the users cold resistance adequately.",
     "The shield has the power to freeze most liquids on contact, assimilating them",
     "into the icy barrier that surrounds the scale."
-  ],
-  "type": "Shield"
+  ]
 }

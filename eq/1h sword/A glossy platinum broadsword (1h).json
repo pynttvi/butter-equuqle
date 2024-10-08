@@ -1,10 +1,10 @@
 {
   "name": "A glossy platinum broadsword (1h)",
+  "type": "1h sword",
   "data": [
     "It has great weapon class for its type (average in general).",
-    "This item loses its magical powers with average speed.",
     "It does psionic damage a tiny bit.",
+    "This item loses its magical powers with average speed.",
     "This is an illithidwrought weapon and as such has a measure of awareness."
-  ],
-  "type": "1h sword"
+  ]
 }

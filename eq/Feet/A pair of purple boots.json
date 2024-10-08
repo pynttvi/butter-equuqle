@@ -1,5 +1,6 @@
 {
   "name": "A pair of purple boots",
+  "type": "Feet",
   "data": [
     "It decreases the users constitution unnoticably.",
     "It increases the users intelligence unnoticably.",
@@ -7,6 +8,5 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'chaos bolt'.",
     "It modifies the user's spell knowledge."
-  ],
-  "type": "Feet"
+  ]
 }

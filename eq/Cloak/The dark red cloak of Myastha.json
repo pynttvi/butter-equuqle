@@ -1,11 +1,11 @@
 {
   "name": "The dark red cloak of Myastha",
+  "type": "Cloak",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users constitution a bit.",
     "It has superb armour class for its type (little in general).",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Cloak"
+  ]
 }

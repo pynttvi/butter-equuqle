@@ -1,5 +1,6 @@
 {
   "name": "A thunderstruck leather battlesuit",
+  "type": "Multi",
   "data": [
     "It increases the users strength an average amount.",
     "It increases the users dexterity ILLEGALLY.",
@@ -11,8 +12,7 @@
     "It increases the users hitpoint regeneration colossally.",
     "It increases the users electric resistance superbly.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
-    "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+    "The wearer becomes more attuned to the elemental forces.",
+    "08.10.2024 15:23"
+  ]
 }

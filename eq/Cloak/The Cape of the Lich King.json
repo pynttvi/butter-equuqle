@@ -1,5 +1,17 @@
 {
   "name": "The Cape of the Lich King",
-  "data": [],
-  "type": "Cloak"
+  "type": "Cloak",
+  "data": [
+    "It decreases the users strength pathetically.",
+    "It decreases the users dexterity pathetically.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence adequately.",
+    "It has little armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "It gives small bonus to the skill 'unholy ceremony'.",
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'willpower'.",
+    "The Cape of the Lich King gives a bonus to some necromantic abilities."
+  ]
 }

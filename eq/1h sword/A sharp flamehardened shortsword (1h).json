@@ -1,13 +1,13 @@
 {
   "name": "A sharp flamehardened shortsword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance adequately.",
     "It has magnificent weapon class for its type (nice in general).",
+    "It does fire damage immensely.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage adequately.",
     "It increases the users cold resistance strongly.",
-    "It does fire damage immensely.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "1h sword"
+  ]
 }

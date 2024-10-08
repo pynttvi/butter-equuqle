@@ -1,10 +1,10 @@
 {
   "name": "A standard issue brigandine",
+  "type": "Torso",
   "data": [
     "It increases the users constitution a tiny bit.",
     "It has decent armour class for its type (mediocre in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance a bit."
-  ],
-  "type": "Torso"
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

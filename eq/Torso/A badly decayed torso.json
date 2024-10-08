@@ -1,5 +1,6 @@
 {
   "name": "A badly decayed torso",
+  "type": "Torso",
   "data": [
     "It increases the users strength unnoticably.",
     "It increases the users dexterity unnoticably.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration unnoticably.",
     "It increases the users hitpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

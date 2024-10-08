@@ -1,8 +1,8 @@
 {
   "name": "Tyririan sword (2h)",
+  "type": "2h sword",
   "data": [
     "It has low weapon class for its type (low in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h sword"
+  ]
 }

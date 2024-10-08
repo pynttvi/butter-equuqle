@@ -1,13 +1,13 @@
 {
   "name": "The heavy stone staff of Belinik (1h)",
+  "type": "1h staff",
   "data": [
     "It increases hit chance adequately.",
     "It has superb weapon class for its type (weak in general).",
     "It increases the users strength poorly.",
     "It increases the users wisdom poorly.",
+    "It does psionic damage adequately.",
     "This item loses its magical powers very fast.",
-    "It increases damage somewhat.",
-    "It does psionic damage adequately."
-  ],
-  "type": "1h staff"
+    "It increases damage somewhat."
+  ]
 }

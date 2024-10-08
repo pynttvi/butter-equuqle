@@ -1,10 +1,13 @@
 {
   "name": "Green Plate of Frog King",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It has decent armour class for its type (mediocre in general).",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its m"
-  ],
-  "type": "Torso"
+    "This item loses its magical powers with average speed.",
+    "It modifies the user's healing rate.",
+    "It modifies the user's strength.",
+    "It modifies the user's dexterity."
+  ]
 }

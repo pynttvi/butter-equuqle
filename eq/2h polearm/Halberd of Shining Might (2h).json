@@ -1,18 +1,17 @@
 {
   "name": "Halberd of Shining Might (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance poorly.",
     "It has superb weapon class for its type (impressive in general).",
     "It increases the users strength somewhat.",
     "It increases the users dexterity pathetically.",
+    "It does fire damage a tiny bit.",
     "This item loses its magical powers with average speed.",
     "It increases damage poorly.",
-    "It does fire damage a tiny bit.",
-    "- Extra -",
     "It was created especially for Cavia.",
     "It modifies the user's dexterity.",
     "It modifies the user's constitution.",
     "It causes special poison damage."
-  ],
-  "type": "2h polearm"
+  ]
 }

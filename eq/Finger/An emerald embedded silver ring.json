@@ -1,5 +1,6 @@
 {
   "name": "An emerald embedded silver ring",
+  "type": "Finger",
   "data": [
     "It increases the users constitution unnoticably.",
     "It increases the users intelligence pathetically.",
@@ -7,8 +8,6 @@
     "It increases the users spellpoint regeneration a bit.",
     "It increases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "It modifies users resistance to certain type of drainage."
-  ],
-  "type": "Finger"
+  ]
 }

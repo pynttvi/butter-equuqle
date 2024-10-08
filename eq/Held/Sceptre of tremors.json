@@ -1,11 +1,11 @@
 {
   "name": "Sceptre of tremors",
+  "type": "Held",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence poorly.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

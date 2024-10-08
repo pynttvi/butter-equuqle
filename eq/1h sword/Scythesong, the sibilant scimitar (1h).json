@@ -1,10 +1,9 @@
 {
   "name": "Scythesong, the sibilant scimitar (1h)",
+  "type": "1h sword",
   "data": [
     "It has non-existent weapon class for its type (non-existent in general).",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "Its wielder strikes more blows in melee combat."
-  ],
-  "type": "1h sword"
+  ]
 }

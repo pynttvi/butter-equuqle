@@ -1,5 +1,6 @@
 {
   "name": "Dark silver diadem",
+  "type": "Head",
   "data": [
     "It has average armour class for its type (tiny in general).",
     "This item loses its magical powers with average speed.",
@@ -8,6 +9,5 @@
     "It affects user's strength.",
     "It affects user's constitution.",
     "It is evil."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,13 +1,12 @@
 {
   "name": "The platinum amulet of the Magister",
+  "type": "Amulet",
   "data": [
     "It increases the users intelligence impressively.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration magnificently.",
     "This item loses its magical powers incredibly slowly.",
-    "- Extra -",
     "While worn, can be used to 'focus' on a single spell, reducing the casting time",
     "of that spell to half while doubling the spell's cost."
-  ],
-  "type": "Amulet"
+  ]
 }

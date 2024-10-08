@@ -1,8 +1,8 @@
 {
   "name": "A rawhide whip (1h)",
+  "type": "1h ancient",
   "data": [
     "It has nice weapon class for its type (low in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h ancient"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The leggings of ravager",
+  "type": "Legs",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
@@ -8,6 +9,5 @@
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'mastery of death protection'."
-  ],
-  "type": "Legs"
+  ]
 }

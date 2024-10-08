@@ -1,5 +1,6 @@
 {
   "name": "The steel mesh mask of 'The Raven'",
+  "type": "Head",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity pathetically.",
@@ -7,6 +8,5 @@
     "It has awesome armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration noticably.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

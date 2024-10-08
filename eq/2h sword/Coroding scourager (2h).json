@@ -1,14 +1,14 @@
 {
   "name": "Coroding scourager (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance incredibly.",
     "It has magnificent weapon class for its type (magnificent in general).",
     "It increases the users strength adequately.",
     "It decreases the users dexterity poorly.",
     "It decreases the users armour class pathetically.",
+    "It does acid damage tremendously.",
     "This item loses its magical powers somewhat slower than avarage.",
-    "It increases damage adequately.",
-    "It does acid damage tremendously."
-  ],
-  "type": "2h sword"
+    "It increases damage adequately."
+  ]
 }

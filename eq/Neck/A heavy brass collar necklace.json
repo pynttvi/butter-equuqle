@@ -1,5 +1,6 @@
 {
   "name": "A heavy brass collar necklace",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users intelligence adequately.",
@@ -8,8 +9,7 @@
     "It increases the users hitpoint regeneration somewhat.",
     "It increases the users electric resistance somewhat.",
     "This item loses its magical powers incredibly slowly.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
-  ],
-  "type": "Neck"
+    "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

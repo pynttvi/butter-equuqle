@@ -1,11 +1,11 @@
 {
   "name": "A heavy scimitar (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance poorly.",
     "It has great weapon class for its type (average in general).",
+    "It does cold damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage slightly.",
-    "It does cold damage a tiny bit."
-  ],
-  "type": "1h sword"
+    "It increases damage slightly."
+  ]
 }

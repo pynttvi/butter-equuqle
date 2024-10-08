@@ -1,15 +1,14 @@
 {
   "name": "The royal kilt of Lucifer",
+  "type": "Legs",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration impressively.",
     "It decreases the users hitpoint regeneration pathetically.",
-    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'stunning blow'.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It affects the skill stunning blow."
-  ],
-  "type": "Legs"
+  ]
 }

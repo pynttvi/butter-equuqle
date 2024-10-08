@@ -1,11 +1,11 @@
 {
   "name": "A short spear (1h)",
+  "type": "1h polearm",
   "data": [
     "It increases hit chance adequately.",
     "It has adequate weapon class for its type (weak in general).",
+    "It does magical damage pathetically.",
     "This item loses its magical powers with average speed.",
-    "It increases damage unnoticably.",
-    "It does magical damage pathetically."
-  ],
-  "type": "1h polearm"
+    "It increases damage unnoticably."
+  ]
 }

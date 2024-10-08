@@ -1,14 +1,14 @@
 {
   "name": "Gloves of Mischief",
+  "type": "Hands",
   "data": [
     "It increases the users dexterity slightly.",
     "It decreases the users wisdom unnoticably.",
     "It decreases the users intelligence unnoticably.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'steal'.",
+    "This item loses its magical powers with average speed.",
     "It affects the user's skill knowledge."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "A curved dagger (1h)",
+  "type": "1h dagger",
   "data": [
     "It has great weapon class for its type (poor in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h dagger"
+  ]
 }

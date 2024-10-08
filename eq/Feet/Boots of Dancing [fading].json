@@ -1,16 +1,16 @@
 {
   "name": "Boots of Dancing [fading]",
+  "type": "Feet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity an average amount.",
     "It has average armour class for its type (pathetic in general).",
-    "It increases the users fire resistance adequately.",
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users physical resistance adequately.",
     "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance adequately.",
     "It decreases the users cold resistance adequately.",
     "The boots aid in dancing skills.",
     "The boots alter the user's resistances somehow."
-  ],
-  "type": "Feet"
+  ]
 }

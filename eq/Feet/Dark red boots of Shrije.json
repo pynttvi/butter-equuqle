@@ -1,5 +1,6 @@
 {
   "name": "Dark red boots of Shrije",
+  "type": "Feet",
   "data": [
     "It decreases the users strength a bit.",
     "It increases the users dexterity poorly.",
@@ -10,6 +11,5 @@
     "It increases the users spellpoint regeneration adequately.",
     "It decreases the users hitpoint regeneration poorly.",
     "This item loses its magical powers a bit slower than avarage."
-  ],
-  "type": "Feet"
+  ]
 }

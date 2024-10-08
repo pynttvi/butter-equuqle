@@ -1,11 +1,11 @@
 {
   "name": "Leather Shorts",
+  "type": "Legs",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
     "It decreases the users intelligence a good amount.",
     "It has nice armour class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

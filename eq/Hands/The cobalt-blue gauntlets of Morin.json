@@ -1,5 +1,6 @@
 {
   "name": "The cobalt-blue gauntlets of Morin",
+  "type": "Hands",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
@@ -7,11 +8,9 @@
     "It increases the users spellpoint regeneration a tiny bit.",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers somewhat slower than avarage.",
-    "- Extra -",
     "These gauntlets are a relic of the dwarven hero Morin.",
     "The wearer of these gauntlets can chant the command word 'urthalin'",
     "Chanting the command word is known to interrupt spells and skills",
     "as well as all bard songs in the area of the wearer."
-  ],
-  "type": "Hands"
+  ]
 }

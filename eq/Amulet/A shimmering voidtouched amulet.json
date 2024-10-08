@@ -1,5 +1,6 @@
 {
   "name": "A shimmering voidtouched amulet",
+  "type": "Amulet",
   "data": [
     "It increases the users intelligence unbelievably much.",
     "It increases the users hitpoints poorly.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers slowly.",
     "It increases the users asphyxiation resistance strongly.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Amulet"
+  ]
 }

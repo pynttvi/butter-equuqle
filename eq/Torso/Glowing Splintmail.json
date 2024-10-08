@@ -1,5 +1,6 @@
 {
   "name": "Glowing Splintmail",
+  "type": "Torso",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
@@ -9,6 +10,5 @@
     "It has excellent armour class for its type (good in general).",
     "It increases the users hitpoint regeneration impressively.",
     "This item loses its magical powers extremely fast."
-  ],
-  "type": "Torso"
+  ]
 }

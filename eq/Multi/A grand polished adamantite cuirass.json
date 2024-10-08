@@ -1,5 +1,6 @@
 {
   "name": "A grand polished adamantite cuirass",
+  "type": "Multi",
   "data": [
     "It increases the users strength superbly.",
     "It decreases the users dexterity adequately.",
@@ -9,10 +10,8 @@
     "It has excellent armour class for its type (superb in general).",
     "It increases the users spellpoint regeneration phenomenally.",
     "It increases the users hitpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance superbly.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The arcane leggings of Rulership",
+  "type": "Legs",
   "data": [
     "It decreases the users strength pathetically.",
     "It decreases the users constitution poorly.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'arcane lore'."
-  ],
-  "type": "Legs"
+  ]
 }

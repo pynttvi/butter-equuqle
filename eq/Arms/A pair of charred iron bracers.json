@@ -1,12 +1,12 @@
 {
   "name": "A pair of charred iron bracers",
+  "type": "Arms",
   "data": [
     "It increases the users intelligence a bit.",
     "It has adequate armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers with average speed.",
     "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "The bracers radiate with magic, alien but powerful. Whatever its purpose is, it cannot be unveiled in this manner."
-  ],
-  "type": "Arms"
+  ]
 }

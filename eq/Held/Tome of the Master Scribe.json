@@ -1,15 +1,13 @@
 {
   "name": "Tome of the Master Scribe",
+  "type": "Held",
   "data": [
     "It increases the users wisdom impressively.",
     "It has little armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "It gives decent bonus to the spell 'remove invulnerabilities'.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
+    "It gives decent bonus to the spell 'remove invulnerabilities'.",
     "Good grip allows you to slam somebody with tome.",
     "'...do not open it.....' echoes through your mind."
-  ],
-  "type": "Held"
+  ]
 }

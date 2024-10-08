@@ -1,17 +1,16 @@
 {
   "name": "The ancient amulet of Tythus",
+  "type": "Amulet",
   "data": [
     "It increases the users constitution unbelievably much.",
     "It decreases the users wisdom slightly.",
     "It decreases the users intelligence slightly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
-    "It gives small bonus to the skill 'system shock'.",
     "It decreases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
+    "It gives small bonus to the skill 'system shock'.",
     "This item loses its magical powers very slowly.",
     "It gives small bonus to the skill 'ignore pain'.",
-    "- Extra -",
     "Tythus's amulet is rumored to provide its user with legendary health."
-  ],
-  "type": "Amulet"
+  ]
 }

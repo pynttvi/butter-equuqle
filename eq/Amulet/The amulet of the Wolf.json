@@ -1,5 +1,6 @@
 {
   "name": "The amulet of the Wolf",
+  "type": "Amulet",
   "data": [
     "It increases the users strength noticably.",
     "It increases the users dexterity noticably.",
@@ -7,6 +8,5 @@
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'doublehit'."
-  ],
-  "type": "Amulet"
+  ]
 }

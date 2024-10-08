@@ -1,10 +1,10 @@
 {
   "name": "Senior Officer's Sword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance nicely.",
     "It has impressive weapon class for its type (decent in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage adequately."
-  ],
-  "type": "1h sword"
+  ]
 }

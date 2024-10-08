@@ -1,10 +1,12 @@
 {
   "name": "Twisted leggings",
+  "type": "Legs",
   "data": [
     "It decreases the users dexterity pitifully.",
     "It increases the users wisdom a tiny bit.",
     "It increases the users intelligence pitifully.",
-    "It has weak armour class for its type (pathetic"
-  ],
-  "type": "Legs"
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The Libram of Torment",
+  "type": "Held",
   "data": [
     "It decreases the users constitution adequately.",
     "It decreases the users wisdom impressively.",
@@ -7,13 +8,10 @@
     "It decreases the users charisma impressively.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration a good amount.",
+    "It increases the users magical resistance strongly.",
     "This item loses its magical powers incredibly slowly.",
     "It increases the users shadow resistance somewhat.",
-    "It increases the users magical resistance strongly.",
-    "",
-    "- Extra -",
     "When held, the Libram of Torment channels its owner's lifeforce into any",
     "offensive spells they may cast, increasing the damage significantly."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "A dusty golden wedding ring",
+  "type": "Ring",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Ring"
+  ]
 }

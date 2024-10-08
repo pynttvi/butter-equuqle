@@ -1,5 +1,6 @@
 {
   "name": "A miniature silver pocketwatch",
+  "type": "Held",
   "data": [
     "It increases the users dexterity adequately.",
     "It increases the users wisdom a tiny bit.",
@@ -8,8 +9,6 @@
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers extremely fast.",
-    "- Extra -",
     "It functions as a magical timepiece, unless broken."
-  ],
-  "type": "Held"
+  ]
 }

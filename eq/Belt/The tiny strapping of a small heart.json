@@ -1,5 +1,6 @@
 {
   "name": "The tiny strapping of a small heart",
+  "type": "Belt",
   "data": [
     "It increases the users strength somewhat.",
     "It has excellent armour class for its type (pathetic in general).",
@@ -8,6 +9,5 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'dodge'.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Belt"
+  ]
 }

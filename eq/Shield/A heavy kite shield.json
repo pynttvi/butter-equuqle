@@ -1,10 +1,10 @@
 {
   "name": "A heavy kite shield",
+  "type": "Shield",
   "data": [
     "It increases the users strength unnoticably.",
     "It increases the users constitution pitifully.",
     "It has tremendous armour class for its type (poor in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+  ]
 }

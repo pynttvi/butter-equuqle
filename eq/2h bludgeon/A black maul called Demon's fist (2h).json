@@ -1,5 +1,6 @@
 {
   "name": "A black maul called Demon's fist (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance noticably.",
     "It has awesome weapon class for its type (awesome in general).",
@@ -8,9 +9,8 @@
     "It decreases the users wisdom a good amount.",
     "It decreases the users intelligence a good amount.",
     "It decreases the users armour class pathetically.",
+    "It does cold damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage like a god.",
-    "It does cold damage somewhat."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage like a god."
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "The Many Jeweled Crown of the King of Aquilonia",
+  "type": "Head",
   "data": [
     "It increases the users constitution incredibly.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A shimmering jade sceptre",
+  "type": "Held",
   "data": [
     "It increases the users strength impressively.",
     "It increases the users dexterity adequately.",
@@ -7,6 +8,5 @@
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It increases the users acid resistance adequately."
-  ],
-  "type": "Held"
+  ]
 }

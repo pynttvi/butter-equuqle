@@ -1,11 +1,10 @@
 {
   "name": "A small pouch for holding dust of some kind",
+  "type": "Belt",
   "data": [
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "The more dust, the better the mana regeneration bonuses."
-  ],
-  "type": "Belt"
+  ]
 }

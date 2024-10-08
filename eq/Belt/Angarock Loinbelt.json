@@ -1,13 +1,13 @@
 {
   "name": "Angarock Loinbelt",
+  "type": "Belt",
   "data": [
     "It increases the users constitution pathetically.",
     "It decreases the users intelligence adequately.",
     "It has magnificent armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'dodge'."
-  ],
-  "type": "Belt"
+  ]
 }

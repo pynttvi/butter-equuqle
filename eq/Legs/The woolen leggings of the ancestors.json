@@ -1,5 +1,6 @@
 {
   "name": "The woolen leggings of the ancestors",
+  "type": "Legs",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity adequately.",
@@ -10,8 +11,7 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'focus kungfu attacks'.",
     "It gives small bonus to the skill 'advanced martial arts'.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
-  ],
-  "type": "Legs"
+    "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

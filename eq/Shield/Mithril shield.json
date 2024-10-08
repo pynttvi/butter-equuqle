@@ -1,9 +1,16 @@
 {
   "name": "Mithril shield",
+  "type": "Shield",
   "data": [
-    "It decreases the users dexterity pathetically.",
-    "It has awesome armour class for its type (poor in general).",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+    "It increases the users wisdom impressively.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users physical resistance a bit.",
+    "It increases the users magical resistance a bit.",
+    "It gives small bonus to the skill 'true harmony'.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance a bit.",
+    "It increases the users fire resistance a bit.",
+    "It increases the users cold resistance a bit."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Spider Fur Slippers",
+  "type": "Feet",
   "data": [
     "It decreases the users strength a bit.",
     "It decreases the users constitution pathetically.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers a bit slower than avarage.",
     "It gives decent bonus to the skill 'focus power'."
-  ],
-  "type": "Feet"
+  ]
 }

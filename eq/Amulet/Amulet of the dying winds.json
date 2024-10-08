@@ -1,12 +1,12 @@
 {
   "name": "Amulet of the dying winds",
+  "type": "Amulet",
   "data": [
     "It increases the users intelligence poorly.",
     "It increases the users charisma somewhat.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration tremendously.",
-    "This item loses its magical powers with average speed.",
-    "It gives tiny bonus to the skill 'tonal control'."
-  ],
-  "type": "Amulet"
+    "It gives tiny bonus to the skill 'tonal control'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

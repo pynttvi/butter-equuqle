@@ -1,11 +1,11 @@
 {
   "name": "A plain black robe",
+  "type": "Torso",
   "data": [
     "It increases the users intelligence somewhat.",
     "It has feeble armour class for its type (little in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users magical resistance a bit."
-  ],
-  "type": "Torso"
+    "It increases the users magical resistance a bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

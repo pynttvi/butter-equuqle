@@ -1,5 +1,6 @@
 {
   "name": "The leggings of Dark Haven",
+  "type": "Legs",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users constitution poorly.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration an average amount.",
     "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Legs"
+  ]
 }

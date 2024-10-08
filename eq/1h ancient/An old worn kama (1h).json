@@ -1,13 +1,13 @@
 {
   "name": "An old worn kama (1h)",
+  "type": "1h ancient",
   "data": [
     "It increases hit chance nicely.",
     "It has nice weapon class for its type (low in general).",
-    "This item loses its magical powers somewhat slower than avarage.",
+    "It does cold damage impossibly much.",
     "It increases the users poison resistance a bit.",
+    "This item loses its magical powers somewhat slower than avarage.",
     "It increases damage a tiny bit.",
-    "It increases the users cold resistance a bit.",
-    "It does cold damage impossibly much."
-  ],
-  "type": "1h ancient"
+    "It increases the users cold resistance a bit."
+  ]
 }

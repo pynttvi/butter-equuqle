@@ -1,9 +1,9 @@
 {
   "name": "Ring of focused powers",
+  "type": "Finger",
   "data": [
     "It has adequate armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Finger"
+  ]
 }

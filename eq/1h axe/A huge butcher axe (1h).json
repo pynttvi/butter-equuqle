@@ -1,9 +1,9 @@
 {
   "name": "A huge butcher axe (1h)",
+  "type": "1h axe",
   "data": [
     "It has awesome weapon class for its type (decent in general).",
-    "This item loses its magical powers with average speed.",
-    "It does electric damage pathetically."
-  ],
-  "type": "1h axe"
+    "It does electric damage pathetically.",
+    "This item loses its magical powers with average speed."
+  ]
 }

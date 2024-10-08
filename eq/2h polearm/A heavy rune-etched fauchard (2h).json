@@ -1,11 +1,11 @@
 {
   "name": "A heavy rune-etched fauchard (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance a tiny bit.",
     "It has great weapon class for its type (nice in general).",
+    "It does magical damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage somewhat.",
-    "It does magical damage a tiny bit."
-  ],
-  "type": "2h polearm"
+    "It increases damage somewhat."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The ring of Brave Deeds",
+  "type": "Finger",
   "data": [
     "It increases the users strength pathetically.",
     "It increases the users dexterity pathetically.",
@@ -10,9 +11,6 @@
     "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "This ring will make its wearer ever so brave."
-  ],
-  "type": "Finger"
+  ]
 }

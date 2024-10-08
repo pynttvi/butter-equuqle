@@ -1,13 +1,13 @@
 {
   "name": "The cloak of the black circle",
+  "type": "Cloak",
   "data": [
     "It increases the users intelligence a good amount.",
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'stunning blow'.",
-    "It gives tiny bonus to the skill 'quick chant'.",
-    "It gives small bonus to the spell 'remove preference'."
-  ],
-  "type": "Cloak"
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the spell 'remove preference'.",
+    "It gives tiny bonus to the skill 'quick chant'."
+  ]
 }

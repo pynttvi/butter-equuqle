@@ -1,5 +1,6 @@
 {
   "name": "A black beaded rosary",
+  "type": "Held",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users constitution poorly.",
@@ -7,13 +8,12 @@
     "It increases the users intelligence poorly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the spell 'mark of zomm'.",
+    "This item loses its magical powers with average speed.",
     "It decreases the users acid resistance somewhat.",
     "It gives tiny bonus to the spell 'harm body'.",
     "It emits darkness.",
     "Its powers are greater with the true believers, especially with those",
     "who are strong in faith."
-  ],
-  "type": "Held"
+  ]
 }

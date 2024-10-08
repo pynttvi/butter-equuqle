@@ -1,9 +1,9 @@
 {
   "name": "A diamond mace (1h)",
+  "type": "1h bludgeon",
   "data": [
     "It has little weapon class for its type (tiny in general).",
     "It increases the users strength poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h bludgeon"
+  ]
 }

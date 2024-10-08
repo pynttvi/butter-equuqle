@@ -1,14 +1,14 @@
 {
   "name": "A primitive clay idol",
+  "type": "Held",
   "data": [
     "It increases the users wisdom impressively.",
     "It increases the users intelligence adequately.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers incredibly slowly.",
-    "It gives decent bonus to the spell 'creeping doom'.",
     "It increases the users poison resistance somewhat.",
+    "It gives decent bonus to the spell 'creeping doom'.",
+    "This item loses its magical powers incredibly slowly.",
     "It gives great bonus to the skill 'earth lore'."
-  ],
-  "type": "Held"
+  ]
 }

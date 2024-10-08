@@ -1,9 +1,9 @@
 {
   "name": "The shield, Defender",
+  "type": "Shield",
   "data": [
     "It has nice armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users magical resistance somewhat."
-  ],
-  "type": "Shield"
+    "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

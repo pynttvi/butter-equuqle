@@ -1,10 +1,10 @@
 {
   "name": "Pulsating bracelets of Greenlight",
+  "type": "Arms",
   "data": [
     "It increases the users dexterity poorly.",
     "It has average armour class for its type (pathetic in general).",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'anatomy'."
-  ],
-  "type": "Arms"
+    "It gives small bonus to the skill 'anatomy'.",
+    "This item loses its magical powers with average speed."
+  ]
 }
