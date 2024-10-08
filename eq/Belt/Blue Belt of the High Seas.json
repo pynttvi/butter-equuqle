@@ -1,5 +1,6 @@
 {
   "name": "Blue Belt of the High Seas",
+  "type": "Belt",
   "data": [
     "It decreases the users constitution unnoticably.",
     "It increases the users wisdom pathetically.",
@@ -8,8 +9,6 @@
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'quick chant'.",
-    "- Extra -",
     "The belt will make you more powerful."
-  ],
-  "type": "Belt"
+  ]
 }

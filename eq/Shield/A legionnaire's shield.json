@@ -1,10 +1,10 @@
 {
   "name": "A legionnaire's shield",
+  "type": "Shield",
   "data": [
     "It increases the users constitution pathetically.",
     "It has poor armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance a bit."
-  ],
-  "type": "Shield"
+    "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

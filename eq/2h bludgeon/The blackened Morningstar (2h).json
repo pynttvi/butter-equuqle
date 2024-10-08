@@ -1,16 +1,16 @@
 {
   "name": "The blackened Morningstar (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It increases hit chance poorly.",
     "It has magnificent weapon class for its type (magnificent in general).",
     "It increases the users strength slightly.",
-    "This item loses its magical powers with average speed.",
-    "It increases damage like a god.",
     "It decreases the users physical resistance somewhat.",
-    "It gives small bonus to the skill 'damage direction'.",
     "It does cold damage like a god.",
-    "It increases the users cold resistance somewhat.",
-    "It increases the users fire resistance somewhat."
-  ],
-  "type": "2h bludgeon"
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'damage direction'.",
+    "It increases damage like a god.",
+    "It increases the users fire resistance somewhat.",
+    "It increases the users cold resistance somewhat."
+  ]
 }

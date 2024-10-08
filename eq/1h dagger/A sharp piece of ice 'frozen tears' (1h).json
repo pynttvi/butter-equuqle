@@ -1,11 +1,11 @@
 {
   "name": "A sharp piece of ice 'frozen tears' (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance slightly.",
     "It has impressive weapon class for its type (poor in general).",
+    "It does cold damage tremendously.",
     "This item loses its magical powers with average speed.",
-    "It increases damage slightly.",
-    "It does cold damage tremendously."
-  ],
-  "type": "1h dagger"
+    "It increases damage slightly."
+  ]
 }

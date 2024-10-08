@@ -1,13 +1,12 @@
 {
   "name": "A heavy pendant made of jade",
+  "type": "Neck",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers 0.",
-    "- Extra -",
     "The inherent magic of this pendant is ancient. It is of definitive divine",
     "nature; but of which God's, that is unknown. The enchantment is not unlike",
     "that of the Shards of Gods. The power is focused on the four sockets on the",
     "pendant's face. Alas, its exact nature is far beyond this simple divination."
-  ],
-  "type": "Neck"
+  ]
 }

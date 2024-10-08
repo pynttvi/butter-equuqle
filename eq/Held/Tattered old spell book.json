@@ -1,8 +1,11 @@
 {
   "name": "Tattered old spell book",
+  "type": "Held",
   "data": [
     "It increases the users constitution pathetically.",
-    "It increases the users intelligence pathetically."
-  ],
-  "type": "Held"
+    "It increases the users intelligence pathetically.",
+    "It has average armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ]
 }

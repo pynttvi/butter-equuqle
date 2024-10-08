@@ -1,9 +1,9 @@
 {
   "name": "Shining longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance a tiny bit.",
     "It has good weapon class for its type (mediocre in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h sword"
+  ]
 }

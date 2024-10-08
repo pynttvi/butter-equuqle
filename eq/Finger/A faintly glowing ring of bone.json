@@ -1,16 +1,16 @@
 {
   "name": "A faintly glowing ring of bone",
+  "type": "Finger",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
     "It increases the users intelligence poorly.",
-    "It allows the user to see in darkness.",
     "It has little armour class for its type (almost non-existent in general).",
+    "It allows the user to see in darkness.",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the spell 'control'.",
     "It gives decent bonus to the spell 'chain'.",
+    "It gives decent bonus to the spell 'control'.",
     "It modifies the user's spell knowledge."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A crystalline ball embellished with the symbol of infinity",
+  "type": "Held",
   "data": [
     "It decreases the users strength a tiny bit.",
     "It decreases the users dexterity a bit.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers with average speed.",
     "Shaking this ball will do more for you than just tell your fortune."
-  ],
-  "type": "Held"
+  ]
 }

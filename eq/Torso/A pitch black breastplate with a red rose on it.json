@@ -1,5 +1,6 @@
 {
   "name": "A pitch black breastplate with a red rose on it",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity impressively.",
@@ -7,8 +8,7 @@
     "It increases the users wisdom poorly.",
     "It has awesome armour class for its type (great in general).",
     "It increases the users hitpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the skill 'marksmanship'."
-  ],
-  "type": "Torso"
+    "It gives decent bonus to the skill 'marksmanship'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

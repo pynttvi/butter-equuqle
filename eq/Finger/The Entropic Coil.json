@@ -1,5 +1,6 @@
 {
   "name": "The Entropic Coil",
+  "type": "Finger",
   "data": [
     "It decreases the users constitution unbelievably much.",
     "It increases the users intelligence impressively.",
@@ -7,14 +8,13 @@
     "It increases the users spellpoint regeneration magnificently.",
     "It decreases the users hitpoint regeneration adequately.",
     "It decreases the users physical resistance somewhat.",
-    "It gives small penalty to the skill 'order from chaos'.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users psionic resistance somewhat.",
-    "It gives small bonus to the skill 'chaos theory'.",
     "It decreases the users poison resistance somewhat.",
-    "It gives small penalty to the skill 'adaption of order'.",
+    "It gives small bonus to the skill 'chaos theory'.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives tiny bonus to the skill 'chaos from invariance'.",
     "It gives tiny bonus to the skill 'adaption of chaos'.",
-    "It gives tiny bonus to the skill 'chaos from invariance'."
-  ],
-  "type": "Finger"
+    "It gives small penalty to the skill 'order from chaos'.",
+    "It gives small penalty to the skill 'adaption of order'."
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "The loop of fire",
+  "type": "Finger",
   "data": [
     "It increases the users strength poorly.",
     "It has magnificent armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance somewhat."
-  ],
-  "type": "Finger"
+  ]
 }

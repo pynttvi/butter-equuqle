@@ -1,5 +1,6 @@
 {
   "name": "The green boots of Greenlight",
+  "type": "Feet",
   "data": [
     "It increases the users dexterity unnoticably.",
     "It increases the users constitution a tiny bit.",
@@ -7,13 +8,10 @@
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
     "It decreases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'kick placement'.",
-    "It gives small bonus to the skill 'flip kick'.",
+    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'dodge'.",
-    "",
-    "- Extra -",
+    "It gives small bonus to the skill 'flip kick'.",
     "It makes your feet lighter."
-  ],
-  "type": "Feet"
+  ]
 }

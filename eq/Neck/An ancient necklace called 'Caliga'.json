@@ -1,14 +1,13 @@
 {
   "name": "An ancient necklace called 'Caliga'",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution poorly.",
     "It has average armour class for its type (pathetic in general).",
     "This item loses its magical powers very fast.",
-    "- Extra -",
     "It emits darkness.",
     "It offers secret attributes for few selected souls."
-  ],
-  "type": "Neck"
+  ]
 }

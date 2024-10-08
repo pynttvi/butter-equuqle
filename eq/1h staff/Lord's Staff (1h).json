@@ -1,8 +1,8 @@
 {
   "name": "Lord's Staff (1h)",
+  "type": "1h staff",
   "data": [
     "It has nice weapon class for its type (feeble in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h staff"
+  ]
 }

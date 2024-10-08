@@ -1,9 +1,9 @@
 {
   "name": "A slender white sword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance adequately.",
     "It has mediocre weapon class for its type (poor in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h sword"
+  ]
 }

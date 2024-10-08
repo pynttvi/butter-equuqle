@@ -1,5 +1,6 @@
 {
   "name": "Troll's chainmail",
+  "type": "Multi",
   "data": [
     "It increases the users strength pitifully.",
     "It decreases the users dexterity pitifully.",
@@ -9,6 +10,5 @@
     "It has adequate armour class for its type (adequate in general).",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Multi"
+  ]
 }

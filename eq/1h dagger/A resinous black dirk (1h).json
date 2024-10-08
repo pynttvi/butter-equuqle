@@ -1,11 +1,11 @@
 {
   "name": "A resinous black dirk (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance poorly.",
     "It has good weapon class for its type (feeble in general).",
+    "It does poison damage a bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage pitifully.",
-    "It does poison damage a bit."
-  ],
-  "type": "1h dagger"
+    "It increases damage pitifully."
+  ]
 }

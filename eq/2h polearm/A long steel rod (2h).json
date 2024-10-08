@@ -1,8 +1,9 @@
 {
   "name": "A long steel rod (2h)",
+  "type": "2h polearm",
   "data": [
     "It has good weapon class for its type (adequate in general).",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "2h polearm"
+    "This item loses its magical powers with average speed.",
+    "08.10.2024 15:06"
+  ]
 }

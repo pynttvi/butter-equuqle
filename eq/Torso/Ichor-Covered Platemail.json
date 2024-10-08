@@ -1,5 +1,6 @@
 {
   "name": "Ichor-Covered Platemail",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution impressively.",
@@ -7,11 +8,8 @@
     "It has magnificent armour class for its type (excellent in general).",
     "It increases the users hitpoint regeneration impressively.",
     "This item loses its magical powers very slowly.",
-    "",
-    "- Extra -",
     "Goblin Platemail can encompass the wearer's enemies in slime on",
     "a successful hit.  This slime can cause a great deal of damage",
     "to the enemy."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "Studded whip (1h)",
+  "type": "1h ancient",
   "data": [
     "It has poor weapon class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It does acid damage somewhat."
-  ],
-  "type": "1h ancient"
+    "It does acid damage somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

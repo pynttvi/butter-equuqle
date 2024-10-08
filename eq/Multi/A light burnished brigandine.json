@@ -1,5 +1,6 @@
 {
   "name": "A light burnished brigandine",
+  "type": "Multi",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -9,10 +10,8 @@
     "It has great armour class for its type (superb in general).",
     "It increases the users spellpoint regeneration ILLEGALLY.",
     "It decreases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance superbly.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+  ]
 }

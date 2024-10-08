@@ -1,14 +1,14 @@
 {
   "name": "Ba'al Verzi dagger (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance poorly.",
     "It has superb weapon class for its type (weak in general).",
     "It decreases the users strength slightly.",
     "It increases the users dexterity adequately.",
-    "This item loses its magical powers with average speed.",
     "It increases the users magical resistance somewhat.",
-    "It increases damage adequately.",
-    "It does magical damage adequately."
-  ],
-  "type": "1h dagger"
+    "It does magical damage adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage adequately."
+  ]
 }

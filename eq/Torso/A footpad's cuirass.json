@@ -1,9 +1,9 @@
 {
   "name": "A footpad's cuirass",
+  "type": "Torso",
   "data": [
     "It increases the users dexterity pitifully.",
     "It has low armour class for its type (weak in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

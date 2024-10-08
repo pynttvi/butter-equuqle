@@ -1,8 +1,8 @@
 {
   "name": "Stonedowner Tunic",
+  "type": "Torso",
   "data": [
     "It has tiny armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

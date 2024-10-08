@@ -1,16 +1,16 @@
 {
   "name": "The Legendary Sickle of Duremas (2h)",
+  "type": "2h ancient",
   "data": [
     "It increases hit chance somewhat.",
     "It has superb weapon class for its type (impressive in general).",
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
-    "This item loses its magical powers with incredible haste.",
-    "It increases damage somewhat.",
     "It gives small bonus to the skill 'attack'.",
     "It gives decent bonus to the skill 'brawl'.",
-    "It gives decent bonus to the skill 'dirty blow'.",
-    "It does acid damage strongly."
-  ],
-  "type": "2h ancient"
+    "It does acid damage strongly.",
+    "This item loses its magical powers with incredible haste.",
+    "It increases damage somewhat.",
+    "It gives decent bonus to the skill 'dirty blow'."
+  ]
 }

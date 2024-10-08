@@ -1,12 +1,12 @@
 {
   "name": "Smooth pair of Black Bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users intelligence adequately.",
     "It increases the users charisma adequately.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
-    "It gives decent bonus to the skill 'tonal projection'.",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'tonal projection'."
+  ]
 }

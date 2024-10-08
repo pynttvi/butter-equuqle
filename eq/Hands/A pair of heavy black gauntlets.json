@@ -1,16 +1,16 @@
 {
   "name": "A pair of heavy black gauntlets",
+  "type": "Hands",
   "data": [
     "It increases the users strength magnificently.",
     "It decreases the users dexterity slightly.",
     "It increases the users constitution somewhat.",
     "It has awesome armour class for its type (pathetic in general).",
-    "It increases the users hitpoint regeneration pitifully.",
-    "It increases the users fire resistance adequately.",
     "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers extremely slowly.",
+    "It increases the users fire resistance adequately.",
     "It increases the users cold resistance adequately.",
     "While worn, these gauntlets increase all magical damage dealt by a substantial amount."
-  ],
-  "type": "Hands"
+  ]
 }

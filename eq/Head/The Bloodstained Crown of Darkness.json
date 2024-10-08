@@ -1,17 +1,17 @@
 {
   "name": "The Bloodstained Crown of Darkness",
+  "type": "Head",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence a bit.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers very slowly.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers very slowly.",
     "It gives small bonus to the spell 'asphyxiation preference'.",
     "It gives small bonus to the spell 'poison preference'.",
-    "It gives small bonus to the spell 'poison fend'.",
+    "It gives small bonus to the spell 'venom fend'.",
     "It increases the users asphyxiation resistance somewhat.",
-    "It gives small bonus to the spell 'venom fend'."
-  ],
-  "type": "Head"
+    "It gives small bonus to the spell 'poison fend'."
+  ]
 }

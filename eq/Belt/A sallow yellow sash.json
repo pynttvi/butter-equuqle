@@ -1,19 +1,19 @@
 {
   "name": "A sallow yellow sash",
+  "type": "Belt",
   "data": [
     "It decreases the users strength adequately.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution like a god.",
     "It decreases the users charisma adequately.",
     "It has magnificent armour class for its type (pathetic in general).",
-    "This item loses its magical powers extremely slowly.",
+    "It increases the users psionic resistance somewhat.",
     "It increases the users poison resistance somewhat.",
     "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
     "It increases the users acid resistance somewhat.",
-    "It increases the users psionic resistance somewhat.",
     "It gives nice bonus to the skill 'parry'.",
     "It increases the users asphyxiation resistance somewhat.",
     "Gastric fumes rumble within the sash."
-  ],
-  "type": "Belt"
+  ]
 }

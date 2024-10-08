@@ -1,11 +1,11 @@
 {
   "name": "The drow slayer (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance like a god.",
     "It has magnificent weapon class for its type (nice in general).",
+    "It does cold damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does cold damage somewhat."
-  ],
-  "type": "1h sword"
+    "It increases damage adequately."
+  ]
 }

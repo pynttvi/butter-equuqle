@@ -1,11 +1,11 @@
 {
   "name": "The HUGE two-handed sword named 'Zarcuthra' (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance somewhat.",
     "It has impressive weapon class for its type (impressive in general).",
+    "It does magical damage adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases damage somewhat.",
-    "It does magical damage adequately."
-  ],
-  "type": "2h sword"
+    "It increases damage somewhat."
+  ]
 }

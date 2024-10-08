@@ -1,5 +1,6 @@
 {
   "name": "Dirty cloak",
+  "type": "Cloak",
   "data": [
     "It decreases the users dexterity poorly.",
     "It increases the users constitution poorly.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Cloak"
+  ]
 }

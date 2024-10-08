@@ -1,5 +1,6 @@
 {
   "name": "A patchwork coat of skins",
+  "type": "Torso",
   "data": [
     "It increases the users strength impressively.",
     "It increases the users dexterity impressively.",
@@ -8,8 +9,6 @@
     "It increases the users hitpoint regeneration nicely.",
     "This item loses its magical powers incredibly slowly.",
     "It gives awesome bonus to the skill 'animal lore'.",
-    "- Extra -",
     "The coat is the bane of all outworld beasts."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "A leathery cat o'nine shocking tails (2h)",
+  "type": "2h ancient",
   "data": [
     "It increases hit chance poorly.",
     "It has magnificent weapon class for its type (awesome in general).",
+    "It does electric damage like a god.",
     "This item loses its magical powers with average speed.",
     "It increases damage poorly.",
-    "It does electric damage like a god.",
     "It drains the wielders mental energy to charge up.",
     "It can easily entangle with whips alike.",
     "One should be careful when using it close to water."
-  ],
-  "type": "2h ancient"
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "The HUGE club called 'S'sadabn O'errut (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance impressively.",
     "It has superb weapon class for its type (superb in general).",
     "It increases the users strength pitifully.",
     "It increases the users dexterity pathetically.",
+    "It does magical damage adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does magical damage adequately."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage adequately."
+  ]
 }

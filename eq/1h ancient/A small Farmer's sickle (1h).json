@@ -1,9 +1,9 @@
 {
   "name": "A small Farmer's sickle (1h)",
+  "type": "1h ancient",
   "data": [
     "It decreases hit chance adequately.",
     "It has adequate weapon class for its type (weak in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h ancient"
+  ]
 }

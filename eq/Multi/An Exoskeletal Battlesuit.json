@@ -1,19 +1,18 @@
 {
   "name": "An Exoskeletal Battlesuit",
+  "type": "Multi",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity adequately.",
     "It increases the users constitution impressively.",
     "It has magnificent armour class for its type (ILLEGAL in general).",
     "It increases the users hitpoint regeneration impressively.",
-    "This item loses its magical powers somewhat slower than avarage.",
     "It increases the users physical resistance somewhat.",
     "It increases the users poison resistance somewhat.",
-    "It gives nice bonus to the skill 'dodge'.",
+    "This item loses its magical powers somewhat slower than avarage.",
     "It increases the users acid resistance somewhat.",
+    "It gives nice bonus to the skill 'dodge'.",
     "It increases the users fire resistance somewhat.",
-    "- Extra -",
     "The crevices between the plates provide room for extra shards."
-  ],
-  "type": "Multi"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "The Executioner (2h)",
+  "type": "2h axe",
   "data": [
     "It increases hit chance noticably.",
     "It has excellent weapon class for its type (great in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage an average amount."
-  ],
-  "type": "2h axe"
+  ]
 }

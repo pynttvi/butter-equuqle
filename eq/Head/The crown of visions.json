@@ -1,5 +1,6 @@
 {
   "name": "The crown of visions",
+  "type": "Head",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence somewhat.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers incredibly slowly.",
     "It contains a tale: Many battles has crown viewed from far away, yet",
     "there is much more to see."
-  ],
-  "type": "Head"
+  ]
 }

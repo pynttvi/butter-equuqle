@@ -1,11 +1,11 @@
 {
   "name": "Paws of Interfector",
+  "type": "Hands",
   "data": [
     "It increases the users strength pathetically.",
     "It increases the users dexterity poorly.",
     "It has excellent armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'dodge'."
-  ],
-  "type": "Hands"
+  ]
 }

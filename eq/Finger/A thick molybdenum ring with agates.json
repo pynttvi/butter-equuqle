@@ -1,5 +1,6 @@
 {
   "name": "A thick molybdenum ring with agates",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
@@ -8,6 +9,5 @@
     "It increases the users electric resistance somewhat.",
     "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "Dark headed spear (1h)",
+  "type": "1h polearm",
   "data": [
     "It has impressive weapon class for its type (average in general).",
-    "This item loses its magical powers with average speed.",
-    "It does asphyxiation damage adequately."
-  ],
-  "type": "1h polearm"
+    "It does asphyxiation damage adequately.",
+    "This item loses its magical powers with average speed."
+  ]
 }

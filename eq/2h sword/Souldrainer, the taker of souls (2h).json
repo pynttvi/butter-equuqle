@@ -1,10 +1,10 @@
 {
   "name": "Souldrainer, the taker of souls (2h)",
+  "type": "2h sword",
   "data": [
     "It has awesome weapon class for its type (awesome in general).",
     "It increases the users strength poorly.",
-    "This item loses its magical powers with average speed.",
-    "It does poison damage superbly."
-  ],
-  "type": "2h sword"
+    "It does poison damage superbly.",
+    "This item loses its magical powers with average speed."
+  ]
 }

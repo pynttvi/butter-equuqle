@@ -1,19 +1,19 @@
 {
   "name": "A visored brass helmet dripping with green ooze",
+  "type": "Head",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution somewhat.",
-    "It allows the user to see in darkness.",
     "It increases the users hitpoints like a god.",
     "It has adequate armour class for its type (little in general).",
-    "It decreases the users hitpoint regeneration pitifully.",
-    "It increases the users fire resistance somewhat.",
+    "It allows the user to see in darkness.",
     "It allows the user to see magical auras.",
     "It allows the user to see invisible.",
-    "This item loses its magical powers with average speed.",
+    "It decreases the users hitpoint regeneration pitifully.",
     "It increases the users poison resistance a bit.",
-    "It increases the users acid resistance a bit."
-  ],
-  "type": "Head"
+    "This item loses its magical powers with average speed.",
+    "It increases the users acid resistance a bit.",
+    "It increases the users fire resistance somewhat."
+  ]
 }

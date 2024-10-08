@@ -1,14 +1,13 @@
 {
   "name": "Viper Medallion",
+  "type": "Amulet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity somewhat.",
     "It has magnificent armour class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
     "It increases the users poison resistance adequately.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It modifies the user's resistance to poison damage.",
     "It emits darkness."
-  ],
-  "type": "Amulet"
+  ]
 }

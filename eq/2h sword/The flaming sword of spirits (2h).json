@@ -1,10 +1,10 @@
 {
   "name": "The flaming sword of spirits (2h)",
+  "type": "2h sword",
   "data": [
     "It has adequate weapon class for its type (adequate in general).",
-    "This item loses its magical powers with average speed.",
     "It does fire damage a tiny bit.",
+    "This item loses its magical powers with average speed.",
     "It emits light."
-  ],
-  "type": "2h sword"
+  ]
 }

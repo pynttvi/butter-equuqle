@@ -1,9 +1,9 @@
 {
   "name": "The red breastplate of war provokation",
+  "type": "Torso",
   "data": [
     "It increases the users strength poorly.",
     "It has tiny armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

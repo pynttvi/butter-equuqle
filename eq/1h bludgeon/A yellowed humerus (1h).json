@@ -1,9 +1,9 @@
 {
   "name": "A yellowed humerus (1h)",
+  "type": "1h bludgeon",
   "data": [
     "It has nice weapon class for its type (average in general).",
-    "This item loses its magical powers with average speed.",
-    "It does acid damage a bit."
-  ],
-  "type": "1h bludgeon"
+    "It does acid damage a bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

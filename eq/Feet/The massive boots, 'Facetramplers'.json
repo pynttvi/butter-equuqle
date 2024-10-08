@@ -1,5 +1,6 @@
 {
   "name": "The massive boots, 'Facetramplers'",
+  "type": "Feet",
   "data": [
     "It increases the users strength adequately.",
     "It decreases the users dexterity adequately.",
@@ -7,12 +8,9 @@
     "It has awesome armour class for its type (little in general).",
     "It increases the users hitpoint regeneration poorly.",
     "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users poison resistance somewhat.",
-    "",
-    "- Extra -",
+    "This item loses its magical powers incredibly slowly.",
     "The Facetramplers, true to their name, allow their wearer to trample the faces",
     "of corpses."
-  ],
-  "type": "Feet"
+  ]
 }

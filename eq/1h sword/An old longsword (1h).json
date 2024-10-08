@@ -1,9 +1,9 @@
 {
   "name": "An old longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It has superb weapon class for its type (adequate in general).",
-    "This item loses its magical powers with average speed.",
-    "It does magical damage poorly."
-  ],
-  "type": "1h sword"
+    "It does magical damage poorly.",
+    "This item loses its magical powers with average speed."
+  ]
 }

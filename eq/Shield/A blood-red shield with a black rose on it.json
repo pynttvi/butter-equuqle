@@ -1,14 +1,14 @@
 {
   "name": "A blood-red shield with a black rose on it",
+  "type": "Shield",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users dexterity slightly.",
     "It decreases the users constitution a tiny bit.",
     "It increases the users wisdom a bit.",
     "It has magnificent armour class for its type (poor in general).",
-    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'weapon skill 1h polearm'.",
-    "It increases the users poison resistance adequately."
-  ],
-  "type": "Shield"
+    "It increases the users poison resistance adequately.",
+    "This item loses its magical powers with average speed."
+  ]
 }

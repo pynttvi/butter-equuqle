@@ -1,9 +1,9 @@
 {
   "name": "A long sparkling steel rod (2h)",
+  "type": "2h polearm",
   "data": [
     "It has good weapon class for its type (adequate in general).",
     "This item loses its magical powers with average speed.",
     "It emits light."
-  ],
-  "type": "2h polearm"
+  ]
 }

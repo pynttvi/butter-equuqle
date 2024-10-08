@@ -1,12 +1,12 @@
 {
   "name": "A big black pearl",
+  "type": "Held",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity a good amount.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Held"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

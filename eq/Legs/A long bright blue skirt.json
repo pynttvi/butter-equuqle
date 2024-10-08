@@ -1,13 +1,13 @@
 {
   "name": "A long bright blue skirt",
+  "type": "Legs",
   "data": [
     "It increases the users intelligence poorly.",
     "It has excellent armour class for its type (feeble in general).",
     "It increases the users spellpoint regeneration a bit.",
     "It decreases the users hitpoint regeneration somewhat.",
-    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'create illusion'.",
     "It gives small bonus to the skill 'mastery of illusions'.",
-    "It gives small bonus to the skill 'create illusion'."
-  ],
-  "type": "Legs"
+    "This item loses its magical powers with average speed."
+  ]
 }

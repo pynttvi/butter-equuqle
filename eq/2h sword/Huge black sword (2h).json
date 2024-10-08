@@ -1,9 +1,9 @@
 {
   "name": "Huge black sword (2h)",
+  "type": "2h sword",
   "data": [
     "It has good weapon class for its type (good in general).",
     "This item loses its magical powers with average speed.",
     "It is enchanted."
-  ],
-  "type": "2h sword"
+  ]
 }

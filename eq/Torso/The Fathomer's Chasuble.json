@@ -1,11 +1,15 @@
 {
   "name": "The Fathomer's Chasuble",
+  "type": "Torso",
   "data": [
     "It decreases the users strength somewhat.",
     "It increases the users constitution a good amount.",
     "It increases the users wisdom a bit.",
     "It increases the users intelligence a bit.",
-    "It has"
-  ],
-  "type": "Torso"
+    "It has decent armour class for its type (mediocre in general).",
+    "It increases the users spellpoint regeneration superbly.",
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It boosts the wearer's regeneration in combat."
+  ]
 }

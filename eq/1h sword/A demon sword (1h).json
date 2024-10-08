@@ -1,8 +1,8 @@
 {
   "name": "A demon sword (1h)",
+  "type": "1h sword",
   "data": [
     "It has low weapon class for its type (feeble in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h sword"
+  ]
 }

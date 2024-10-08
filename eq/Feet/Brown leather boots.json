@@ -1,9 +1,9 @@
 {
   "name": "Brown leather boots",
+  "type": "Feet",
   "data": [
     "It increases the users dexterity pitifully.",
     "It has adequate armour class for its type (tiny in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Feet"
+  ]
 }

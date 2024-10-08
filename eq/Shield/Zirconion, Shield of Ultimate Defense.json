@@ -1,5 +1,6 @@
 {
   "name": "Zirconion, Shield of Ultimate Defense",
+  "type": "Shield",
   "data": [
     "It increases the users dexterity pathetically.",
     "It has nice armour class for its type (little in general).",
@@ -7,10 +8,8 @@
     "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'parry'.",
     "It increases the users cold resistance somewhat.",
-    "- Extra -",
     "It modifies the user's resistance to cold damage.",
     "It modifies the user's resistance to electric damage.",
     "It affects the user's skill knowledge."
-  ],
-  "type": "Shield"
+  ]
 }

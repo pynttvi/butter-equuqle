@@ -1,9 +1,9 @@
 {
   "name": "Dagger of the Kyrie (1h)",
+  "type": "1h dagger",
   "data": [
     "It has mediocre weapon class for its type (little in general).",
-    "This item loses its magical powers with average speed.",
-    "It does asphyxiation damage a good amount."
-  ],
-  "type": "1h dagger"
+    "It does asphyxiation damage a good amount.",
+    "This item loses its magical powers with average speed."
+  ]
 }

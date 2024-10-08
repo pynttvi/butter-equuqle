@@ -1,11 +1,11 @@
 {
   "name": "Charred Black Leggings",
+  "type": "Legs",
   "data": [
     "It increases the users wisdom impressively.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers very slowly.",
-    "It gives decent bonus to the skill 'mastery of shielding'."
-  ],
-  "type": "Legs"
+    "It gives decent bonus to the skill 'mastery of shielding'.",
+    "This item loses its magical powers very slowly."
+  ]
 }

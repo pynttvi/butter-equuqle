@@ -1,5 +1,6 @@
 {
   "name": "A heavy granite ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength somewhat.",
     "It decreases the users dexterity poorly.",
@@ -10,6 +11,5 @@
     "It increases the users physical resistance adequately.",
     "This item loses its magical powers with average speed.",
     "It decreases the users cold resistance somewhat."
-  ],
-  "type": "Finger"
+  ]
 }

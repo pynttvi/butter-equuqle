@@ -1,5 +1,6 @@
 {
   "name": "The Flamecaller's Stone",
+  "type": "Amulet",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom impressively.",
@@ -7,10 +8,8 @@
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration like a god.",
     "This item loses its magical powers very slowly.",
-    "- Extra -",
     "The Flamecaller's Stone is an artifact of Kirvana.",
     "The Flamecaller's Stone makes it possible to 'conjure campfires'.",
     "The Flamecaller's Stone prevents the wearer from being lit on fire."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "A pair of chain gloves known as 'Chilling touch'",
+  "type": "Hands",
   "data": [
     "It increases the users wisdom pathetically.",
     "It increases the users intelligence pathetically.",
     "It has excellent armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the spell 'preservation'.",
+    "This item loses its magical powers with average speed.",
     "They feel cold to touch."
-  ],
-  "type": "Hands"
+  ]
 }

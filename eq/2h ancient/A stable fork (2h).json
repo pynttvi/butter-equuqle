@@ -1,8 +1,8 @@
 {
   "name": "A stable fork (2h)",
+  "type": "2h ancient",
   "data": [
     "It has pathetic weapon class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h ancient"
+  ]
 }

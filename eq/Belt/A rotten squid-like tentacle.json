@@ -1,16 +1,16 @@
 {
   "name": "A rotten squid-like tentacle",
+  "type": "Belt",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution impressively.",
     "It increases the users wisdom poorly.",
     "It has little armour class for its type (almost non-existent in general).",
-    "It increases the users hitpoint regeneration poorly.",
     "It increases the users spellpoint regeneration slightly.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users poison resistance somewhat.",
+    "It increases the users hitpoint regeneration poorly.",
     "It increases the users magical resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "A death in the realm causes changes in its effects."
-  ],
-  "type": "Belt"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Shining gauntlets",
+  "type": "Hands",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution impressively.",
@@ -9,6 +10,5 @@
     "It decreases the users spellpoint regeneration pathetically.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Hands"
+  ]
 }

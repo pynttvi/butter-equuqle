@@ -1,5 +1,6 @@
 {
   "name": "The shimmering breastplate of the leecher",
+  "type": "Torso",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity impressively.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

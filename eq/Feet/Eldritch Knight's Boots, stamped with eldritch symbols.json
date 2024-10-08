@@ -1,0 +1,14 @@
+{
+  "name": "Eldritch Knight's Boots, stamped with eldritch symbols",
+  "type": "Feet",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has nice armour class for its type (tiny in general).",
+    "It increases the users hitpoint regeneration a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ]
+}

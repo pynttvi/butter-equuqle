@@ -1,15 +1,15 @@
 {
   "name": "A massive keratinous scale",
+  "type": "Shield",
   "data": [
     "It increases the users constitution magnificently.",
     "It increases the users hitpoints impressively.",
     "It has average armour class for its type (poor in general).",
+    "It gives decent bonus to the skill 'wall of steel'.",
+    "It increases the users psionic resistance somewhat.",
     "It increases the users electric resistance somewhat.",
     "This item loses its magical powers extremely slowly.",
-    "It gives decent bonus to the skill 'wall of steel'.",
     "It gives decent bonus to the skill 'parry'.",
-    "It increases the users psionic resistance somewhat.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Shield"
+  ]
 }

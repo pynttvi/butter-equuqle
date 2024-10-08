@@ -1,0 +1,14 @@
+{
+  "name": "Belt of Shifting Sands",
+  "type": "Belt",
+  "data": [
+    "It increases the users strength slightly.",
+    "It increases the users dexterity slightly.",
+    "It increases the users constitution slightly.",
+    "It has excellent armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users asphyxiation resistance somewhat."
+  ]
+}

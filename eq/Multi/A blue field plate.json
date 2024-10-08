@@ -1,5 +1,6 @@
 {
   "name": "A blue field plate",
+  "type": "Multi",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity pathetically.",
@@ -9,6 +10,5 @@
     "It decreases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'inner strength'."
-  ],
-  "type": "Multi"
+  ]
 }

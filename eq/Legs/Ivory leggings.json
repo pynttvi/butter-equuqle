@@ -1,5 +1,6 @@
 {
   "name": "Ivory leggings",
+  "type": "Legs",
   "data": [
     "It increases the users strength a good amount.",
     "It increases the users dexterity a good amount.",
@@ -7,6 +8,5 @@
     "It has magnificent armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "name": "A hammered silver necklet",
+  "type": "Neck",
   "data": [
     "It increases the users constitution a tiny bit.",
     "It increases the users wisdom strongly.",
     "It has magnificent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Neck"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A girdle of white marble",
+  "type": "Belt",
   "data": [
     "It increases the users strength a good amount.",
     "It increases the users constitution somewhat.",
@@ -7,9 +8,8 @@
     "It decreases the users intelligence somewhat.",
     "It has magnificent armour class for its type (pathetic in general).",
     "This item loses its magical powers slowly.",
-    "It gives nice bonus to the skill 'hew'.",
     "It gives nice bonus to the skill 'charge'.",
+    "It gives nice bonus to the skill 'hew'.",
     "The girdle controls the wearer's breathing, slightly curbing exhaustion."
-  ],
-  "type": "Belt"
+  ]
 }

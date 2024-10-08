@@ -1,5 +1,14 @@
 {
   "name": "Ring of Shadows",
-  "data": [],
-  "type": "Finger"
+  "type": "Finger",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "It increases the users spellpoint regeneration an average amount.",
+    "This item loses its magical powers with average speed.",
+    "You think that you could 'store' spell points within the ring.",
+    "You could probably also later 'recall' some of them.",
+    "You also feel you could concentrate on the ring for some reason.",
+    "You get the feeling that the more spell points you store in the ring,",
+    "the less efficient the storage process is."
+  ]
 }

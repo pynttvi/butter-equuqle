@@ -1,17 +1,17 @@
 {
   "name": "A shadowy plate cuirass",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users intelligence adequately.",
     "It has awesome armour class for its type (excellent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration adequately.",
-    "This item loses its magical powers very slowly.",
     "It increases the users physical resistance somewhat.",
-    "It gives small bonus to the skill 'unhallowed magic'.",
     "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers very slowly.",
     "It increases the users fire resistance somewhat.",
+    "It gives small bonus to the skill 'unhallowed magic'.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Torso"
+  ]
 }

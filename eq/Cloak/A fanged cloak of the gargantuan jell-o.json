@@ -1,5 +1,6 @@
 {
   "name": "A fanged cloak of the gargantuan jell-o",
+  "type": "Cloak",
   "data": [
     "It decreases the users constitution poorly.",
     "It increases the users wisdom poorly.",
@@ -7,12 +8,11 @@
     "It increases the users charisma impressively.",
     "It has nice armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration adequately.",
+    "It gives small penalty to the skill 'attack'.",
+    "It gives small bonus to the spell 'visualize act'.",
     "It gives small bonus to the skill 'allegro con foco'.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the spell 'visualize act'.",
-    "It gives small penalty to the skill 'attack'.",
     "It increases the users cold resistance strongly.",
     "It will lower the wearers ability to score hits in melee combat."
-  ],
-  "type": "Cloak"
+  ]
 }

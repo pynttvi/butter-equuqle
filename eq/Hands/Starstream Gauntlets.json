@@ -1,5 +1,6 @@
 {
   "name": "Starstream Gauntlets",
+  "type": "Hands",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity a good amount.",
@@ -9,9 +10,7 @@
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'throw'.",
-    "- Extra -",
     "The rails on the gauntlets allow shurikens to be launched with greater",
     "force and precision."
-  ],
-  "type": "Hands"
+  ]
 }

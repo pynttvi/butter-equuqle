@@ -1,10 +1,14 @@
 {
   "name": "The Runed Staff of Life",
+  "type": "Held",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity pathetically.",
     "It increases the users constitution noticably.",
-    "It has weak armour class for its type (pathetic"
-  ],
-  "type": "Held"
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration noticably.",
+    "It increases the users physical resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

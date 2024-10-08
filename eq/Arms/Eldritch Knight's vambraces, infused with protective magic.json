@@ -1,0 +1,14 @@
+{
+  "name": "Eldritch Knight's vambraces, infused with protective magic",
+  "type": "Arms",
+  "data": [
+    "It increases the users strength adequately.",
+    "It increases the users dexterity adequately.",
+    "It increases the users constitution poorly.",
+    "It decreases the users wisdom poorly.",
+    "It decreases the users intelligence poorly.",
+    "It has awesome armour class for its type (little in general).",
+    "It increases the users hitpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "name": "A heavy horned barbute",
+  "type": "Head",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users constitution a bit.",
@@ -9,6 +10,5 @@
     "It gives decent bonus to the skill 'inner strength'.",
     "It increases the users cold resistance adequately.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "An orange hat",
+  "type": "Head",
   "data": [
     "It increases the users wisdom pathetically.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

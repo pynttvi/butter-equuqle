@@ -1,5 +1,6 @@
 {
   "name": "Elven Blade (1h)",
+  "type": "1h sword",
   "data": [
     "It decreases hit chance impressively.",
     "It has poor weapon class for its type (little in general).",
@@ -8,15 +9,13 @@
     "It increases the users intelligence a tiny bit.",
     "It decreases the users armour class pathetically.",
     "It increases the users spellpoint regeneration nicely.",
+    "It gives decent bonus to the spell 'psychic crush'.",
     "This item loses its magical powers with average speed.",
     "It increases damage unnoticably.",
-    "It gives decent bonus to the spell 'psychic crush'.",
-    "- Extra -",
     "It modifies your armour class.",
     "It modifies the wielder's constitution.",
     "It modifies the wielder's dexterity.",
     "It modifies the wielder's intelligence.",
     "It modifies the wielder's mana regeneration."
-  ],
-  "type": "1h sword"
+  ]
 }

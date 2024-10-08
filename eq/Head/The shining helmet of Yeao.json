@@ -1,13 +1,13 @@
 {
   "name": "The shining helmet of Yeao",
+  "type": "Head",
   "data": [
     "It decreases the users dexterity a bit.",
     "It increases the users constitution a bit.",
     "It increases the users wisdom a bit.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration an average amount.",
-    "This item loses its magical powers slowly.",
-    "It increases the users magical resistance somewhat."
-  ],
-  "type": "Head"
+    "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers slowly."
+  ]
 }

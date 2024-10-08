@@ -1,10 +1,10 @@
 {
   "name": "A blackened iron ring",
+  "type": "Finger",
   "data": [
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers a bit faster than average.",
     "This ring has an odd presence to it, something not of this world, warping",
     "the very laws of nature."
-  ],
-  "type": "Finger"
+  ]
 }

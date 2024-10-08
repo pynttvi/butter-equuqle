@@ -1,5 +1,6 @@
 {
   "name": "A pulsing mystic stone rod (1h)",
+  "type": "1h ancient",
   "data": [
     "It decreases hit chance somewhat.",
     "It has magnificent weapon class for its type (adequate in general).",
@@ -9,6 +10,5 @@
     "the time lore. This rod has slow person spell stored",
     "within. To fully master the spell, you need the skill",
     "mastery of time."
-  ],
-  "type": "1h ancient"
+  ]
 }

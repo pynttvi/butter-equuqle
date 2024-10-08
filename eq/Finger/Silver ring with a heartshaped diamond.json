@@ -1,5 +1,6 @@
 {
   "name": "Silver ring with a heartshaped diamond",
+  "type": "Finger",
   "data": [
     "It decreases the users strength pathetically.",
     "It decreases the users dexterity pathetically.",
@@ -9,8 +10,7 @@
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It decreases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users psionic resistance somewhat."
-  ],
-  "type": "Finger"
+    "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

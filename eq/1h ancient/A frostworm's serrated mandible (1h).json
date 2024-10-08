@@ -1,16 +1,16 @@
 {
   "name": "A frostworm's serrated mandible (1h)",
+  "type": "1h ancient",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (decent in general).",
     "It increases the users dexterity somewhat.",
     "It increases the users constitution adequately.",
-    "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the skill 'anatomy'.",
-    "It increases damage a tiny bit.",
     "It does cold damage like a god.",
+    "It gives decent bonus to the skill 'anatomy'.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage a tiny bit.",
     "The serrated blade more easily inflicts grievous wounds.",
     "The tip of the blade serves as a focal point for intense cold."
-  ],
-  "type": "1h ancient"
+  ]
 }

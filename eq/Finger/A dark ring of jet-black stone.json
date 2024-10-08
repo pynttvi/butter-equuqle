@@ -1,16 +1,16 @@
 {
   "name": "A dark ring of jet-black stone",
+  "type": "Finger",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
     "It increases the users wisdom poorly.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'demon control'.",
+    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the spell 'summon demonic guardian'.",
     "It modifies the user's spell knowledge.",
     "It emits darkness."
-  ],
-  "type": "Finger"
+  ]
 }

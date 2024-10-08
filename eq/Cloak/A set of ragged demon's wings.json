@@ -1,11 +1,11 @@
 {
   "name": "A set of ragged demon's wings",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution poorly.",
     "It increases the users intelligence adequately.",
     "It has magnificent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers somewhat slower than avarage."
-  ],
-  "type": "Cloak"
+  ]
 }

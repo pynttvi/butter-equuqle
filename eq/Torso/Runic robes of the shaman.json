@@ -1,11 +1,11 @@
 {
   "name": "Runic robes of the shaman",
+  "type": "Torso",
   "data": [
     "It increases the users intelligence pathetically.",
     "It has average armour class for its type (low in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "It gives decent bonus to the spell 'magic missile'.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

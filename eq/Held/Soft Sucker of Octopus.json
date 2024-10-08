@@ -1,5 +1,6 @@
 {
   "name": "Soft Sucker of Octopus",
+  "type": "Held",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users constitution poorly.",
@@ -10,9 +11,6 @@
     "It decreases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It decreases the users asphyxiation resistance somewhat.",
-    "",
-    "- Extra -",
     "It modifies the user's resistance to asphyxiation."
-  ],
-  "type": "Held"
+  ]
 }

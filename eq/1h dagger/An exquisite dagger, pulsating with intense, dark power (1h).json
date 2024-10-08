@@ -1,22 +1,22 @@
 {
   "name": "An exquisite dagger, pulsating with intense, dark power (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance somewhat.",
     "It has colossal weapon class for its type (adequate in general).",
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
-    "This item loses its magical powers extremely slowly.",
-    "It gives small bonus to the skill 'anatomy'.",
-    "It gives small bonus to the skill 'triple backstab'.",
-    "It gives small bonus to the skill 'double backstab'.",
-    "It increases damage somewhat.",
-    "It gives small bonus to the skill 'double thrust'.",
     "It gives decent bonus to the skill 'thrust'.",
-    "It gives small bonus to the skill 'triple thrust'.",
+    "It gives small bonus to the skill 'triple backstab'.",
+    "It gives small bonus to the skill 'double thrust'.",
     "It does poison damage unbelievably much.",
+    "It gives small bonus to the skill 'anatomy'.",
+    "It gives small bonus to the skill 'double backstab'.",
+    "This item loses its magical powers extremely slowly.",
+    "It gives small bonus to the skill 'triple thrust'.",
+    "It increases damage somewhat.",
     "It gives decent bonus to the skill 'backstab'.",
     "This dagger radiates powerful poison.",
     "The dagger yearns to ember itself in an enemy's spine."
-  ],
-  "type": "1h dagger"
+  ]
 }

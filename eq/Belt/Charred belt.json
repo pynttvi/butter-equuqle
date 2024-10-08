@@ -1,5 +1,6 @@
 {
   "name": "Charred belt",
+  "type": "Belt",
   "data": [
     "It decreases the users strength adequately.",
     "It decreases the users dexterity impressively.",
@@ -7,6 +8,5 @@
     "It has excellent armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers very slowly."
-  ],
-  "type": "Belt"
+  ]
 }

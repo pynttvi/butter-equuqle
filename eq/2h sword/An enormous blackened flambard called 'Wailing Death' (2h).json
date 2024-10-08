@@ -1,5 +1,6 @@
 {
   "name": "An enormous blackened flambard called 'Wailing Death' (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance somewhat.",
     "It has awesome weapon class for its type (awesome in general).",
@@ -8,16 +9,15 @@
     "It increases the users constitution poorly.",
     "It increases the users intelligence poorly.",
     "It increases the users spellpoint regeneration poorly.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users magical resistance somewhat.",
-    "It increases damage impressively.",
-    "It gives decent bonus to the skill 'parry'.",
-    "It increases the users cold resistance somewhat.",
     "It does psionic damage unbelievably much.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives decent bonus to the skill 'parry'.",
+    "It increases damage impressively.",
+    "It increases the users cold resistance somewhat.",
     "The blade can sometimes disrupt the opponent's spellcasting.",
     "The malevolent magics of the blade increase its damage versus the",
     "good-aligned considerably.",
     "Three Shards of the Gods can be embedded into the blade of this sword."
-  ],
-  "type": "2h sword"
+  ]
 }

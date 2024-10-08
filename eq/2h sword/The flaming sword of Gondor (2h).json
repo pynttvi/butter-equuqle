@@ -1,14 +1,14 @@
 {
   "name": "The flaming sword of Gondor (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance noticably.",
     "It has impressive weapon class for its type (impressive in general).",
+    "It does fire damage a good amount.",
     "This item loses its magical powers with average speed.",
     "It increases damage slightly.",
-    "It does fire damage a good amount.",
     "It rocks.",
     "It emits light.",
     "You can say your prayers to it, sometimes it listens."
-  ],
-  "type": "2h sword"
+  ]
 }

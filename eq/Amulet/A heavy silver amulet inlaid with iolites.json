@@ -1,16 +1,16 @@
 {
   "name": "A heavy silver amulet inlaid with iolites",
+  "type": "Amulet",
   "data": [
     "It increases the users wisdom slightly.",
     "It increases the users intelligence slightly.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration tremendously.",
-    "It gives tiny bonus to the spell 'neural internecion'.",
-    "This item loses its magical powers slowly.",
     "It gives small bonus to the spell 'summon storm'.",
     "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers slowly.",
+    "It gives tiny bonus to the spell 'neural internecion'.",
     "It gives small bonus to the spell 'skyfire'.",
     "This amulet will bestow its bearer an affinity with storm and thunder."
-  ],
-  "type": "Amulet"
+  ]
 }

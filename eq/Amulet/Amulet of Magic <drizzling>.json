@@ -1,0 +1,11 @@
+{
+  "name": "Amulet of Magic <drizzling>",
+  "type": "Amulet",
+  "data": [
+    "It increases the users wisdom pitifully.",
+    "It increases the users intelligence pitifully.",
+    "It has poor armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ]
+}

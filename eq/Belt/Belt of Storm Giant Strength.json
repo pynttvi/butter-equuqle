@@ -1,5 +1,6 @@
 {
   "name": "Belt of Storm Giant Strength",
+  "type": "Belt",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity a bit.",
@@ -8,7 +9,6 @@
     "It decreases the users intelligence somewhat.",
     "It has adequate armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration a bit.",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Belt"
+    "This item loses its magical powers very slowly."
+  ]
 }

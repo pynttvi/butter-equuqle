@@ -1,5 +1,6 @@
 {
   "name": "The Pale King's Circlet",
+  "type": "Head",
   "data": [
     "It increases the users dexterity nicely.",
     "It increases the users intelligence nicely.",
@@ -7,14 +8,11 @@
     "It has magnificent armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration an average amount.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers extremely slowly.",
     "It gives nice bonus to the skill 'anatomy'.",
     "It increases the users electric resistance somewhat.",
-    "It gives decent bonus to the skill 'leadership'.",
+    "This item loses its magical powers extremely slowly.",
     "It increases the users asphyxiation resistance somewhat.",
-    "",
-    "- Extra -",
+    "It gives decent bonus to the skill 'leadership'.",
     "The circlet contains an aspect of Hastur's immeasurable genius."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "name": "Grey cloak",
+  "type": "Cloak",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
     "It increases the users constitution poorly.",
     "It has average armour class for its type (pathetic in general).",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Cloak"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

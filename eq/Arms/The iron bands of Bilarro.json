@@ -1,11 +1,15 @@
 {
   "name": "The iron bands of Bilarro",
+  "type": "Arms",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity a tiny bit.",
     "It increases the users constitution poorly.",
     "It decreases the users wisdom poorly.",
-    "It decreases"
-  ],
-  "type": "Arms"
+    "It decreases the users intelligence adequately.",
+    "It has awesome armour class for its type (little in general).",
+    "It decreases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ]
 }

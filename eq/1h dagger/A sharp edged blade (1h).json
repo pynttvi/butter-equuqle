@@ -1,9 +1,9 @@
 {
   "name": "A sharp edged blade (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance poorly.",
     "It has nice weapon class for its type (feeble in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h dagger"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A golden ring with sapphires",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom impressively.",
     "It has little armour class for its type (almost non-existent in general).",
@@ -7,6 +8,5 @@
     "This item loses its magical powers incredibly slowly.",
     "While worn, this ring will reduce the drain of all defensive spells cast by the",
     "wearer."
-  ],
-  "type": "Finger"
+  ]
 }

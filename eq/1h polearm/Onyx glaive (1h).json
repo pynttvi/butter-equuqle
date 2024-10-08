@@ -1,5 +1,12 @@
 {
   "name": "Onyx glaive (1h)",
-  "data": [],
-  "type": "1h polearm"
+  "type": "1h polearm",
+  "data": [
+    "It increases hit chance strongly.",
+    "It has impressive weapon class for its type (average in general).",
+    "It does fire damage adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage slightly.",
+    "*----------------------------------------------------------------------*"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The crimson cloak of Buju, awash with sigils and golden amulets",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution somewhat.",
     "It increases the users wisdom somewhat.",
@@ -7,9 +8,8 @@
     "It has magnificent armour class for its type (little in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration poorly.",
-    "It gives nice bonus to the skill 'chaos from invariance'.",
     "This item loses its magical powers with average speed.",
+    "It gives nice bonus to the skill 'chaos from invariance'.",
     "It gives nice bonus to the skill 'order from chaos'."
-  ],
-  "type": "Cloak"
+  ]
 }

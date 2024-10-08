@@ -1,13 +1,13 @@
 {
   "name": "Talendine's walking stick (1h)",
+  "type": "1h staff",
   "data": [
     "It increases hit chance adequately.",
     "It has impressive weapon class for its type (poor in general).",
     "It increases the users wisdom noticably.",
     "It increases the users spellpoint regeneration a bit.",
+    "It does magical damage somewhat.",
     "This item loses its magical powers very fast.",
-    "It increases damage a tiny bit.",
-    "It does magical damage somewhat."
-  ],
-  "type": "1h staff"
+    "It increases damage a tiny bit."
+  ]
 }

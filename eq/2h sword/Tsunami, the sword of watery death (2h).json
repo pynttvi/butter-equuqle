@@ -1,11 +1,11 @@
 {
   "name": "Tsunami, the sword of watery death (2h)",
+  "type": "2h sword",
   "data": [
     "It has magnificent weapon class for its type (magnificent in general).",
     "It increases the users strength adequately.",
-    "This item loses its magical powers with average speed.",
     "It does cold damage like a god.",
+    "This item loses its magical powers with average speed.",
     "It can unleash a watery death upon selected mortals"
-  ],
-  "type": "2h sword"
+  ]
 }

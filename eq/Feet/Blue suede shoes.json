@@ -1,11 +1,11 @@
 {
   "name": "Blue suede shoes",
+  "type": "Feet",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
     "It has average armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'backstab'."
-  ],
-  "type": "Feet"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Cat Fur Sleeves",
+  "type": "Arms",
   "data": [
     "It increases the users dexterity adequately.",
     "It decreases the users wisdom a tiny bit.",
@@ -8,6 +9,5 @@
     "It increases the users spellpoint regeneration slightly.",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance somewhat."
-  ],
-  "type": "Arms"
+  ]
 }

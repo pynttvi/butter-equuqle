@@ -1,13 +1,13 @@
 {
   "name": "A jagged opal rapier known as 'Plaguedealer' (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance poorly.",
     "It has magnificent weapon class for its type (low in general).",
     "It increases the users dexterity impressively.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It does poison damage like a god.",
+    "This item loses its magical powers with average speed.",
     "When piercing enemys flesh, this rapier has a chance make the enemy more vulnerable to poison."
-  ],
-  "type": "1h dagger"
+  ]
 }

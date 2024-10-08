@@ -1,14 +1,14 @@
 {
   "name": "The ring of illusionary protection",
+  "type": "Finger",
   "data": [
     "It increases the users intelligence somewhat.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration a bit.",
     "It decreases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'quick shielding'.",
     "It gives small bonus to the skill 'mastery of illusion'.",
+    "It gives small bonus to the skill 'quick shielding'.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'shielding control'."
-  ],
-  "type": "Finger"
+  ]
 }

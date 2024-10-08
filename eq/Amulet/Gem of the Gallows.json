@@ -1,14 +1,14 @@
 {
   "name": "Gem of the Gallows",
+  "type": "Amulet",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users dexterity slightly.",
     "It increases the users constitution a tiny bit.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration poorly.",
-    "It gives decent bonus to the skill 'enhance criticals'.",
     "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'enhance criticals'.",
     "It gives decent bonus to the skill 'critical'."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "An exquisite platinum ring with rubies",
+  "type": "Finger",
   "data": [
     "It increases the users intelligence impressively.",
     "It increases the users charisma impressively.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration an average amount.",
-    "This item loses its magical powers extremely slowly.",
     "It increases the users psionic resistance somewhat.",
-    "It gives small bonus to the skill 'quick chant'.",
-    "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Finger"
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users asphyxiation resistance somewhat.",
+    "It gives small bonus to the skill 'quick chant'."
+  ]
 }

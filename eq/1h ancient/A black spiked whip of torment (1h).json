@@ -1,14 +1,15 @@
 {
   "name": "A black spiked whip of torment (1h)",
+  "type": "1h ancient",
   "data": [
-    "It has almost non-existent weapon class for its type (almost non-existent in general).",
-    "It decreases the users physical resistance adequately.",
-    "It gives small penalty to the skill 'dodge'.",
+    "It increases hit chance slightly.",
+    "It has magnificent weapon class for its type (low in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "It increases the users hitpoint regeneration poorly.",
+    "It does magical damage incredibly.",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'attack'.",
-    "It gives small penalty to the skill 'parry'.",
-    "It does poison damage unnoticably.",
-    "It seems to have a pitch-black aura surrounding it."
-  ],
-  "type": "1h ancient"
+    "It increases damage slightly.",
+    "Rotting can cause wounds of various types.",
+    "*----------------------------------------------------------------------*"
+  ]
 }

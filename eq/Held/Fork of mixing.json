@@ -1,10 +1,10 @@
 {
   "name": "Fork of mixing",
+  "type": "Held",
   "data": [
     "It increases the users dexterity pitifully.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed.",
-    "It gives small bonus"
-  ],
-  "type": "Held"
+    "It gives small bonus to the skill 'herb mixing'."
+  ]
 }

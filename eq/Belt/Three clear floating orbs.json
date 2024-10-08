@@ -1,5 +1,6 @@
 {
   "name": "Three clear floating orbs",
+  "type": "Belt",
   "data": [
     "It decreases the users constitution unnoticably.",
     "It increases the users wisdom pathetically.",
@@ -7,6 +8,5 @@
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration a bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Belt"
+  ]
 }

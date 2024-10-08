@@ -1,5 +1,6 @@
 {
   "name": "A flamehardened ring",
+  "type": "Finger",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users dexterity pitifully.",
@@ -8,10 +9,9 @@
     "It increases the users intelligence a good amount.",
     "It increases the users hitpoints poorly.",
     "It has adequate armour class for its type (pathetic in general).",
-    "It increases the users fire resistance strongly.",
     "It increases the users spellpoint regeneration nicely.",
     "This item loses its magical powers slowly.",
+    "It increases the users fire resistance strongly.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Finger"
+  ]
 }

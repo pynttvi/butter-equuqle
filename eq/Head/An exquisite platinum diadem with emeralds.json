@@ -1,13 +1,13 @@
 {
   "name": "An exquisite platinum diadem with emeralds",
+  "type": "Head",
   "data": [
     "It increases the users wisdom impressively.",
     "It increases the users charisma adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers extremely slowly.",
-    "It gives small bonus to the skill 'arcane lore'.",
-    "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Head"
+    "It increases the users asphyxiation resistance somewhat.",
+    "It gives small bonus to the skill 'arcane lore'."
+  ]
 }

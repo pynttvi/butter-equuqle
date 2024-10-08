@@ -1,10 +1,11 @@
 {
   "name": "The black scarf of mischief",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity impressively.",
     "It has non-existent armour class for its type (non-existent in general).",
-    "This item loses its m"
-  ],
-  "type": "Neck"
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'strangle'."
+  ]
 }

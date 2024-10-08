@@ -1,16 +1,16 @@
 {
   "name": "An enameled bodice dagger",
+  "type": "Amulet",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity a good amount.",
     "It increases the users constitution pitifully.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration somewhat.",
-    "It gives small bonus to the skill 'whirlwind attack'.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'attack'.",
-    "It gives small bonus to the skill 'critical'.",
-    "It gives small bonus to the skill 'doublehit'."
-  ],
-  "type": "Amulet"
+    "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'whirlwind attack'.",
+    "It gives small bonus to the skill 'doublehit'.",
+    "It gives small bonus to the skill 'critical'."
+  ]
 }

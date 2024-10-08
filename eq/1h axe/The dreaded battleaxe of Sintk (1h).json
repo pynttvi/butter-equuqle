@@ -1,14 +1,14 @@
 {
   "name": "The dreaded battleaxe of Sintk (1h)",
+  "type": "1h axe",
   "data": [
     "It increases hit chance pitifully.",
     "It has great weapon class for its type (mediocre in general).",
     "It increases the users strength poorly.",
     "It increases the users physical resistance a bit.",
-    "This item loses its magical powers with average speed.",
+    "It does psionic damage unnoticably.",
     "It increases the users poison resistance somewhat.",
-    "It increases damage slightly.",
-    "It does psionic damage unnoticably."
-  ],
-  "type": "1h axe"
+    "This item loses its magical powers with average speed.",
+    "It increases damage slightly."
+  ]
 }

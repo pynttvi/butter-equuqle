@@ -1,9 +1,9 @@
 {
   "name": "Orcish Shamanic Staff (2h)",
+  "type": "2h staff",
   "data": [
     "It has weak weapon class for its type (little in general).",
     "It increases the users intelligence pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h staff"
+  ]
 }

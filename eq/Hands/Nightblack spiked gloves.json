@@ -1,10 +1,10 @@
 {
   "name": "Nightblack spiked gloves",
+  "type": "Hands",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity pitifully.",
     "It has magnificent armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Hands"
+  ]
 }

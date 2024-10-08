@@ -1,24 +1,20 @@
 {
   "name": "The blackened iron crown of the Wraithlords",
+  "type": "Head",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users intelligence adequately.",
     "It has awesome armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users psionic resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
     "It increases the users shadow resistance somewhat.",
     "It increases the users asphyxiation resistance somewhat.",
-    "",
-    "- Extra -",
     "This crown will, if donned by someone of evil alignment, protect the wearer",
     "from the light.",
     "The enchantment of this crown is more powerful if it is donned by a dread wraith.",
     "Three Shards of Gods can be embedded into this dark artifact.",
-    "",
-    "",
-    "--More-- (95%)"
-  ],
-  "type": "Head"
+    "(Not in battle) (Demonic)|"
+  ]
 }

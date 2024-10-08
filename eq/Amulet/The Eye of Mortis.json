@@ -1,5 +1,6 @@
 {
   "name": "The Eye of Mortis",
+  "type": "Amulet",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom adequately.",
@@ -10,6 +11,5 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'dark ritual'.",
     "It gives small bonus to the skill 'willpower'."
-  ],
-  "type": "Amulet"
+  ]
 }

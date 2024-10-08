@@ -1,13 +1,13 @@
 {
   "name": "Ivory bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users wisdom nicely.",
     "It increases the users intelligence poorly.",
     "It has adequate armour class for its type (tiny in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "It gives small bonus to the skill 'offensive efficiency'.",
     "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'offensive efficiency'.",
     "It gives tiny bonus to the skill 'greater vulnerability'."
-  ],
-  "type": "Arms"
+  ]
 }

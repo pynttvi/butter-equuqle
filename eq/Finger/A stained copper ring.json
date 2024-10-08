@@ -1,5 +1,6 @@
 {
   "name": "A stained copper ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength slightly.",
     "It decreases the users dexterity pathetically.",
@@ -7,10 +8,9 @@
     "It has little armour class for its type (almost non-existent in general).",
     "It decreases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration a bit.",
-    "This item loses its magical powers a bit slower than avarage.",
     "It increases the users physical resistance a bit.",
+    "This item loses its magical powers a bit slower than avarage.",
     "It increases the users acid resistance somewhat.",
     "It increases the users asphyxiation resistance a bit."
-  ],
-  "type": "Finger"
+  ]
 }

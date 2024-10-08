@@ -1,5 +1,6 @@
 {
   "name": "The white rebec of Baron Karlstein",
+  "type": "1h instrument",
   "data": [
     "It decreases hit chance poorly.",
     "It has weak weapon class for its type (pathetic in general).",
@@ -7,6 +8,5 @@
     "It decreases damage poorly.",
     "When the last remaining strings break, this instrument has only",
     "sentimenal value left."
-  ],
-  "type": "1h instrument"
+  ]
 }

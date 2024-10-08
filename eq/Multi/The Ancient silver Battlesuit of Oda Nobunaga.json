@@ -1,5 +1,6 @@
 {
   "name": "The Ancient silver Battlesuit of Oda Nobunaga",
+  "type": "Multi",
   "data": [
     "It increases the users strength ILLEGALLY.",
     "It increases the users dexterity ILLEGALLY.",
@@ -8,11 +9,9 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases the users cold resistance strongly.",
     "It increases the users fire resistance strongly.",
-    "- Extra -",
+    "It increases the users cold resistance strongly.",
     "It affects the user's cold resistance.",
     "It affects the user's fire resistance."
-  ],
-  "type": "Multi"
+  ]
 }

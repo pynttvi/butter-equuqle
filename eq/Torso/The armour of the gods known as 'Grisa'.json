@@ -1,5 +1,6 @@
 {
   "name": "The armour of the gods known as 'Grisa'",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity impressively.",
@@ -7,9 +8,6 @@
     "It has magnificent armour class for its type (excellent in general).",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "This armour has hidden powers."
-  ],
-  "type": "Torso"
+  ]
 }

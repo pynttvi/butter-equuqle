@@ -1,15 +1,15 @@
 {
   "name": "Ragged Straw Hat",
+  "type": "Head",
   "data": [
     "It decreases the users strength a tiny bit.",
     "It decreases the users dexterity poorly.",
     "It increases the users wisdom poorly.",
     "It increases the users intelligence a bit.",
     "It has decent armour class for its type (little in general).",
-    "It decreases the users fire resistance strongly.",
     "It increases the users spellpoint regeneration an average amount.",
     "This item loses its magical powers with average speed.",
+    "It decreases the users fire resistance strongly.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Head"
+  ]
 }

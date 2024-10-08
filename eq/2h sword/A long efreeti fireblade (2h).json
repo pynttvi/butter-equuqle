@@ -1,11 +1,11 @@
 {
   "name": "A long efreeti fireblade (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance pitifully.",
     "It has average weapon class for its type (average in general).",
+    "It does fire damage a bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage pitifully.",
-    "It does fire damage a bit."
-  ],
-  "type": "2h sword"
+    "It increases damage pitifully."
+  ]
 }

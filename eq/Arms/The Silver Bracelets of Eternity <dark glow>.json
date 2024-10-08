@@ -1,0 +1,15 @@
+{
+  "name": "The Silver Bracelets of Eternity <dark glow>",
+  "type": "Arms",
+  "data": [
+    "It decreases the users dexterity poorly.",
+    "It decreases the users constitution pathetically.",
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence impressively.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers a bit faster than avarage.",
+    "It gives tiny bonus to the spell 'magical storm'.",
+    "It gives small bonus to the skill 'conceal spellcasting'."
+  ]
+}

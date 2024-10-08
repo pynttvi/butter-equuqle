@@ -1,11 +1,13 @@
 {
   "name": "The Cobalt Robes of Aquaris",
+  "type": "Torso",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom poorly.",
     "It increases the users intelligence poorly.",
     "It increases the users charisma poorly.",
-    "It has average arm"
-  ],
-  "type": "Torso"
+    "It has average armour class for its type (low in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers with average speed."
+  ]
 }

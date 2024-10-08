@@ -1,5 +1,6 @@
 {
   "name": "A brass helmet dripping with green ooze",
+  "type": "Head",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity poorly.",
@@ -7,11 +8,10 @@
     "It increases the users hitpoints like a god.",
     "It has decent armour class for its type (little in general).",
     "It decreases the users hitpoint regeneration pitifully.",
-    "It increases the users fire resistance somewhat.",
-    "This item loses its magical powers with average speed.",
     "It increases the users poison resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance a bit.",
+    "It increases the users fire resistance somewhat.",
     "It seems to be missing its visor."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,18 +1,17 @@
 {
   "name": "Hastur's Scythe (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance adequately.",
     "It has awesome weapon class for its type (tremendous in general).",
-    "This item loses its magical powers extremely slowly.",
-    "It increases damage impressively.",
     "It gives decent bonus to the skill 'hit placement'.",
     "It does psionic damage unbelievably much.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases damage impressively.",
     "It gives decent bonus to the skill 'critical'.",
-    "- Extra -",
     "The weapon provides willing assistance to its wielder, reducing the",
     "effort expended to swing it.",
     "The scythe's eye senses openings in its enemy's defenses.",
     "The scythe helps its wielder create and exploit combat opportunities."
-  ],
-  "type": "2h polearm"
+  ]
 }

@@ -1,15 +1,15 @@
 {
   "name": "The staff of Denial (1h)",
+  "type": "1h staff",
   "data": [
     "It increases hit chance a tiny bit.",
     "It has superb weapon class for its type (weak in general).",
-    "This item loses its magical powers with average speed.",
     "It does cold damage a good amount.",
+    "This item loses its magical powers with average speed.",
     "A legend says that this weapon was crafted by Daemon Lord",
     "Aldinachs' court smith. It is said that the staff is made out of",
     "the coldest iron which was hardened in the river Styx. To bind",
     "enchantments into the staff, the smith massacred a village of Dauers",
     "and enslaved peoples' souls into the staff."
-  ],
-  "type": "1h staff"
+  ]
 }

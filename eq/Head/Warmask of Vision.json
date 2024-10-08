@@ -1,5 +1,14 @@
 {
   "name": "Warmask of Vision",
-  "data": [],
-  "type": "Head"
+  "type": "Head",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution poorly.",
+    "It has decent armour class for its type (little in general).",
+    "It allows the user to see in darkness.",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It affects the users vision."
+  ]
 }

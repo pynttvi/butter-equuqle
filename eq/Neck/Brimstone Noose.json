@@ -1,5 +1,6 @@
 {
   "name": "Brimstone Noose",
+  "type": "Neck",
   "data": [
     "It increases the users strength adequately.",
     "It decreases the users dexterity poorly.",
@@ -9,9 +10,7 @@
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers very slowly.",
-    "- Extra -",
     "The Brimstone Noose is an artifact of Kirvana's.",
     "The Brimstone Noose can be commanded with 'noose_info'"
-  ],
-  "type": "Neck"
+  ]
 }

@@ -1,14 +1,14 @@
 {
   "name": "Gloves of concentration",
+  "type": "Hands",
   "data": [
     "It increases the users strength impressively.",
     "It decreases the users dexterity poorly.",
     "It increases the users constitution adequately.",
     "It decreases the users wisdom poorly.",
     "It has adequate armour class for its type (pathetic in general).",
-    "It increases the users hitpoint regeneration pitifully.",
     "It increases the users spellpoint regeneration pitifully.",
+    "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Helm of dimensional travel",
+  "type": "Head",
   "data": [
     "It increases the users constitution poorly.",
     "It increases the users wisdom pathetically.",
@@ -12,6 +13,5 @@
     "if the necessary magical energy.",
     "To open a dimensional gate: 'dgate <target>'",
     "To open a dimension door: 'ddoor'"
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "name": "Rohan armour",
+  "type": "Torso",
   "data": [
-    "|                             Rohan armour                             |",
-    "*----------------------------------------------------------------------*"
-  ],
-  "type": "Torso"
+    "It increases the users strength unnoticably.",
+    "It increases the users constitution unnoticably.",
+    "It has almost non-existent armour class for its type (almost non-existent in general).",
+    "This item loses its magical powers with average speed."
+  ]
 }

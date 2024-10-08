@@ -1,11 +1,11 @@
 {
   "name": "Belinik's battle axe of wounding (rusty) (1h)",
+  "type": "1h axe",
   "data": [
     "It has impressive weapon class for its type (average in general).",
+    "It does cold damage somewhat.",
     "This item loses its magical powers with average speed.",
     "It increases damage noticably.",
-    "It does cold damage somewhat.",
     "It is cursed."
-  ],
-  "type": "1h axe"
+  ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "The rod of the Void Walker (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance a bit.",
     "It has low weapon class for its type (little in general).",
     "It decreases the users wisdom adequately.",
     "It increases the users intelligence impossibly much.",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers incredibly slowly.",
-    "It increases the users poison resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
     "It does asphyxiation damage superbly.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
     "It increases the users asphyxiation resistance adequately."
-  ],
-  "type": "2h staff"
+  ]
 }

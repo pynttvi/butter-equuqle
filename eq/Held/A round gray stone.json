@@ -1,29 +1,24 @@
 {
   "name": "A round gray stone",
+  "type": "Held",
   "data": [
     "It increases the users dexterity poorly.",
     "It has non-existent armour class for its type (non-existent in general).",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'pick pockets'.",
+    "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'pick locks'.",
-    "",
-    "- Extra -",
     "The stone contains a tale:",
-    "",
     "Please spare a thought for Old Man Jest,",
     "who spoke a funny gurgle.",
     "He thought it might be in his interest",
     "to go about and burgle.",
-    "",
     "But on one of thieving trips of night,",
     "he came upon a door;",
     "A door that caused him too much plight",
     "and fell him on the floor.",
-    "",
     "Please spare a thought for Old Man Jest,",
     "who now is being held;",
     "In this stone, this thieve's nest;",
     "forever is he celled."
-  ],
-  "type": "Held"
+  ]
 }

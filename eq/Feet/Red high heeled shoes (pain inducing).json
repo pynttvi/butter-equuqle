@@ -1,12 +1,11 @@
 {
   "name": "Red high heeled shoes (pain inducing)",
+  "type": "Feet",
   "data": [
     "It has little armour class for its type (almost non-existent in general).",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance adequately.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "This object effects the users resistance to physical damage",
     "This object has hidden magical properties."
-  ],
-  "type": "Feet"
+  ]
 }

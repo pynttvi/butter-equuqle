@@ -1,0 +1,11 @@
+{
+  "name": "Amulet of Fire <dark>",
+  "type": "Amulet",
+  "data": [
+    "It increases the users strength poorly.",
+    "It increases the users dexterity poorly.",
+    "It increases the users constitution pathetically.",
+    "It has average armour class for its type (pathetic in general).",
+    "This item loses its magical powers with average speed."
+  ]
+}

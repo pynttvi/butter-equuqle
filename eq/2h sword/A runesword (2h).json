@@ -1,11 +1,11 @@
 {
   "name": "A runesword (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance poorly.",
     "It has nice weapon class for its type (nice in general).",
+    "It does magical damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does magical damage somewhat."
-  ],
-  "type": "2h sword"
+    "It increases damage poorly."
+  ]
 }

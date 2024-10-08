@@ -1,5 +1,6 @@
 {
   "name": "Single Black Glove",
+  "type": "Hands",
   "data": [
     "It decreases the users dexterity a bit.",
     "It decreases the users constitution a bit.",
@@ -8,6 +9,5 @@
     "It has low armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers very slowly."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The Leggings of Eternal Fire",
+  "type": "Legs",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers very slowly.",
     "It gives small bonus to the skill 'optimize transfer'."
-  ],
-  "type": "Legs"
+  ]
 }

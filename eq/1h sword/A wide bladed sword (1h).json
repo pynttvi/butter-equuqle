@@ -1,8 +1,8 @@
 {
   "name": "A wide bladed sword (1h)",
+  "type": "1h sword",
   "data": [
     "It has decent weapon class for its type (low in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h sword"
+  ]
 }

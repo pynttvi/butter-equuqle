@@ -1,9 +1,9 @@
 {
   "name": "Dragon tooth",
+  "type": "Held",
   "data": [
     "It increases the users constitution adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Held"
+  ]
 }

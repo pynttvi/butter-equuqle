@@ -1,14 +1,14 @@
 {
   "name": "The lyre of the Bonesinger",
+  "type": "1h instrument",
   "data": [
     "It decreases hit chance poorly.",
     "It has weak weapon class for its type (pathetic in general).",
     "It increases the users intelligence impressively.",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers very slowly.",
     "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers very slowly.",
     "It decreases damage poorly.",
     "The magic of this instrument is strengthened if played by a necromancer or an undead."
-  ],
-  "type": "1h instrument"
+  ]
 }

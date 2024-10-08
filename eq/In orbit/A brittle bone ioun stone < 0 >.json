@@ -1,0 +1,9 @@
+{
+  "name": "A brittle bone ioun stone < 0 >",
+  "type": "In orbit",
+  "data": [
+    "It has non-existent armour class for its type (non-existent in general).",
+    "This item loses its magical powers incredibly slowly.",
+    "The stone can be 'connected' to another stone of like color."
+  ]
+}

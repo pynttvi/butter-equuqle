@@ -1,5 +1,6 @@
 {
   "name": "The Blue Plate of Diversity",
+  "type": "Torso",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity poorly.",
@@ -8,10 +9,7 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers very slowly.",
-    "",
-    "- Extra -",
     "This armour must be signed before it can be used.",
     "Once signed, nobody else may wear it."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "Short desert sword (2h)",
+  "type": "2h sword",
   "data": [
     "It has little weapon class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h sword"
+  ]
 }

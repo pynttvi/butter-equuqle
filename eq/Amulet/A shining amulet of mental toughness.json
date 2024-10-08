@@ -1,11 +1,11 @@
 {
   "name": "A shining amulet of mental toughness",
+  "type": "Amulet",
   "data": [
     "It increases the users wisdom like a god.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration like a god.",
     "This item loses its magical powers incredibly slowly.",
     "It can lessen the mental strain of casting defensive and healing spells."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "name": "An old bloody executioners axe (2h)",
+  "type": "2h axe",
   "data": [
     "It increases hit chance adequately.",
     "It has magnificent weapon class for its type (awesome in general).",
     "It gives decent bonus to the skill 'rage'.",
+    "It does electric damage like a god.",
     "This item loses its magical powers with average speed.",
-    "It increases damage incredibly.",
-    "It does electric damage like a god."
-  ],
-  "type": "2h axe"
+    "It increases damage incredibly."
+  ]
 }

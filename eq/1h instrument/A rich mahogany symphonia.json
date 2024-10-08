@@ -1,5 +1,6 @@
 {
   "name": "A rich mahogany symphonia",
+  "type": "1h instrument",
   "data": [
     "It decreases hit chance poorly.",
     "It has weak weapon class for its type (pathetic in general).",
@@ -7,10 +8,9 @@
     "It increases the users intelligence impressively.",
     "It increases the users charisma impressively.",
     "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers incredibly slowly.",
-    "It gives great bonus to the skill 'tonal control'.",
     "It gives great bonus to the skill 'instrumentation'.",
+    "It gives great bonus to the skill 'tonal control'.",
+    "This item loses its magical powers incredibly slowly.",
     "It decreases damage poorly."
-  ],
-  "type": "1h instrument"
+  ]
 }

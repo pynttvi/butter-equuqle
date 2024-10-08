@@ -1,8 +1,8 @@
 {
   "name": "Ravenkall Guard Spaulder",
+  "type": "Arms",
   "data": [
     "It has average armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

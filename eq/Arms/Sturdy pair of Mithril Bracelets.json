@@ -1,5 +1,6 @@
 {
   "name": "Sturdy pair of Mithril Bracelets",
+  "type": "Arms",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'ignore pain'."
-  ],
-  "type": "Arms"
+  ]
 }

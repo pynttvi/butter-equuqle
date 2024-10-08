@@ -1,12 +1,11 @@
 {
   "name": "The blue poisonfang leggings of the plaguegod",
+  "type": "Legs",
   "data": [
     "It increases the users dexterity like a god.",
     "It has magnificent armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers incredibly slowly.",
-    "- Extra -",
     "These leggings can cause great pain."
-  ],
-  "type": "Legs"
+  ]
 }

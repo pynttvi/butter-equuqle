@@ -1,8 +1,9 @@
 {
   "name": "An old dented shield",
+  "type": "Shield",
   "data": [
     "It has little armour class for its type (pathetic in general).",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Shield"
+    "This item loses its magical powers with average speed.",
+    "Regnole \u001b[1m{sales}\u001b[0m: ampli 100k"
+  ]
 }

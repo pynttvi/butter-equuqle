@@ -1,13 +1,11 @@
 {
   "name": "Pearl of Protection",
+  "type": "Held",
   "data": [
     "It increases the users dexterity pathetically.",
     "It has nice armour class for its type (little in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance somewhat.",
-    "",
-    "- Extra -",
     "It modifies the user's resistance against cold."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "A frost-covered lamellar armour",
+  "type": "Torso",
   "data": [
     "It has average armour class for its type (low in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance a bit."
-  ],
-  "type": "Torso"
+  ]
 }

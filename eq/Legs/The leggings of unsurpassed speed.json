@@ -1,10 +1,10 @@
 {
   "name": "The leggings of unsurpassed speed",
+  "type": "Legs",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity adequately.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

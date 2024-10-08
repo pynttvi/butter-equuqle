@@ -1,5 +1,6 @@
 {
   "name": "A defiled human skin",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution adequately.",
     "It increases the users wisdom like a god.",
@@ -11,6 +12,5 @@
     "It gives nice bonus to the skill 'offensive efficiency'.",
     "It gives nice bonus to the skill 'arcane lore'.",
     "It imparts dark memories to its wearer."
-  ],
-  "type": "Cloak"
+  ]
 }

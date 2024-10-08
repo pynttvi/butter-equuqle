@@ -1,10 +1,10 @@
 {
   "name": "The helm of thousand eyes",
+  "type": "Head",
   "data": [
     "It increases the users intelligence adequately.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

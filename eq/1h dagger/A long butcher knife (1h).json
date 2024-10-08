@@ -1,8 +1,8 @@
 {
   "name": "A long butcher knife (1h)",
+  "type": "1h dagger",
   "data": [
     "It has nice weapon class for its type (feeble in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h dagger"
+  ]
 }

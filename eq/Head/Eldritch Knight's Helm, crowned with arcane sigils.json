@@ -1,5 +1,6 @@
 {
   "name": "Eldritch Knight's Helm, crowned with arcane sigils",
+  "type": "Head",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users dexterity somewhat.",
@@ -9,6 +10,5 @@
     "It has awesome armour class for its type (poor in general).",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

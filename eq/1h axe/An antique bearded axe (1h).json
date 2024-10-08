@@ -1,11 +1,11 @@
 {
   "name": "An antique bearded axe (1h)",
+  "type": "1h axe",
   "data": [
     "It increases hit chance pitifully.",
     "It has tremendous weapon class for its type (decent in general).",
+    "It does cold damage a tiny bit.",
     "This item loses its magical powers with average speed.",
-    "It increases damage somewhat.",
-    "It does cold damage a tiny bit."
-  ],
-  "type": "1h axe"
+    "It increases damage somewhat."
+  ]
 }

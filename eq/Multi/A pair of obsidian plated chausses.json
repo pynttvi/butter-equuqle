@@ -1,5 +1,6 @@
 {
   "name": "A pair of obsidian plated chausses",
+  "type": "Multi",
   "data": [
     "It increases the users strength colossally.",
     "It increases the users dexterity superbly.",
@@ -12,8 +13,6 @@
     "It increases the users hitpoint regeneration colossally.",
     "This item loses its magical powers with average speed.",
     "It increases the users fire resistance superbly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+  ]
 }

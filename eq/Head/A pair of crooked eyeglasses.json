@@ -1,5 +1,6 @@
 {
   "name": "A pair of crooked eyeglasses",
+  "type": "Head",
   "data": [
     "It decreases the users wisdom pathetically.",
     "It increases the users intelligence pathetically.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'quick chant'."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "A bright steel plate armour",
+  "type": "Multi",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity a bit.",
     "It has tremendous armour class for its type (unbelievable in general).",
-    "This item loses its magical powers with incredible haste.",
-    "It increases the users magical resistance somewhat."
-  ],
-  "type": "Multi"
+    "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers with incredible haste."
+  ]
 }

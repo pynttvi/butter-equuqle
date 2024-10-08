@@ -1,5 +1,6 @@
 {
   "name": "An exquisite hammered dulcimer",
+  "type": "1h instrument",
   "data": [
     "It decreases hit chance poorly.",
     "It has weak weapon class for its type (pathetic in general).",
@@ -12,6 +13,5 @@
     "Turning a knob on the side of the box causes the dulcimer to play",
     "itself, much like a music box. The dulcimer's tune is a song unknown",
     "to even gifted minstrels."
-  ],
-  "type": "1h instrument"
+  ]
 }

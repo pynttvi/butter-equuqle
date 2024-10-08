@@ -1,5 +1,6 @@
 {
   "name": "A dimly glowing toxin infused amulet",
+  "type": "Amulet",
   "data": [
     "It decreases the users strength strongly.",
     "It increases the users dexterity adequately.",
@@ -8,11 +9,10 @@
     "It increases the users intelligence adequately.",
     "It increases the users charisma adequately.",
     "It has awesome armour class for its type (little in general).",
-    "It increases the users hitpoint regeneration nicely.",
     "It increases the users spellpoint regeneration magnificently.",
-    "This item loses its magical powers very slowly.",
+    "It increases the users hitpoint regeneration nicely.",
     "It increases the users poison resistance strongly.",
+    "This item loses its magical powers very slowly.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Amulet"
+  ]
 }

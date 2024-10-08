@@ -1,9 +1,10 @@
 {
   "name": "Elder's Staff of Maps (1h)",
+  "type": "1h staff",
   "data": [
     "It has immense weapon class for its type (average in general).",
+    "It does electric damage unbelievably much.",
     "This item loses its magical powers with average speed.",
-    "It does electric damage unbelievably much."
-  ],
-  "type": "1h staff"
+    "*----------------------------------------------------------------------*"
+  ]
 }

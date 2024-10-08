@@ -1,5 +1,6 @@
 {
   "name": "The emerald amulet of 'Desteros'",
+  "type": "Amulet",
   "data": [
     "It increases the users constitution poorly.",
     "It increases the users wisdom poorly.",
@@ -8,8 +9,6 @@
     "It increases the users spellpoint regeneration nicely.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "Amulet has rune 'crom' in it."
-  ],
-  "type": "Amulet"
+  ]
 }

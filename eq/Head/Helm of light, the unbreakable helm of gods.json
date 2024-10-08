@@ -1,9 +1,9 @@
 {
   "name": "Helm of light, the unbreakable helm of gods",
+  "type": "Head",
   "data": [
     "It increases the users dexterity adequately.",
     "It has weak armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

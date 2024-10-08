@@ -1,8 +1,8 @@
 {
   "name": "A plain-looking wooden staff (2h)",
+  "type": "2h staff",
   "data": [
     "It has weak weapon class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h staff"
+  ]
 }

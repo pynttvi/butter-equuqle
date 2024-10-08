@@ -1,5 +1,6 @@
 {
   "name": "Staff of Air",
+  "type": "Held",
   "data": [
     "It increases the users constitution a tiny bit.",
     "It increases the users wisdom a tiny bit.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'air lore'."
-  ],
-  "type": "Held"
+  ]
 }

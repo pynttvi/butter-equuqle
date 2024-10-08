@@ -1,5 +1,6 @@
 {
   "name": "The Stone of Tears",
+  "type": "Amulet",
   "data": [
     "It decreases the users strength pitifully.",
     "It decreases the users wisdom pitifully.",
@@ -7,8 +8,7 @@
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration tremendously.",
     "This item loses its magical powers very slowly.",
-    "It gives small bonus to the skill 'quick chant'.",
-    "It gives small bonus to the skill 'essence eye'."
-  ],
-  "type": "Amulet"
+    "It gives small bonus to the skill 'essence eye'.",
+    "It gives small bonus to the skill 'quick chant'."
+  ]
 }

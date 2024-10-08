@@ -1,13 +1,13 @@
 {
   "name": "A thief utility belt",
+  "type": "Belt",
   "data": [
     "It increases the users dexterity impressively.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users hitpoint regeneration a bit.",
-    "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'steal'.",
+    "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'pick locks'.",
-    "- Extra -",
     "The user can store/extract lockpicks with a command 'lockpick store'",
     "and 'lockpick extract'.",
     "The user can store/extract empty vials with a cmds 'vial store' and",
@@ -22,6 +22,5 @@
     "The items inside the belt will save over chesting.",
     "The belt modifies the skill 'pick locks'.",
     "The belt modifies the skill 'steal'."
-  ],
-  "type": "Belt"
+  ]
 }

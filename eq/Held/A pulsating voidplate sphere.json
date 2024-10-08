@@ -1,5 +1,6 @@
 {
   "name": "A pulsating voidplate sphere",
+  "type": "Held",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity a tiny bit.",
@@ -11,8 +12,6 @@
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers slowly.",
     "It increases the users asphyxiation resistance strongly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A titanium axe (1h)",
+  "type": "1h axe",
   "data": [
     "It decreases hit chance poorly.",
     "It has superb weapon class for its type (decent in general).",
@@ -8,6 +9,5 @@
     "It increases damage impressively.",
     "It has special powers against undead.",
     "It modifies the user's strength."
-  ],
-  "type": "1h axe"
+  ]
 }

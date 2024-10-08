@@ -1,0 +1,11 @@
+{
+  "name": "Necromancer's Robe",
+  "type": "Torso",
+  "data": [
+    "It increases the users wisdom unnoticably.",
+    "It increases the users intelligence unnoticably.",
+    "It has good armour class for its type (average in general).",
+    "It increases the users spellpoint regeneration pitifully.",
+    "This item loses its magical powers with average speed."
+  ]
+}

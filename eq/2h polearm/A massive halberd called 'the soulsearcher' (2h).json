@@ -1,19 +1,18 @@
 {
   "name": "A massive halberd called 'the soulsearcher' (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance slightly.",
     "It has magnificent weapon class for its type (awesome in general).",
     "It increases the users strength adequately.",
     "It increases the users constitution poorly.",
+    "It gives small bonus to the skill 'balanced form'.",
+    "It gives small bonus to the skill 'edged polearms'.",
+    "It does asphyxiation damage like a god.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage slightly.",
-    "It gives small bonus to the skill 'edged polearms'.",
-    "It gives small bonus to the skill 'balanced form'.",
-    "It does asphyxiation damage like a god.",
-    "- Extra -",
     "There is a lifeleeching demon inside the weapon.",
     "The demon can be fed to give the weapon more power.",
     "The weapon can be hurled against enemies."
-  ],
-  "type": "2h polearm"
+  ]
 }

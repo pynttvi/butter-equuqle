@@ -1,11 +1,12 @@
 {
   "name": "Onyx sickle (1h)",
+  "type": "1h ancient",
   "data": [
     "It increases hit chance nicely.",
-    "It has magnificent weapon class for its type (adequate in general).",
+    "It has awesome weapon class for its type (adequate in general).",
+    "It does fire damage adequately.",
     "This item loses its magical powers with average speed.",
     "It increases damage nicely.",
-    "It does psionic damage adequately."
-  ],
-  "type": "1h ancient"
+    "*----------------------------------------------------------------------*"
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "name": "The sceptre of the Mind Master (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance a bit.",
+    "It gives small bonus to the skill 'psionic efficiency'.",
     "It has low weapon class for its type (little in general).",
     "It increases the users wisdom adequately.",
     "It increases the users intelligence unbelievably much.",
     "It increases the users spellpoint regeneration adequately.",
-    "It gives small bonus to the skill 'psionic efficiency'.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users psionic resistance somewhat.",
-    "It gives small bonus to the skill 'nerve mastery'.",
     "It does psionic damage superbly.",
+    "This item loses its magical powers incredibly slowly.",
+    "It gives small bonus to the skill 'nerve mastery'.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "2h staff"
+  ]
 }

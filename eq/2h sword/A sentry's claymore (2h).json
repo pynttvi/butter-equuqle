@@ -1,9 +1,9 @@
 {
   "name": "A sentry's claymore (2h)",
+  "type": "2h sword",
   "data": [
     "It has nice weapon class for its type (nice in general).",
-    "This item loses its magical powers with average speed.",
-    "It does fire damage pathetically."
-  ],
-  "type": "2h sword"
+    "It does fire damage pathetically.",
+    "This item loses its magical powers with average speed."
+  ]
 }

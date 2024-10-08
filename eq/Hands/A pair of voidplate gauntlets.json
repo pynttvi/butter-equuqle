@@ -1,5 +1,6 @@
 {
   "name": "A pair of voidplate gauntlets",
+  "type": "Hands",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a bit.",
@@ -9,6 +10,5 @@
     "This item loses its magical powers somewhat slower than average.",
     "It increases the users asphyxiation resistance adequately.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "Spiked wolf collar",
+  "type": "Neck",
   "data": [
     "It increases the users dexterity pathetically.",
     "It increases the users constitution pathetically.",
     "It decreases the users wisdom a tiny bit.",
     "It has poor armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Neck"
+  ]
 }

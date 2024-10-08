@@ -1,5 +1,13 @@
 {
   "name": "The fiery plate of Underworld",
-  "data": [],
-  "type": "Torso"
+  "type": "Torso",
+  "data": [
+    "It increases the users strength a bit.",
+    "It increases the users dexterity a good amount.",
+    "It has awesome armour class for its type (excellent in general).",
+    "It increases the users spellpoint regeneration unnoticably.",
+    "It increases the users hitpoint regeneration unnoticably.",
+    "This item loses its magical powers very slowly.",
+    "It gives decent bonus to the skill 'dodge'."
+  ]
 }

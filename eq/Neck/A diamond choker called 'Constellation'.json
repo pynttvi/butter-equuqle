@@ -1,12 +1,12 @@
 {
   "name": "A diamond choker called 'Constellation'",
+  "type": "Neck",
   "data": [
     "It increases the users wisdom superbly.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration impressively.",
+    "It gives decent bonus to the skill 'mastery of shielding'.",
     "This item loses its magical powers somewhat faster than average.",
-    "It gives decent bonus to the skill 'greater vulnerability'.",
-    "It gives decent bonus to the skill 'mastery of shielding'."
-  ],
-  "type": "Neck"
+    "It gives decent bonus to the skill 'greater vulnerability'."
+  ]
 }

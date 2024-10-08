@@ -1,14 +1,14 @@
 {
   "name": "Black Bracelets of Domination",
+  "type": "Arms",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity somewhat.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users hitpoint regeneration poorly.",
-    "It increases the users fire resistance somewhat.",
     "This item loses its magical powers with average speed.",
+    "It gives small bonus to the skill 'focus kungfu attacks'.",
     "It gives small bonus to the skill 'mastery of kungfu'.",
-    "It gives small bonus to the skill 'focus kungfu attacks'."
-  ],
-  "type": "Arms"
+    "It increases the users fire resistance somewhat."
+  ]
 }

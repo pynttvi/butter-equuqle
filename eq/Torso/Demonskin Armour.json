@@ -1,5 +1,6 @@
 {
   "name": "Demonskin Armour",
+  "type": "Torso",
   "data": [
     "It increases the users strength ILLEGALLY.",
     "It increases the users dexterity ILLEGALLY.",
@@ -10,6 +11,5 @@
     "It increases the users spellpoint regeneration ILLEGALLY.",
     "It increases the users hitpoint regeneration ILLEGALLY.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A reaver's mandibles",
+  "type": "Head",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity nicely.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'critical'.",
     "When threatened, the mandibles respond by spraying a numbing toxin."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,13 +1,13 @@
 {
   "name": "A massive fauchard called 'The Flametongue' (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance slightly.",
     "It has awesome weapon class for its type (tremendous in general).",
     "It increases the users strength adequately.",
     "It increases the users constitution adequately.",
+    "It does fire damage unbelievably much.",
     "This item loses its magical powers slowly.",
-    "It increases damage nicely.",
-    "It does fire damage unbelievably much."
-  ],
-  "type": "2h polearm"
+    "It increases damage nicely."
+  ]
 }

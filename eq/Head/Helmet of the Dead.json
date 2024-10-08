@@ -1,13 +1,13 @@
 {
   "name": "Helmet of the Dead",
+  "type": "Head",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
     "It has nice armour class for its type (little in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers slowly.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers slowly.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The copper button of Lucifer",
+  "type": "Amulet",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity a tiny bit.",
@@ -10,6 +11,5 @@
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Amulet"
+  ]
 }

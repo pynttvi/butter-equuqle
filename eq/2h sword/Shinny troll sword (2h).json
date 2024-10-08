@@ -1,10 +1,10 @@
 {
   "name": "Shinny troll sword (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance adequately.",
     "It has average weapon class for its type (average in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage adequately."
-  ],
-  "type": "2h sword"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "A massive club (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance poorly.",
     "It has magnificent weapon class for its type (magnificent in general).",
+    "It does fire damage an average amount.",
     "This item loses its magical powers with average speed.",
-    "It increases damage like a god.",
-    "It does fire damage an average amount."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage like a god."
+  ]
 }

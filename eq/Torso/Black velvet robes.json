@@ -1,5 +1,6 @@
 {
   "name": "Black velvet robes",
+  "type": "Torso",
   "data": [
     "It decreases the users strength poorly.",
     "It decreases the users dexterity poorly.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration incredibly.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers very slowly."
-  ],
-  "type": "Torso"
+  ]
 }

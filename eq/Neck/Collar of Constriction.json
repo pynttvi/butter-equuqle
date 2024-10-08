@@ -1,5 +1,6 @@
 {
   "name": "Collar of Constriction",
+  "type": "Neck",
   "data": [
     "It decreases the users strength unnoticably.",
     "It decreases the users dexterity unnoticably.",
@@ -12,8 +13,6 @@
     "It decreases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It increases the users asphyxiation resistance strongly.",
-    "- Extra -",
     "It protects your throat efficiently."
-  ],
-  "type": "Neck"
+  ]
 }

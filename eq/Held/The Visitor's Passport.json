@@ -1,10 +1,16 @@
 {
   "name": "The Visitor's Passport",
+  "type": "Held",
   "data": [
     "It increases the users dexterity a good amount.",
     "It increases the users constitution impressively.",
     "It decreases the users wisdom poorly.",
-    "It decreases the users intelligence poorly."
-  ],
-  "type": "Held"
+    "It decreases the users intelligence poorly.",
+    "It has little armour class for its type (pathetic in general).",
+    "It decreases the users hitpoint regeneration pitifully.",
+    "This item loses its magical powers slowly.",
+    "It gives nice bonus to the skill 'pick locks'.",
+    "The holder of the Passport can travel through and over water.",
+    "The holder may 'show' the Passport to receive free passage to safety."
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A crimson red helmet with a horn",
+  "type": "Head",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users constitution somewhat.",
@@ -8,6 +9,5 @@
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers very fast.",
     "The past of this helmet has strong bonds with the devils."
-  ],
-  "type": "Head"
+  ]
 }

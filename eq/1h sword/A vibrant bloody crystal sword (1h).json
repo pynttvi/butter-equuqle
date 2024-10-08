@@ -1,14 +1,13 @@
 {
   "name": "A vibrant bloody crystal sword (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance pathetically.",
     "It has nice weapon class for its type (mediocre in general).",
+    "It does magical damage superbly.",
     "This item loses its magical powers with average speed.",
     "It increases damage poorly.",
-    "It does magical damage superbly.",
-    "- Extra -",
     "It modifies the user's resistance to magical damage.",
     "It modifies the user's constitution."
-  ],
-  "type": "1h sword"
+  ]
 }

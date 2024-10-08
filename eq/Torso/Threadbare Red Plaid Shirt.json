@@ -1,10 +1,13 @@
 {
   "name": "Threadbare Red Plaid Shirt",
+  "type": "Torso",
   "data": [
     "It increases the users intelligence nicely.",
     "It has mediocre armour class for its type (low in general).",
     "It increases the users spellpoint regeneration superbly.",
-    "This item loses its"
-  ],
-  "type": "Torso"
+    "It decreases the users physical resistance strongly.",
+    "It gives decent bonus to the skill 'stunning blow'.",
+    "This item loses its magical powers with average speed.",
+    "It decreases the users fire resistance unearthly."
+  ]
 }

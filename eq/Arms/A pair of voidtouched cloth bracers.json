@@ -1,5 +1,6 @@
 {
   "name": "A pair of voidtouched cloth bracers",
+  "type": "Arms",
   "data": [
     "It increases the users wisdom noticably.",
     "It increases the users intelligence noticably.",
@@ -8,6 +9,5 @@
     "This item loses its magical powers somewhat slower than average.",
     "It increases the users asphyxiation resistance adequately.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Black morning star (1h)",
+  "type": "1h ancient",
   "data": [
     "It decreases hit chance a bit.",
     "It has good weapon class for its type (low in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage a tiny bit."
-  ],
-  "type": "1h ancient"
+  ]
 }

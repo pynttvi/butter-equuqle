@@ -1,5 +1,6 @@
 {
   "name": "The leather belt of Lucifer",
+  "type": "Belt",
   "data": [
     "It increases the users dexterity adequately.",
     "It increases the users intelligence adequately.",
@@ -8,8 +9,6 @@
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'parry'.",
-    "- Extra -",
     "It affects the skill parry."
-  ],
-  "type": "Belt"
+  ]
 }

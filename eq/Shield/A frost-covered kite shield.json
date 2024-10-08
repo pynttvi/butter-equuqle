@@ -1,9 +1,9 @@
 {
   "name": "A frost-covered kite shield",
+  "type": "Shield",
   "data": [
     "It has nice armour class for its type (little in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users cold resistance a bit."
-  ],
-  "type": "Shield"
+  ]
 }

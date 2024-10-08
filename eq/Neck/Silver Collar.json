@@ -1,5 +1,6 @@
 {
   "name": "Silver Collar",
+  "type": "Neck",
   "data": [
     "It increases the users dexterity a tiny bit.",
     "It increases the users intelligence a tiny bit.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration a bit.",
     "It increases the users hitpoint regeneration a bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Neck"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "The Great Staff of the Ancient Elf",
+  "type": "Held",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity unnoticably.",
@@ -7,8 +8,7 @@
     "It decreases the users intelligence pitifully.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed.",
-    "It increases the users physical resistance somewhat."
-  ],
-  "type": "Held"
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed."
+  ]
 }

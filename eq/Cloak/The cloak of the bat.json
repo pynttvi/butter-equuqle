@@ -1,5 +1,6 @@
 {
   "name": "The cloak of the bat",
+  "type": "Cloak",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity pitifully.",
@@ -10,9 +11,6 @@
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "It allows polymorphing."
-  ],
-  "type": "Cloak"
+  ]
 }

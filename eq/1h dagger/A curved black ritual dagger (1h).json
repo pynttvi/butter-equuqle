@@ -1,9 +1,9 @@
 {
   "name": "A curved black ritual dagger (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance unnoticably.",
     "It has mediocre weapon class for its type (little in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h dagger"
+  ]
 }

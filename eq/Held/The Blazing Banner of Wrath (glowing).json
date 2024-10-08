@@ -1,5 +1,6 @@
 {
   "name": "The Blazing Banner of Wrath (glowing)",
+  "type": "Held",
   "data": [
     "It increases the users strength poorly.",
     "It decreases the users dexterity adequately.",
@@ -8,11 +9,8 @@
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers very slowly.",
-    "",
-    "- Extra -",
     "Once owned by the Warrior-King Sargones III, this banner still",
     "contains some of his living essence, and such, when waved about,",
     "can terrify all those who witness it."
-  ],
-  "type": "Held"
+  ]
 }

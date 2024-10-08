@@ -1,5 +1,6 @@
 {
   "name": "A pair of massive voidplate boots",
+  "type": "Multi",
   "data": [
     "It increases the users strength phenomenally.",
     "It increases the users dexterity adequately.",
@@ -11,8 +12,6 @@
     "It increases the users hitpoint regeneration immensely.",
     "This item loses its magical powers with average speed.",
     "It increases the users asphyxiation resistance superbly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "Multi"
+  ]
 }

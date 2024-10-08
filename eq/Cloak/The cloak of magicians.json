@@ -1,0 +1,10 @@
+{
+  "name": "The cloak of magicians",
+  "type": "Cloak",
+  "data": [
+    "It increases the users intelligence pitifully.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users spellpoint regeneration poorly.",
+    "This item loses its magical powers with average speed."
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "name": "The hat of the burgomaster",
+  "type": "Head",
   "data": [
     "It increases the users wisdom pathetically.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

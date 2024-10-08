@@ -1,5 +1,6 @@
 {
   "name": "A pair of mephitic gloves",
+  "type": "Hands",
   "data": [
     "It increases the users strength a tiny bit.",
     "It increases the users dexterity adequately.",
@@ -9,6 +10,5 @@
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'herb mixing'.",
     "The gloves exude a catalytic vapor that potentiates toxins."
-  ],
-  "type": "Hands"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "The Gauntlets of Brutality",
+  "type": "Hands",
   "data": [
     "It increases the users strength adequately.",
     "It has low armour class for its type (almost non-existent in general).",
-    "This item loses its magical powers with average speed.",
-    "It gives small bonus to the skill 'hammer'."
-  ],
-  "type": "Hands"
+    "It gives small bonus to the skill 'hammer'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

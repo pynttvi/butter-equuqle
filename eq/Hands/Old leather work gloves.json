@@ -1,5 +1,6 @@
 {
   "name": "Old leather work gloves",
+  "type": "Hands",
   "data": [
     "It increases the users strength impressively.",
     "It increases the users dexterity pathetically.",
@@ -8,12 +9,11 @@
     "It has magnificent armour class for its type (pathetic in general).",
     "It decreases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration a tiny bit.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'strike'.",
+    "This item loses its magical powers with average speed.",
     "It decreases the users fire resistance strongly.",
-    "- Extra -",
     "Affects the user's strike skill.",
-    "Affects the user's fire resistance."
-  ],
-  "type": "Hands"
+    "Affects the user's fire resistance.",
+    "08.10.2024 15:16"
+  ]
 }

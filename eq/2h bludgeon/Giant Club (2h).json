@@ -1,10 +1,10 @@
 {
   "name": "Giant Club (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance like a god.",
     "It has average weapon class for its type (average in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage like a god."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

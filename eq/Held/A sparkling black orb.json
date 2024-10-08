@@ -1,14 +1,12 @@
 {
   "name": "A sparkling black orb",
+  "type": "Held",
   "data": [
     "It increases the users dexterity somewhat.",
     "It has weak armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration slightly.",
-    "This item loses its magical powers very fast.",
     "It increases the users psionic resistance strongly.",
-    "",
-    "- Extra -",
+    "This item loses its magical powers very fast.",
     "The nature of this item is highly chaotic and may change completely at the slighest provocation."
-  ],
-  "type": "Held"
+  ]
 }

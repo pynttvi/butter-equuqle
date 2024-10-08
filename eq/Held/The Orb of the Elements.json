@@ -1,12 +1,11 @@
 {
   "name": "The Orb of the Elements",
+  "type": "Held",
   "data": [
-    "It increases the users intelligence impressively.",
+    "It increases the users intelligence a good amount.",
     "It has poor armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration nicely.",
-    "This item loses its magical powers very slowly.",
-    "",
-    "- Extra -",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed.",
     "Orb of the Elements might modify the user's intelligence.",
     "Orb of the Elements might modify the user's spell point regeneration.",
     "Orb of the Elements might modify the user's resistances.",
@@ -14,10 +13,6 @@
     "You could probably <tune> the orb to a certain damage type, adding",
     "some small skill in that damage, but you would probably sacrifice",
     "much of the orb's power in doing so.",
-    "After you <tune>'d the orb, you could probably <untune> it.",
-    "",
-    "",
-    "*----------------------------------------------------------------------*"
-  ],
-  "type": "Held"
+    "After you <tune>'d the orb, you could probably <untune> it."
+  ]
 }

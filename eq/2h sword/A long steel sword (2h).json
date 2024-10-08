@@ -1,12 +1,12 @@
 {
   "name": "A long steel sword (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance poorly.",
     "It has impressive weapon class for its type (impressive in general).",
+    "It does magical damage superbly.",
     "This item loses its magical powers with average speed.",
     "It increases damage poorly.",
-    "It gives small bonus to the skill 'hew'.",
-    "It does magical damage superbly."
-  ],
-  "type": "2h sword"
+    "It gives small bonus to the skill 'hew'."
+  ]
 }

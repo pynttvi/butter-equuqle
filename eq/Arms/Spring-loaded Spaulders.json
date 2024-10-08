@@ -1,16 +1,15 @@
 {
   "name": "Spring-loaded Spaulders",
+  "type": "Arms",
   "data": [
     "It increases the users strength adequately.",
     "It increases the users constitution somewhat.",
     "It increases the users wisdom somewhat.",
     "It decreases the users intelligence a bit.",
     "It has excellent armour class for its type (little in general).",
-    "This item loses its magical powers extremely slowly.",
     "It gives nice bonus to the skill 'smash'.",
-    "- Extra -",
+    "This item loses its magical powers extremely slowly.",
     "The mechanisms within the spaulders are only activated when the",
     "wearer's arms perform smashing techniques."
-  ],
-  "type": "Arms"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Staff of Kazlakhor (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance a tiny bit.",
     "It has impressive weapon class for its type (mediocre in general).",
@@ -7,8 +8,7 @@
     "It decreases the users dexterity adequately.",
     "It increases the users intelligence adequately.",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers with average speed.",
-    "It does magical damage somewhat."
-  ],
-  "type": "2h staff"
+    "It does magical damage somewhat.",
+    "This item loses its magical powers very slowly."
+  ]
 }

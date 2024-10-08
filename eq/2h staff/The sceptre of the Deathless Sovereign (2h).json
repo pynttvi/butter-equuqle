@@ -1,20 +1,20 @@
 {
   "name": "The sceptre of the Deathless Sovereign (2h)",
+  "type": "2h staff",
   "data": [
     "It decreases hit chance a tiny bit.",
     "It has awesome weapon class for its type (average in general).",
     "It increases the users wisdom poorly.",
     "It increases the users intelligence adequately.",
-    "It increases the users fire resistance somewhat.",
     "It increases the users spellpoint regeneration noticably.",
+    "It does cold damage unbelievably much.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage somewhat.",
+    "It increases the users fire resistance somewhat.",
     "It increases the users cold resistance somewhat.",
-    "It does cold damage unbelievably much.",
     "While wielded, this staff will slightly increase the damage of all sorcerers'",
     "spells cast by the wielder. It will also increase all magical and cold damage",
     "dealt by the wielder's spells, even in addition to the bonus bestowed to",
     "sorcerers' spells."
-  ],
-  "type": "2h staff"
+  ]
 }

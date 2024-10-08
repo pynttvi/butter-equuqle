@@ -1,13 +1,12 @@
 {
   "name": "A milky-white crystal",
+  "type": "Held",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers a bit faster than avarage.",
-    "- Extra -",
     "An alien awareness, that has a strong connection with the mind flayers,",
     "resides within the crystal."
-  ],
-  "type": "Held"
+  ]
 }

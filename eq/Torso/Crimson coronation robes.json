@@ -1,20 +1,20 @@
 {
   "name": "Crimson coronation robes",
+  "type": "Torso",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence unbelievably much.",
     "It has average armour class for its type (low in general).",
     "It increases the users spellpoint regeneration astoundingly.",
-    "It increases the users poison resistance a bit.",
-    "This item loses its magical powers incredibly slowly.",
-    "It increases the users psionic resistance a bit.",
-    "It increases the users electric resistance a bit.",
     "It increases the users physical resistance a bit.",
-    "It increases the users fire resistance a bit.",
-    "It increases the users acid resistance a bit.",
     "It increases the users magical resistance a bit.",
+    "It increases the users psionic resistance a bit.",
+    "It increases the users poison resistance a bit.",
+    "It increases the users electric resistance a bit.",
+    "This item loses its magical powers incredibly slowly.",
+    "It increases the users acid resistance a bit.",
+    "It increases the users fire resistance a bit.",
     "It increases the users cold resistance a bit.",
     "It increases the users asphyxiation resistance a bit."
-  ],
-  "type": "Torso"
+  ]
 }

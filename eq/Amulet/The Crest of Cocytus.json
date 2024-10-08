@@ -1,15 +1,15 @@
 {
   "name": "The Crest of Cocytus",
+  "type": "Amulet",
   "data": [
     "It decreases the users wisdom adequately.",
     "It increases the users intelligence impossibly much.",
     "It decreases the users charisma unbelievably much.",
     "It has little armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration unbelievably much.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users magical resistance somewhat.",
+    "This item loses its magical powers incredibly slowly.",
     "It increases the users shadow resistance somewhat.",
     "It increases the users fire resistance adequately."
-  ],
-  "type": "Amulet"
+  ]
 }

@@ -1,5 +1,12 @@
 {
   "name": "Onyx dagger (1h)",
-  "data": [],
-  "type": "1h dagger"
+  "type": "1h dagger",
+  "data": [
+    "It increases hit chance somewhat.",
+    "It has awesome weapon class for its type (weak in general).",
+    "It does psionic damage adequately.",
+    "This item loses its magical powers with average speed.",
+    "It increases damage somewhat.",
+    "*----------------------------------------------------------------------*"
+  ]
 }

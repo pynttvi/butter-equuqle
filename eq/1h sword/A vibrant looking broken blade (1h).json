@@ -1,16 +1,15 @@
 {
   "name": "A vibrant looking broken blade (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance adequately.",
     "It has awesome weapon class for its type (nice in general).",
     "It increases the users dexterity impressively.",
     "It decreases the users constitution poorly.",
+    "It does asphyxiation damage unbelievably much.",
     "This item loses its magical powers with average speed.",
     "It increases damage a bit.",
-    "It does asphyxiation damage unbelievably much.",
     "It increases the users asphyxiation resistance strongly.",
-    "- Extra -",
     "In the heat of the battle this blade can sometimes release a pulse of energy."
-  ],
-  "type": "1h sword"
+  ]
 }

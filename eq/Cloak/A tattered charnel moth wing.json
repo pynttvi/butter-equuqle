@@ -1,15 +1,15 @@
 {
   "name": "A tattered charnel moth wing",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution a bit.",
     "It increases the users wisdom pitifully.",
     "It increases the users intelligence pitifully.",
     "It has average armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration slightly.",
-    "This item loses its magical powers a bit faster than avarage.",
-    "It increases the users poison resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers a bit faster than avarage.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Cloak"
+  ]
 }

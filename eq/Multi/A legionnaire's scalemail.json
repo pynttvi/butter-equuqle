@@ -1,13 +1,13 @@
 {
   "name": "A legionnaire's scalemail",
+  "type": "Multi",
   "data": [
     "It increases the users strength pitifully.",
     "It increases the users dexterity pitifully.",
     "It increases the users constitution a bit.",
     "It has great armour class for its type (excellent in general).",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance a bit.",
+    "This item loses its magical powers with average speed.",
     "It increases the users fire resistance a bit."
-  ],
-  "type": "Multi"
+  ]
 }

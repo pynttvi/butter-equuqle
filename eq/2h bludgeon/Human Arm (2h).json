@@ -1,10 +1,10 @@
 {
   "name": "Human Arm (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance unbelievably much.",
     "It has tremendous weapon class for its type (tremendous in general).",
     "This item loses its magical powers with average speed.",
     "It increases damage adequately."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

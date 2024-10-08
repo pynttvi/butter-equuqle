@@ -1,12 +1,12 @@
 {
   "name": "An embroidered cloth belt",
+  "type": "Belt",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users intelligence adequately.",
     "It has magnificent armour class for its type (pathetic in general).",
-    "It increases the users hitpoint regeneration pitifully.",
     "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users hitpoint regeneration pitifully.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Belt"
+  ]
 }

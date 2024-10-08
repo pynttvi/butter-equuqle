@@ -1,9 +1,9 @@
 {
   "name": "Sword of fire (2h)",
+  "type": "2h ancient",
   "data": [
     "It has low weapon class for its type (weak in general).",
-    "This item loses its magical powers with average speed.",
-    "It does fire damage a tiny bit."
-  ],
-  "type": "2h ancient"
+    "It does fire damage a tiny bit.",
+    "This item loses its magical powers with average speed."
+  ]
 }

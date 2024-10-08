@@ -1,14 +1,12 @@
 {
   "name": "The Kestrel dagger of Grimoan (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance a tiny bit.",
     "It has incredible weapon class for its type (mediocre in general).",
     "It does psionic damage strongly.",
     "This item loses its magical powers very fast.",
     "It increases damage a tiny bit.",
-    "",
-    "- Extra -",
     "It draws all light into itself, leaving only darkness behind."
-  ],
-  "type": "1h dagger"
+  ]
 }

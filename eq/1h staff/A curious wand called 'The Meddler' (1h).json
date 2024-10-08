@@ -1,14 +1,14 @@
 {
   "name": "A curious wand called 'The Meddler' (1h)",
+  "type": "1h staff",
   "data": [
     "It has mediocre weapon class for its type (little in general).",
     "It increases the users constitution unbelievably much.",
     "It increases the users spellpoint regeneration adequately.",
     "It increases the users physical resistance somewhat.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users magical resistance adequately.",
+    "This item loses its magical powers incredibly slowly.",
     "Tapping the wand unleashes its powers - though the results vary",
     "wildly with the number of times it is tapped."
-  ],
-  "type": "1h staff"
+  ]
 }

@@ -1,16 +1,16 @@
 {
   "name": "The Asklepian Rod (1h)",
+  "type": "1h staff",
   "data": [
     "It has tremendous weapon class for its type (weak in general).",
     "It increases the users constitution pitifully.",
     "It increases the users wisdom pitifully.",
     "It increases the users intelligence pitifully.",
     "It increases the users spellpoint regeneration pitifully.",
+    "It does magical damage tremendously.",
+    "It gives great bonus to the spell 'true distant transfer'.",
     "This item loses its magical powers with average speed.",
     "It gives great bonus to the spell 'true transfer'.",
-    "It gives great bonus to the spell 'true transfer damage'.",
-    "It gives great bonus to the spell 'true distant transfer'.",
-    "It does magical damage tremendously."
-  ],
-  "type": "1h staff"
+    "It gives great bonus to the spell 'true transfer damage'."
+  ]
 }

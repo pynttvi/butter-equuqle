@@ -1,5 +1,6 @@
 {
   "name": "Arm protectors",
+  "type": "Arms",
   "data": [
     "It increases the users strength a tiny bit.",
     "It decreases the users dexterity poorly.",
@@ -7,6 +8,5 @@
     "It has superb armour class for its type (little in general).",
     "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

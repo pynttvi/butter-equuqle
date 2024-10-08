@@ -1,11 +1,11 @@
 {
   "name": "A brown cloak of protection",
+  "type": "Cloak",
   "data": [
     "It has excellent armour class for its type (little in general).",
     "This item loses its magical powers with average speed.",
     "It is halfling sized cloak.",
     "It increases its wearer's health.",
     "It can protect the wearer from magical missiles."
-  ],
-  "type": "Cloak"
+  ]
 }

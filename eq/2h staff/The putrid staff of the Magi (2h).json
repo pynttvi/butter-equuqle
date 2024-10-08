@@ -1,5 +1,6 @@
 {
   "name": "The putrid staff of the Magi (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance a bit.",
     "It has low weapon class for its type (little in general).",
@@ -9,11 +10,10 @@
     "It increases the users intelligence phenomenally.",
     "It increases the users spellpoint regeneration adequately.",
     "It gives small bonus to the skill 'sense weakness'.",
+    "It does acid damage superbly.",
     "This item loses its magical powers incredibly slowly.",
     "It gives small bonus to the skill 'offensive efficiency'.",
-    "It does acid damage superbly.",
     "It gives small bonus to the skill 'upper hand'.",
     "Increases the damage disruption and death wish considerably while wielded."
-  ],
-  "type": "2h staff"
+  ]
 }

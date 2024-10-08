@@ -1,14 +1,13 @@
 {
   "name": "Gold embroidered black gloves",
+  "type": "Hands",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
     "It has low armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
-    "This item loses its magical powers incredibly slowly.",
     "It increases the users magical resistance a bit.",
-    "- Extra -",
+    "This item loses its magical powers incredibly slowly.",
     "While worn, these gloves will reduce the drain of all spells by a small amount."
-  ],
-  "type": "Hands"
+  ]
 }

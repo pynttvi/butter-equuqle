@@ -1,5 +1,6 @@
 {
   "name": "A brutish, rusty iron maul (1h)",
+  "type": "1h bludgeon",
   "data": [
     "It decreases hit chance adequately.",
     "It has great weapon class for its type (average in general).",
@@ -7,6 +8,5 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'stun'.",
     "It increases damage poorly."
-  ],
-  "type": "1h bludgeon"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "Bloody Armguards",
+  "type": "Arms",
   "data": [
     "It decreases the users strength a tiny bit.",
     "It decreases the users dexterity pitifully.",
@@ -11,6 +12,5 @@
     "This item loses its magical powers very slowly.",
     "Bloody armguards are an artifact of the goddess Kirvana.",
     "Bloody armguards allow you to 'raise' a fallen comrade."
-  ],
-  "type": "Arms"
+  ]
 }

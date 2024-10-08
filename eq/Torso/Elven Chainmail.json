@@ -1,9 +1,9 @@
 {
   "name": "Elven Chainmail",
+  "type": "Torso",
   "data": [
     "It has good armour class for its type (average in general).",
     "It increases the users hitpoint regeneration a good amount.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

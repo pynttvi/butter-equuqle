@@ -1,0 +1,14 @@
+{
+  "name": "Orb of Eternal Sands",
+  "type": "Held",
+  "data": [
+    "It increases the users constitution adequately.",
+    "It increases the users wisdom adequately.",
+    "It increases the users intelligence adequately.",
+    "It has awesome armour class for its type (poor in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users fire resistance somewhat."
+  ]
+}

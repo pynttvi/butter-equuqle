@@ -1,13 +1,13 @@
 {
   "name": "A diamond-crested battlehammer, 'The Siphon' (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It has awesome weapon class for its type (awesome in general).",
+    "It does magical damage unbelievably much.",
     "This item loses its magical powers very slowly.",
     "It increases damage unbelievably much.",
-    "It does magical damage unbelievably much.",
     "The enchantments on the battlehammer are reversed in the hands of",
     "an ogre, such that they draw life from whomever suffers the",
     "hammer's blow."
-  ],
-  "type": "2h bludgeon"
+  ]
 }

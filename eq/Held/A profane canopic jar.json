@@ -1,0 +1,25 @@
+{
+  "name": "A profane canopic jar",
+  "type": "Held",
+  "data": [
+    "It decreases the users charisma unbelievably much.",
+    "It has pathetic armour class for its type (almost non-existent in general).",
+    "It increases the users psionic resistance somewhat.",
+    "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
+    "Defiled by sacrilegious magics this is capable of drawing power from entrails",
+    "placed inside it, bestowing it to anyone who carries it. The exact nature of the",
+    "boon is governed by the composition and the volume of organs inside the jar.",
+    "This magic is more effective for the truly undead.",
+    "The jar can be filled with the command:",
+    "fill jar with <organ> from <corpse>",
+    "Organs that can be harvested from a corpse are:",
+    "brain, heart, intestine, kidney, liver, lung and stomach",
+    "Fluids will gradually seep from the organs inside the jar and this fluid, in",
+    "addition to a small amount of organs, can be imbibed for physical or magical",
+    "restoration. More fluids may be produced by shaking the jar, although this will",
+    "destroy some of the organs inside. The organs may also be eaten.",
+    "The contents of the jar may be dumped with the command:",
+    "empty jar"
+  ]
+}

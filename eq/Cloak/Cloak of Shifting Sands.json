@@ -1,0 +1,14 @@
+{
+  "name": "Cloak of Shifting Sands",
+  "type": "Cloak",
+  "data": [
+    "It increases the users constitution slightly.",
+    "It increases the users wisdom slightly.",
+    "It increases the users intelligence slightly.",
+    "It has excellent armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration somewhat.",
+    "It increases the users physical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat."
+  ]
+}

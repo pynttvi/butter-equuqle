@@ -1,11 +1,11 @@
 {
   "name": "Blue hat decorated with yellow stars",
+  "type": "Head",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence pitifully.",
     "It has tiny armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration a bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

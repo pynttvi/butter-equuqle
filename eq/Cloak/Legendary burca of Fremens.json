@@ -1,14 +1,13 @@
 {
   "name": "Legendary burca of Fremens",
+  "type": "Cloak",
   "data": [
     "It increases the users wisdom poorly.",
     "It increases the users intelligence poorly.",
     "It has poor armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It increases the users psionic resistance a bit.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It emits light."
-  ],
-  "type": "Cloak"
+  ]
 }

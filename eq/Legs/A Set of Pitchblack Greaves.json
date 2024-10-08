@@ -1,7 +1,9 @@
 {
   "name": "A Set of Pitchblack Greaves",
+  "type": "Legs",
   "data": [
-    "It increases the users strength strongly.",
+    "It",
+    "increases the users strength strongly.",
     "It increases the users dexterity an average amount.",
     "It decreases the users constitution poorly.",
     "It decreases the users wisdom pitifully.",
@@ -11,8 +13,6 @@
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers very slowly.",
     "It gives great bonus to the spell 'darkness'.",
-    "- Extra -",
     "Black Greaves make it easier to call for darkness."
-  ],
-  "type": "Legs"
+  ]
 }

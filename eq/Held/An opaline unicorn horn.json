@@ -1,13 +1,11 @@
 {
   "name": "An opaline unicorn horn",
+  "type": "Held",
   "data": [
     "It increases the users wisdom adequately.",
     "It has non-existent armour class for its type (non-existent in general).",
     "This item loses its magical powers very fast.",
-    "",
-    "- Extra -",
     "The horn serves as a magical vessel that can 'replenish' other items from",
     "its magical reserves."
-  ],
-  "type": "Held"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A fingerbone necklace",
+  "type": "Neck",
   "data": [
     "It increases the users strength slightly.",
     "It increases the users dexterity pitifully.",
@@ -8,6 +9,5 @@
     "It has adequate armour class for its type (tiny in general).",
     "It increases the users hitpoint regeneration a bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Neck"
+  ]
 }

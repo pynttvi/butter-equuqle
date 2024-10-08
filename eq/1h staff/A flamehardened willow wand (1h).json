@@ -1,5 +1,6 @@
 {
   "name": "A flamehardened willow wand (1h)",
+  "type": "1h staff",
   "data": [
     "It has feeble weapon class for its type (pathetic in general).",
     "It decreases the users strength a tiny bit.",
@@ -7,11 +8,10 @@
     "It increases the users wisdom impressively.",
     "It increases the users intelligence a bit.",
     "It increases the users hitpoints poorly.",
-    "It increases the users fire resistance strongly.",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers very slowly.",
     "It does fire damage a tiny bit.",
+    "This item loses its magical powers very slowly.",
+    "It increases the users fire resistance strongly.",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "1h staff"
+  ]
 }

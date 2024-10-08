@@ -1,5 +1,6 @@
 {
   "name": "A heavy obsidian necklace, inlaid with diamonds",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution adequately.",
@@ -8,8 +9,6 @@
     "It has average armour class for its type (pathetic in general).",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'parry'.",
-    "- Extra -",
     "It affects the user's skill knowledge."
-  ],
-  "type": "Neck"
+  ]
 }

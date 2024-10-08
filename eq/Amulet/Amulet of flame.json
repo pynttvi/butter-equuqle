@@ -1,13 +1,14 @@
 {
   "name": "Amulet of flame",
+  "type": "Amulet",
   "data": [
     "It decreases the users dexterity poorly.",
     "It increases the users constitution somewhat.",
     "It increases the users intelligence noticably.",
     "It has average armour class for its type (pathetic in general).",
-    "It increases the users spellpoint regeneration somewhat.",
+    "It",
+    "increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers very slowly."
-  ],
-  "type": "Amulet"
+  ]
 }

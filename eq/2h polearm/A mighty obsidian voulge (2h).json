@@ -1,14 +1,13 @@
 {
   "name": "A mighty obsidian voulge (2h)",
+  "type": "2h polearm",
   "data": [
     "It increases hit chance somewhat.",
     "It has magnificent weapon class for its type (tremendous in general).",
+    "It does fire damage immensely.",
     "This item loses its magical powers incredibly slowly.",
     "It increases damage slightly.",
-    "It does fire damage immensely.",
     "It increases the users cold resistance strongly.",
-    "- Extra -",
     "The wearer becomes more attuned to the elemental forces."
-  ],
-  "type": "2h polearm"
+  ]
 }

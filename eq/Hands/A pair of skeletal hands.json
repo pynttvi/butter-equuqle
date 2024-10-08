@@ -1,5 +1,6 @@
 {
   "name": "A pair of skeletal hands",
+  "type": "Hands",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users dexterity impressively.",
@@ -14,6 +15,5 @@
     "It gives small bonus to the skill 'acrobatics'.",
     "It gives small bonus to the skill 'juggling'.",
     "The hands assist in the conjuring and handling of magical projectiles."
-  ],
-  "type": "Hands"
+  ]
 }

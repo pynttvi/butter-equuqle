@@ -1,5 +1,6 @@
 {
   "name": "Bracers of the strangler",
+  "type": "Arms",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity poorly.",
@@ -8,6 +9,5 @@
     "It increases the users physical resistance somewhat.",
     "This item loses its magical powers with average speed.",
     "It gives nice bonus to the skill 'strangle'."
-  ],
-  "type": "Arms"
+  ]
 }

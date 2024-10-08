@@ -1,11 +1,15 @@
 {
   "name": "Necklace of Strahd",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity adequately.",
     "It increases the users constitution nicely.",
     "It decreases the users wisdom poorly.",
-    "It decreases"
-  ],
-  "type": "Neck"
+    "It decreases the users intelligence poorly.",
+    "It has average armour class for its type (pathetic in general).",
+    "It increases the users hitpoint regeneration somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat."
+  ]
 }

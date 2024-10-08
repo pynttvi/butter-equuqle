@@ -1,5 +1,6 @@
 {
   "name": "Painted Armwraps",
+  "type": "Arms",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users dexterity somewhat.",
@@ -10,6 +11,5 @@
     "It increases the users spellpoint regeneration noticably.",
     "It increases the users hitpoint regeneration poorly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+  ]
 }

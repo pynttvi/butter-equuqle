@@ -1,12 +1,11 @@
 {
   "name": "A wicked longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It has good weapon class for its type (mediocre in general).",
     "It increases the users dexterity adequately.",
-    "This item loses its magical powers with average speed.",
     "It does magical damage unbelievably much.",
-    "- Extra -",
+    "This item loses its magical powers with average speed.",
     "It modifies the wielders dexterity."
-  ],
-  "type": "1h sword"
+  ]
 }

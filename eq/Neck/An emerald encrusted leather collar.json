@@ -1,12 +1,12 @@
 {
   "name": "An emerald encrusted leather collar",
+  "type": "Neck",
   "data": [
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers with average speed.",
     "It decreases the users magical resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It gives tiny bonus to the skill 'spiritual link'.",
     "It gives tiny bonus to the skill 'spiritism'."
-  ],
-  "type": "Neck"
+  ]
 }

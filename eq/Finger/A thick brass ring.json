@@ -1,15 +1,15 @@
 {
   "name": "A thick brass ring",
+  "type": "Finger",
   "data": [
     "It increases the users strength an average amount.",
     "It increases the users intelligence somewhat.",
     "It has excellent armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration poorly.",
     "It increases the users hitpoint regeneration somewhat.",
-    "This item loses its magical powers extremely slowly.",
     "It increases the users magical resistance somewhat.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers extremely slowly.",
     "It increases the users asphyxiation resistance somewhat."
-  ],
-  "type": "Finger"
+  ]
 }

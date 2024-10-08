@@ -1,9 +1,9 @@
 {
   "name": "A fine red robe with silvery seams",
+  "type": "Multi",
   "data": [
     "It increases the users wisdom a tiny bit.",
     "It has almost non-existent armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Multi"
+  ]
 }

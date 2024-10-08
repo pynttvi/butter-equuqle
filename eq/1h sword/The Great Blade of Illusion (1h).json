@@ -1,13 +1,13 @@
 {
   "name": "The Great Blade of Illusion (1h)",
+  "type": "1h sword",
   "data": [
     "It increases hit chance adequately.",
     "It has magnificent weapon class for its type (nice in general).",
     "It increases the users dexterity adequately.",
+    "It does electric damage incredibly.",
     "It increases the users electric resistance adequately.",
     "This item loses its magical powers with average speed.",
-    "It increases damage adequately.",
-    "It does electric damage incredibly."
-  ],
-  "type": "1h sword"
+    "It increases damage adequately."
+  ]
 }

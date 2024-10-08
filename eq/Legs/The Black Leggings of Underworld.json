@@ -1,5 +1,6 @@
 {
   "name": "The Black Leggings of Underworld",
+  "type": "Legs",
   "data": [
     "It increases the users wisdom noticably.",
     "It increases the users intelligence somewhat.",
@@ -7,6 +8,5 @@
     "It increases the users spellpoint regeneration adequately.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'greater vulnerability'."
-  ],
-  "type": "Legs"
+  ]
 }

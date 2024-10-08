@@ -1,10 +1,10 @@
 {
   "name": "A glossy platinum quarterstaff (2h)",
+  "type": "2h staff",
   "data": [
     "It has excellent weapon class for its type (low in general).",
-    "This item loses its magical powers with average speed.",
     "It does psionic damage a tiny bit.",
+    "This item loses its magical powers with average speed.",
     "This is an illithidwrought weapon and as such has a measure of awareness."
-  ],
-  "type": "2h staff"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A crumpled silver wand, covered in runes",
+  "type": "Held",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users intelligence impressively.",
@@ -10,6 +11,5 @@
     "0 charges of feeblemind.",
     "0 charges of terror.",
     "0 charges of mist haze."
-  ],
-  "type": "Held"
+  ]
 }

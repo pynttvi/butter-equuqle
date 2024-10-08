@@ -1,5 +1,6 @@
 {
   "name": "The royal shirt of Lucifer",
+  "type": "Torso",
   "data": [
     "It decreases the users strength slightly.",
     "It decreases the users dexterity slightly.",
@@ -10,9 +11,6 @@
     "It decreases the users hitpoint regeneration pathetically.",
     "This item loses its magical powers with average speed.",
     "It gives decent bonus to the skill 'quick chant'.",
-    "",
-    "- Extra -",
     "It affects the skill quick chant."
-  ],
-  "type": "Torso"
+  ]
 }

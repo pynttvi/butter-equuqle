@@ -1,10 +1,10 @@
 {
   "name": "A sturdy iron storm lantern (1h)",
+  "type": "1h ancient",
   "data": [
     "It increases hit chance adequately.",
     "It has mediocre weapon class for its type (feeble in general).",
     "This item loses its magical powers with incredible haste.",
     "It increases damage adequately."
-  ],
-  "type": "1h ancient"
+  ]
 }

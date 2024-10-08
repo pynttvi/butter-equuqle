@@ -1,10 +1,9 @@
 {
   "name": "A glossy black shield",
+  "type": "Shield",
   "data": [
     "It has feeble armour class for its type (tiny in general).",
     "This item loses its magical powers with average speed.",
-    "- Extra -",
     "This is an illithidwrought armour and as such has a measure of awareness."
-  ],
-  "type": "Shield"
+  ]
 }

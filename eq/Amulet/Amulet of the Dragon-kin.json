@@ -1,5 +1,19 @@
 {
   "name": "Amulet of the Dragon-kin",
-  "data": [],
-  "type": "Amulet"
+  "type": "Amulet",
+  "data": [
+    "It increases the users strength somewhat.",
+    "It increases the users dexterity somewhat.",
+    "It increases the users constitution somewhat.",
+    "It has magnificent armour class for its type (little in general).",
+    "It decreases the users spellpoint regeneration like a god.",
+    "It increases the users hitpoint regeneration impressively.",
+    "It gives small bonus to the skill 'riposte'.",
+    "It gives small bonus to the skill 'attack'.",
+    "This item loses its magical powers somewhat faster than avarage.",
+    "It gives small bonus to the skill 'whirlwind attack'.",
+    "It gives small bonus to the skill 'parry'.",
+    "It gives small bonus to the skill 'dodge'.",
+    "It gives small bonus to the skill 'doublehit'."
+  ]
 }

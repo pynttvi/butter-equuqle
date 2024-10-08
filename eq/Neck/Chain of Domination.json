@@ -1,5 +1,6 @@
 {
   "name": "Chain of Domination",
+  "type": "Neck",
   "data": [
     "It decreases the users strength like a god.",
     "It increases the users constitution adequately.",
@@ -9,6 +10,5 @@
     "It increases the users spellpoint regeneration impressively.",
     "This item loses its magical powers very slowly.",
     "It gives small bonus to the skill 'quick chant'."
-  ],
-  "type": "Neck"
+  ]
 }

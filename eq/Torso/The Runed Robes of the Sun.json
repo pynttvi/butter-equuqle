@@ -1,5 +1,6 @@
 {
   "name": "The Runed Robes of the Sun",
+  "type": "Torso",
   "data": [
     "It decreases the users strength pathetically.",
     "It increases the users wisdom poorly.",
@@ -7,6 +8,5 @@
     "It has average armour class for its type (low in general).",
     "It increases the users spellpoint regeneration a good amount.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

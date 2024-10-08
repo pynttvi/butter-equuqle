@@ -1,16 +1,16 @@
 {
   "name": "Hastur's Sceptre (1h)",
+  "type": "1h staff",
   "data": [
     "It has good weapon class for its type (feeble in general).",
     "It increases the users wisdom a good amount.",
     "It increases the users spellpoint regeneration adequately.",
-    "This item loses its magical powers extremely slowly.",
-    "It increases the users acid resistance somewhat.",
     "It increases the users psionic resistance somewhat.",
     "It does psionic damage superbly.",
+    "This item loses its magical powers extremely slowly.",
+    "It increases the users acid resistance somewhat.",
     "It increases the users asphyxiation resistance somewhat.",
     "The ancient wisdom of the sceptre helps its wielder create and exploit",
     "combat opportunities."
-  ],
-  "type": "1h staff"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "A pair of silver-lined black boots",
+  "type": "Feet",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence adequately.",
@@ -7,8 +8,6 @@
     "It increases the users spellpoint regeneration noticably.",
     "This item loses its magical powers somewhat faster than avarage.",
     "It increases the users cold resistance somewhat.",
-    "- Extra -",
     "The spectral residue lingering around these boots can help keep the cold grasp of death at bay."
-  ],
-  "type": "Feet"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "A shining silver longsword (1h)",
+  "type": "1h sword",
   "data": [
     "It has poor weapon class for its type (little in general).",
-    "This item loses its magical powers with incredible haste.",
-    "It does shadow damage pitifully."
-  ],
-  "type": "1h sword"
+    "It does shadow damage pitifully.",
+    "This item loses its magical powers with incredible haste."
+  ]
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Orb of the Psychic Torment",
+  "type": "Held",
+  "data": [
+    "It decreases the users dexterity a bit.",
+    "It increases the users constitution poorly.",
+    "It increases the users intelligence magnificently.",
+    "It has nice armour class for its type (little in general).",
+    "It increases the users spellpoint regeneration nicely.",
+    "This item loses its magical powers very slowly."
+  ]
+}

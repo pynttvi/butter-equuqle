@@ -1,12 +1,11 @@
 {
   "name": "The pewter signet ring of Lucifer",
+  "type": "Finger",
   "data": [
     "It has low armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration poorly.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
-    "It alters the users visibility"
-  ],
-  "type": "Finger"
+    "It alters the users visibility",
+    "08.10.2024 15:15"
+  ]
 }

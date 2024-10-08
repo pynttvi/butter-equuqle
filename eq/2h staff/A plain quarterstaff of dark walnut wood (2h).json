@@ -1,18 +1,18 @@
 {
   "name": "A plain quarterstaff of dark walnut wood (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance slightly.",
+    "It gives tiny bonus to the skill 'psionic efficiency'.",
     "It has magnificent weapon class for its type (average in general).",
     "It increases the users constitution a tiny bit.",
     "It increases the users wisdom a tiny bit.",
     "It increases the users intelligence a tiny bit.",
     "It increases the users spellpoint regeneration poorly.",
-    "It gives tiny bonus to the skill 'psionic efficiency'.",
-    "This item loses its magical powers a bit slower than avarage.",
-    "It increases damage a tiny bit.",
     "It increases the users psionic resistance a bit.",
+    "It does psionic damage tremendously.",
+    "This item loses its magical powers a bit slower than avarage.",
     "It gives tiny bonus to the skill 'nerve mastery'.",
-    "It does psionic damage tremendously."
-  ],
-  "type": "2h staff"
+    "It increases damage a tiny bit."
+  ]
 }

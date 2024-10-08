@@ -1,14 +1,12 @@
 {
   "name": "The Sting (1h)",
+  "type": "1h dagger",
   "data": [
     "It increases hit chance slightly.",
     "It has superb weapon class for its type (weak in general).",
     "It does magical damage superbly.",
     "This item loses its magical powers with average speed.",
     "It increases damage slightly.",
-    "",
-    "- Extra -",
     "It has a pale glow."
-  ],
-  "type": "1h dagger"
+  ]
 }

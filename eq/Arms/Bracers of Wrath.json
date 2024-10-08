@@ -1,5 +1,6 @@
 {
   "name": "Bracers of Wrath",
+  "type": "Arms",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users dexterity pitifully.",
@@ -7,10 +8,9 @@
     "It decreases the users wisdom poorly.",
     "It decreases the users intelligence poorly.",
     "It has superb armour class for its type (little in general).",
-    "It increases the users hitpoint regeneration a bit.",
-    "It increases the users fire resistance strongly.",
     "It decreases the users spellpoint regeneration pitifully.",
-    "This item loses its magical powers with average speed."
-  ],
-  "type": "Arms"
+    "It increases the users hitpoint regeneration a bit.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance strongly."
+  ]
 }

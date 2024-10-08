@@ -1,11 +1,11 @@
 {
   "name": "The spine of a sea serpent (2h)",
+  "type": "2h ancient",
   "data": [
     "It increases hit chance impressively.",
     "It has superb weapon class for its type (impressive in general).",
+    "It does poison damage superbly.",
     "This item loses its magical powers with average speed.",
-    "It increases damage poorly.",
-    "It does poison damage superbly."
-  ],
-  "type": "2h ancient"
+    "It increases damage poorly."
+  ]
 }

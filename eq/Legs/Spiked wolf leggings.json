@@ -1,9 +1,9 @@
 {
   "name": "Spiked wolf leggings",
+  "type": "Legs",
   "data": [
     "It increases the users strength a tiny bit.",
     "It has average armour class for its type (tiny in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Legs"
+  ]
 }

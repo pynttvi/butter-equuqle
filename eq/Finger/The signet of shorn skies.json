@@ -1,17 +1,15 @@
 {
   "name": "The signet of shorn skies",
+  "type": "Finger",
   "data": [
     "It increases the users wisdom adequately.",
     "It increases the users intelligence pathetically.",
     "It has non-existent armour class for its type (non-existent in general).",
     "It increases the users spellpoint regeneration a good amount.",
-    "It gives decent bonus to the spell 'skyfire'.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'summon storm'.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the spell 'skyfire'.",
     "It gives decent bonus to the skill 'air lore'.",
-    "",
-    "- Extra -",
     "The signet can be 'rotated' to open up the clouds in the sky."
-  ],
-  "type": "Finger"
+  ]
 }

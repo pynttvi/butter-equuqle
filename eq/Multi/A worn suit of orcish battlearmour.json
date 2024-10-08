@@ -1,5 +1,6 @@
 {
   "name": "A worn suit of orcish battlearmour",
+  "type": "Multi",
   "data": [
     "It increases the users strength like a god.",
     "It increases the users dexterity like a god.",
@@ -10,6 +11,5 @@
     "It decreases the users spellpoint regeneration pitifully.",
     "It increases the users hitpoint regeneration like a god.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Multi"
+  ]
 }

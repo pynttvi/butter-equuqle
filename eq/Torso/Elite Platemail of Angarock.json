@@ -1,5 +1,6 @@
 {
   "name": "Elite Platemail of Angarock",
+  "type": "Torso",
   "data": [
     "It increases the users dexterity pathetically.",
     "It increases the users constitution pathetically.",
@@ -7,6 +8,5 @@
     "It decreases the users spellpoint regeneration pathetically.",
     "It increases the users hitpoint regeneration a tiny bit.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

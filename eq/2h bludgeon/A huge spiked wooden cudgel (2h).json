@@ -1,12 +1,12 @@
 {
   "name": "A huge spiked wooden cudgel (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance impossibly much.",
     "It has awesome weapon class for its type (awesome in general).",
     "It increases the users strength a tiny bit.",
+    "It does fire damage superbly.",
     "This item loses its magical powers with average speed.",
-    "It increases damage unbelievably much.",
-    "It does fire damage superbly."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage unbelievably much."
+  ]
 }

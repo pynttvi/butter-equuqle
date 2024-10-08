@@ -1,0 +1,13 @@
+{
+  "name": "Leggings of Despair",
+  "type": "Legs",
+  "data": [
+    "It increases the users wisdom poorly.",
+    "It increases the users intelligence somewhat.",
+    "It has weak armour class for its type (pathetic in general).",
+    "It increases the users spellpoint regeneration noticably.",
+    "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It gives decent bonus to the skill 'quick chant'."
+  ]
+}

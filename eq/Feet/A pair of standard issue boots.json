@@ -1,10 +1,10 @@
 {
   "name": "A pair of standard issue boots",
+  "type": "Feet",
   "data": [
     "It increases the users constitution pathetically.",
     "It has low armour class for its type (pathetic in general).",
-    "This item loses its magical powers with average speed.",
-    "It gives decent bonus to the skill 'kick'."
-  ],
-  "type": "Feet"
+    "It gives decent bonus to the skill 'kick'.",
+    "This item loses its magical powers with average speed."
+  ]
 }

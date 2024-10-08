@@ -1,5 +1,6 @@
 {
   "name": "The crest of the hive",
+  "type": "Shield",
   "data": [
     "It increases the users constitution somewhat.",
     "It increases the users wisdom a bit.",
@@ -8,10 +9,9 @@
     "It increases the users hitpoints poorly.",
     "It has average armour class for its type (poor in general).",
     "It increases the users spellpoint regeneration a bit.",
-    "This item loses its magical powers with average speed.",
     "It increases the users physical resistance adequately.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers with average speed.",
     "It increases the users acid resistance somewhat."
-  ],
-  "type": "Shield"
+  ]
 }

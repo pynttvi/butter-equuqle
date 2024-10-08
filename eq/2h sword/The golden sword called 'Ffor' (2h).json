@@ -1,11 +1,11 @@
 {
   "name": "The golden sword called 'Ffor' (2h)",
+  "type": "2h sword",
   "data": [
     "It increases hit chance slightly.",
     "It has awesome weapon class for its type (awesome in general).",
+    "It does poison damage somewhat.",
     "This item loses its magical powers with average speed.",
-    "It increases damage slightly.",
-    "It does poison damage somewhat."
-  ],
-  "type": "2h sword"
+    "It increases damage slightly."
+  ]
 }

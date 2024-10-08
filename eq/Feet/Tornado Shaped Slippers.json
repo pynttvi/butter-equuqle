@@ -1,15 +1,13 @@
 {
   "name": "Tornado Shaped Slippers",
+  "type": "Feet",
   "data": [
     "It increases the users intelligence unnoticably.",
     "It has pathetic armour class for its type (almost non-existent in general).",
     "It increases the users spellpoint regeneration unnoticably.",
     "It increases the users hitpoint regeneration unnoticably.",
     "This item loses its magical powers with average speed.",
-    "",
-    "- Extra -",
     "They allow you to fly for some time. But nobody knows how to recharge the",
     "magic:("
-  ],
-  "type": "Feet"
+  ]
 }

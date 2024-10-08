@@ -1,11 +1,13 @@
 {
   "name": "Old elven staff",
+  "type": "Held",
   "data": [
     "It decreases the users strength somewhat.",
     "It decreases the users dexterity slightly.",
     "It increases the users constitution adequately.",
     "It increases the users wisdom impressively.",
-    "It"
-  ],
-  "type": "Held"
+    "It has low armour class for its type (tiny in general).",
+    "It increases the users spellpoint regeneration adequately.",
+    "This item loses its magical powers with average speed."
+  ]
 }

@@ -1,16 +1,15 @@
 {
   "name": "Cape of Combat",
+  "type": "Cloak",
   "data": [
     "It increases the users constitution adequately.",
     "It increases the users wisdom adequately.",
     "It has awesome armour class for its type (little in general).",
     "It increases the users spellpoint regeneration somewhat.",
     "It increases the users hitpoint regeneration poorly.",
-    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'attack'.",
+    "This item loses its magical powers with average speed.",
     "It gives small bonus to the skill 'quick chant'.",
-    "- Extra -",
     "It affects the user's skill knowledge."
-  ],
-  "type": "Cloak"
+  ]
 }

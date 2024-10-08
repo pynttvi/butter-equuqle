@@ -1,8 +1,8 @@
 {
   "name": "A coal black club (1h)",
+  "type": "1h bludgeon",
   "data": [
     "It has nice weapon class for its type (average in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h bludgeon"
+  ]
 }

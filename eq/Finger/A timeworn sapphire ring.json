@@ -1,5 +1,6 @@
 {
   "name": "A timeworn sapphire ring",
+  "type": "Finger",
   "data": [
     "It increases the users dexterity adequately.",
     "It increases the users constitution poorly.",
@@ -7,6 +8,5 @@
     "It increases the users hitpoint regeneration a bit.",
     "This item loses its magical powers slowly.",
     "It increases the users acid resistance somewhat."
-  ],
-  "type": "Finger"
+  ]
 }

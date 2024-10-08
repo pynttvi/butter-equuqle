@@ -1,11 +1,11 @@
 {
   "name": "A bloodied suit of plate mail named 'Doomshell'",
+  "type": "Torso",
   "data": [
     "It increases the users constitution a tiny bit.",
     "It increases the users intelligence strongly.",
     "It has awesome armour class for its type (excellent in general).",
     "It increases the users spellpoint regeneration superbly.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Torso"
+  ]
 }

@@ -1,13 +1,12 @@
 {
   "name": "A ring made of black mithril",
+  "type": "Finger",
   "data": [
     "It increases the users constitution somewhat.",
     "It has little armour class for its type (almost non-existent in general).",
     "This item loses its magical powers with average speed.",
     "It increases the users acid resistance a bit.",
     "It increases the users asphyxiation resistance a bit.",
-    "- Extra -",
     "It emits darkness."
-  ],
-  "type": "Finger"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "A sturdy looking stone made butchers axe (1h)",
+  "type": "1h axe",
   "data": [
     "It has mediocre weapon class for its type (feeble in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "1h axe"
+  ]
 }

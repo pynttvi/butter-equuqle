@@ -1,5 +1,6 @@
 {
   "name": "The boots of the miles walked",
+  "type": "Feet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users wisdom poorly.",
@@ -10,6 +11,5 @@
     "This item loses its magical powers with average speed.",
     "It gives small bonus to the spell 'razor edge'.",
     "It gives small bonus to the spell 'lightsword'."
-  ],
-  "type": "Feet"
+  ]
 }

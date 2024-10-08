@@ -1,5 +1,6 @@
 {
   "name": "A Flaming Halo",
+  "type": "Head",
   "data": [
     "It decreases the users strength a tiny bit.",
     "It decreases the users dexterity a tiny bit.",
@@ -11,6 +12,5 @@
     "This item loses its magical powers very slowly.",
     "The flaming halo grants spellcasters special properties.",
     "The flaming halo is a holy artifact of the goddess Kirvana."
-  ],
-  "type": "Head"
+  ]
 }

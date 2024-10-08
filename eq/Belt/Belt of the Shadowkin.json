@@ -1,15 +1,15 @@
 {
   "name": "Belt of the Shadowkin",
+  "type": "Belt",
   "data": [
     "It decreases the users strength poorly.",
     "It increases the users wisdom noticably.",
     "It increases the users intelligence slightly.",
     "It has adequate armour class for its type (pathetic in general).",
     "It increases the users spellpoint regeneration noticably.",
-    "This item loses its magical powers very slowly.",
     "It decreases the users magical resistance somewhat.",
+    "It increases the users psionic resistance strongly.",
     "It increases the users poison resistance strongly.",
-    "It increases the users psionic resistance strongly."
-  ],
-  "type": "Belt"
+    "This item loses its magical powers very slowly."
+  ]
 }

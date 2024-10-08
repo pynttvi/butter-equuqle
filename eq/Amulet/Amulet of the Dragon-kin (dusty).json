@@ -1,18 +1,18 @@
 {
   "name": "Amulet of the Dragon-kin (dusty)",
+  "type": "Amulet",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users dexterity pitifully.",
     "It increases the users constitution poorly.",
     "It decreases the users intelligence pitifully.",
     "It has average armour class for its type (pathetic in general).",
-    "It increases the users hitpoint regeneration pitifully.",
     "It decreases the users spellpoint regeneration adequately.",
-    "It gives tiny bonus to the skill 'dodge'.",
-    "This item loses its magical powers with average speed.",
+    "It increases the users hitpoint regeneration pitifully.",
     "It gives tiny bonus to the skill 'riposte'.",
     "It gives tiny bonus to the skill 'attack'.",
+    "This item loses its magical powers with average speed.",
+    "It gives tiny bonus to the skill 'dodge'.",
     "It makes you feel more skillfully in some skills."
-  ],
-  "type": "Amulet"
+  ]
 }

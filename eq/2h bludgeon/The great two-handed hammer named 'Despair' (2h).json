@@ -1,11 +1,11 @@
 {
   "name": "The great two-handed hammer named 'Despair' (2h)",
+  "type": "2h bludgeon",
   "data": [
     "It decreases hit chance somewhat.",
     "It has impressive weapon class for its type (impressive in general).",
+    "It does electric damage like a god.",
     "This item loses its magical powers somewhat slower than avarage.",
-    "It increases damage like a god.",
-    "It does electric damage like a god."
-  ],
-  "type": "2h bludgeon"
+    "It increases damage like a god."
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "The necklace of the High Priest",
+  "type": "Neck",
   "data": [
     "It increases the users strength poorly.",
     "It increases the users constitution slightly.",
     "It has little armour class for its type (almost non-existent in general).",
-    "This item loses its m"
-  ],
-  "type": "Neck"
+    "This item loses its magical powers with average speed."
+  ]
 }

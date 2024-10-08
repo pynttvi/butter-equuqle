@@ -1,11 +1,11 @@
 {
   "name": "Crown of the Ringwraith King",
+  "type": "Head",
   "data": [
     "It increases the users strength a bit.",
     "It increases the users dexterity a tiny bit.",
     "It has decent armour class for its type (little in general).",
     "It increases the users hitpoint regeneration adequately.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,12 +1,12 @@
 {
   "name": "Cursed Crown",
+  "type": "Head",
   "data": [
     "It decreases the users wisdom poorly.",
     "It decreases the users intelligence poorly.",
     "It has negative armour class for its type (negative in general).",
-    "It decreases the users hitpoint regeneration impressively.",
     "It decreases the users spellpoint regeneration impressively.",
+    "It decreases the users hitpoint regeneration impressively.",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "Arrakis army battlespear (2h)",
+  "type": "2h polearm",
   "data": [
     "It has weak weapon class for its type (poor in general).",
     "This item loses its magical powers with average speed."
-  ],
-  "type": "2h polearm"
+  ]
 }

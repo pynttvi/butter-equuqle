@@ -1,13 +1,12 @@
 {
   "name": "An iridescent feather mantle",
+  "type": "Cloak",
   "data": [
     "It increases the users dexterity unbelievably much.",
     "It has superb armour class for its type (little in general).",
     "This item loses its magical powers incredibly slowly.",
     "It gives great bonus to the skill 'hiding'.",
     "It gives great bonus to the skill 'dodge'.",
-    "- Extra -",
     "The wearer can lighten his burden by 'wafting' the mantle."
-  ],
-  "type": "Cloak"
+  ]
 }

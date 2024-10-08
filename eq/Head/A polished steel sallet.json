@@ -1,13 +1,13 @@
 {
   "name": "A polished steel sallet",
+  "type": "Head",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users constitution a good amount.",
     "It has magnificent armour class for its type (poor in general).",
-    "It increases the users fire resistance somewhat.",
-    "This item loses its magical powers with average speed.",
     "It increases the users electric resistance somewhat.",
+    "This item loses its magical powers with average speed.",
+    "It increases the users fire resistance somewhat.",
     "It constricts the wearers casting abilities."
-  ],
-  "type": "Head"
+  ]
 }

@@ -1,17 +1,17 @@
 {
   "name": "A bonesplint cinch",
+  "type": "Belt",
   "data": [
     "It increases the users strength somewhat.",
     "It increases the users constitution a good amount.",
     "It has magnificent armour class for its type (pathetic in general).",
     "It increases the users hitpoint regeneration poorly.",
     "It gives small bonus to the skill 'rage'.",
-    "This item loses its magical powers slowly.",
     "It increases the users poison resistance somewhat.",
+    "This item loses its magical powers slowly.",
     "It increases the users acid resistance somewhat.",
     "It gives nice bonus to the skill 'battlecry'.",
     "There is a small mechanism embedded in the cinch that can be activated",
     "by pressing a button."
-  ],
-  "type": "Belt"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "name": "An ornate whitewood staff (2h)",
+  "type": "2h staff",
   "data": [
     "It increases hit chance pitifully.",
     "It has average weapon class for its type (feeble in general).",
@@ -7,10 +8,9 @@
     "It increases the users intelligence adequately.",
     "It increases the users charisma poorly.",
     "It increases the users spellpoint regeneration somewhat.",
-    "This item loses its magical powers extremely slowly.",
+    "It does magical damage adequately.",
     "It gives decent bonus to the skill 'mastery of shielding'.",
-    "It gives decent bonus to the skill 'greater vulnerability'.",
-    "It does magical damage adequately."
-  ],
-  "type": "2h staff"
+    "This item loses its magical powers extremely slowly.",
+    "It gives decent bonus to the skill 'greater vulnerability'."
+  ]
 }
