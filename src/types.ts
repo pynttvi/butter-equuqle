@@ -1,10 +1,12 @@
-export type EqStatType = "class" | "stat" | "regen" | "skill" | "resist" | "pref" | "hitdam"
+import {FilterContextFields} from "./FilterContext.ts";
+
+export type EqStatType = "class" | "stat" | "regen" | "skill" | "resist" | "pref" | "hitdam" | "glow"
 
 export type StatType = {
   index: number;
   generalIndex: number;
   indexTypeIndex: number;
-  name: '',
+  name: string,
   type: EqStatType,
   positive: boolean
   min: number
@@ -12,16 +14,17 @@ export type StatType = {
   data: string
 }
 export type ItemRow = {
-  name: string, type: string,
+  name: string,
+  type: string,
   stats: Array<StatType>
   extraLines: Array<string>
   points: number
 }
-export type AppState = {
+export type AppStateType = {
   hasMore: boolean;
   items: Array<ItemRow>;
   rows: Array<ItemRow>;
-  fields: Object;
+  fields: FilterContextFields;
   page: number,
   name: string,
   type: string,
