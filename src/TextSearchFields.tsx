@@ -7,7 +7,7 @@ import {Item} from "./App";
 import json from "../eq/eqIndex.json";
 import {setTextField, SetTextFieldPayload} from "./filters/filterReducer.ts";
 import {connect} from "react-redux";
-import {Box} from "@mui/material";
+import {Box, debounce} from "@mui/material";
 import shortid from "shortid";
 
 const types = Array.from(new Set(json.map((r) => r.type)));
@@ -35,6 +35,8 @@ class TextSearchFields extends React.Component<TextSearchFieldsProps, TextSearch
             type: "",
             prefText: "",
         }
+        this.updateContext = debounce(this.updateContext, 2000);
+
     }
 
     updateState(filterName: keyof TextSearchFieldsState, value: string) {
@@ -44,28 +46,29 @@ class TextSearchFields extends React.Component<TextSearchFieldsProps, TextSearch
             ...this.state,
             ...nextState
         })
+
     }
 
     componentDidUpdate(prevProps: Readonly<TextSearchFieldsProps>, prevState: Readonly<TextSearchFieldsState>, snapshot?: any) {
-        setTimeout(() => {
-                this.props.setTextField({name: 'name', value: this.state.name})
-                this.props.setTextField({name: 'type', value: this.state.type})
-                this.props.setTextField({name: 'prefText', value: this.state.prefText})
-            }, 1000)
+        this.updateContext()
+    }
+
+    updateContext() {
+        this.props.setTextField({name: 'name', value: this.state.name})
+        this.props.setTextField({name: 'type', value: this.state.type})
+        this.props.setTextField({name: 'prefText', value: this.state.prefText})
     }
 
     setName(name: string) {
-        if (name.length < 3) return
-        this.updateState("name", name)
+        this.updateState("name", name || "")
     }
 
     setType(type: string) {
-        if (type.length < 2) return
-        this.updateState("type", type)
+        this.updateState("type", type || "")
     }
 
     setPref(pref: string) {
-        this.updateState("prefText", pref)
+        this.updateState("prefText", pref || "")
     }
 
     render() {

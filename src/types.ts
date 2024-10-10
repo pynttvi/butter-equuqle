@@ -17,6 +17,6 @@ export type ItemRow = {
     stats: Array<StatType>
     extraLines: Array<string>
     points: number
-    features: string[]
+    features: { name: string }[]
 }
 

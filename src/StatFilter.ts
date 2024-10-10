@@ -5,6 +5,7 @@ import {FilterContextType} from "./FilterContext.ts";
 const CLASS_TYPE_NAME = 'class';
 
 export async function filterRows(rows: Array<ItemRow>, context: FilterContextType): Promise<Array<ItemRow>> {
+    console.log("CONTEX",context)
     const newRows = [];
     for (let i = 0; i < rows.length; i++) {
         const row = rows[i];
@@ -41,8 +42,8 @@ export function filterByStats(row: ItemRow, context: FilterContextType): boolean
     if (context.fields.features.length > 0) {
         if (!row.features) return false
         if (row.features.length < 1) return false
-        const foundFeatures = context.fields?.features?.filter((f) => {
-            row.features.includes(f)
+        const foundFeatures = row.features.filter((f) => {
+            return context.fields.features.includes(f.name)
         })
         if (!foundFeatures || foundFeatures.length === 0) return false
     }

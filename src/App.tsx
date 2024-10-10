@@ -23,6 +23,7 @@ import {ItemRow} from "./types";
 import {connect} from "react-redux";
 import InfiniteScroll from "react-infinite-scroll-component";
 import {filterRows} from "./StatFilter.ts";
+import FeatureCheckboxes from "./FeatureCheckboxes.tsx";
 
 export const getJson = (): Array<ItemRow> => {
     return jsonFile as Array<ItemRow>;
@@ -242,6 +243,7 @@ class App extends Component<{ filterContext: FilterContextType }, {
                                                         <StatSlider label={k} />
                                                     </Item>
                                                 ))}
+                                                <FeatureCheckboxes />
                                                 <Item>
                                                     <Button variant="contained" size="medium" onClick={this.resetFields}>
                                                         Reset
@@ -252,7 +254,7 @@ class App extends Component<{ filterContext: FilterContextType }, {
 
                                         {/* EqTable Box (8/12 space) */}
                                         <Grid direction={'row'} xs={12} md={10} key={'eq-table-box'}>
-                                            <Box sx={{ overflowX: 'scroll', padding: '16px', backgroundColor: '#1A2027' }}>
+                                            <Box sx={{ overflowX: 'hidden', padding: '16px', backgroundColor: '#1A2027' }}>
                                                 <EqTable items={this.state.appState.items} />
                                             </Box>
                                         </Grid>
