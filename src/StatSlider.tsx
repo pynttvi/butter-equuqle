@@ -1,83 +1,86 @@
 import * as React from 'react';
-import { FilterContext, FilterContextType } from './FilterContext';
-import { filterByStats } from './StatFilter';
+import {AppReducer, defaultNumericFields, FilterContextNumericFields} from './FilterContext';
+import {maxValues} from './StatFilter';
 
 import Slider from '@mui/material/Slider';
 import Typography from '@mui/material/Typography';
-import { maxValues } from './StatFilter';
-import { ItemRow, StatSliderProps, StatSliderState } from './types';
-import { getJson } from './App';
+import {setNumericField, SetNumericFieldPayload} from "./filters/filterReducer.ts";
+import {connect} from "react-redux";
+import {debounce} from "@mui/material";
 
-export default class StatSlider extends React.Component<StatSliderProps, StatSliderState> {
-  static getDerivedStateFromProps(
-    props: StatSliderProps,
-    state: StatSliderState,
-  ): Partial<StatSliderState> | any {
-  }
-
-  setValue: (event, value) => void;
-  filter: () => void;
-
-  constructor(props) {
-    super(props);
-    const json = getJson();
-
-    this.state = {
-      value: 0,
-      label: this.props.label,
-      fields: this.props.fields,
-    };
-
-
-    this.setValue = (event, value) => {
-      const context = this.context as FilterContextType
-
-      context.fields[this.props.label] = value;
-      this.setState((state) => ({
-          ...state,
-          fields: context.fields,
-          value: value,
-        }),
-        () => this.filter());
-    };
-
-    this.filter = () => {
-      const context = this.context as FilterContextType
-
-      if (context.fields) {
-        const newRows = json.filter((row) => {
-          if (row.stats) {
-            return filterByStats(row, context, context.name, context.type, context.prefText);
-          }
-        });
-        context.rows = newRows;
-        context.handleChange([...newRows], context.fields);
-      } else {
-      }
-    };
-  }
-
-  render() {
-    let props = { ...this.props };
-    return (
-      <FilterContext.Consumer key={'StatSliderConsumer'}>
-        {({ rows, name, type, fields }) => (
-          <>
-            <Typography gutterBottom >
-              {props.label}
-            </Typography>
-            <Slider
-              id={props.label}
-              getAriaLabel={() => 'Class'}
-              value={fields[props.label]}
-              onChange={this.setValue}
-              max={maxValues[props.label]}
-              valueLabelDisplay='auto'
-            />
-          </>
-        )}
-      </FilterContext.Consumer>
-    );
-  }
+export type StatSliderProps = {
+    label: keyof FilterContextNumericFields,
+    numericFields: FilterContextNumericFields
+    setNumericField: (payload: SetNumericFieldPayload) => void
 }
-StatSlider.contextType = FilterContext;
+
+export type StatSliderState = {
+    numericFields: FilterContextNumericFields
+    label: keyof FilterContextNumericFields,
+    value: number
+
+}
+
+class StatSlider extends React.Component<StatSliderProps, StatSliderState> {
+
+    constructor(props: StatSliderProps) {
+        super(props);
+        this.state = {
+            label: props.label as keyof FilterContextNumericFields,
+            numericFields: props.numericFields,
+            value: props.numericFields[props.label]
+        }
+
+        this.setContext = debounce(this.setContext, 500);
+    }
+
+    componentDidUpdate(prevProps: Readonly<StatSliderProps>, prevState: Readonly<StatSliderState>, snapshot?: any) {
+        this.setContext()
+    }
+
+    setContext() {
+        this.props.setNumericField({name: this.props.label, value: this.state.value});
+    }
+
+    setValue = (event, value: number) => {
+        const nextState = {...this.state, value: value}
+        nextState[this.props.label] = value
+        this.setState(nextState)
+    };
+
+    render() {
+        const value = this.state.value
+        return (
+            <>
+                <Typography gutterBottom>
+                    {this.props.label}
+                </Typography>
+                <Slider
+                    id={this.props.label}
+                    getAriaLabel={() => 'Class'}
+                    value={value}
+                    onChange={this.setValue}
+                    max={maxValues[this.props.label]}
+                    valueLabelDisplay='auto'
+                />
+            </>
+        )
+    }
+}
+
+const mapStateToProps = (reducer: AppReducer) => {
+    const numericFields = {}
+    const keys = Object.keys(defaultNumericFields) as Array<keyof FilterContextNumericFields>
+    keys.filter((key) => {
+        numericFields[key] = reducer.reducer.filterContext.fields[key]
+    })
+    return {
+        numericFields: numericFields as FilterContextNumericFields
+    }
+};
+
+const mapDispatchToProps = {
+    setNumericField
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(StatSlider);

@@ -1,121 +1,155 @@
 import * as React from "react";
-import { FilterContext, FilterContextType } from "./FilterContext";
-import { filterByStats, prefs } from "./StatFilter";
+import {AppReducer} from "./FilterContext";
+import {prefs} from "./StatFilter";
 import Autocomplete from "@mui/material/Autocomplete";
 import TextField from "@mui/material/TextField";
-import { Item } from "./App";
+import {Item} from "./App";
 import json from "../eq/eqIndex.json";
+import {setTextField, SetTextFieldPayload} from "./filters/filterReducer.ts";
+import {connect} from "react-redux";
+import {Box, debounce} from "@mui/material";
+import shortid from "shortid";
 
 const types = Array.from(new Set(json.map((r) => r.type)));
 const eqNames = [...json.map((r) => r.name)];
 
-type TextSearchFieldsType = {
-  name: string;
-  type: string;
-  prefText: string;
+type TextSearchFieldsState = {
+    name: string;
+    type: string;
+    prefText: string;
 };
-export default class TextSearchFields extends React.Component {
-  private setType: (val) => void;
-  private setName: (val) => void;
-  private filter: () => void;
-  state: TextSearchFieldsType = {
-    name: "",
-    type: "",
-    prefText: "",
-  };
-  constructor(props) {
-    super(props);
 
-    this.filter = () => {
-      const context = this.context as FilterContextType;
-      if (context.fields) {
-        const newRows = json.filter((row) => {
-          if (row.stats) {
-            return filterByStats(
-              row,
-              context,
-              this.state.name,
-              this.state.type,
-              this.state.prefText
-            );
-          }
-        });
-        context.handleChange([...newRows]);
-      } else {
-      }
-    };
-  }
-
-  render() {
-    return (
-      <FilterContext.Consumer>
-        {({
-          fields,
-          rows,
-          name,
-          type,
-          prefText,
-          setName,
-          setType,
-          setPref,
-        }) => (
-          <>
-            <Item>
-              <Autocomplete
-                disablePortal
-                id="name-input"
-                options={eqNames}
-                onInputChange={(event, newInputValue) => {
-                  setName(newInputValue);
-                }}
-                inputValue={name}
-                onChange={(event, newInputValue) => {
-                  setName(newInputValue);
-                }}
-                renderInput={(params) => (
-                  <TextField {...params} id="name" label="Name" />
-                )}
-              />
-            </Item>
-            <Item>
-              <Autocomplete
-                disablePortal
-                id="type-input"
-                options={types}
-                onInputChange={(event, newInputValue) => {
-                  setType(newInputValue);
-                }}
-                inputValue={type}
-                onChange={(event, newValue) => {
-                  setType(newValue);
-                }}
-                renderInput={(params) => (
-                  <TextField {...params} id="type" label="Type" />
-                )}
-              />
-            </Item>
-
-            <Item>
-              <Autocomplete
-                disablePortal
-                id="type-input"
-                options={prefs}
-                onInputChange={(event, newInputValue) => {
-                  setPref(newInputValue);
-                }}
-                inputValue={prefText}
-                onChange={(event, newValue) => {
-                  setPref(newValue);
-                }}
-                renderInput={(params) => (
-                  <TextField {...params} id="prefText" label="Pref" />
-                )}
-              />
-            </Item>
-          </>
-        )}
-      </FilterContext.Consumer>
-    );
-  }
+type TextSearchFieldsProps = {
+    name: string;
+    type: string;
+    prefText: string;
+    setTextField?: (payload: SetTextFieldPayload) => void
 }
-TextSearchFields.contextType = FilterContext;
+
+class TextSearchFields extends React.Component<TextSearchFieldsProps, TextSearchFieldsState> {
+
+    constructor(props: TextSearchFieldsProps) {
+        super(props);
+        this.state = {
+            name: "",
+            type: "",
+            prefText: "",
+        }
+        this.updateContext = debounce(this.updateContext, 2000);
+
+    }
+
+    updateState(filterName: keyof TextSearchFieldsState, value: string) {
+        const nextState = {}
+        nextState[filterName] = value
+        this.setState({
+            ...this.state,
+            ...nextState
+        })
+
+    }
+
+    componentDidUpdate(prevProps: Readonly<TextSearchFieldsProps>, prevState: Readonly<TextSearchFieldsState>, snapshot?: any) {
+        this.updateContext()
+    }
+
+    updateContext() {
+        this.props.setTextField({name: 'name', value: this.state.name})
+        this.props.setTextField({name: 'type', value: this.state.type})
+        this.props.setTextField({name: 'prefText', value: this.state.prefText})
+    }
+
+    setName(name: string) {
+        this.updateState("name", name || "")
+    }
+
+    setType(type: string) {
+        this.updateState("type", type || "")
+    }
+
+    setPref(pref: string) {
+        this.updateState("prefText", pref || "")
+    }
+
+    render() {
+        const {name, type, prefText} = this.state
+        return (
+            <>
+                <Item>
+                    <Autocomplete
+                        disablePortal
+                        id="name-input"
+                        key={"name-input"}
+                        options={eqNames}
+                        renderOption={(props, option) => (
+                            <Box component="li" {...props} key={shortid.generate()}>
+                                {option}
+                            </Box>
+                        )}
+                        onInputChange={(event, newInputValue) => {
+                            this.setName(newInputValue);
+                        }}
+                        inputValue={name}
+                        onChange={(event, newInputValue) => {
+                            this.setName(newInputValue);
+                        }}
+                        renderInput={(params) => (
+                            <TextField {...params} id="name" label="Name"/>
+                        )}
+                    />
+                </Item>
+                <Item>
+                    <Autocomplete
+                        disablePortal
+                        id="type-input"
+                        key={"type-input"}
+                        options={types}
+                        onInputChange={(event, newInputValue) => {
+                            this.setType(newInputValue);
+                        }}
+                        inputValue={type}
+                        onChange={(event, newValue) => {
+                            this.setType(newValue);
+                        }}
+                        renderInput={(params) => (
+                            <TextField {...params} id="type" label="Type"/>
+                        )}
+                    />
+                </Item>
+
+                <Item>
+                    <Autocomplete
+                        disablePortal
+                        id="prefText-input"
+                        key={"prefText-input"}
+                        options={prefs}
+                        onInputChange={(event, newInputValue) => {
+                            this.setPref(newInputValue);
+                        }}
+                        inputValue={prefText}
+                        onChange={(event, newValue) => {
+                            this.setPref(newValue);
+                        }}
+                        renderInput={(params) => (
+                            <TextField {...params} id="prefText" label="Pref"/>
+                        )}
+                    />
+                </Item>
+            </>
+        );
+    }
+}
+
+const mapStateToProps = (reducer: AppReducer) => {
+    return {
+        name: reducer.reducer.filterContext.fields.name,
+        type: reducer.reducer.filterContext.fields.type,
+        prefText: reducer.reducer.filterContext.fields.prefText,
+    }
+};
+
+const mapDispatchToProps = {
+    setTextField
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(TextSearchFields);
