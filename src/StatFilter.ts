@@ -4,27 +4,27 @@ import {FilterContextType} from "./FilterContext.ts";
 
 const CLASS_TYPE_NAME = 'class';
 
-export async function filterRows(rows: Array<ItemRow>, context: FilterContextType, name: string, type: string, prefText: string): Promise<Array<ItemRow>> {
+export async function filterRows(rows: Array<ItemRow>, context: FilterContextType): Promise<Array<ItemRow>> {
     const newRows = [];
     for (let i = 0; i < rows.length; i++) {
         const row = rows[i];
-        if (filterByStats(row, context, name, type, prefText) === true) {
+        if (filterByStats(row, context) === true) {
             newRows.push(row);
         }
     }
     return newRows;
 }
 
-export function filterByStats(row: ItemRow, context: FilterContextType, name: string, type: string, prefText: string): boolean {
+export function filterByStats(row: ItemRow, context: FilterContextType): boolean {
     const s = row.stats;
-    if (type && type !== '' && type !== 'null') {
-        if (type !== row.type) {
+    if (context.fields.type && context.fields.type !== '' && context.fields.type !== 'null') {
+        if (context.fields.type !== row.type) {
             return false;
         }
     }
 
-    if (name && name !== '' && name !== 'null') {
-        if (row.name.localeCompare(name)) {
+    if (context.fields.name && context.fields.name !== '' && context.fields.name !== 'null') {
+        if (row.name.localeCompare(context.fields.name)) {
             return false;
         }
     }
@@ -36,6 +36,15 @@ export function filterByStats(row: ItemRow, context: FilterContextType, name: st
         })) {
             return false;
         }
+    }
+
+    if (context.fields.features.length > 0) {
+        if (!row.features) return false
+        if (row.features.length < 1) return false
+        const foundFeatures = context.fields?.features?.filter((f) => {
+            row.features.includes(f)
+        })
+        if (!foundFeatures || foundFeatures.length === 0) return false
     }
 
 
@@ -146,7 +155,7 @@ export function filterByStats(row: ItemRow, context: FilterContextType, name: st
 
     if (context.fields.resist !== 0) {
         if (!row?.stats?.find((s) => {
-            return s.type === 'resist' && s.min >= context.fields.resist && s.positive === true && ((!prefText || prefText === '') || s.name === prefText);
+            return s.type === 'resist' && s.min >= context.fields.resist && s.positive === true && ((!context.fields.prefText || context.fields.prefText === '') || s.name === context.fields.prefText);
         })) {
             return false;
         }
@@ -154,7 +163,7 @@ export function filterByStats(row: ItemRow, context: FilterContextType, name: st
     if (context.fields.pref !== 0) {
 
         if (!row?.stats?.find((s) => {
-            return s.type === 'pref' && s.min >= context.fields.pref && s.positive === true && ((!prefText || prefText === '') || s.name === prefText);
+            return s.type === 'pref' && s.min >= context.fields.pref && s.positive === true && ((!context.fields.prefText || context.fields.prefText === '') || s.name === context.fields.prefText);
         })) {
             return false;
         }
@@ -258,6 +267,7 @@ function findMaxValues(): Object {
                 if (s.type === 'pref' && s.max >= maxValues.pref) {
                     maxValues.pref = s.max;
                 }
+
             }
         }
     }

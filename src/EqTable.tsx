@@ -7,9 +7,11 @@ import TableCell from '@mui/material/TableCell';
 import * as React from 'react';
 import Paper from '@mui/material/Paper';
 import shortid from 'shortid';
-import {FilterContext} from './FilterContext';
+import {ItemRow} from "./types.ts";
+import InfiniteScroll from "react-infinite-scroll-component";
+import {AppStateType} from "./App.tsx";
 
-const getStat = (row, type) => {
+const getStat = (row: ItemRow, type: string) => {
     return row.stats.map((s) => {
         if (s.type === type) {
             return (
@@ -25,7 +27,7 @@ const getStat = (row, type) => {
     });
 };
 
-const getPref = (row) => {
+const getPref = (row: ItemRow) => {
     return row.stats.map((s) => {
         if (s.type === "pref") {
             return (
@@ -41,7 +43,7 @@ const getPref = (row) => {
     });
 };
 
-const getClass = (row) => {
+const getClass = (row: ItemRow) => {
     return row.stats.map((s) => {
         if (s.type === 'class') {
             return <div key={shortid.generate()}>{s.index}</div>;
@@ -49,7 +51,7 @@ const getClass = (row) => {
     });
 };
 
-const getHitDam = (row) => {
+const getHitDam = (row: ItemRow) => {
     return row.stats.map((s) => {
         if (s.type === 'hitdam') {
             return (
@@ -59,7 +61,7 @@ const getHitDam = (row) => {
     });
 };
 
-const getExtraLines = (row) => {
+const getExtraLines = (row: ItemRow) => {
     if (!row?.extraLines) {
         return <></>
     }
@@ -68,78 +70,79 @@ const getExtraLines = (row) => {
     });
 };
 
-export default class EqTable extends React.Component {
-    constructor(props) {
+export type EqTableProps = {
+    items: Array<ItemRow>
+}
+
+export default class EqTable extends React.Component<EqTableProps, {}> {
+
+    constructor(props: EqTableProps) {
         super(props);
     }
 
-
     render() {
         return (
-            <FilterContext.Consumer key={'filter-context-consumer'}>
-                {({items}) => (
-                    <TableContainer component={Paper} key={shortid.generate()}>
-                        <Table aria-label='simple table' key={shortid.generate()}>
-                            <TableHead>
-                                <TableRow key={shortid.generate()}>
-                                    <TableCell key={shortid.generate()} align='right'>Name</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Type</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Stats</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Regens</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Resist</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Skills/Spells</TableCell>
-                                    <TableCell key={shortid.generate()} align='right'>Class</TableCell>
-                                    <TableCell key={shortid.generate()} sx={{maxWidth: 50}} align='right'>
-                                        {' '}
-                                        Extra
+            <TableContainer component={Paper} key={shortid.generate()} sx={{width: '100%'}}>
+                <Table aria-label='simple table' key={shortid.generate()}>
+                    <TableHead>
+                        <TableRow key={shortid.generate()}>
+                            <TableCell key={shortid.generate()} align='right'>Name</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Type</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Stats</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Regens</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Resist</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Skills/Spells</TableCell>
+                            <TableCell key={shortid.generate()} align='right'>Class</TableCell>
+                            <TableCell key={shortid.generate()} sx={{maxWidth: 50}} align='right'>
+                                {' '}
+                                Extra
+                            </TableCell>
+                            <TableCell align='right'>Points</TableCell>
+                        </TableRow>
+                    </TableHead>
+                    <TableBody>
+                        {this.props.items.length === 0 && (
+                            <tr>
+                                <td>TOO SUFFELI</td>
+                            </tr>
+                        )}
+
+                            {this.props.items.map((item, index) => (
+                                <TableRow
+                                    key={shortid.generate()}
+                                    sx={{
+                                        '&:last-child td, &:last-child th': {border: 0},
+                                    }}
+                                >
+                                    <TableCell component='th' scope='row' align='right'>
+                                        {item.name}
                                     </TableCell>
-                                    <TableCell align='right'>Points</TableCell>
+                                    <TableCell align='right'>{item.type}</TableCell>
+                                    <TableCell align='right'>
+                                        {getStat(item, 'stat')}
+                                        {getHitDam(item)}
+                                        {getPref(item)}
+                                    </TableCell>
+                                    <TableCell align='right'>
+                                        {getStat(item, 'regen')}
+                                    </TableCell>
+                                    <TableCell align='right'>
+                                        {getStat(item, 'resistance')}
+                                    </TableCell>
+                                    <TableCell align='right'>
+                                        {getStat(item, 'skill')}
+                                    </TableCell>
+                                    <TableCell align='right'>{getClass(item)}</TableCell>
+                                    <TableCell align='right' sx={{maxWidth: 150}}>
+                                        {getExtraLines(item)}
+                                    </TableCell>
+                                    <TableCell align='right'>{item.points}</TableCell>
                                 </TableRow>
-                            </TableHead>
-                            <TableBody>
-                                {items.length === 0 && (
-                                    <tr>
-                                        <td>TOO SUFFELI</td>
-                                    </tr>
-                                )}
-                                {items.map((item, index) => (
-                                    <TableRow
-                                        key={shortid.generate()}
-                                        sx={{
-                                            '&:last-child td, &:last-child th': {border: 0},
-                                        }}
-                                    >
-                                        <TableCell component='th' scope='row' align='right'>
-                                            {item.name}
-                                        </TableCell>
-                                        <TableCell align='right'>{item.type}</TableCell>
-                                        <TableCell align='right'>
-                                            {getStat(item, 'stat')}
-                                            {getHitDam(item)}
-                                            {getPref(item)}
-                                        </TableCell>
-                                        <TableCell align='right'>
-                                            {getStat(item, 'regen')}
-                                        </TableCell>
-                                        <TableCell align='right'>
-                                            {getStat(item, 'resistance')}
-                                        </TableCell>
-                                        <TableCell align='right'>
-                                            {getStat(item, 'skill')}
-                                        </TableCell>
-                                        <TableCell align='right'>{getClass(item)}</TableCell>
-                                        <TableCell align='right' sx={{maxWidth: 150}}>
-                                            {getExtraLines(item)}
-                                        </TableCell>
-                                        <TableCell align='right'>{item.points}</TableCell>
-                                    </TableRow>
-                                ))}
-                            </TableBody>
-                        </Table>
-                    </TableContainer>
-                )}
-            </FilterContext.Consumer>
+                            ))}
+
+                    </TableBody>
+                </Table>
+            </TableContainer>
         );
     }
 }
-EqTable.contextType = FilterContext;

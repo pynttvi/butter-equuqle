@@ -1,26 +1,31 @@
 import StatSlider from "./StatSlider";
-import * as React from "react";
+import React, {Component} from "react";
 import {createTheme, styled, StyledEngineProvider, ThemeProvider} from '@mui/material/styles';
 
-import json from "../eq/eqIndex.json";
+import jsonFile from "../eq/eqIndex.json";
 import Grid from "@mui/material/Unstable_Grid2";
-
-import Paper from "@mui/material/Paper";
 import Stack from "@mui/material/Stack";
-import {FilterContext, FilterContextFields} from "./FilterContext";
-import {filterRows, maxValues} from "./StatFilter";
+import {
+    AppContext,
+    AppReducer,
+    FilterContextFields,
+    FilterContextNumericFields,
+    FilterContextType
+} from "./FilterContext";
 import EqTable from "./EqTable";
-import InfiniteScroll from "react-infinite-scroll-component";
 import CssBaseline from "@mui/material/CssBaseline";
 import {green, purple} from "@mui/material/colors";
 import Typography from "@mui/material/Typography";
-import {Button} from "@mui/material";
+import {Box, Button} from "@mui/material";
 import TextSearchFields from "./TextSearchFields";
 import shortid from "shortid";
-import {AppStateType, ItemRow} from "./types";
+import {ItemRow} from "./types";
+import {connect} from "react-redux";
+import InfiniteScroll from "react-infinite-scroll-component";
+import {filterRows} from "./StatFilter.ts";
 
 export const getJson = (): Array<ItemRow> => {
-    return json as Array<ItemRow>;
+    return jsonFile as Array<ItemRow>;
 };
 const darkTheme = createTheme({
     palette: {
@@ -34,17 +39,15 @@ const darkTheme = createTheme({
     },
 });
 
-const keys = Object.keys(maxValues);
-export const Item = styled(Paper)(({theme}) => ({
+export const Item = styled(Box)(({theme}) => ({
     backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
     ...theme.typography.body2,
     padding: theme.spacing(1),
     textAlign: "center",
-    color: theme.palette.text.secondary,
     key: shortid.generate(),
 }));
 
-const default_fields: FilterContextFields = {
+const defaultNumericFields: FilterContextNumericFields = {
     class: 0,
     wc: 0,
     glow: 0,
@@ -62,207 +65,215 @@ const default_fields: FilterContextFields = {
     dam: 0,
     pref: 0,
     resist: 0,
-    type: "",
-    name: "",
 };
 
+const defaultFields: FilterContextFields = {
+    ...defaultNumericFields,
+    type: "",
+    name: "",
+    prefText: "",
+    features: []
+};
 
-export default class App extends React.Component<{}, { appState: AppStateType }> {
-    appState: AppStateType
+const keys: Array<keyof FilterContextNumericFields> = Object.keys(defaultNumericFields) as Array<keyof FilterContextNumericFields>;
 
-    private readonly setName: (val: string) => void;
-    private readonly setType: (val: string) => void;
-    private readonly setPref: (val: string) => void;
-    private readonly setRows: (newRows: Array<ItemRow>, fields: Object) => void;
-    private readonly updateRows: () => void;
-    private readonly resetFields: () => void;
-    private readonly setAppState: (appState: AppStateType, preventUpdate ?: boolean) => void;
+export type AppStateType = {
+    hasMore: boolean;
+    isFilterBoxVisible: boolean;
+    items: Array<ItemRow>;
+    rows: Array<ItemRow>;
+    page: number,
+};
 
+const json = jsonFile as Array<ItemRow>
 
-    constructor(props) {
+class App extends Component<{ filterContext: FilterContextType }, {
+    appState: AppStateType,
+    filterContext: FilterContextType
+}> {
+    private filterBoxRef: React.RefObject<HTMLDivElement>;
+    private observer: IntersectionObserver;
+
+    constructor(props: AppContext) {
         super(props);
-        this.appState = {
-            name: "",
-            type: "",
-            prefText: "",
-            rows: [...getJson()],
-            items: getJson().slice(0, 100),
-            fields: {...default_fields},
-            hasMore: true,
-            page: 0,
-        };
+
+        this.filterBoxRef = React.createRef();
 
         this.state = {
-            appState: this.appState
-        }
-
-        const json: Array<ItemRow> = this.appState.rows
-
-
-        this.setAppState = (appState: AppStateType, preventUpdate ?: boolean) => {
-            this.setState((state) => ({
-                    ...state,
-                    appState: appState
-                }),
-                () => {
-                    if (!preventUpdate) {
-                        this.updateRows();
-                    }
-                });
-        }
-
-        this.resetFields = () => {
-            window.location.reload();
-        };
-
-        this.setRows = (newRows: Array<ItemRow>, fields: FilterContextFields) => {
-            this.setAppState({
-                ...this.appState,
-                rows: newRows,
-                items: newRows.slice(0, 100),
-                fields: {...fields},
-                page: 0,
+            appState: {
+                rows: json,
+                items: json.slice(0, 100),
                 hasMore: true,
-            });
-        };
-
-        this.setType = (val: string) => {
-            this.setAppState({
-                ...this.appState,
-                type: val,
-            })
+                page: 0,
+                isFilterBoxVisible: true,
+            },
+            filterContext: this.props.filterContext,
         }
 
-        this.setName = (val) => {
-            this.setAppState({
-                ...this.appState,
-                name: val,
+    }
 
-            })
-        };
+    componentDidUpdate(prevProps: Readonly<{ filterContext: FilterContextType }>, prevState: Readonly<{
+        appState: AppStateType;
+        filterContext: FilterContextType
+    }>, snapshot?: any) {
 
-        this.setPref = (val) => {
-            this.setAppState({
-                ...this.appState,
-                prefText: val,
-            })
-        };
-
-        this.updateRows = () => {
+        const filtersChanged = Object.keys(this.state.filterContext.fields).find((key) => {
+                if (prevProps.filterContext.fields[key] !== this.props.filterContext.fields[key]) {
+                    return true
+                }
+                return false
+            }
+        )
+        if (filtersChanged) {
+            console.log("FIELD UPDATE")
             filterRows(
                 json,
-                {
-                    fields: this.appState.fields,
-                    handleChange: this.setRows,
-                    rows: [...json],
-                },
-                this.appState.name,
-                this.appState.type,
-                this.appState.prefText
-            ).then((newRows: Array<ItemRow>) => {
+                this.props.filterContext
+            ).then((newRows) => {
                 this.setAppState({
-                    ...this.appState,
+                    ...this.state.appState,
                     rows: newRows,
                     items: newRows.slice(0, 100),
                     page: 0,
                     hasMore: true,
-                }, true);
+                })
             })
-        };
-
+        }
     }
 
+
+    setAppState = (appState: AppStateType) => {
+        this.setState((state) => ({
+            ...state,
+            appState: {...appState}
+        }))
+    }
+
+    resetFields = () => {
+        window.location.reload();
+    };
+
+
     componentDidMount() {
-        this.setState({appState: this.state.appState})
+        this.observer = new IntersectionObserver(
+            (entries) => {
+                const entry = entries[0];
+                // Update state based on the intersection of the filter box with the viewport
+                this.setAppState({
+                    ...this.state.appState,
+                    isFilterBoxVisible: entry.isIntersecting,
+                });
+            },
+            {
+                root: null, // Observe relative to the viewport
+                threshold: 0.1, // Trigger when 10% of the filter box is visible
+            }
+        );
+
+        // Start observing the filter box element
+        if (this.filterBoxRef.current) {
+            this.observer.observe(this.filterBoxRef?.current);
+        }
     }
 
     fetchData = () => {
         const newItems = [];
+        if (this.state.appState.hasMore) {
 
-        for (
-            let i = this.state.appState.page;
-            i < Math.min(this.state.appState.page + 100, this.state.appState.rows.length);
-            i++
-        ) {
-            newItems.push(this.state.appState.rows[i]);
+            for (
+                let i = this.state.appState.page;
+                i < Math.min(this.state.appState.page + 100, this.state.appState.rows.length);
+                i++
+            ) {
+                newItems.push(this.state.appState.rows[i]);
+            }
+
+            console.log("FECH", this.state.appState.page, this.state.appState.items.length)
+
+            if (this.state.appState.page >= this.state.appState.rows.length) {
+                this.setAppState({...this.state.appState, hasMore: false});
+            } else {
+                this.setAppState({
+                    ...this.state.appState,
+                    items: [...this.state.appState.items, ...newItems],
+                    page: this.state.appState.page + 100,
+                });
+            }
         }
-        if (this.state.appState.page >= this.state.appState.rows.length) {
-            this.setAppState({...this.state.appState, hasMore: false});
-        }
-        this.setAppState({
-            ...this.appState,
-            items: [...this.state.appState.items, ...newItems],
-            page: this.state.appState.page + 100,
-        }, true);
     };
 
     render() {
+        if (!this.props?.filterContext) {
+            return (<>Loading</>)
+        }
+        const fields = this.state.filterContext.fields
         return (
             <StyledEngineProvider injectFirst>
                 <ThemeProvider theme={darkTheme}>
                     <CssBaseline/>
-                    <FilterContext.Provider
-                        value={{
-                            fields: this.state.appState.fields,
-                            rows: this.state.appState.rows,
-                            items: this.state.appState.items,
-                            hasMore: this.state.appState.hasMore,
-                            page: this.state.appState.page,
-                            name: this.state.appState.name,
-                            type: this.state.appState.type,
-                            prefText: this.state.appState.prefText,
-                            handleChange: this.setRows,
-                            setName: this.setName,
-                            setType: this.setType,
-                            setPref: this.setPref,
-                        }}
-                    >
-                        <Grid container spacing={0}>
-                            <Grid xs={12}>
-                                <Item>
-                                    <Typography variant="h4" component="h4" align="left">
-                                        Butterscotc's equuqle
-                                    </Typography>
-                                </Item>
-                            </Grid>
-                            <Grid xs={2}>
-                                <Item>
-                                    <Stack spacing={0}>
-                                        <InfiniteScroll
-                                            dataLength={this.state.appState.items.length}
-                                            next={this.fetchData}
-                                            hasMore={this.state.appState.hasMore}
-                                            loader={"Loading..."}
-                                        >
-                                            <TextSearchFields/>
-                                            {keys.map((k) => (
-                                                <Item key={shortid.generate()}>
-                                                    <StatSlider fields={default_fields} label={k}/>
+                    <Box sx={{ width: '100%' }} key={'app-bo'}>
+                        <InfiniteScroll
+                            dataLength={this.state.appState.items.length}
+                            next={this.fetchData}
+                            hasMore={this.state.appState.hasMore}
+                            loader={"Loading..."}
+                        >
+                            <Box sx={{ width: '100%', padding: '10px' }}>
+                                <Grid container spacing={2}>
+
+                                    {/* Header Section */}
+                                    {/* @ts-ignore */}
+                                    <Grid item xs={12}>
+                                        <Typography variant="h4" component="h4" align="left">
+                                            Butterscotc's Equuqle
+                                        </Typography>
+                                    </Grid>
+
+                                    {/* Main Content: Filter Box and Table Side by Side */}
+                                    {/* @ts-ignore */}
+                                    <Grid container item xs={12} spacing={2}>
+
+                                        {/* Filter Box (4/12 space) */}
+                                        <Grid direction={'row'} xs={12} md={2} key={'filter-box'} ref={this.filterBoxRef}>
+                                            <Box sx={{ backgroundColor: "#1A2027", padding: '16px' }}>
+                                                <TextSearchFields />
+                                                {keys.map((k: keyof FilterContextNumericFields) => (
+                                                    <Item key={shortid.generate()}>
+                                                        <StatSlider label={k} />
+                                                    </Item>
+                                                ))}
+                                                <Item>
+                                                    <Button variant="contained" size="medium" onClick={this.resetFields}>
+                                                        Reset
+                                                    </Button>
                                                 </Item>
-                                            ))}
-                                        </InfiniteScroll>
-                                        <Item>
-                                            <Button
-                                                variant="contained"
-                                                size="medium"
-                                                onClick={this.resetFields}
-                                            >
-                                                Reset
-                                            </Button>
-                                        </Item>
-                                    </Stack>
-                                </Item>
-                            </Grid>
-                            <Grid xs={10}>
-                                <Item>
-                                    <EqTable/>
-                                </Item>
-                            </Grid>
-                        </Grid>
-                    </FilterContext.Provider>
+                                            </Box>
+                                        </Grid>
+
+                                        {/* EqTable Box (8/12 space) */}
+                                        <Grid direction={'row'} xs={12} md={10} key={'eq-table-box'}>
+                                            <Box sx={{ overflowX: 'scroll', padding: '16px', backgroundColor: '#1A2027' }}>
+                                                <EqTable items={this.state.appState.items} />
+                                            </Box>
+                                        </Grid>
+
+                                    </Grid>
+                                </Grid>
+                            </Box>
+                        </InfiniteScroll>
+                    </Box>
+
                 </ThemeProvider>
             </StyledEngineProvider>
         );
     }
 }
-App.contextType = FilterContext;
+
+const mapStateToProps = (reducer: AppReducer) => {
+    return {
+        filterContext: reducer.reducer.filterContext
+    }
+};
+
+// @ts-ignore
+export default connect(mapStateToProps)(App);
