@@ -5,7 +5,6 @@ import {FilterContextType} from "./FilterContext.ts";
 const CLASS_TYPE_NAME = 'class';
 
 export async function filterRows(rows: Array<ItemRow>, context: FilterContextType): Promise<Array<ItemRow>> {
-    console.log("CONTEX",context)
     const newRows = [];
     for (let i = 0; i < rows.length; i++) {
         const row = rows[i];
@@ -268,7 +267,6 @@ function findMaxValues(): Object {
                 if (s.type === 'pref' && s.max >= maxValues.pref) {
                     maxValues.pref = s.max;
                 }
-
             }
         }
     }

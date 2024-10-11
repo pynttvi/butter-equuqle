@@ -16,6 +16,7 @@ const availableFeatures: string[] = [];
             availableFeatures.push(f.name)
         }
     }))
+availableFeatures.sort()
 export type FeatureProps = {
     setArrayField: (action: SetArrayFieldPayload) => void
     features: string[]
