@@ -4,7 +4,6 @@ import {createTheme, styled, StyledEngineProvider, ThemeProvider} from '@mui/mat
 
 import jsonFile from "../eq/eqIndex.json";
 import Grid from "@mui/material/Unstable_Grid2";
-import Stack from "@mui/material/Stack";
 import {
     AppContext,
     AppReducer,
@@ -18,16 +17,13 @@ import {green, purple} from "@mui/material/colors";
 import Typography from "@mui/material/Typography";
 import {Box, Button} from "@mui/material";
 import TextSearchFields from "./TextSearchFields";
-import shortid from "shortid";
 import {ItemRow} from "./types";
 import {connect} from "react-redux";
 import InfiniteScroll from "react-infinite-scroll-component";
 import {filterRows} from "./StatFilter.ts";
 import FeatureCheckboxes from "./FeatureCheckboxes.tsx";
+import {nanoid} from "nanoid";
 
-export const getJson = (): Array<ItemRow> => {
-    return jsonFile as Array<ItemRow>;
-};
 const darkTheme = createTheme({
     palette: {
         mode: "dark",
@@ -45,12 +41,11 @@ export const Item = styled(Box)(({theme}) => ({
     ...theme.typography.body2,
     padding: theme.spacing(1),
     textAlign: "center",
-    key: shortid.generate(),
+    key: nanoid(4),
 }));
 
 const defaultNumericFields: FilterContextNumericFields = {
     class: 0,
-    wc: 0,
     glow: 0,
     str: 0,
     con: 0,
@@ -68,13 +63,6 @@ const defaultNumericFields: FilterContextNumericFields = {
     resist: 0,
 };
 
-const defaultFields: FilterContextFields = {
-    ...defaultNumericFields,
-    type: "",
-    name: "",
-    prefText: "",
-    features: []
-};
 
 const keys: Array<keyof FilterContextNumericFields> = Object.keys(defaultNumericFields) as Array<keyof FilterContextNumericFields>;
 
@@ -126,7 +114,6 @@ class App extends Component<{ filterContext: FilterContextType }, {
             }
         )
         if (filtersChanged) {
-            console.log("FIELD UPDATE")
             filterRows(
                 json,
                 this.props.filterContext
@@ -189,8 +176,6 @@ class App extends Component<{ filterContext: FilterContextType }, {
                 newItems.push(this.state.appState.rows[i]);
             }
 
-            console.log("FECH", this.state.appState.page, this.state.appState.items.length)
-
             if (this.state.appState.page >= this.state.appState.rows.length) {
                 this.setAppState({...this.state.appState, hasMore: false});
             } else {
@@ -207,7 +192,6 @@ class App extends Component<{ filterContext: FilterContextType }, {
         if (!this.props?.filterContext) {
             return (<>Loading</>)
         }
-        const fields = this.state.filterContext.fields
         return (
             <StyledEngineProvider injectFirst>
                 <ThemeProvider theme={darkTheme}>
@@ -223,23 +207,21 @@ class App extends Component<{ filterContext: FilterContextType }, {
                                 <Grid container spacing={2}>
 
                                     {/* Header Section */}
-                                    {/* @ts-ignore */}
-                                    <Grid item xs={12}>
+                                    <Grid xs={12}>
                                         <Typography variant="h4" component="h4" align="left">
                                             Butterscotc's Equuqle
                                         </Typography>
                                     </Grid>
 
                                     {/* Main Content: Filter Box and Table Side by Side */}
-                                    {/* @ts-ignore */}
-                                    <Grid container item xs={12} spacing={2}>
+                                    <Grid container xs={12} spacing={2}>
 
                                         {/* Filter Box (4/12 space) */}
                                         <Grid direction={'row'} xs={12} md={2} key={'filter-box'} ref={this.filterBoxRef}>
                                             <Box sx={{ backgroundColor: "#1A2027", padding: '16px' }}>
                                                 <TextSearchFields />
                                                 {keys.map((k: keyof FilterContextNumericFields) => (
-                                                    <Item key={shortid.generate()}>
+                                                    <Item key={nanoid(4)}>
                                                         <StatSlider label={k} />
                                                     </Item>
                                                 ))}

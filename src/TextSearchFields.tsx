@@ -8,10 +8,10 @@ import json from "../eq/eqIndex.json";
 import {setTextField, SetTextFieldPayload} from "./filters/filterReducer.ts";
 import {connect} from "react-redux";
 import {Box, debounce} from "@mui/material";
-import shortid from "shortid";
+import {nanoid} from "nanoid";
 
-const types = Array.from(new Set(json.map((r) => r.type)));
-const eqNames = [...json.map((r) => r.name)];
+const types = Array.from(new Set(json.map((r) => r.type))).sort();
+const eqNames = [...json.map((r) => r.name)].sort();
 
 type TextSearchFieldsState = {
     name: string;
@@ -82,7 +82,7 @@ class TextSearchFields extends React.Component<TextSearchFieldsProps, TextSearch
                         key={"name-input"}
                         options={eqNames}
                         renderOption={(props, option) => (
-                            <Box component="li" {...props} key={shortid.generate()}>
+                            <Box component="li" {...props} key={nanoid(4)}>
                                 {option}
                             </Box>
                         )}

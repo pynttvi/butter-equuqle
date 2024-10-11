@@ -1,11 +1,5 @@
-import {ItemRow} from './types';
-import jsonFile from "../eq/eqIndex.json";
-
-const json = jsonFile as Array<ItemRow>
-
 export type FilterContextNumericFields = {
     class: number,
-    wc: number,
     glow: number,
     str: number,
     con: number,
@@ -39,7 +33,6 @@ export type FilterContextType = {
 
 export const defaultNumericFields = {
     class: 0,
-    wc: 0,
     glow: 0,
     str: 0,
     con: 0,
